@@ -1,0 +1,1752 @@
+[
+  {
+    "category": "Yleiset verbit",
+    "category_en": "Common verbs",
+    "cards": [
+      {
+        "fi": "olla",
+        "en": "to be",
+        "type": "verbi",
+        "example_fi": "Minä olen väsynyt.",
+        "example_en": "I am tired.",
+        "note": "Verbityyppi 3: olla–olen–oli–ollut. Epäsäännöllinen apuverbi."
+      },
+      {
+        "fi": "tulla",
+        "en": "to come",
+        "type": "verbi",
+        "example_fi": "Tuletko sinä juhliin?",
+        "example_en": "Are you coming to the party?",
+        "note": "Verbityyppi 3: tulla–tulen–tuli–tullut. Suunta usein illatiivi."
+      },
+      {
+        "fi": "mennä",
+        "en": "to go",
+        "type": "verbi",
+        "example_fi": "Menen kotiin.",
+        "example_en": "I am going home.",
+        "note": "Verbityyppi 3: mennä–menen–meni–mennyt. Suunta usein illatiivi."
+      },
+      {
+        "fi": "tehdä",
+        "en": "to do, to make",
+        "type": "verbi",
+        "example_fi": "Mitä sinä teet nyt?",
+        "example_en": "What are you doing now?",
+        "note": "Verbityyppi 2 (epäsäännöllinen): tehdä–teen–teki–tehnyt."
+      },
+      {
+        "fi": "sanoa",
+        "en": "to say",
+        "type": "verbi",
+        "example_fi": "Sanon sinulle salaisuuden.",
+        "example_en": "I'll tell you a secret.",
+        "note": "Verbityyppi 1: sanoa–sanon–sanoi–sanonut."
+      },
+      {
+        "fi": "nähdä",
+        "en": "to see",
+        "type": "verbi",
+        "example_fi": "Näetkö sinä tuon talon?",
+        "example_en": "Do you see that house?",
+        "note": "Verbityyppi 2: nähdä–näen–näki–nähnyt. Vartalossa h katoaa."
+      },
+      {
+        "fi": "tietää",
+        "en": "to know",
+        "type": "verbi",
+        "example_fi": "En tiedä vastausta.",
+        "example_en": "I don't know the answer.",
+        "note": "Verbityyppi 1: tietää–tiedän–tiesi–tiennyt. Astevaihtelu t→d."
+      },
+      {
+        "fi": "ottaa",
+        "en": "to take",
+        "type": "verbi",
+        "example_fi": "Otan kupin kahvia.",
+        "example_en": "I'll take a cup of coffee.",
+        "note": "Verbityyppi 1: ottaa–otan–otti–ottanut. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "antaa",
+        "en": "to give",
+        "type": "verbi",
+        "example_fi": "Annan sinulle lahjan.",
+        "example_en": "I give you a gift.",
+        "note": "Verbityyppi 1: antaa–annan–antoi–antanut. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "saada",
+        "en": "to get, to receive",
+        "type": "verbi",
+        "example_fi": "Saanko lasin vettä?",
+        "example_en": "Can I get a glass of water?",
+        "note": "Verbityyppi 2: saada–saan–sai–saanut."
+      },
+      {
+        "fi": "pitää",
+        "en": "to like, to have to",
+        "type": "verbi",
+        "example_fi": "Pidän suomen kielestä.",
+        "example_en": "I like the Finnish language.",
+        "note": "Verbityyppi 1: pitää–pidän–piti–pitänyt. Astevaihtelu t→d. Pitää + elatiivi = tykätä."
+      },
+      {
+        "fi": "voida",
+        "en": "to be able, can",
+        "type": "verbi",
+        "example_fi": "Voitko auttaa minua?",
+        "example_en": "Can you help me?",
+        "note": "Verbityyppi 2: voida–voin–voi–voinut. Modaaliverbi + A-infinitiivi."
+      },
+      {
+        "fi": "haluta",
+        "en": "to want",
+        "type": "verbi",
+        "example_fi": "Haluan syödä pizzaa.",
+        "example_en": "I want to eat pizza.",
+        "note": "Verbityyppi 4: haluta–haluan–halusi–halunnut."
+      },
+      {
+        "fi": "tarvita",
+        "en": "to need",
+        "type": "verbi",
+        "example_fi": "Tarvitsen uuden takin.",
+        "example_en": "I need a new coat.",
+        "note": "Verbityyppi 5: tarvita–tarvitsen–tarvitsi–tarvinnut."
+      },
+      {
+        "fi": "syödä",
+        "en": "to eat",
+        "type": "verbi",
+        "example_fi": "Syön aamiaista keittiössä.",
+        "example_en": "I eat breakfast in the kitchen.",
+        "note": "Verbityyppi 2: syödä–syön–söi–syönyt."
+      },
+      {
+        "fi": "juoda",
+        "en": "to drink",
+        "type": "verbi",
+        "example_fi": "Juon vettä joka päivä.",
+        "example_en": "I drink water every day.",
+        "note": "Verbityyppi 2: juoda–juon–joi–juonut."
+      },
+      {
+        "fi": "nukkua",
+        "en": "to sleep",
+        "type": "verbi",
+        "example_fi": "Nukun kahdeksan tuntia.",
+        "example_en": "I sleep eight hours.",
+        "note": "Verbityyppi 1: nukkua–nukun–nukkui–nukkunut. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "herätä",
+        "en": "to wake up",
+        "type": "verbi",
+        "example_fi": "Herään aikaisin aamulla.",
+        "example_en": "I wake up early in the morning.",
+        "note": "Verbityyppi 6: herätä–herään–heräsi–herännyt."
+      },
+      {
+        "fi": "asua",
+        "en": "to live, to reside",
+        "type": "verbi",
+        "example_fi": "Asun Helsingissä.",
+        "example_en": "I live in Helsinki.",
+        "note": "Verbityyppi 1: asua–asun–asui–asunut. Paikka usein inessiivi."
+      },
+      {
+        "fi": "puhua",
+        "en": "to speak",
+        "type": "verbi",
+        "example_fi": "Puhutko sinä englantia?",
+        "example_en": "Do you speak English?",
+        "note": "Verbityyppi 1: puhua–puhun–puhui–puhunut."
+      },
+      {
+        "fi": "ymmärtää",
+        "en": "to understand",
+        "type": "verbi",
+        "example_fi": "En ymmärrä tätä sanaa.",
+        "example_en": "I don't understand this word.",
+        "note": "Verbityyppi 1: ymmärtää–ymmärrän–ymmärsi–ymmärtänyt. Astevaihtelu rt→rr."
+      },
+      {
+        "fi": "kysyä",
+        "en": "to ask",
+        "type": "verbi",
+        "example_fi": "Haluan kysyä kysymyksen.",
+        "example_en": "I want to ask a question.",
+        "note": "Verbityyppi 1: kysyä–kysyn–kysyi–kysynyt."
+      },
+      {
+        "fi": "vastata",
+        "en": "to answer",
+        "type": "verbi",
+        "example_fi": "Vastaan kysymykseen.",
+        "example_en": "I answer the question.",
+        "note": "Verbityyppi 4: vastata–vastaan–vastasi–vastannut. Vastata kysymykseen (illatiivi)."
+      },
+      {
+        "fi": "auttaa",
+        "en": "to help",
+        "type": "verbi",
+        "example_fi": "Autan äitiä kotona.",
+        "example_en": "I help mom at home.",
+        "note": "Verbityyppi 1: auttaa–autan–auttoi–auttanut. Astevaihtelu tt→t. Auttaa + partitiivi."
+      },
+      {
+        "fi": "odottaa",
+        "en": "to wait",
+        "type": "verbi",
+        "example_fi": "Odotan bussia pysäkillä.",
+        "example_en": "I am waiting for the bus at the stop.",
+        "note": "Verbityyppi 1: odottaa–odotan–odotti–odottanut. Astevaihtelu tt→t. + partitiivi."
+      },
+      {
+        "fi": "ostaa",
+        "en": "to buy",
+        "type": "verbi",
+        "example_fi": "Ostan leipää kaupasta.",
+        "example_en": "I buy bread from the shop.",
+        "note": "Verbityyppi 1: ostaa–ostan–osti–ostanut."
+      },
+      {
+        "fi": "myydä",
+        "en": "to sell",
+        "type": "verbi",
+        "example_fi": "He myyvät vanhan auton.",
+        "example_en": "They are selling the old car.",
+        "note": "Verbityyppi 2: myydä–myyn–myi–myynyt."
+      },
+      {
+        "fi": "maksaa",
+        "en": "to pay, to cost",
+        "type": "verbi",
+        "example_fi": "Kuinka paljon tämä maksaa?",
+        "example_en": "How much does this cost?",
+        "note": "Verbityyppi 1: maksaa–maksan–maksoi–maksanut."
+      },
+      {
+        "fi": "ajatella",
+        "en": "to think",
+        "type": "verbi",
+        "example_fi": "Ajattelen usein kesää.",
+        "example_en": "I often think about summer.",
+        "note": "Verbityyppi 3: ajatella–ajattelen–ajatteli–ajatellut. Astevaihtelu t→tt."
+      },
+      {
+        "fi": "muistaa",
+        "en": "to remember",
+        "type": "verbi",
+        "example_fi": "Muistatko hänen nimensä?",
+        "example_en": "Do you remember his name?",
+        "note": "Verbityyppi 1: muistaa–muistan–muisti–muistanut."
+      },
+      {
+        "fi": "unohtaa",
+        "en": "to forget",
+        "type": "verbi",
+        "example_fi": "Unohdan aina avaimet.",
+        "example_en": "I always forget the keys.",
+        "note": "Verbityyppi 1: unohtaa–unohdan–unohti–unohtanut. Astevaihtelu t→d."
+      },
+      {
+        "fi": "alkaa",
+        "en": "to begin",
+        "type": "verbi",
+        "example_fi": "Elokuva alkaa kello seitsemän.",
+        "example_en": "The movie begins at seven o'clock.",
+        "note": "Verbityyppi 1: alkaa–alan–alkoi–alkanut. Astevaihtelu lk→l."
+      },
+      {
+        "fi": "lopettaa",
+        "en": "to stop, to finish",
+        "type": "verbi",
+        "example_fi": "Lopetan työt viideltä.",
+        "example_en": "I finish work at five.",
+        "note": "Verbityyppi 1: lopettaa–lopetan–lopetti–lopettanut. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "avata",
+        "en": "to open",
+        "type": "verbi",
+        "example_fi": "Avaan ikkunan.",
+        "example_en": "I open the window.",
+        "note": "Verbityyppi 4: avata–avaan–avasi–avannut."
+      },
+      {
+        "fi": "sulkea",
+        "en": "to close",
+        "type": "verbi",
+        "example_fi": "Suljen oven hiljaa.",
+        "example_en": "I close the door quietly.",
+        "note": "Verbityyppi 1: sulkea–suljen–sulki–sulkenut. Astevaihtelu lk→lj."
+      },
+      {
+        "fi": "lukea",
+        "en": "to read",
+        "type": "verbi",
+        "example_fi": "Luen kirjaa illalla.",
+        "example_en": "I read a book in the evening.",
+        "note": "Verbityyppi 1: lukea–luen–luki–lukenut. Astevaihtelu k→∅."
+      },
+      {
+        "fi": "kirjoittaa",
+        "en": "to write",
+        "type": "verbi",
+        "example_fi": "Kirjoitan kirjeen ystävälle.",
+        "example_en": "I write a letter to a friend.",
+        "note": "Verbityyppi 1: kirjoittaa–kirjoitan–kirjoitti–kirjoittanut. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "opiskella",
+        "en": "to study",
+        "type": "verbi",
+        "example_fi": "Opiskelen suomea yliopistossa.",
+        "example_en": "I study Finnish at the university.",
+        "note": "Verbityyppi 3: opiskella–opiskelen–opiskeli–opiskellut."
+      },
+      {
+        "fi": "oppia",
+        "en": "to learn",
+        "type": "verbi",
+        "example_fi": "Opin uusia sanoja joka päivä.",
+        "example_en": "I learn new words every day.",
+        "note": "Verbityyppi 1: oppia–opin–oppi–oppinut. Astevaihtelu pp→p."
+      },
+      {
+        "fi": "opettaa",
+        "en": "to teach",
+        "type": "verbi",
+        "example_fi": "Opettaja opettaa matematiikkaa.",
+        "example_en": "The teacher teaches mathematics.",
+        "note": "Verbityyppi 1: opettaa–opetan–opetti–opettanut. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "rakastaa",
+        "en": "to love",
+        "type": "verbi",
+        "example_fi": "Rakastan sinua.",
+        "example_en": "I love you.",
+        "note": "Verbityyppi 1: rakastaa–rakastan–rakasti–rakastanut. Rakastaa + partitiivi."
+      },
+      {
+        "fi": "katsoa",
+        "en": "to watch, to look",
+        "type": "verbi",
+        "example_fi": "Katson televisiota illalla.",
+        "example_en": "I watch television in the evening.",
+        "note": "Verbityyppi 1: katsoa–katson–katsoi–katsonut. Katsoa + partitiivi."
+      },
+      {
+        "fi": "kuunnella",
+        "en": "to listen",
+        "type": "verbi",
+        "example_fi": "Kuuntelen musiikkia bussissa.",
+        "example_en": "I listen to music on the bus.",
+        "note": "Verbityyppi 3: kuunnella–kuuntelen–kuunteli–kuunnellut. Astevaihtelu nn→nt."
+      },
+      {
+        "fi": "kuulla",
+        "en": "to hear",
+        "type": "verbi",
+        "example_fi": "Kuuletko sinä tuon äänen?",
+        "example_en": "Do you hear that sound?",
+        "note": "Verbityyppi 3: kuulla–kuulen–kuuli–kuullut."
+      },
+      {
+        "fi": "tuntea",
+        "en": "to feel, to know",
+        "type": "verbi",
+        "example_fi": "Tunnen hänet hyvin.",
+        "example_en": "I know him well.",
+        "note": "Verbityyppi 1: tuntea–tunnen–tunsi–tuntenut. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "löytää",
+        "en": "to find",
+        "type": "verbi",
+        "example_fi": "En löydä lompakkoani.",
+        "example_en": "I can't find my wallet.",
+        "note": "Verbityyppi 1: löytää–löydän–löysi–löytänyt. Astevaihtelu t→d."
+      },
+      {
+        "fi": "etsiä",
+        "en": "to search, to look for",
+        "type": "verbi",
+        "example_fi": "Etsin avaimia joka paikasta.",
+        "example_en": "I am looking for the keys everywhere.",
+        "note": "Verbityyppi 1: etsiä–etsin–etsi–etsinyt. Etsiä + partitiivi."
+      },
+      {
+        "fi": "käyttää",
+        "en": "to use",
+        "type": "verbi",
+        "example_fi": "Käytän tietokonetta työssä.",
+        "example_en": "I use a computer at work.",
+        "note": "Verbityyppi 1: käyttää–käytän–käytti–käyttänyt. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "lähteä",
+        "en": "to leave",
+        "type": "verbi",
+        "example_fi": "Lähden kotoa kello kahdeksan.",
+        "example_en": "I leave home at eight o'clock.",
+        "note": "Verbityyppi 1: lähteä–lähden–lähti–lähtenyt. Astevaihtelu t→d."
+      },
+      {
+        "fi": "jäädä",
+        "en": "to stay, to remain",
+        "type": "verbi",
+        "example_fi": "Jään kotiin tänään.",
+        "example_en": "I am staying home today.",
+        "note": "Verbityyppi 2: jäädä–jään–jäi–jäänyt."
+      },
+      {
+        "fi": "istua",
+        "en": "to sit",
+        "type": "verbi",
+        "example_fi": "Istun tuolilla.",
+        "example_en": "I sit on the chair.",
+        "note": "Verbityyppi 1: istua–istun–istui–istunut."
+      },
+      {
+        "fi": "seisoa",
+        "en": "to stand",
+        "type": "verbi",
+        "example_fi": "Seison jonossa.",
+        "example_en": "I am standing in the queue.",
+        "note": "Verbityyppi 1: seisoa–seison–seisoi–seisonut."
+      },
+      {
+        "fi": "nousta",
+        "en": "to rise, to get up",
+        "type": "verbi",
+        "example_fi": "Nousen sängystä aamulla.",
+        "example_en": "I get up from the bed in the morning.",
+        "note": "Verbityyppi 3: nousta–nousen–nousi–noussut."
+      },
+      {
+        "fi": "laittaa",
+        "en": "to put, to make",
+        "type": "verbi",
+        "example_fi": "Laitan ruokaa perheelle.",
+        "example_en": "I make food for the family.",
+        "note": "Verbityyppi 1: laittaa–laitan–laittoi–laittanut. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "panna",
+        "en": "to put",
+        "type": "verbi",
+        "example_fi": "Panen kirjan pöydälle.",
+        "example_en": "I put the book on the table.",
+        "note": "Verbityyppi 3: panna–panen–pani–pannut."
+      },
+      {
+        "fi": "tuoda",
+        "en": "to bring",
+        "type": "verbi",
+        "example_fi": "Tuon sinulle kahvia.",
+        "example_en": "I bring you coffee.",
+        "note": "Verbityyppi 2: tuoda–tuon–toi–tuonut."
+      },
+      {
+        "fi": "viedä",
+        "en": "to take away",
+        "type": "verbi",
+        "example_fi": "Vien koiran ulos.",
+        "example_en": "I take the dog out.",
+        "note": "Verbityyppi 2: viedä–vien–vei–vienyt."
+      },
+      {
+        "fi": "käydä",
+        "en": "to visit, to go",
+        "type": "verbi",
+        "example_fi": "Käyn usein kaupassa.",
+        "example_en": "I often go to the shop.",
+        "note": "Verbityyppi 2: käydä–käyn–kävi–käynyt. Käydä + inessiivi."
+      },
+      {
+        "fi": "leikkiä",
+        "en": "to play",
+        "type": "verbi",
+        "example_fi": "Lapset leikkivät pihalla.",
+        "example_en": "The children play in the yard.",
+        "note": "Verbityyppi 1: leikkiä–leikin–leikki–leikkinyt. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "pelata",
+        "en": "to play (a game)",
+        "type": "verbi",
+        "example_fi": "Pelaamme jalkapalloa.",
+        "example_en": "We play football.",
+        "note": "Verbityyppi 4: pelata–pelaan–pelasi–pelannut."
+      }
+    ]
+  },
+  {
+    "category": "Adjektiivit",
+    "category_en": "Adjectives",
+    "cards": [
+      {
+        "fi": "iso",
+        "en": "big",
+        "type": "adjektiivi",
+        "example_fi": "Meillä on iso koira.",
+        "example_en": "We have a big dog.",
+        "note": "Vastakohta: pieni. Vertailu: isompi, isoin."
+      },
+      {
+        "fi": "pieni",
+        "en": "small",
+        "type": "adjektiivi",
+        "example_fi": "Tämä on pieni huone.",
+        "example_en": "This is a small room.",
+        "note": "Vastakohta: iso. Genetiivi: pienen, partitiivi: pientä."
+      },
+      {
+        "fi": "hyvä",
+        "en": "good",
+        "type": "adjektiivi",
+        "example_fi": "Tämä on hyvä kirja.",
+        "example_en": "This is a good book.",
+        "note": "Vertailu epäsäännöllinen: parempi, paras."
+      },
+      {
+        "fi": "huono",
+        "en": "bad",
+        "type": "adjektiivi",
+        "example_fi": "Sää on tänään huono.",
+        "example_en": "The weather is bad today.",
+        "note": "Vastakohta: hyvä. Vertailu: huonompi, huonoin."
+      },
+      {
+        "fi": "uusi",
+        "en": "new",
+        "type": "adjektiivi",
+        "example_fi": "Ostin uuden puhelimen.",
+        "example_en": "I bought a new phone.",
+        "note": "Vartalo: uude-. Partitiivi: uutta."
+      },
+      {
+        "fi": "vanha",
+        "en": "old",
+        "type": "adjektiivi",
+        "example_fi": "Hän asuu vanhassa talossa.",
+        "example_en": "He lives in an old house.",
+        "note": "Vastakohta: uusi/nuori. Vertailu: vanhempi."
+      },
+      {
+        "fi": "nuori",
+        "en": "young",
+        "type": "adjektiivi",
+        "example_fi": "Hän on vielä nuori.",
+        "example_en": "He is still young.",
+        "note": "Vartalo: nuore-. Partitiivi: nuorta."
+      },
+      {
+        "fi": "kaunis",
+        "en": "beautiful",
+        "type": "adjektiivi",
+        "example_fi": "Se on kaunis maisema.",
+        "example_en": "It is a beautiful landscape.",
+        "note": "Vartalo: kaunii-. Partitiivi: kaunista."
+      },
+      {
+        "fi": "ruma",
+        "en": "ugly",
+        "type": "adjektiivi",
+        "example_fi": "Talo on aika ruma.",
+        "example_en": "The house is quite ugly.",
+        "note": "Vastakohta: kaunis. Partitiivi: rumaa."
+      },
+      {
+        "fi": "helppo",
+        "en": "easy",
+        "type": "adjektiivi",
+        "example_fi": "Tämä tehtävä on helppo.",
+        "example_en": "This task is easy.",
+        "note": "Vastakohta: vaikea. Vertailu: helpompi."
+      },
+      {
+        "fi": "vaikea",
+        "en": "difficult",
+        "type": "adjektiivi",
+        "example_fi": "Suomi on vaikea kieli.",
+        "example_en": "Finnish is a difficult language.",
+        "note": "Vastakohta: helppo. Partitiivi: vaikeaa."
+      },
+      {
+        "fi": "nopea",
+        "en": "fast",
+        "type": "adjektiivi",
+        "example_fi": "Juna on hyvin nopea.",
+        "example_en": "The train is very fast.",
+        "note": "Vastakohta: hidas. Adverbi: nopeasti."
+      },
+      {
+        "fi": "hidas",
+        "en": "slow",
+        "type": "adjektiivi",
+        "example_fi": "Internet on tänään hidas.",
+        "example_en": "The internet is slow today.",
+        "note": "Vastakohta: nopea. Adverbi: hitaasti."
+      },
+      {
+        "fi": "kylmä",
+        "en": "cold",
+        "type": "adjektiivi",
+        "example_fi": "Vesi on kylmää.",
+        "example_en": "The water is cold.",
+        "note": "Vastakohta: kuuma/lämmin. Partitiivi: kylmää."
+      },
+      {
+        "fi": "kuuma",
+        "en": "hot",
+        "type": "adjektiivi",
+        "example_fi": "Kesällä on kuuma.",
+        "example_en": "In summer it is hot.",
+        "note": "Vastakohta: kylmä. Partitiivi: kuumaa."
+      },
+      {
+        "fi": "lämmin",
+        "en": "warm",
+        "type": "adjektiivi",
+        "example_fi": "Kahvi on vielä lämmin.",
+        "example_en": "The coffee is still warm.",
+        "note": "Vartalo: lämpimä-. Partitiivi: lämmintä."
+      },
+      {
+        "fi": "kallis",
+        "en": "expensive",
+        "type": "adjektiivi",
+        "example_fi": "Auto on liian kallis.",
+        "example_en": "The car is too expensive.",
+        "note": "Vastakohta: halpa. Partitiivi: kallista."
+      },
+      {
+        "fi": "halpa",
+        "en": "cheap",
+        "type": "adjektiivi",
+        "example_fi": "Ruoka on täällä halpa.",
+        "example_en": "The food is cheap here.",
+        "note": "Vastakohta: kallis. Astevaihtelu: halva- (halvempi)."
+      },
+      {
+        "fi": "pitkä",
+        "en": "long, tall",
+        "type": "adjektiivi",
+        "example_fi": "Hänellä on pitkät hiukset.",
+        "example_en": "She has long hair.",
+        "note": "Vastakohta: lyhyt. Vertailu: pidempi, pisin."
+      },
+      {
+        "fi": "lyhyt",
+        "en": "short",
+        "type": "adjektiivi",
+        "example_fi": "Mekko on liian lyhyt.",
+        "example_en": "The dress is too short.",
+        "note": "Vartalo: lyhye-. Partitiivi: lyhyttä."
+      },
+      {
+        "fi": "korkea",
+        "en": "high, tall",
+        "type": "adjektiivi",
+        "example_fi": "Vuori on hyvin korkea.",
+        "example_en": "The mountain is very high.",
+        "note": "Vastakohta: matala. Partitiivi: korkeaa."
+      },
+      {
+        "fi": "matala",
+        "en": "low",
+        "type": "adjektiivi",
+        "example_fi": "Pöytä on matala.",
+        "example_en": "The table is low.",
+        "note": "Vastakohta: korkea. Partitiivi: matalaa."
+      },
+      {
+        "fi": "vahva",
+        "en": "strong",
+        "type": "adjektiivi",
+        "example_fi": "Hän on vahva mies.",
+        "example_en": "He is a strong man.",
+        "note": "Vastakohta: heikko. Partitiivi: vahvaa."
+      },
+      {
+        "fi": "heikko",
+        "en": "weak",
+        "type": "adjektiivi",
+        "example_fi": "Kahvi on liian heikko.",
+        "example_en": "The coffee is too weak.",
+        "note": "Vastakohta: vahva. Astevaihtelu: heiko-."
+      },
+      {
+        "fi": "oikea",
+        "en": "right, correct",
+        "type": "adjektiivi",
+        "example_fi": "Tämä on oikea vastaus.",
+        "example_en": "This is the right answer.",
+        "note": "Vastakohta: väärä. Myös: oikea käsi (right hand)."
+      },
+      {
+        "fi": "väärä",
+        "en": "wrong",
+        "type": "adjektiivi",
+        "example_fi": "Se on väärä numero.",
+        "example_en": "It is the wrong number.",
+        "note": "Vastakohta: oikea. Partitiivi: väärää."
+      },
+      {
+        "fi": "tärkeä",
+        "en": "important",
+        "type": "adjektiivi",
+        "example_fi": "Tämä on tärkeä asia.",
+        "example_en": "This is an important matter.",
+        "note": "Partitiivi: tärkeää. Vertailu: tärkeämpi."
+      },
+      {
+        "fi": "mukava",
+        "en": "nice, comfortable",
+        "type": "adjektiivi",
+        "example_fi": "Hän on mukava ihminen.",
+        "example_en": "He is a nice person.",
+        "note": "Myös: mukava sohva. Partitiivi: mukavaa."
+      },
+      {
+        "fi": "hauska",
+        "en": "fun, funny",
+        "type": "adjektiivi",
+        "example_fi": "Se oli hauska elokuva.",
+        "example_en": "It was a fun movie.",
+        "note": "Vastakohta: tylsä. Partitiivi: hauskaa."
+      },
+      {
+        "fi": "tylsä",
+        "en": "boring",
+        "type": "adjektiivi",
+        "example_fi": "Kirja on tosi tylsä.",
+        "example_en": "The book is really boring.",
+        "note": "Vastakohta: hauska. Partitiivi: tylsää."
+      },
+      {
+        "fi": "iloinen",
+        "en": "happy",
+        "type": "adjektiivi",
+        "example_fi": "Lapsi on iloinen.",
+        "example_en": "The child is happy.",
+        "note": "Vartalo: iloise-. Partitiivi: iloista."
+      },
+      {
+        "fi": "surullinen",
+        "en": "sad",
+        "type": "adjektiivi",
+        "example_fi": "Miksi olet surullinen?",
+        "example_en": "Why are you sad?",
+        "note": "Vartalo: surullise-. Partitiivi: surullista."
+      },
+      {
+        "fi": "väsynyt",
+        "en": "tired",
+        "type": "adjektiivi",
+        "example_fi": "Olen tosi väsynyt.",
+        "example_en": "I am really tired.",
+        "note": "NUT-partisiippi. Partitiivi: väsynyttä."
+      },
+      {
+        "fi": "nälkäinen",
+        "en": "hungry",
+        "type": "adjektiivi",
+        "example_fi": "Koira on nälkäinen.",
+        "example_en": "The dog is hungry.",
+        "note": "Vartalo: nälkäise-. Partitiivi: nälkäistä."
+      },
+      {
+        "fi": "janoinen",
+        "en": "thirsty",
+        "type": "adjektiivi",
+        "example_fi": "Olen janoinen.",
+        "example_en": "I am thirsty.",
+        "note": "Vartalo: janoise-. Partitiivi: janoista."
+      },
+      {
+        "fi": "sairas",
+        "en": "sick, ill",
+        "type": "adjektiivi",
+        "example_fi": "Lapsi on sairas.",
+        "example_en": "The child is sick.",
+        "note": "Vastakohta: terve. Partitiivi: sairasta."
+      },
+      {
+        "fi": "terve",
+        "en": "healthy",
+        "type": "adjektiivi",
+        "example_fi": "Nyt olen taas terve.",
+        "example_en": "Now I am healthy again.",
+        "note": "Vartalo: tervee-. Partitiivi: tervettä."
+      },
+      {
+        "fi": "rikas",
+        "en": "rich",
+        "type": "adjektiivi",
+        "example_fi": "Hän on rikas mies.",
+        "example_en": "He is a rich man.",
+        "note": "Vastakohta: köyhä. Partitiivi: rikasta."
+      },
+      {
+        "fi": "köyhä",
+        "en": "poor",
+        "type": "adjektiivi",
+        "example_fi": "He olivat köyhiä.",
+        "example_en": "They were poor.",
+        "note": "Vastakohta: rikas. Partitiivi: köyhää."
+      },
+      {
+        "fi": "puhdas",
+        "en": "clean",
+        "type": "adjektiivi",
+        "example_fi": "Lattia on puhdas.",
+        "example_en": "The floor is clean.",
+        "note": "Vastakohta: likainen. Partitiivi: puhdasta."
+      },
+      {
+        "fi": "likainen",
+        "en": "dirty",
+        "type": "adjektiivi",
+        "example_fi": "Kädet ovat likaiset.",
+        "example_en": "The hands are dirty.",
+        "note": "Vastakohta: puhdas. Partitiivi: likaista."
+      },
+      {
+        "fi": "valmis",
+        "en": "ready, finished",
+        "type": "adjektiivi",
+        "example_fi": "Ruoka on valmis.",
+        "example_en": "The food is ready.",
+        "note": "Vartalo: valmii-. Partitiivi: valmista."
+      },
+      {
+        "fi": "täysi",
+        "en": "full",
+        "type": "adjektiivi",
+        "example_fi": "Lasi on täysi.",
+        "example_en": "The glass is full.",
+        "note": "Vastakohta: tyhjä. Partitiivi: täyttä."
+      },
+      {
+        "fi": "tyhjä",
+        "en": "empty",
+        "type": "adjektiivi",
+        "example_fi": "Huone on tyhjä.",
+        "example_en": "The room is empty.",
+        "note": "Vastakohta: täysi. Partitiivi: tyhjää."
+      },
+      {
+        "fi": "suuri",
+        "en": "large, great",
+        "type": "adjektiivi",
+        "example_fi": "Se on suuri ongelma.",
+        "example_en": "It is a big problem.",
+        "note": "Synonyymi: iso. Partitiivi: suurta."
+      },
+      {
+        "fi": "leveä",
+        "en": "wide",
+        "type": "adjektiivi",
+        "example_fi": "Joki on hyvin leveä.",
+        "example_en": "The river is very wide.",
+        "note": "Vastakohta: kapea. Partitiivi: leveää."
+      },
+      {
+        "fi": "kapea",
+        "en": "narrow",
+        "type": "adjektiivi",
+        "example_fi": "Katu on kapea.",
+        "example_en": "The street is narrow.",
+        "note": "Vastakohta: leveä. Partitiivi: kapeaa."
+      },
+      {
+        "fi": "paksu",
+        "en": "thick",
+        "type": "adjektiivi",
+        "example_fi": "Kirja on paksu.",
+        "example_en": "The book is thick.",
+        "note": "Vastakohta: ohut. Partitiivi: paksua."
+      },
+      {
+        "fi": "ohut",
+        "en": "thin",
+        "type": "adjektiivi",
+        "example_fi": "Jää on liian ohut.",
+        "example_en": "The ice is too thin.",
+        "note": "Vastakohta: paksu. Partitiivi: ohutta."
+      },
+      {
+        "fi": "kuiva",
+        "en": "dry",
+        "type": "adjektiivi",
+        "example_fi": "Pyyhe on jo kuiva.",
+        "example_en": "The towel is already dry.",
+        "note": "Vastakohta: märkä. Partitiivi: kuivaa."
+      }
+    ]
+  },
+  {
+    "category": "Adverbit ja paikat",
+    "category_en": "Adverbs & places",
+    "cards": [
+      {
+        "fi": "tässä",
+        "en": "here (right here)",
+        "type": "adverbi",
+        "example_fi": "Istun tässä.",
+        "example_en": "I sit here.",
+        "note": "Inessiivi sanasta tämä. Paikka lähellä puhujaa."
+      },
+      {
+        "fi": "siellä",
+        "en": "there",
+        "type": "adverbi",
+        "example_fi": "Hän on siellä.",
+        "example_en": "He is there.",
+        "note": "Kaukana. Vrt. sinne (mihin), sieltä (mistä)."
+      },
+      {
+        "fi": "täällä",
+        "en": "here (around here)",
+        "type": "adverbi",
+        "example_fi": "Täällä on kylmä.",
+        "example_en": "It is cold here.",
+        "note": "Lähellä. Vrt. tänne (mihin), täältä (mistä)."
+      },
+      {
+        "fi": "tuolla",
+        "en": "over there",
+        "type": "adverbi",
+        "example_fi": "Kauppa on tuolla.",
+        "example_en": "The shop is over there.",
+        "note": "Vrt. tuonne (mihin), tuolta (mistä)."
+      },
+      {
+        "fi": "mihin",
+        "en": "where (to)",
+        "type": "adverbi",
+        "example_fi": "Mihin sinä menet?",
+        "example_en": "Where are you going?",
+        "note": "Suuntakysymys (illatiivi). Vrt. missä, mistä."
+      },
+      {
+        "fi": "mistä",
+        "en": "from where",
+        "type": "adverbi",
+        "example_fi": "Mistä sinä tulet?",
+        "example_en": "Where do you come from?",
+        "note": "Alkuperäkysymys (elatiivi). Vrt. missä, mihin."
+      },
+      {
+        "fi": "ylhäällä",
+        "en": "up, above",
+        "type": "adverbi",
+        "example_fi": "Lamppu on ylhäällä.",
+        "example_en": "The lamp is up above.",
+        "note": "Vastakohta: alhaalla. Suunta: ylös."
+      },
+      {
+        "fi": "alhaalla",
+        "en": "down, below",
+        "type": "adverbi",
+        "example_fi": "Kissa on alhaalla.",
+        "example_en": "The cat is down below.",
+        "note": "Vastakohta: ylhäällä. Suunta: alas."
+      },
+      {
+        "fi": "edessä",
+        "en": "in front of",
+        "type": "adverbi",
+        "example_fi": "Auto on talon edessä.",
+        "example_en": "The car is in front of the house.",
+        "note": "Postpositio: genetiivi + edessä. Vastakohta: takana."
+      },
+      {
+        "fi": "takana",
+        "en": "behind",
+        "type": "adverbi",
+        "example_fi": "Puutarha on talon takana.",
+        "example_en": "The garden is behind the house.",
+        "note": "Postpositio: genetiivi + takana."
+      },
+      {
+        "fi": "vieressä",
+        "en": "next to",
+        "type": "adverbi",
+        "example_fi": "Istun ystävän vieressä.",
+        "example_en": "I sit next to a friend.",
+        "note": "Postpositio: genetiivi + vieressä."
+      },
+      {
+        "fi": "lähellä",
+        "en": "near",
+        "type": "adverbi",
+        "example_fi": "Koulu on lähellä.",
+        "example_en": "The school is near.",
+        "note": "Vastakohta: kaukana. + partitiivi."
+      },
+      {
+        "fi": "kaukana",
+        "en": "far away",
+        "type": "adverbi",
+        "example_fi": "Mökki on kaukana.",
+        "example_en": "The cottage is far away.",
+        "note": "Vastakohta: lähellä."
+      },
+      {
+        "fi": "nyt",
+        "en": "now",
+        "type": "adverbi",
+        "example_fi": "Menen nyt.",
+        "example_en": "I am going now.",
+        "note": "Aikaa ilmaiseva adverbi."
+      },
+      {
+        "fi": "sitten",
+        "en": "then",
+        "type": "adverbi",
+        "example_fi": "Nähdään sitten!",
+        "example_en": "See you then!",
+        "note": "Myös: kolme vuotta sitten (ajan takaa)."
+      },
+      {
+        "fi": "aina",
+        "en": "always",
+        "type": "adverbi",
+        "example_fi": "Juon aina kahvia.",
+        "example_en": "I always drink coffee.",
+        "note": "Frekvenssiadverbi. Vastakohta: ei koskaan."
+      },
+      {
+        "fi": "usein",
+        "en": "often",
+        "type": "adverbi",
+        "example_fi": "Käyn usein uimassa.",
+        "example_en": "I often go swimming.",
+        "note": "Frekvenssiadverbi. Vrt. joskus, harvoin."
+      },
+      {
+        "fi": "joskus",
+        "en": "sometimes",
+        "type": "adverbi",
+        "example_fi": "Syön joskus lihaa.",
+        "example_en": "I sometimes eat meat.",
+        "note": "Frekvenssiadverbi."
+      },
+      {
+        "fi": "harvoin",
+        "en": "rarely",
+        "type": "adverbi",
+        "example_fi": "Katson harvoin televisiota.",
+        "example_en": "I rarely watch TV.",
+        "note": "Vastakohta: usein."
+      },
+      {
+        "fi": "koskaan",
+        "en": "ever (with negation: never)",
+        "type": "adverbi",
+        "example_fi": "En käy koskaan siellä.",
+        "example_en": "I never go there.",
+        "note": "Käytetään kieltolauseessa: ei koskaan."
+      },
+      {
+        "fi": "hyvin",
+        "en": "well",
+        "type": "adverbi",
+        "example_fi": "Puhut suomea hyvin.",
+        "example_en": "You speak Finnish well.",
+        "note": "Tapaa ilmaiseva adverbi. Myös: hyvin kylmä (=erittäin)."
+      },
+      {
+        "fi": "huonosti",
+        "en": "badly",
+        "type": "adverbi",
+        "example_fi": "Nukuin huonosti.",
+        "example_en": "I slept badly.",
+        "note": "Vastakohta: hyvin."
+      },
+      {
+        "fi": "nopeasti",
+        "en": "quickly",
+        "type": "adverbi",
+        "example_fi": "Kävele nopeasti!",
+        "example_en": "Walk fast!",
+        "note": "Adjektiivista nopea. Vastakohta: hitaasti."
+      },
+      {
+        "fi": "hitaasti",
+        "en": "slowly",
+        "type": "adverbi",
+        "example_fi": "Puhu hitaasti.",
+        "example_en": "Speak slowly.",
+        "note": "Adjektiivista hidas. Vastakohta: nopeasti."
+      },
+      {
+        "fi": "tänään",
+        "en": "today",
+        "type": "adverbi",
+        "example_fi": "Tänään on maanantai.",
+        "example_en": "Today is Monday.",
+        "note": "Ajan adverbi. Vrt. eilen, huomenna."
+      },
+      {
+        "fi": "huomenna",
+        "en": "tomorrow",
+        "type": "adverbi",
+        "example_fi": "Huomenna on vapaapäivä.",
+        "example_en": "Tomorrow is a day off.",
+        "note": "Ajan adverbi (tuleva)."
+      },
+      {
+        "fi": "eilen",
+        "en": "yesterday",
+        "type": "adverbi",
+        "example_fi": "Eilen satoi vettä.",
+        "example_en": "Yesterday it rained.",
+        "note": "Ajan adverbi (mennyt)."
+      },
+      {
+        "fi": "myöhään",
+        "en": "late",
+        "type": "adverbi",
+        "example_fi": "Menin nukkumaan myöhään.",
+        "example_en": "I went to sleep late.",
+        "note": "Vastakohta: aikaisin."
+      },
+      {
+        "fi": "aikaisin",
+        "en": "early",
+        "type": "adverbi",
+        "example_fi": "Herään aikaisin.",
+        "example_en": "I wake up early.",
+        "note": "Vastakohta: myöhään."
+      },
+      {
+        "fi": "pian",
+        "en": "soon",
+        "type": "adverbi",
+        "example_fi": "Bussi tulee pian.",
+        "example_en": "The bus comes soon.",
+        "note": "Lähitulevaisuus."
+      },
+      {
+        "fi": "heti",
+        "en": "immediately",
+        "type": "adverbi",
+        "example_fi": "Tule heti tänne!",
+        "example_en": "Come here immediately!",
+        "note": "Ilmaisee nopeutta."
+      },
+      {
+        "fi": "yhdessä",
+        "en": "together",
+        "type": "adverbi",
+        "example_fi": "Teemme sen yhdessä.",
+        "example_en": "We do it together.",
+        "note": "Vastakohta: yksin."
+      },
+      {
+        "fi": "yksin",
+        "en": "alone",
+        "type": "adverbi",
+        "example_fi": "Asun yksin.",
+        "example_en": "I live alone.",
+        "note": "Vastakohta: yhdessä."
+      },
+      {
+        "fi": "ulkona",
+        "en": "outside",
+        "type": "adverbi",
+        "example_fi": "Lapset ovat ulkona.",
+        "example_en": "The children are outside.",
+        "note": "Vastakohta: sisällä. Mihin: ulos."
+      },
+      {
+        "fi": "sisällä",
+        "en": "inside",
+        "type": "adverbi",
+        "example_fi": "Koira on sisällä.",
+        "example_en": "The dog is inside.",
+        "note": "Vastakohta: ulkona. Mihin: sisään."
+      },
+      {
+        "fi": "kotona",
+        "en": "at home",
+        "type": "adverbi",
+        "example_fi": "Olen tänään kotona.",
+        "example_en": "I am home today.",
+        "note": "Erikoismuoto. Mihin: kotiin, mistä: kotoa."
+      },
+      {
+        "fi": "vasemmalla",
+        "en": "on the left",
+        "type": "adverbi",
+        "example_fi": "Kauppa on vasemmalla.",
+        "example_en": "The shop is on the left.",
+        "note": "Vastakohta: oikealla. Mihin: vasemmalle."
+      },
+      {
+        "fi": "oikealla",
+        "en": "on the right",
+        "type": "adverbi",
+        "example_fi": "Pankki on oikealla.",
+        "example_en": "The bank is on the right.",
+        "note": "Vastakohta: vasemmalla. Mihin: oikealle."
+      },
+      {
+        "fi": "keskellä",
+        "en": "in the middle",
+        "type": "adverbi",
+        "example_fi": "Pöytä on keskellä.",
+        "example_en": "The table is in the middle.",
+        "note": "+ genetiivi/partitiivi: keskellä huonetta."
+      },
+      {
+        "fi": "päällä",
+        "en": "on top of",
+        "type": "adverbi",
+        "example_fi": "Kirja on pöydän päällä.",
+        "example_en": "The book is on top of the table.",
+        "note": "Postpositio: genetiivi + päällä."
+      }
+    ]
+  },
+  {
+    "category": "Kysymyssanat ja pronominit",
+    "category_en": "Question words & pronouns",
+    "cards": [
+      {
+        "fi": "mikä",
+        "en": "what, which",
+        "type": "pronomini",
+        "example_fi": "Mikä tämä on?",
+        "example_en": "What is this?",
+        "note": "Kysyy asiaa/esinettä. Taipuu: minkä, mitä."
+      },
+      {
+        "fi": "kuka",
+        "en": "who",
+        "type": "pronomini",
+        "example_fi": "Kuka sinä olet?",
+        "example_en": "Who are you?",
+        "note": "Kysyy ihmistä. Taipuu: kenen, ketä, kenet."
+      },
+      {
+        "fi": "missä",
+        "en": "where (at)",
+        "type": "adverbi",
+        "example_fi": "Missä sinä asut?",
+        "example_en": "Where do you live?",
+        "note": "Paikkakysymys (inessiivi). Vrt. mihin, mistä."
+      },
+      {
+        "fi": "milloin",
+        "en": "when",
+        "type": "adverbi",
+        "example_fi": "Milloin juna lähtee?",
+        "example_en": "When does the train leave?",
+        "note": "Aikakysymys. Synonyymi: koska."
+      },
+      {
+        "fi": "miksi",
+        "en": "why",
+        "type": "adverbi",
+        "example_fi": "Miksi sinä itket?",
+        "example_en": "Why are you crying?",
+        "note": "Syykysymys. Vastaus usein: koska..."
+      },
+      {
+        "fi": "miten",
+        "en": "how",
+        "type": "adverbi",
+        "example_fi": "Miten voit?",
+        "example_en": "How are you?",
+        "note": "Tapakysymys. Synonyymi: kuinka."
+      },
+      {
+        "fi": "kuinka",
+        "en": "how (much)",
+        "type": "adverbi",
+        "example_fi": "Kuinka vanha sinä olet?",
+        "example_en": "How old are you?",
+        "note": "Määrä/tapa: kuinka paljon, kuinka monta."
+      },
+      {
+        "fi": "kumpi",
+        "en": "which (of two)",
+        "type": "pronomini",
+        "example_fi": "Kumpi on parempi?",
+        "example_en": "Which one is better?",
+        "note": "Valinta kahdesta. Taipuu: kumman, kumpaa."
+      },
+      {
+        "fi": "minä",
+        "en": "I",
+        "type": "pronomini",
+        "example_fi": "Minä olen opiskelija.",
+        "example_en": "I am a student.",
+        "note": "Persoonapronomini (yks. 1.). Genetiivi: minun."
+      },
+      {
+        "fi": "sinä",
+        "en": "you (singular)",
+        "type": "pronomini",
+        "example_fi": "Sinä olet ystäväni.",
+        "example_en": "You are my friend.",
+        "note": "Persoonapronomini (yks. 2.). Genetiivi: sinun."
+      },
+      {
+        "fi": "hän",
+        "en": "he, she",
+        "type": "pronomini",
+        "example_fi": "Hän on lääkäri.",
+        "example_en": "He/she is a doctor.",
+        "note": "Yks. 3. (ihminen), ei sukupuolta. Genetiivi: hänen."
+      },
+      {
+        "fi": "me",
+        "en": "we",
+        "type": "pronomini",
+        "example_fi": "Me asumme Suomessa.",
+        "example_en": "We live in Finland.",
+        "note": "Monikko 1. Genetiivi: meidän."
+      },
+      {
+        "fi": "te",
+        "en": "you (plural)",
+        "type": "pronomini",
+        "example_fi": "Mistä te tulette?",
+        "example_en": "Where do you come from?",
+        "note": "Monikko 2. (myös teitittely). Genetiivi: teidän."
+      },
+      {
+        "fi": "he",
+        "en": "they",
+        "type": "pronomini",
+        "example_fi": "He ovat sisaruksia.",
+        "example_en": "They are siblings.",
+        "note": "Monikko 3. (ihmiset). Genetiivi: heidän."
+      },
+      {
+        "fi": "tämä",
+        "en": "this",
+        "type": "pronomini",
+        "example_fi": "Tämä on minun kirjani.",
+        "example_en": "This is my book.",
+        "note": "Demonstratiivi (lähellä). Taipuu: tämän, tätä."
+      },
+      {
+        "fi": "tuo",
+        "en": "that",
+        "type": "pronomini",
+        "example_fi": "Tuo talo on vanha.",
+        "example_en": "That house is old.",
+        "note": "Demonstratiivi (kaukana). Taipuu: tuon, tuota."
+      },
+      {
+        "fi": "se",
+        "en": "it, that",
+        "type": "pronomini",
+        "example_fi": "Se on hyvä idea.",
+        "example_en": "It is a good idea.",
+        "note": "Demonstratiivi. Taipuu: sen, sitä. Puhekielessä 'hän'."
+      },
+      {
+        "fi": "nämä",
+        "en": "these",
+        "type": "pronomini",
+        "example_fi": "Nämä kengät ovat uudet.",
+        "example_en": "These shoes are new.",
+        "note": "Monikko sanasta tämä. Taipuu: näiden, näitä."
+      },
+      {
+        "fi": "nuo",
+        "en": "those",
+        "type": "pronomini",
+        "example_fi": "Nuo ovat kauniita.",
+        "example_en": "Those are beautiful.",
+        "note": "Monikko sanasta tuo. Taipuu: noiden, noita."
+      },
+      {
+        "fi": "ne",
+        "en": "they, those",
+        "type": "pronomini",
+        "example_fi": "Ne ovat minun.",
+        "example_en": "They are mine.",
+        "note": "Monikko sanasta se. Taipuu: niiden, niitä."
+      },
+      {
+        "fi": "joku",
+        "en": "someone",
+        "type": "pronomini",
+        "example_fi": "Joku soittaa ovikelloa.",
+        "example_en": "Someone is ringing the doorbell.",
+        "note": "Epämääräinen (ihminen). Taipuu: jonkun, jotakuta."
+      },
+      {
+        "fi": "jokin",
+        "en": "something",
+        "type": "pronomini",
+        "example_fi": "Jokin on vialla.",
+        "example_en": "Something is wrong.",
+        "note": "Epämääräinen (asia). Puhekielessä usein 'joku'."
+      },
+      {
+        "fi": "kaikki",
+        "en": "all, everyone",
+        "type": "pronomini",
+        "example_fi": "Kaikki ovat täällä.",
+        "example_en": "Everyone is here.",
+        "note": "Taipuu: kaikkien, kaikkia. Vastakohta: ei kukaan."
+      },
+      {
+        "fi": "kukaan",
+        "en": "anyone (with neg: no one)",
+        "type": "pronomini",
+        "example_fi": "Kukaan ei tiedä.",
+        "example_en": "No one knows.",
+        "note": "Kieltosana: ei kukaan. Taipuu: ketään, kenenkään."
+      },
+      {
+        "fi": "mikään",
+        "en": "anything (with neg: nothing)",
+        "type": "pronomini",
+        "example_fi": "Mikään ei auta.",
+        "example_en": "Nothing helps.",
+        "note": "Kieltosana: ei mikään. Partitiivi: mitään."
+      },
+      {
+        "fi": "jokainen",
+        "en": "everyone, each",
+        "type": "pronomini",
+        "example_fi": "Jokainen lapsi saa lahjan.",
+        "example_en": "Every child gets a gift.",
+        "note": "= joka + yksikkö. Taipuu: jokaisen, jokaista."
+      },
+      {
+        "fi": "moni",
+        "en": "many (a person)",
+        "type": "pronomini",
+        "example_fi": "Moni ihminen pitää kahvista.",
+        "example_en": "Many people like coffee.",
+        "note": "Yksikössä + yksikkö. Taipuu: monen, monta."
+      },
+      {
+        "fi": "muutama",
+        "en": "a few",
+        "type": "pronomini",
+        "example_fi": "Minulla on muutama kysymys.",
+        "example_en": "I have a few questions.",
+        "note": "= pieni määrä. Taipuu: muutaman + yksikkö."
+      },
+      {
+        "fi": "sama",
+        "en": "same",
+        "type": "pronomini",
+        "example_fi": "Meillä on sama nimi.",
+        "example_en": "We have the same name.",
+        "note": "Taipuu: saman, samaa. 'samanlainen' = of the same kind."
+      },
+      {
+        "fi": "toinen",
+        "en": "other, another, second",
+        "type": "pronomini",
+        "example_fi": "Toinen kahvi, kiitos.",
+        "example_en": "Another coffee, please.",
+        "note": "Myös järjestysluku (2.). Taipuu: toisen, toista."
+      }
+    ]
+  },
+  {
+    "category": "Yleiset partikkelit ja sidesanat",
+    "category_en": "Common particles & connectives",
+    "cards": [
+      {
+        "fi": "ja",
+        "en": "and",
+        "type": "partikkeli",
+        "example_fi": "Minä ja sinä.",
+        "example_en": "You and me.",
+        "note": "Rinnastuskonjunktio. Yhdistää sanoja ja lauseita."
+      },
+      {
+        "fi": "tai",
+        "en": "or",
+        "type": "partikkeli",
+        "example_fi": "Kahvia tai teetä?",
+        "example_en": "Coffee or tea?",
+        "note": "Vaihtoehto. Vrt. vai (kysymyksessä)."
+      },
+      {
+        "fi": "mutta",
+        "en": "but",
+        "type": "partikkeli",
+        "example_fi": "Haluan tulla, mutta en voi.",
+        "example_en": "I want to come, but I can't.",
+        "note": "Vastakohtaa ilmaiseva konjunktio. Pilkku eteen."
+      },
+      {
+        "fi": "koska",
+        "en": "because",
+        "type": "partikkeli",
+        "example_fi": "Jään kotiin, koska olen kipeä.",
+        "example_en": "I stay home because I am ill.",
+        "note": "Syytä ilmaiseva konjunktio."
+      },
+      {
+        "fi": "että",
+        "en": "that",
+        "type": "partikkeli",
+        "example_fi": "Luulen, että hän tulee.",
+        "example_en": "I think that he is coming.",
+        "note": "Alistuskonjunktio. Pilkku eteen."
+      },
+      {
+        "fi": "jos",
+        "en": "if",
+        "type": "partikkeli",
+        "example_fi": "Jos sataa, otan sateenvarjon.",
+        "example_en": "If it rains, I take an umbrella.",
+        "note": "Ehtoa ilmaiseva konjunktio."
+      },
+      {
+        "fi": "kun",
+        "en": "when",
+        "type": "partikkeli",
+        "example_fi": "Kun olin lapsi, asuin maalla.",
+        "example_en": "When I was a child, I lived in the countryside.",
+        "note": "Aikaa/syytä ilmaiseva konjunktio."
+      },
+      {
+        "fi": "vaikka",
+        "en": "although",
+        "type": "partikkeli",
+        "example_fi": "Menen ulos, vaikka sataa.",
+        "example_en": "I go out although it is raining.",
+        "note": "Myönnytystä ilmaiseva konjunktio."
+      },
+      {
+        "fi": "siksi",
+        "en": "therefore",
+        "type": "partikkeli",
+        "example_fi": "Olin väsynyt, siksi nukuin pitkään.",
+        "example_en": "I was tired, therefore I slept long.",
+        "note": "Ilmaisee seurausta. Vrt. koska (syy)."
+      },
+      {
+        "fi": "myös",
+        "en": "also",
+        "type": "partikkeli",
+        "example_fi": "Minä myös haluan jäätelöä.",
+        "example_en": "I also want ice cream.",
+        "note": "= samoin. Vrt. myöskään (kiellossa)."
+      },
+      {
+        "fi": "vielä",
+        "en": "still, yet",
+        "type": "partikkeli",
+        "example_fi": "Onko sinulla vielä nälkä?",
+        "example_en": "Are you still hungry?",
+        "note": "Vastakohta: enää (kiellossa). Myös: vielä yksi."
+      },
+      {
+        "fi": "jo",
+        "en": "already",
+        "type": "partikkeli",
+        "example_fi": "Kello on jo kymmenen.",
+        "example_en": "It is already ten o'clock.",
+        "note": "Vastakohta: vasta. Vrt. vielä."
+      },
+      {
+        "fi": "taas",
+        "en": "again",
+        "type": "partikkeli",
+        "example_fi": "Sataa taas.",
+        "example_en": "It is raining again.",
+        "note": "= uudelleen. Synonyymi: jälleen."
+      },
+      {
+        "fi": "ehkä",
+        "en": "maybe",
+        "type": "partikkeli",
+        "example_fi": "Ehkä tulen huomenna.",
+        "example_en": "Maybe I'll come tomorrow.",
+        "note": "Ilmaisee epävarmuutta. Synonyymi: kai."
+      },
+      {
+        "fi": "tietysti",
+        "en": "of course",
+        "type": "partikkeli",
+        "example_fi": "Tietysti autan sinua.",
+        "example_en": "Of course I help you.",
+        "note": "Synonyymi: tietenkin, totta kai."
+      },
+      {
+        "fi": "kyllä",
+        "en": "yes",
+        "type": "partikkeli",
+        "example_fi": "Kyllä, olen valmis.",
+        "example_en": "Yes, I am ready.",
+        "note": "Myöntösana. Vastakohta: ei. Myös vahvistus: kyllä osaan."
+      },
+      {
+        "fi": "ei",
+        "en": "no, not",
+        "type": "partikkeli",
+        "example_fi": "Ei, en halua.",
+        "example_en": "No, I don't want to.",
+        "note": "Kieltoverbi: en, et, ei, emme, ette, eivät."
+      },
+      {
+        "fi": "tosi",
+        "en": "really, very",
+        "type": "partikkeli",
+        "example_fi": "Tänään on tosi kaunis sää.",
+        "example_en": "Today the weather is really nice.",
+        "note": "Puhekielinen tehostesana (= todella, erittäin)."
+      },
+      {
+        "fi": "aika",
+        "en": "quite, fairly",
+        "type": "partikkeli",
+        "example_fi": "Elokuva oli aika hyvä.",
+        "example_en": "The movie was quite good.",
+        "note": "Astemäärite (= melko). Myös substantiivi 'aika' = time."
+      },
+      {
+        "fi": "liian",
+        "en": "too",
+        "type": "partikkeli",
+        "example_fi": "Kahvi on liian kuuma.",
+        "example_en": "The coffee is too hot.",
+        "note": "Ilmaisee liikaa. Vrt. tarpeeksi (enough)."
+      },
+      {
+        "fi": "melko",
+        "en": "fairly",
+        "type": "partikkeli",
+        "example_fi": "Tehtävä oli melko helppo.",
+        "example_en": "The task was fairly easy.",
+        "note": "Astemäärite. Synonyymi: aika, kohtalaisen."
+      },
+      {
+        "fi": "oikein",
+        "en": "correctly, very",
+        "type": "partikkeli",
+        "example_fi": "Vastasit oikein.",
+        "example_en": "You answered correctly.",
+        "note": "1) oikein = correctly, 2) tehostesana: oikein hyvä."
+      },
+      {
+        "fi": "sekä",
+        "en": "as well as",
+        "type": "partikkeli",
+        "example_fi": "Ostin sekä leipää että maitoa.",
+        "example_en": "I bought both bread and milk.",
+        "note": "Pariksi: sekä... että... (both... and...)."
+      },
+      {
+        "fi": "eli",
+        "en": "i.e., that is",
+        "type": "partikkeli",
+        "example_fi": "Isäni veli eli setäni.",
+        "example_en": "My father's brother, i.e. my uncle.",
+        "note": "Selittävä konjunktio (= toisin sanoen)."
+      },
+      {
+        "fi": "vaan",
+        "en": "but rather",
+        "type": "partikkeli",
+        "example_fi": "En juo teetä vaan kahvia.",
+        "example_en": "I don't drink tea but rather coffee.",
+        "note": "Kiellon jälkeen (ei... vaan...). Ei sama kuin 'vain'."
+      },
+      {
+        "fi": "siis",
+        "en": "so, thus",
+        "type": "partikkeli",
+        "example_fi": "Sataa, siis otan takin.",
+        "example_en": "It's raining, so I take a coat.",
+        "note": "Ilmaisee päätelmää. Synonyymi: niinpä."
+      },
+      {
+        "fi": "kuitenkin",
+        "en": "however",
+        "type": "partikkeli",
+        "example_fi": "Olin väsynyt. Menin kuitenkin töihin.",
+        "example_en": "I was tired. However, I went to work.",
+        "note": "Vastakohtaa ilmaiseva partikkeli."
+      },
+      {
+        "fi": "tietenkin",
+        "en": "of course",
+        "type": "partikkeli",
+        "example_fi": "Tietenkin muistan sinut.",
+        "example_en": "Of course I remember you.",
+        "note": "Synonyymi: tietysti, totta kai."
+      },
+      {
+        "fi": "varsinkin",
+        "en": "especially",
+        "type": "partikkeli",
+        "example_fi": "Pidän marjoista, varsinkin mustikoista.",
+        "example_en": "I like berries, especially blueberries.",
+        "note": "= erityisesti."
+      },
+      {
+        "fi": "esimerkiksi",
+        "en": "for example",
+        "type": "partikkeli",
+        "example_fi": "Pidän hedelmistä, esimerkiksi omenoista.",
+        "example_en": "I like fruit, for example apples.",
+        "note": "Lyhenne: esim. Antaa esimerkin."
+      },
+      {
+        "fi": "yleensä",
+        "en": "usually",
+        "type": "partikkeli",
+        "example_fi": "Yleensä herään seitsemältä.",
+        "example_en": "I usually wake up at seven.",
+        "note": "Frekvenssi (= tavallisesti)."
+      },
+      {
+        "fi": "ainakin",
+        "en": "at least",
+        "type": "partikkeli",
+        "example_fi": "Tulen ainakin lauantaina.",
+        "example_en": "I'll come at least on Saturday.",
+        "note": "= vähintään."
+      },
+      {
+        "fi": "melkein",
+        "en": "almost",
+        "type": "partikkeli",
+        "example_fi": "Olen melkein valmis.",
+        "example_en": "I am almost ready.",
+        "note": "= lähes. Vrt. juuri, aivan."
+      },
+      {
+        "fi": "juuri",
+        "en": "just, exactly",
+        "type": "partikkeli",
+        "example_fi": "Bussi lähti juuri.",
+        "example_en": "The bus just left.",
+        "note": "1) juuri nyt (just now), 2) juuri se (exactly that)."
+      },
+      {
+        "fi": "vain",
+        "en": "only",
+        "type": "partikkeli",
+        "example_fi": "Minulla on vain yksi euro.",
+        "example_en": "I have only one euro.",
+        "note": "= ainoastaan. Ei sama kuin konjunktio 'vaan'."
+      }
+    ]
+  }
+]

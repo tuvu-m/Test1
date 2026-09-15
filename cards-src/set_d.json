@@ -1,0 +1,1752 @@
+[
+  {
+    "category": "Työ ja ammatit",
+    "category_en": "Work & professions",
+    "cards": [
+      {
+        "fi": "työ",
+        "en": "work",
+        "type": "substantiivi",
+        "example_fi": "Minulla on paljon työtä tänään.",
+        "example_en": "I have a lot of work today.",
+        "note": "Taivutus: työ–työn–työtä. Partitiivi: työtä."
+      },
+      {
+        "fi": "ammatti",
+        "en": "profession",
+        "type": "substantiivi",
+        "example_fi": "Mikä on sinun ammattisi?",
+        "example_en": "What is your profession?",
+        "note": "Taivutus: ammatti–ammatin–ammattia. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "opettaja",
+        "en": "teacher",
+        "type": "substantiivi",
+        "example_fi": "Opettaja opettaa suomea.",
+        "example_en": "The teacher teaches Finnish.",
+        "note": "Taivutus: opettaja–opettajan–opettajaa."
+      },
+      {
+        "fi": "lääkäri",
+        "en": "doctor",
+        "type": "substantiivi",
+        "example_fi": "Lääkäri tutkii potilaan.",
+        "example_en": "The doctor examines the patient.",
+        "note": "Taivutus: lääkäri–lääkärin–lääkäriä."
+      },
+      {
+        "fi": "sairaanhoitaja",
+        "en": "nurse",
+        "type": "substantiivi",
+        "example_fi": "Sairaanhoitaja auttaa lääkäriä.",
+        "example_en": "The nurse helps the doctor.",
+        "note": "Taivutus: sairaanhoitaja–sairaanhoitajan. Yhdyssana."
+      },
+      {
+        "fi": "insinööri",
+        "en": "engineer",
+        "type": "substantiivi",
+        "example_fi": "Insinööri suunnittelee siltoja.",
+        "example_en": "The engineer designs bridges.",
+        "note": "Taivutus: insinööri–insinöörin–insinööriä."
+      },
+      {
+        "fi": "myyjä",
+        "en": "salesperson",
+        "type": "substantiivi",
+        "example_fi": "Myyjä myy vaatteita kaupassa.",
+        "example_en": "The salesperson sells clothes in the shop.",
+        "note": "Taivutus: myyjä–myyjän–myyjää. Verbistä myydä."
+      },
+      {
+        "fi": "kokki",
+        "en": "cook",
+        "type": "substantiivi",
+        "example_fi": "Kokki valmistaa ruokaa ravintolassa.",
+        "example_en": "The cook prepares food in the restaurant.",
+        "note": "Taivutus: kokki–kokin–kokkia. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "tarjoilija",
+        "en": "waiter",
+        "type": "substantiivi",
+        "example_fi": "Tarjoilija tuo ruoan pöytään.",
+        "example_en": "The waiter brings the food to the table.",
+        "note": "Taivutus: tarjoilija–tarjoilijan–tarjoilijaa."
+      },
+      {
+        "fi": "poliisi",
+        "en": "police officer",
+        "type": "substantiivi",
+        "example_fi": "Poliisi valvoo liikennettä.",
+        "example_en": "The police officer supervises traffic.",
+        "note": "Taivutus: poliisi–poliisin–poliisia."
+      },
+      {
+        "fi": "palomies",
+        "en": "firefighter",
+        "type": "substantiivi",
+        "example_fi": "Palomies sammuttaa tulipalon.",
+        "example_en": "The firefighter puts out the fire.",
+        "note": "Taivutus: palomies–palomiehen–palomiestä. mies→miehen."
+      },
+      {
+        "fi": "kirjanpitäjä",
+        "en": "accountant",
+        "type": "substantiivi",
+        "example_fi": "Kirjanpitäjä laskee yrityksen tulot.",
+        "example_en": "The accountant calculates the company's income.",
+        "note": "Taivutus: kirjanpitäjä–kirjanpitäjän."
+      },
+      {
+        "fi": "johtaja",
+        "en": "director",
+        "type": "substantiivi",
+        "example_fi": "Johtaja johtaa kokousta.",
+        "example_en": "The director leads the meeting.",
+        "note": "Taivutus: johtaja–johtajan–johtajaa. Verbistä johtaa."
+      },
+      {
+        "fi": "työntekijä",
+        "en": "employee",
+        "type": "substantiivi",
+        "example_fi": "Yrityksessä on kymmenen työntekijää.",
+        "example_en": "The company has ten employees.",
+        "note": "Taivutus: työntekijä–työntekijän–työntekijää."
+      },
+      {
+        "fi": "työtön",
+        "en": "unemployed",
+        "type": "adjektiivi",
+        "example_fi": "Hän on ollut työtön puoli vuotta.",
+        "example_en": "He has been unemployed for half a year.",
+        "note": "Taivutus: työtön–työttömän–työtöntä. -tön = ilman työtä."
+      },
+      {
+        "fi": "palkka",
+        "en": "salary",
+        "type": "substantiivi",
+        "example_fi": "Saan palkan kerran kuukaudessa.",
+        "example_en": "I get my salary once a month.",
+        "note": "Taivutus: palkka–palkan–palkkaa. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "toimisto",
+        "en": "office",
+        "type": "substantiivi",
+        "example_fi": "Työskentelen toimistossa.",
+        "example_en": "I work in an office.",
+        "note": "Taivutus: toimisto–toimiston–toimistoa."
+      },
+      {
+        "fi": "kokous",
+        "en": "meeting",
+        "type": "substantiivi",
+        "example_fi": "Kokous alkaa kello yhdeksän.",
+        "example_en": "The meeting starts at nine.",
+        "note": "Taivutus: kokous–kokouksen–kokousta."
+      },
+      {
+        "fi": "työpaikka",
+        "en": "workplace",
+        "type": "substantiivi",
+        "example_fi": "Löysin uuden työpaikan.",
+        "example_en": "I found a new job.",
+        "note": "Taivutus: työpaikka–työpaikan. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "tehdä työtä",
+        "en": "to work",
+        "type": "fraasi",
+        "example_fi": "Hän tekee työtä ahkerasti.",
+        "example_en": "He works hard.",
+        "note": "Fraasi 'to work'. Vrt. tehdä töitä (monikko)."
+      },
+      {
+        "fi": "parturi",
+        "en": "barber",
+        "type": "substantiivi",
+        "example_fi": "Parturi leikkaa hiukset.",
+        "example_en": "The barber cuts the hair.",
+        "note": "Taivutus: parturi–parturin–parturia."
+      },
+      {
+        "fi": "sähköasentaja",
+        "en": "electrician",
+        "type": "substantiivi",
+        "example_fi": "Sähköasentaja korjaa valot.",
+        "example_en": "The electrician fixes the lights.",
+        "note": "Taivutus: sähköasentaja–sähköasentajan."
+      },
+      {
+        "fi": "putkimies",
+        "en": "plumber",
+        "type": "substantiivi",
+        "example_fi": "Putkimies korjaa vuotavan hanan.",
+        "example_en": "The plumber fixes the leaking tap.",
+        "note": "Taivutus: putkimies–putkimiehen–putkimiestä."
+      },
+      {
+        "fi": "maanviljelijä",
+        "en": "farmer",
+        "type": "substantiivi",
+        "example_fi": "Maanviljelijä kasvattaa viljaa.",
+        "example_en": "The farmer grows grain.",
+        "note": "Taivutus: maanviljelijä–maanviljelijän."
+      },
+      {
+        "fi": "kirjailija",
+        "en": "writer",
+        "type": "substantiivi",
+        "example_fi": "Kirjailija kirjoittaa romaaneja.",
+        "example_en": "The writer writes novels.",
+        "note": "Taivutus: kirjailija–kirjailijan–kirjailijaa."
+      },
+      {
+        "fi": "toimittaja",
+        "en": "journalist",
+        "type": "substantiivi",
+        "example_fi": "Toimittaja kirjoittaa uutisen.",
+        "example_en": "The journalist writes the news.",
+        "note": "Taivutus: toimittaja–toimittajan–toimittajaa."
+      },
+      {
+        "fi": "asianajaja",
+        "en": "lawyer",
+        "type": "substantiivi",
+        "example_fi": "Asianajaja auttaa oikeudessa.",
+        "example_en": "The lawyer helps in court.",
+        "note": "Taivutus: asianajaja–asianajajan."
+      },
+      {
+        "fi": "arkkitehti",
+        "en": "architect",
+        "type": "substantiivi",
+        "example_fi": "Arkkitehti suunnittelee taloja.",
+        "example_en": "The architect designs houses.",
+        "note": "Taivutus: arkkitehti–arkkitehdin–arkkitehtia. Astevaihtelu t→d."
+      },
+      {
+        "fi": "eläinlääkäri",
+        "en": "veterinarian",
+        "type": "substantiivi",
+        "example_fi": "Eläinlääkäri hoitaa koiraa.",
+        "example_en": "The veterinarian treats the dog.",
+        "note": "Taivutus: eläinlääkäri–eläinlääkärin."
+      },
+      {
+        "fi": "hammaslääkäri",
+        "en": "dentist",
+        "type": "substantiivi",
+        "example_fi": "Menen hammaslääkäriin huomenna.",
+        "example_en": "I'm going to the dentist tomorrow.",
+        "note": "Taivutus: hammaslääkäri–hammaslääkärin. Illatiivi: -lääkäriin."
+      },
+      {
+        "fi": "siivooja",
+        "en": "cleaner",
+        "type": "substantiivi",
+        "example_fi": "Siivooja siivoaa toimiston.",
+        "example_en": "The cleaner cleans the office.",
+        "note": "Taivutus: siivooja–siivoojan–siivoojaa."
+      },
+      {
+        "fi": "leipuri",
+        "en": "baker",
+        "type": "substantiivi",
+        "example_fi": "Leipuri leipoo tuoretta leipää.",
+        "example_en": "The baker bakes fresh bread.",
+        "note": "Taivutus: leipuri–leipurin–leipuria."
+      },
+      {
+        "fi": "rakennusmies",
+        "en": "construction worker",
+        "type": "substantiivi",
+        "example_fi": "Rakennusmies rakentaa talon.",
+        "example_en": "The construction worker builds the house.",
+        "note": "Taivutus: rakennusmies–rakennusmiehen."
+      },
+      {
+        "fi": "yrittäjä",
+        "en": "entrepreneur",
+        "type": "substantiivi",
+        "example_fi": "Yrittäjä perusti oman firman.",
+        "example_en": "The entrepreneur founded their own company.",
+        "note": "Taivutus: yrittäjä–yrittäjän–yrittäjää."
+      },
+      {
+        "fi": "työkaveri",
+        "en": "colleague",
+        "type": "substantiivi",
+        "example_fi": "Työkaveri auttaa minua usein.",
+        "example_en": "My colleague often helps me.",
+        "note": "Taivutus: työkaveri–työkaverin–työkaveria."
+      },
+      {
+        "fi": "työaika",
+        "en": "working hours",
+        "type": "substantiivi",
+        "example_fi": "Työaika on kahdeksasta neljään.",
+        "example_en": "The working hours are from eight to four.",
+        "note": "Taivutus: työaika–työajan. Astevaihtelu k→j."
+      },
+      {
+        "fi": "lomapäivä",
+        "en": "day off",
+        "type": "substantiivi",
+        "example_fi": "Pidän lomapäivän perjantaina.",
+        "example_en": "I'll take a day off on Friday.",
+        "note": "Taivutus: lomapäivä–lomapäivän–lomapäivää."
+      },
+      {
+        "fi": "hakemus",
+        "en": "application",
+        "type": "substantiivi",
+        "example_fi": "Täytin hakemuksen huolellisesti.",
+        "example_en": "I filled in the application carefully.",
+        "note": "Taivutus: hakemus–hakemuksen–hakemusta."
+      },
+      {
+        "fi": "haastattelu",
+        "en": "interview",
+        "type": "substantiivi",
+        "example_fi": "Työhaastattelu meni hyvin.",
+        "example_en": "The job interview went well.",
+        "note": "Taivutus: haastattelu–haastattelun."
+      },
+      {
+        "fi": "ansaita",
+        "en": "to earn",
+        "type": "verbi",
+        "example_fi": "Hän ansaitsee hyvää palkkaa.",
+        "example_en": "He earns a good salary.",
+        "note": "Taivutus: ansaita–ansaitsen–ansaitsi. Vartalo ansaitse-."
+      },
+      {
+        "fi": "palkata",
+        "en": "to hire",
+        "type": "verbi",
+        "example_fi": "Yritys palkkasi kaksi uutta työntekijää.",
+        "example_en": "The company hired two new employees.",
+        "note": "Taivutus: palkata–palkkaan–palkkasi. Astevaihtelu k→kk."
+      },
+      {
+        "fi": "irtisanoa",
+        "en": "to dismiss",
+        "type": "verbi",
+        "example_fi": "Johtaja joutui irtisanomaan työntekijän.",
+        "example_en": "The manager had to dismiss the employee.",
+        "note": "Taivutus: irtisanoa–irtisanon–irtisanoi."
+      },
+      {
+        "fi": "eläke",
+        "en": "pension",
+        "type": "substantiivi",
+        "example_fi": "Isoisä jäi eläkkeelle.",
+        "example_en": "Grandpa retired.",
+        "note": "Taivutus: eläke–eläkkeen–eläkettä. Astevaihtelu k→kk."
+      },
+      {
+        "fi": "ala",
+        "en": "field",
+        "type": "substantiivi",
+        "example_fi": "Hän työskentelee IT-alalla.",
+        "example_en": "He works in the IT field.",
+        "note": "Taivutus: ala–alan–alaa. Adessiivi: alalla."
+      },
+      {
+        "fi": "asiakas",
+        "en": "customer",
+        "type": "substantiivi",
+        "example_fi": "Asiakas ostaa tuotteen kaupasta.",
+        "example_en": "The customer buys the product from the shop.",
+        "note": "Taivutus: asiakas–asiakkaan–asiakasta. Astevaihtelu k→kk."
+      }
+    ]
+  },
+  {
+    "category": "Koulu ja opiskelu",
+    "category_en": "School & studying",
+    "cards": [
+      {
+        "fi": "koulu",
+        "en": "school",
+        "type": "substantiivi",
+        "example_fi": "Lapset menevät kouluun aamulla.",
+        "example_en": "The children go to school in the morning.",
+        "note": "Taivutus: koulu–koulun–koulua. Illatiivi: kouluun."
+      },
+      {
+        "fi": "yliopisto",
+        "en": "university",
+        "type": "substantiivi",
+        "example_fi": "Opiskelen yliopistossa.",
+        "example_en": "I study at the university.",
+        "note": "Taivutus: yliopisto–yliopiston–yliopistoa."
+      },
+      {
+        "fi": "luokka",
+        "en": "class",
+        "type": "substantiivi",
+        "example_fi": "Meidän luokassa on kaksikymmentä oppilasta.",
+        "example_en": "There are twenty pupils in our class.",
+        "note": "Taivutus: luokka–luokan–luokkaa. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "oppilas",
+        "en": "pupil",
+        "type": "substantiivi",
+        "example_fi": "Oppilas tekee tehtävät.",
+        "example_en": "The pupil does the assignments.",
+        "note": "Taivutus: oppilas–oppilaan–oppilasta."
+      },
+      {
+        "fi": "opiskelija",
+        "en": "student",
+        "type": "substantiivi",
+        "example_fi": "Opiskelija lukee tenttiin.",
+        "example_en": "The student studies for the exam.",
+        "note": "Taivutus: opiskelija–opiskelijan–opiskelijaa."
+      },
+      {
+        "fi": "kirja",
+        "en": "book",
+        "type": "substantiivi",
+        "example_fi": "Luen mielenkiintoista kirjaa.",
+        "example_en": "I am reading an interesting book.",
+        "note": "Taivutus: kirja–kirjan–kirjaa."
+      },
+      {
+        "fi": "kynä",
+        "en": "pen",
+        "type": "substantiivi",
+        "example_fi": "Kirjoitan kynällä.",
+        "example_en": "I write with a pen.",
+        "note": "Taivutus: kynä–kynän–kynää. Adessiivi: kynällä."
+      },
+      {
+        "fi": "vihko",
+        "en": "notebook",
+        "type": "substantiivi",
+        "example_fi": "Kirjoitan muistiinpanot vihkoon.",
+        "example_en": "I write the notes in the notebook.",
+        "note": "Taivutus: vihko–vihkon–vihkoa. Illatiivi: vihkoon."
+      },
+      {
+        "fi": "läksy",
+        "en": "homework",
+        "type": "substantiivi",
+        "example_fi": "Teen läksyt joka ilta.",
+        "example_en": "I do my homework every evening.",
+        "note": "Taivutus: läksy–läksyn–läksyä. Usein monikossa: läksyt."
+      },
+      {
+        "fi": "koe",
+        "en": "test",
+        "type": "substantiivi",
+        "example_fi": "Meillä on koe huomenna.",
+        "example_en": "We have a test tomorrow.",
+        "note": "Taivutus: koe–kokeen–koetta."
+      },
+      {
+        "fi": "tentti",
+        "en": "exam",
+        "type": "substantiivi",
+        "example_fi": "Läpäisin tentin hyvin.",
+        "example_en": "I passed the exam well.",
+        "note": "Taivutus: tentti–tentin–tenttiä. Astevaihtelu tt→t. Yliopistossa."
+      },
+      {
+        "fi": "opiskella",
+        "en": "to study",
+        "type": "verbi",
+        "example_fi": "Opiskelen suomea joka päivä.",
+        "example_en": "I study Finnish every day.",
+        "note": "Taivutus: opiskella–opiskelen–opiskeli."
+      },
+      {
+        "fi": "oppia",
+        "en": "to learn",
+        "type": "verbi",
+        "example_fi": "Opin uusia sanoja.",
+        "example_en": "I learn new words.",
+        "note": "Taivutus: oppia–opin–oppi. Astevaihtelu pp→p."
+      },
+      {
+        "fi": "lukea",
+        "en": "to read",
+        "type": "verbi",
+        "example_fi": "Luen kirjaa illalla.",
+        "example_en": "I read a book in the evening.",
+        "note": "Taivutus: lukea–luen–luki. Myös 'to study'."
+      },
+      {
+        "fi": "kirjoittaa",
+        "en": "to write",
+        "type": "verbi",
+        "example_fi": "Kirjoitan kirjeen ystävälle.",
+        "example_en": "I write a letter to a friend.",
+        "note": "Taivutus: kirjoittaa–kirjoitan–kirjoitti. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "kysymys",
+        "en": "question",
+        "type": "substantiivi",
+        "example_fi": "Opettaja esitti vaikean kysymyksen.",
+        "example_en": "The teacher asked a difficult question.",
+        "note": "Taivutus: kysymys–kysymyksen–kysymystä."
+      },
+      {
+        "fi": "vastaus",
+        "en": "answer",
+        "type": "substantiivi",
+        "example_fi": "Tiedän oikean vastauksen.",
+        "example_en": "I know the correct answer.",
+        "note": "Taivutus: vastaus–vastauksen–vastausta."
+      },
+      {
+        "fi": "kieli",
+        "en": "language",
+        "type": "substantiivi",
+        "example_fi": "Suomen kieli on kaunis.",
+        "example_en": "The Finnish language is beautiful.",
+        "note": "Taivutus: kieli–kielen–kieltä. Myös 'tongue'."
+      },
+      {
+        "fi": "matematiikka",
+        "en": "mathematics",
+        "type": "substantiivi",
+        "example_fi": "Matematiikka on minun lempiaineeni.",
+        "example_en": "Mathematics is my favorite subject.",
+        "note": "Taivutus: matematiikka–matematiikan. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "historia",
+        "en": "history",
+        "type": "substantiivi",
+        "example_fi": "Opiskelen Suomen historiaa.",
+        "example_en": "I study the history of Finland.",
+        "note": "Taivutus: historia–historian–historiaa."
+      },
+      {
+        "fi": "lukio",
+        "en": "upper secondary school",
+        "type": "substantiivi",
+        "example_fi": "Hän aloittaa lukion syksyllä.",
+        "example_en": "He starts upper secondary school in the autumn.",
+        "note": "Taivutus: lukio–lukion–lukiota."
+      },
+      {
+        "fi": "päiväkoti",
+        "en": "daycare",
+        "type": "substantiivi",
+        "example_fi": "Lapsi on päiväkodissa päivällä.",
+        "example_en": "The child is at daycare during the day.",
+        "note": "Taivutus: päiväkoti–päiväkodin. Astevaihtelu t→d."
+      },
+      {
+        "fi": "opettaa",
+        "en": "to teach",
+        "type": "verbi",
+        "example_fi": "Opettaja opettaa matematiikkaa.",
+        "example_en": "The teacher teaches mathematics.",
+        "note": "Taivutus: opettaa–opetan–opetti. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "läpäistä",
+        "en": "to pass (an exam)",
+        "type": "verbi",
+        "example_fi": "Hän läpäisi kokeen.",
+        "example_en": "He passed the test.",
+        "note": "Taivutus: läpäistä–läpäisen–läpäisi."
+      },
+      {
+        "fi": "arvosana",
+        "en": "grade",
+        "type": "substantiivi",
+        "example_fi": "Sain kokeesta hyvän arvosanan.",
+        "example_en": "I got a good grade on the test.",
+        "note": "Taivutus: arvosana–arvosanan–arvosanaa."
+      },
+      {
+        "fi": "todistus",
+        "en": "certificate",
+        "type": "substantiivi",
+        "example_fi": "Sain koulutodistuksen keväällä.",
+        "example_en": "I got my report card in the spring.",
+        "note": "Taivutus: todistus–todistuksen–todistusta."
+      },
+      {
+        "fi": "tutkinto",
+        "en": "degree",
+        "type": "substantiivi",
+        "example_fi": "Hän suoritti yliopistotutkinnon.",
+        "example_en": "He completed a university degree.",
+        "note": "Taivutus: tutkinto–tutkinnon. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "kurssi",
+        "en": "course",
+        "type": "substantiivi",
+        "example_fi": "Osallistun suomen kurssille.",
+        "example_en": "I attend a Finnish course.",
+        "note": "Taivutus: kurssi–kurssin–kurssia. Allatiivi: kurssille."
+      },
+      {
+        "fi": "oppitunti",
+        "en": "lesson",
+        "type": "substantiivi",
+        "example_fi": "Oppitunti kestää 45 minuuttia.",
+        "example_en": "The lesson lasts 45 minutes.",
+        "note": "Taivutus: oppitunti–oppitunnin. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "välitunti",
+        "en": "break",
+        "type": "substantiivi",
+        "example_fi": "Oppilaat leikkivät välitunnilla.",
+        "example_en": "The pupils play during the break.",
+        "note": "Taivutus: välitunti–välitunnin. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "lukujärjestys",
+        "en": "timetable",
+        "type": "substantiivi",
+        "example_fi": "Katson lukujärjestyksestä tunnit.",
+        "example_en": "I check the lessons from the timetable.",
+        "note": "Taivutus: lukujärjestys–lukujärjestyksen."
+      },
+      {
+        "fi": "sanakirja",
+        "en": "dictionary",
+        "type": "substantiivi",
+        "example_fi": "Etsin sanan sanakirjasta.",
+        "example_en": "I look up the word in the dictionary.",
+        "note": "Taivutus: sanakirja–sanakirjan."
+      },
+      {
+        "fi": "pyyhekumi",
+        "en": "eraser",
+        "type": "substantiivi",
+        "example_fi": "Pyyhin virheen pyyhekumilla.",
+        "example_en": "I erase the mistake with the eraser.",
+        "note": "Taivutus: pyyhekumi–pyyhekumin–pyyhekumia."
+      },
+      {
+        "fi": "taulu",
+        "en": "board",
+        "type": "substantiivi",
+        "example_fi": "Opettaja kirjoittaa taululle.",
+        "example_en": "The teacher writes on the board.",
+        "note": "Taivutus: taulu–taulun–taulua. Allatiivi: taululle."
+      },
+      {
+        "fi": "sana",
+        "en": "word",
+        "type": "substantiivi",
+        "example_fi": "En ymmärrä tätä sanaa.",
+        "example_en": "I don't understand this word.",
+        "note": "Taivutus: sana–sanan–sanaa."
+      },
+      {
+        "fi": "lause",
+        "en": "sentence",
+        "type": "substantiivi",
+        "example_fi": "Tämä lause on vaikea.",
+        "example_en": "This sentence is difficult.",
+        "note": "Taivutus: lause–lauseen–lausetta."
+      },
+      {
+        "fi": "kielioppi",
+        "en": "grammar",
+        "type": "substantiivi",
+        "example_fi": "Suomen kielioppi on hankalaa.",
+        "example_en": "Finnish grammar is tricky.",
+        "note": "Taivutus: kielioppi–kieliopin. Astevaihtelu pp→p."
+      },
+      {
+        "fi": "sanasto",
+        "en": "vocabulary",
+        "type": "substantiivi",
+        "example_fi": "Opettelen uutta sanastoa.",
+        "example_en": "I learn new vocabulary.",
+        "note": "Taivutus: sanasto–sanaston–sanastoa."
+      },
+      {
+        "fi": "äidinkieli",
+        "en": "mother tongue",
+        "type": "substantiivi",
+        "example_fi": "Minun äidinkieleni on vietnam.",
+        "example_en": "My mother tongue is Vietnamese.",
+        "note": "Taivutus: äidinkieli–äidinkielen–äidinkieltä."
+      },
+      {
+        "fi": "englanti",
+        "en": "English",
+        "type": "substantiivi",
+        "example_fi": "Puhun vähän englantia.",
+        "example_en": "I speak a little English.",
+        "note": "Taivutus: englanti–englannin–englantia. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "maantieto",
+        "en": "geography",
+        "type": "substantiivi",
+        "example_fi": "Maantiedon tunnilla katsomme karttoja.",
+        "example_en": "In the geography lesson we look at maps.",
+        "note": "Taivutus: maantieto–maantiedon. Astevaihtelu t→d."
+      },
+      {
+        "fi": "biologia",
+        "en": "biology",
+        "type": "substantiivi",
+        "example_fi": "Biologiassa opitaan eläimistä.",
+        "example_en": "In biology we learn about animals.",
+        "note": "Taivutus: biologia–biologian–biologiaa."
+      },
+      {
+        "fi": "kemia",
+        "en": "chemistry",
+        "type": "substantiivi",
+        "example_fi": "Kemia on kiinnostava oppiaine.",
+        "example_en": "Chemistry is an interesting subject.",
+        "note": "Taivutus: kemia–kemian–kemiaa."
+      },
+      {
+        "fi": "fysiikka",
+        "en": "physics",
+        "type": "substantiivi",
+        "example_fi": "Fysiikka käsittelee luonnonlakeja.",
+        "example_en": "Physics deals with the laws of nature.",
+        "note": "Taivutus: fysiikka–fysiikan. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "tehtävä",
+        "en": "assignment",
+        "type": "substantiivi",
+        "example_fi": "Tein kaikki tehtävät oikein.",
+        "example_en": "I did all the assignments correctly.",
+        "note": "Taivutus: tehtävä–tehtävän–tehtävää. Myös 'task'."
+      }
+    ]
+  },
+  {
+    "category": "Harrastukset ja vapaa-aika",
+    "category_en": "Hobbies & free time",
+    "cards": [
+      {
+        "fi": "harrastus",
+        "en": "hobby",
+        "type": "substantiivi",
+        "example_fi": "Minulla on monta harrastusta.",
+        "example_en": "I have many hobbies.",
+        "note": "Taivutus: harrastus–harrastuksen–harrastusta."
+      },
+      {
+        "fi": "vapaa-aika",
+        "en": "free time",
+        "type": "substantiivi",
+        "example_fi": "Vapaa-ajalla luen kirjoja.",
+        "example_en": "In my free time I read books.",
+        "note": "Taivutus: vapaa-aika–vapaa-ajan. Astevaihtelu k→j."
+      },
+      {
+        "fi": "urheilu",
+        "en": "sport",
+        "type": "substantiivi",
+        "example_fi": "Urheilu pitää kunnossa.",
+        "example_en": "Sport keeps you fit.",
+        "note": "Taivutus: urheilu–urheilun–urheilua."
+      },
+      {
+        "fi": "jalkapallo",
+        "en": "football",
+        "type": "substantiivi",
+        "example_fi": "Pojat pelaavat jalkapalloa pihalla.",
+        "example_en": "The boys play football in the yard.",
+        "note": "Taivutus: jalkapallo–jalkapallon."
+      },
+      {
+        "fi": "jääkiekko",
+        "en": "ice hockey",
+        "type": "substantiivi",
+        "example_fi": "Suomi voitti jääkiekossa.",
+        "example_en": "Finland won in ice hockey.",
+        "note": "Taivutus: jääkiekko–jääkiekon. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "uinti",
+        "en": "swimming",
+        "type": "substantiivi",
+        "example_fi": "Uinti on hyvää liikuntaa.",
+        "example_en": "Swimming is good exercise.",
+        "note": "Taivutus: uinti–uinnin–uintia. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "hiihto",
+        "en": "skiing",
+        "type": "substantiivi",
+        "example_fi": "Hiihto on suosittua talvella.",
+        "example_en": "Skiing is popular in winter.",
+        "note": "Taivutus: hiihto–hiihdon–hiihtoa. Astevaihtelu t→d."
+      },
+      {
+        "fi": "juoksu",
+        "en": "running",
+        "type": "substantiivi",
+        "example_fi": "Juoksu on hyvää kuntoilua.",
+        "example_en": "Running is good exercise.",
+        "note": "Taivutus: juoksu–juoksun–juoksua."
+      },
+      {
+        "fi": "kuntosali",
+        "en": "gym",
+        "type": "substantiivi",
+        "example_fi": "Käyn kuntosalilla kolmesti viikossa.",
+        "example_en": "I go to the gym three times a week.",
+        "note": "Taivutus: kuntosali–kuntosalin. Adessiivi: kuntosalilla."
+      },
+      {
+        "fi": "musiikki",
+        "en": "music",
+        "type": "substantiivi",
+        "example_fi": "Kuuntelen musiikkia joka päivä.",
+        "example_en": "I listen to music every day.",
+        "note": "Taivutus: musiikki–musiikin–musiikkia. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "laulaa",
+        "en": "to sing",
+        "type": "verbi",
+        "example_fi": "Hän laulaa kauniisti.",
+        "example_en": "She sings beautifully.",
+        "note": "Taivutus: laulaa–laulan–lauloi."
+      },
+      {
+        "fi": "soittaa",
+        "en": "to play (instrument)",
+        "type": "verbi",
+        "example_fi": "Soitan pianoa.",
+        "example_en": "I play the piano.",
+        "note": "Taivutus: soittaa–soitan–soitti. Myös 'to call'."
+      },
+      {
+        "fi": "tanssia",
+        "en": "to dance",
+        "type": "verbi",
+        "example_fi": "Tanssimme koko illan.",
+        "example_en": "We danced all evening.",
+        "note": "Taivutus: tanssia–tanssin–tanssi."
+      },
+      {
+        "fi": "maalata",
+        "en": "to paint",
+        "type": "verbi",
+        "example_fi": "Hän maalaa tauluja vapaa-ajalla.",
+        "example_en": "He paints pictures in his free time.",
+        "note": "Taivutus: maalata–maalaan–maalasi."
+      },
+      {
+        "fi": "lukeminen",
+        "en": "reading",
+        "type": "substantiivi",
+        "example_fi": "Lukeminen on rentouttavaa.",
+        "example_en": "Reading is relaxing.",
+        "note": "Taivutus: lukeminen–lukemisen–lukemista. Verbistä lukea."
+      },
+      {
+        "fi": "elokuva",
+        "en": "movie",
+        "type": "substantiivi",
+        "example_fi": "Katsomme elokuvan illalla.",
+        "example_en": "We watch a movie in the evening.",
+        "note": "Taivutus: elokuva–elokuvan–elokuvaa."
+      },
+      {
+        "fi": "peli",
+        "en": "game",
+        "type": "substantiivi",
+        "example_fi": "Tämä peli on hauska.",
+        "example_en": "This game is fun.",
+        "note": "Taivutus: peli–pelin–peliä."
+      },
+      {
+        "fi": "valokuvaus",
+        "en": "photography",
+        "type": "substantiivi",
+        "example_fi": "Valokuvaus on hänen harrastuksensa.",
+        "example_en": "Photography is his hobby.",
+        "note": "Taivutus: valokuvaus–valokuvauksen."
+      },
+      {
+        "fi": "pyöräily",
+        "en": "cycling",
+        "type": "substantiivi",
+        "example_fi": "Pyöräily on ekologinen liikkumistapa.",
+        "example_en": "Cycling is an ecological way to get around.",
+        "note": "Taivutus: pyöräily–pyöräilyn–pyöräilyä."
+      },
+      {
+        "fi": "kalastus",
+        "en": "fishing",
+        "type": "substantiivi",
+        "example_fi": "Kalastus rauhoittaa mieltä.",
+        "example_en": "Fishing calms the mind.",
+        "note": "Taivutus: kalastus–kalastuksen–kalastusta."
+      },
+      {
+        "fi": "metsästys",
+        "en": "hunting",
+        "type": "substantiivi",
+        "example_fi": "Metsästys on sallittua syksyllä.",
+        "example_en": "Hunting is allowed in the autumn.",
+        "note": "Taivutus: metsästys–metsästyksen."
+      },
+      {
+        "fi": "käsityö",
+        "en": "handicraft",
+        "type": "substantiivi",
+        "example_fi": "Teen käsitöitä iltaisin.",
+        "example_en": "I do handicrafts in the evenings.",
+        "note": "Taivutus: käsityö–käsityön. Usein monikossa: käsityöt."
+      },
+      {
+        "fi": "neuloa",
+        "en": "to knit",
+        "type": "verbi",
+        "example_fi": "Mummo neuloo villasukkia.",
+        "example_en": "Grandma knits woolen socks.",
+        "note": "Taivutus: neuloa–neulon–neuloi."
+      },
+      {
+        "fi": "piirtää",
+        "en": "to draw",
+        "type": "verbi",
+        "example_fi": "Lapsi piirtää auringon.",
+        "example_en": "The child draws the sun.",
+        "note": "Taivutus: piirtää–piirrän–piirsi. Astevaihtelu rt→rr."
+      },
+      {
+        "fi": "leipoa",
+        "en": "to bake",
+        "type": "verbi",
+        "example_fi": "Leivon pullaa sunnuntaisin.",
+        "example_en": "I bake buns on Sundays.",
+        "note": "Taivutus: leipoa–leivon–leipoi. Astevaihtelu p→v."
+      },
+      {
+        "fi": "laulu",
+        "en": "song",
+        "type": "substantiivi",
+        "example_fi": "Tämä laulu on kaunis.",
+        "example_en": "This song is beautiful.",
+        "note": "Taivutus: laulu–laulun–laulua."
+      },
+      {
+        "fi": "konsertti",
+        "en": "concert",
+        "type": "substantiivi",
+        "example_fi": "Menemme konserttiin lauantaina.",
+        "example_en": "We are going to a concert on Saturday.",
+        "note": "Taivutus: konsertti–konsertin. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "teatteri",
+        "en": "theatre",
+        "type": "substantiivi",
+        "example_fi": "Kävimme teatterissa eilen.",
+        "example_en": "We went to the theatre yesterday.",
+        "note": "Taivutus: teatteri–teatterin–teatteria."
+      },
+      {
+        "fi": "kirjasto",
+        "en": "library",
+        "type": "substantiivi",
+        "example_fi": "Lainaan kirjoja kirjastosta.",
+        "example_en": "I borrow books from the library.",
+        "note": "Taivutus: kirjasto–kirjaston–kirjastoa."
+      },
+      {
+        "fi": "lenkkeily",
+        "en": "jogging",
+        "type": "substantiivi",
+        "example_fi": "Lenkkeily piristää aamulla.",
+        "example_en": "Jogging cheers you up in the morning.",
+        "note": "Taivutus: lenkkeily–lenkkeilyn–lenkkeilyä."
+      },
+      {
+        "fi": "golf",
+        "en": "golf",
+        "type": "substantiivi",
+        "example_fi": "Isä pelaa golfia kesällä.",
+        "example_en": "Dad plays golf in the summer.",
+        "note": "Taivutus: golf–golfin–golfia."
+      },
+      {
+        "fi": "tennis",
+        "en": "tennis",
+        "type": "substantiivi",
+        "example_fi": "Pelaan tennistä ystävän kanssa.",
+        "example_en": "I play tennis with a friend.",
+        "note": "Taivutus: tennis–tenniksen–tennistä."
+      },
+      {
+        "fi": "sulkapallo",
+        "en": "badminton",
+        "type": "substantiivi",
+        "example_fi": "Sulkapallo on nopea peli.",
+        "example_en": "Badminton is a fast game.",
+        "note": "Taivutus: sulkapallo–sulkapallon."
+      },
+      {
+        "fi": "koripallo",
+        "en": "basketball",
+        "type": "substantiivi",
+        "example_fi": "Hän harrastaa koripalloa.",
+        "example_en": "He plays basketball as a hobby.",
+        "note": "Taivutus: koripallo–koripallon–koripalloa."
+      },
+      {
+        "fi": "lentopallo",
+        "en": "volleyball",
+        "type": "substantiivi",
+        "example_fi": "Pelaamme lentopalloa rannalla.",
+        "example_en": "We play volleyball on the beach.",
+        "note": "Taivutus: lentopallo–lentopallon."
+      },
+      {
+        "fi": "joukkue",
+        "en": "team",
+        "type": "substantiivi",
+        "example_fi": "Meidän joukkue voitti ottelun.",
+        "example_en": "Our team won the match.",
+        "note": "Taivutus: joukkue–joukkueen–joukkuetta."
+      },
+      {
+        "fi": "ottelu",
+        "en": "match",
+        "type": "substantiivi",
+        "example_fi": "Ottelu alkaa kello seitsemän.",
+        "example_en": "The match starts at seven.",
+        "note": "Taivutus: ottelu–ottelun–ottelua."
+      },
+      {
+        "fi": "voittaa",
+        "en": "to win",
+        "type": "verbi",
+        "example_fi": "Toivottavasti voitamme pelin.",
+        "example_en": "Hopefully we win the game.",
+        "note": "Taivutus: voittaa–voitan–voitti. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "hävitä",
+        "en": "to lose",
+        "type": "verbi",
+        "example_fi": "Emme halua hävitä ottelua.",
+        "example_en": "We don't want to lose the match.",
+        "note": "Taivutus: hävitä–häviän–hävisi. Myös 'to disappear'."
+      },
+      {
+        "fi": "harjoitella",
+        "en": "to practice",
+        "type": "verbi",
+        "example_fi": "Harjoittelen kitaransoittoa.",
+        "example_en": "I practice playing the guitar.",
+        "note": "Taivutus: harjoitella–harjoittelen–harjoitteli."
+      },
+      {
+        "fi": "retki",
+        "en": "trip",
+        "type": "substantiivi",
+        "example_fi": "Teimme retken metsään.",
+        "example_en": "We made a trip to the forest.",
+        "note": "Taivutus: retki–retken–retkeä."
+      },
+      {
+        "fi": "luonto",
+        "en": "nature",
+        "type": "substantiivi",
+        "example_fi": "Suomen luonto on kaunis.",
+        "example_en": "Finnish nature is beautiful.",
+        "note": "Taivutus: luonto–luonnon–luontoa. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "marjastus",
+        "en": "berry picking",
+        "type": "substantiivi",
+        "example_fi": "Marjastus on suosittu harrastus.",
+        "example_en": "Berry picking is a popular hobby.",
+        "note": "Taivutus: marjastus–marjastuksen."
+      },
+      {
+        "fi": "sienestys",
+        "en": "mushroom picking",
+        "type": "substantiivi",
+        "example_fi": "Syksyllä harrastamme sienestystä.",
+        "example_en": "In autumn we go mushroom picking.",
+        "note": "Taivutus: sienestys–sienestyksen."
+      },
+      {
+        "fi": "pelata",
+        "en": "to play (a game)",
+        "type": "verbi",
+        "example_fi": "Lapset pelaavat lautapeliä.",
+        "example_en": "The children play a board game.",
+        "note": "Taivutus: pelata–pelaan–pelasi."
+      }
+    ]
+  },
+  {
+    "category": "Matkustaminen",
+    "category_en": "Travel",
+    "cards": [
+      {
+        "fi": "matka",
+        "en": "trip",
+        "type": "substantiivi",
+        "example_fi": "Matka Helsinkiin kesti kaksi tuntia.",
+        "example_en": "The trip to Helsinki took two hours.",
+        "note": "Taivutus: matka–matkan–matkaa."
+      },
+      {
+        "fi": "matkustaa",
+        "en": "to travel",
+        "type": "verbi",
+        "example_fi": "Matkustan junalla Tampereelle.",
+        "example_en": "I travel to Tampere by train.",
+        "note": "Taivutus: matkustaa–matkustan–matkusti."
+      },
+      {
+        "fi": "loma",
+        "en": "holiday",
+        "type": "substantiivi",
+        "example_fi": "Menemme lomalle heinäkuussa.",
+        "example_en": "We are going on holiday in July.",
+        "note": "Taivutus: loma–loman–lomaa. Allatiivi: lomalle."
+      },
+      {
+        "fi": "lentokone",
+        "en": "airplane",
+        "type": "substantiivi",
+        "example_fi": "Lentokone laskeutuu kohta.",
+        "example_en": "The airplane lands soon.",
+        "note": "Taivutus: lentokone–lentokoneen–lentokonetta."
+      },
+      {
+        "fi": "laiva",
+        "en": "ship",
+        "type": "substantiivi",
+        "example_fi": "Laiva lähtee satamasta.",
+        "example_en": "The ship departs from the harbor.",
+        "note": "Taivutus: laiva–laivan–laivaa."
+      },
+      {
+        "fi": "juna",
+        "en": "train",
+        "type": "substantiivi",
+        "example_fi": "Juna saapuu asemalle.",
+        "example_en": "The train arrives at the station.",
+        "note": "Taivutus: juna–junan–junaa."
+      },
+      {
+        "fi": "passi",
+        "en": "passport",
+        "type": "substantiivi",
+        "example_fi": "Tarvitsen passin matkalle.",
+        "example_en": "I need a passport for the trip.",
+        "note": "Taivutus: passi–passin–passia."
+      },
+      {
+        "fi": "matkalaukku",
+        "en": "suitcase",
+        "type": "substantiivi",
+        "example_fi": "Pakkaan matkalaukun.",
+        "example_en": "I pack the suitcase.",
+        "note": "Taivutus: matkalaukku–matkalaukun. Astevaihtelu kk→k."
+      },
+      {
+        "fi": "hotelli",
+        "en": "hotel",
+        "type": "substantiivi",
+        "example_fi": "Yövymme hotellissa kaksi yötä.",
+        "example_en": "We stay at the hotel for two nights.",
+        "note": "Taivutus: hotelli–hotellin–hotellia."
+      },
+      {
+        "fi": "varata",
+        "en": "to book",
+        "type": "verbi",
+        "example_fi": "Varaan huoneen hotellista.",
+        "example_en": "I book a room at the hotel.",
+        "note": "Taivutus: varata–varaan–varasi."
+      },
+      {
+        "fi": "lippu",
+        "en": "ticket",
+        "type": "substantiivi",
+        "example_fi": "Ostan junalipun netistä.",
+        "example_en": "I buy a train ticket online.",
+        "note": "Taivutus: lippu–lipun–lippua. Astevaihtelu pp→p. Myös 'flag'."
+      },
+      {
+        "fi": "kartta",
+        "en": "map",
+        "type": "substantiivi",
+        "example_fi": "Katson reitin kartasta.",
+        "example_en": "I check the route on the map.",
+        "note": "Taivutus: kartta–kartan–karttaa. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "turisti",
+        "en": "tourist",
+        "type": "substantiivi",
+        "example_fi": "Turisti ottaa valokuvia.",
+        "example_en": "The tourist takes photos.",
+        "note": "Taivutus: turisti–turistin–turistia."
+      },
+      {
+        "fi": "ulkomaat",
+        "en": "abroad",
+        "type": "substantiivi",
+        "example_fi": "Matkustan ulkomaille kesällä.",
+        "example_en": "I travel abroad in the summer.",
+        "note": "Monikkosana: ulkomaat–ulkomaiden. Illatiivi: ulkomaille."
+      },
+      {
+        "fi": "ranta",
+        "en": "beach",
+        "type": "substantiivi",
+        "example_fi": "Uimme rannalla koko päivän.",
+        "example_en": "We swam at the beach all day.",
+        "note": "Taivutus: ranta–rannan–rantaa. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "nähtävyys",
+        "en": "sight",
+        "type": "substantiivi",
+        "example_fi": "Kävimme katsomassa nähtävyyksiä.",
+        "example_en": "We went to see the sights.",
+        "note": "Taivutus: nähtävyys–nähtävyyden–nähtävyyttä."
+      },
+      {
+        "fi": "majoitus",
+        "en": "accommodation",
+        "type": "substantiivi",
+        "example_fi": "Majoitus sisältyy hintaan.",
+        "example_en": "Accommodation is included in the price.",
+        "note": "Taivutus: majoitus–majoituksen–majoitusta."
+      },
+      {
+        "fi": "reppu",
+        "en": "backpack",
+        "type": "substantiivi",
+        "example_fi": "Kannan reppua selässä.",
+        "example_en": "I carry a backpack on my back.",
+        "note": "Taivutus: reppu–repun–reppua. Astevaihtelu pp→p."
+      },
+      {
+        "fi": "lähteä",
+        "en": "to leave",
+        "type": "verbi",
+        "example_fi": "Lähdemme matkalle aamulla.",
+        "example_en": "We leave on the trip in the morning.",
+        "note": "Taivutus: lähteä–lähden–lähti. Astevaihtelu t→d."
+      },
+      {
+        "fi": "saapua",
+        "en": "to arrive",
+        "type": "verbi",
+        "example_fi": "Saavuimme perille illalla.",
+        "example_en": "We arrived at the destination in the evening.",
+        "note": "Taivutus: saapua–saavun–saapui. Astevaihtelu p→v."
+      },
+      {
+        "fi": "lentokenttä",
+        "en": "airport",
+        "type": "substantiivi",
+        "example_fi": "Menemme lentokentälle taksilla.",
+        "example_en": "We go to the airport by taxi.",
+        "note": "Taivutus: lentokenttä–lentokentän. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "asema",
+        "en": "station",
+        "type": "substantiivi",
+        "example_fi": "Odotan junaa asemalla.",
+        "example_en": "I wait for the train at the station.",
+        "note": "Taivutus: asema–aseman–asemaa. Adessiivi: asemalla."
+      },
+      {
+        "fi": "bussi",
+        "en": "bus",
+        "type": "substantiivi",
+        "example_fi": "Bussi lähtee kymmenen minuutin päästä.",
+        "example_en": "The bus leaves in ten minutes.",
+        "note": "Taivutus: bussi–bussin–bussia."
+      },
+      {
+        "fi": "lentää",
+        "en": "to fly",
+        "type": "verbi",
+        "example_fi": "Lennämme Roomaan huomenna.",
+        "example_en": "We fly to Rome tomorrow.",
+        "note": "Taivutus: lentää–lennän–lensi. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "matkatavara",
+        "en": "luggage",
+        "type": "substantiivi",
+        "example_fi": "Matkatavarat menivät hukkaan.",
+        "example_en": "The luggage got lost.",
+        "note": "Taivutus: matkatavara–matkatavaran. Usein monikossa."
+      },
+      {
+        "fi": "matkustaja",
+        "en": "passenger",
+        "type": "substantiivi",
+        "example_fi": "Matkustaja näyttää lipun.",
+        "example_en": "The passenger shows the ticket.",
+        "note": "Taivutus: matkustaja–matkustajan–matkustajaa."
+      },
+      {
+        "fi": "aikataulu",
+        "en": "schedule",
+        "type": "substantiivi",
+        "example_fi": "Katson bussin aikataulun.",
+        "example_en": "I check the bus schedule.",
+        "note": "Taivutus: aikataulu–aikataulun–aikataulua."
+      },
+      {
+        "fi": "viisumi",
+        "en": "visa",
+        "type": "substantiivi",
+        "example_fi": "Tarvitsen viisumin matkalle.",
+        "example_en": "I need a visa for the trip.",
+        "note": "Taivutus: viisumi–viisumin–viisumia."
+      },
+      {
+        "fi": "valuutta",
+        "en": "currency",
+        "type": "substantiivi",
+        "example_fi": "Vaihdan valuuttaa pankissa.",
+        "example_en": "I exchange currency at the bank.",
+        "note": "Taivutus: valuutta–valuutan–valuuttaa. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "opas",
+        "en": "guide",
+        "type": "substantiivi",
+        "example_fi": "Opas kertoo kaupungin historiasta.",
+        "example_en": "The guide tells about the city's history.",
+        "note": "Taivutus: opas–oppaan–opasta. Astevaihtelu p→pp."
+      },
+      {
+        "fi": "museo",
+        "en": "museum",
+        "type": "substantiivi",
+        "example_fi": "Museo on avoinna kymmenestä viiteen.",
+        "example_en": "The museum is open from ten to five.",
+        "note": "Taivutus: museo–museon–museota."
+      },
+      {
+        "fi": "leiri",
+        "en": "camp",
+        "type": "substantiivi",
+        "example_fi": "Lapset viettävät kesäleirillä viikon.",
+        "example_en": "The children spend a week at summer camp.",
+        "note": "Taivutus: leiri–leirin–leiriä. Adessiivi: leirillä."
+      },
+      {
+        "fi": "teltta",
+        "en": "tent",
+        "type": "substantiivi",
+        "example_fi": "Nukumme teltassa yön.",
+        "example_en": "We sleep in a tent for the night.",
+        "note": "Taivutus: teltta–teltan–telttaa. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "maisema",
+        "en": "scenery",
+        "type": "substantiivi",
+        "example_fi": "Vuoristosta avautuu upea maisema.",
+        "example_en": "A magnificent view opens up from the mountains.",
+        "note": "Taivutus: maisema–maiseman–maisemaa."
+      },
+      {
+        "fi": "seikkailu",
+        "en": "adventure",
+        "type": "substantiivi",
+        "example_fi": "Reissu oli suuri seikkailu.",
+        "example_en": "The trip was a big adventure.",
+        "note": "Taivutus: seikkailu–seikkailun–seikkailua."
+      },
+      {
+        "fi": "varaus",
+        "en": "reservation",
+        "type": "substantiivi",
+        "example_fi": "Teen hotellivarauksen netissä.",
+        "example_en": "I make the hotel reservation online.",
+        "note": "Taivutus: varaus–varauksen–varausta."
+      },
+      {
+        "fi": "lomamatka",
+        "en": "holiday trip",
+        "type": "substantiivi",
+        "example_fi": "Suunnittelemme lomamatkaa Espanjaan.",
+        "example_en": "We are planning a holiday trip to Spain.",
+        "note": "Taivutus: lomamatka–lomamatkan."
+      },
+      {
+        "fi": "risteily",
+        "en": "cruise",
+        "type": "substantiivi",
+        "example_fi": "Lähdemme risteilylle Tukholmaan.",
+        "example_en": "We go on a cruise to Stockholm.",
+        "note": "Taivutus: risteily–risteilyn–risteilyä."
+      },
+      {
+        "fi": "tulli",
+        "en": "customs",
+        "type": "substantiivi",
+        "example_fi": "Tullissa tarkastetaan matkatavarat.",
+        "example_en": "At customs the luggage is checked.",
+        "note": "Taivutus: tulli–tullin–tullia."
+      },
+      {
+        "fi": "lomakohde",
+        "en": "holiday destination",
+        "type": "substantiivi",
+        "example_fi": "Kreikka on suosittu lomakohde.",
+        "example_en": "Greece is a popular holiday destination.",
+        "note": "Taivutus: lomakohde–lomakohteen–lomakohdetta."
+      }
+    ]
+  },
+  {
+    "category": "Yhteiskunta ja asuminen",
+    "category_en": "Society & housing",
+    "cards": [
+      {
+        "fi": "yhteiskunta",
+        "en": "society",
+        "type": "substantiivi",
+        "example_fi": "Yhteiskunta tukee vanhuksia.",
+        "example_en": "Society supports the elderly.",
+        "note": "Taivutus: yhteiskunta–yhteiskunnan. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "valtio",
+        "en": "state",
+        "type": "substantiivi",
+        "example_fi": "Suomi on itsenäinen valtio.",
+        "example_en": "Finland is an independent state.",
+        "note": "Taivutus: valtio–valtion–valtiota."
+      },
+      {
+        "fi": "kunta",
+        "en": "municipality",
+        "type": "substantiivi",
+        "example_fi": "Kunta järjestää palvelut.",
+        "example_en": "The municipality organizes the services.",
+        "note": "Taivutus: kunta–kunnan–kuntaa. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "kaupunki",
+        "en": "city",
+        "type": "substantiivi",
+        "example_fi": "Helsinki on suuri kaupunki.",
+        "example_en": "Helsinki is a big city.",
+        "note": "Taivutus: kaupunki–kaupungin–kaupunkia. Astevaihtelu nk→ng."
+      },
+      {
+        "fi": "vuokra",
+        "en": "rent",
+        "type": "substantiivi",
+        "example_fi": "Maksan vuokran joka kuukausi.",
+        "example_en": "I pay the rent every month.",
+        "note": "Taivutus: vuokra–vuokran–vuokraa."
+      },
+      {
+        "fi": "vuokrata",
+        "en": "to rent",
+        "type": "verbi",
+        "example_fi": "Haluan vuokrata asunnon keskustasta.",
+        "example_en": "I want to rent an apartment in the city center.",
+        "note": "Taivutus: vuokrata–vuokraan–vuokrasi."
+      },
+      {
+        "fi": "asunto",
+        "en": "apartment",
+        "type": "substantiivi",
+        "example_fi": "Etsin uutta asuntoa.",
+        "example_en": "I am looking for a new apartment.",
+        "note": "Taivutus: asunto–asunnon–asuntoa. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "omakotitalo",
+        "en": "detached house",
+        "type": "substantiivi",
+        "example_fi": "He asuvat omakotitalossa.",
+        "example_en": "They live in a detached house.",
+        "note": "Taivutus: omakotitalo–omakotitalon."
+      },
+      {
+        "fi": "kerrostalo",
+        "en": "apartment building",
+        "type": "substantiivi",
+        "example_fi": "Asun kerrostalon neljännessä kerroksessa.",
+        "example_en": "I live on the fourth floor of an apartment building.",
+        "note": "Taivutus: kerrostalo–kerrostalon."
+      },
+      {
+        "fi": "rivitalo",
+        "en": "terraced house",
+        "type": "substantiivi",
+        "example_fi": "Ostimme asunnon rivitalosta.",
+        "example_en": "We bought an apartment in a terraced house.",
+        "note": "Taivutus: rivitalo–rivitalon–rivitaloa."
+      },
+      {
+        "fi": "naapuri",
+        "en": "neighbor",
+        "type": "substantiivi",
+        "example_fi": "Naapuri on ystävällinen.",
+        "example_en": "The neighbor is friendly.",
+        "note": "Taivutus: naapuri–naapurin–naapuria."
+      },
+      {
+        "fi": "muutto",
+        "en": "move",
+        "type": "substantiivi",
+        "example_fi": "Muutto uuteen asuntoon oli raskas.",
+        "example_en": "The move to the new apartment was tough.",
+        "note": "Taivutus: muutto–muuton–muuttoa. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "muuttaa",
+        "en": "to move",
+        "type": "verbi",
+        "example_fi": "Muutamme uuteen kaupunkiin.",
+        "example_en": "We are moving to a new city.",
+        "note": "Taivutus: muuttaa–muutan–muutti. Myös 'to change'."
+      },
+      {
+        "fi": "sähkö",
+        "en": "electricity",
+        "type": "substantiivi",
+        "example_fi": "Sähkö maksaa nykyään paljon.",
+        "example_en": "Electricity costs a lot nowadays.",
+        "note": "Taivutus: sähkö–sähkön–sähköä."
+      },
+      {
+        "fi": "vesi",
+        "en": "water",
+        "type": "substantiivi",
+        "example_fi": "Juon puhdasta vettä.",
+        "example_en": "I drink clean water.",
+        "note": "Taivutus: vesi–veden–vettä. Astevaihtelu."
+      },
+      {
+        "fi": "internet",
+        "en": "internet",
+        "type": "substantiivi",
+        "example_fi": "Internet toimii hyvin kotona.",
+        "example_en": "The internet works well at home.",
+        "note": "Taivutus: internet–internetin–internetiä."
+      },
+      {
+        "fi": "vakuutus",
+        "en": "insurance",
+        "type": "substantiivi",
+        "example_fi": "Otin kotivakuutuksen.",
+        "example_en": "I took out home insurance.",
+        "note": "Taivutus: vakuutus–vakuutuksen–vakuutusta."
+      },
+      {
+        "fi": "vero",
+        "en": "tax",
+        "type": "substantiivi",
+        "example_fi": "Maksan veroa palkasta.",
+        "example_en": "I pay tax on my salary.",
+        "note": "Taivutus: vero–veron–veroa."
+      },
+      {
+        "fi": "kansalainen",
+        "en": "citizen",
+        "type": "substantiivi",
+        "example_fi": "Hän on Suomen kansalainen.",
+        "example_en": "He is a Finnish citizen.",
+        "note": "Taivutus: kansalainen–kansalaisen–kansalaista."
+      },
+      {
+        "fi": "laki",
+        "en": "law",
+        "type": "substantiivi",
+        "example_fi": "Laki koskee kaikkia.",
+        "example_en": "The law applies to everyone.",
+        "note": "Taivutus: laki–lain–lakia. Astevaihtelu k→∅."
+      },
+      {
+        "fi": "hallitus",
+        "en": "government",
+        "type": "substantiivi",
+        "example_fi": "Hallitus päättää veroista.",
+        "example_en": "The government decides on taxes.",
+        "note": "Taivutus: hallitus–hallituksen–hallitusta."
+      },
+      {
+        "fi": "eduskunta",
+        "en": "parliament",
+        "type": "substantiivi",
+        "example_fi": "Eduskunta säätää lait.",
+        "example_en": "The parliament enacts the laws.",
+        "note": "Taivutus: eduskunta–eduskunnan. Astevaihtelu nt→nn."
+      },
+      {
+        "fi": "presidentti",
+        "en": "president",
+        "type": "substantiivi",
+        "example_fi": "Presidentti pitää puheen.",
+        "example_en": "The president gives a speech.",
+        "note": "Taivutus: presidentti–presidentin. Astevaihtelu tt→t."
+      },
+      {
+        "fi": "äänestää",
+        "en": "to vote",
+        "type": "verbi",
+        "example_fi": "Äänestän vaaleissa aina.",
+        "example_en": "I always vote in the elections.",
+        "note": "Taivutus: äänestää–äänestän–äänesti."
+      },
+      {
+        "fi": "vaalit",
+        "en": "elections",
+        "type": "substantiivi",
+        "example_fi": "Vaalit järjestetään huhtikuussa.",
+        "example_en": "The elections are held in April.",
+        "note": "Monikkosana: vaalit–vaalien–vaaleja."
+      },
+      {
+        "fi": "puolue",
+        "en": "political party",
+        "type": "substantiivi",
+        "example_fi": "Hän kuuluu suureen puolueeseen.",
+        "example_en": "He belongs to a big party.",
+        "note": "Taivutus: puolue–puolueen–puoluetta."
+      },
+      {
+        "fi": "oikeus",
+        "en": "right",
+        "type": "substantiivi",
+        "example_fi": "Jokaisella on oikeus koulutukseen.",
+        "example_en": "Everyone has the right to education.",
+        "note": "Taivutus: oikeus–oikeuden–oikeutta. Myös 'court'."
+      },
+      {
+        "fi": "velvollisuus",
+        "en": "duty",
+        "type": "substantiivi",
+        "example_fi": "Veronmaksu on kansalaisen velvollisuus.",
+        "example_en": "Paying taxes is a citizen's duty.",
+        "note": "Taivutus: velvollisuus–velvollisuuden–velvollisuutta."
+      },
+      {
+        "fi": "isännöitsijä",
+        "en": "property manager",
+        "type": "substantiivi",
+        "example_fi": "Isännöitsijä hoitaa taloyhtiön asiat.",
+        "example_en": "The property manager handles the housing company's affairs.",
+        "note": "Taivutus: isännöitsijä–isännöitsijän."
+      },
+      {
+        "fi": "taloyhtiö",
+        "en": "housing company",
+        "type": "substantiivi",
+        "example_fi": "Taloyhtiö korjaa katon.",
+        "example_en": "The housing company repairs the roof.",
+        "note": "Taivutus: taloyhtiö–taloyhtiön–taloyhtiötä."
+      },
+      {
+        "fi": "piha",
+        "en": "yard",
+        "type": "substantiivi",
+        "example_fi": "Lapset leikkivät pihalla.",
+        "example_en": "The children play in the yard.",
+        "note": "Taivutus: piha–pihan–pihaa. Adessiivi: pihalla."
+      },
+      {
+        "fi": "parveke",
+        "en": "balcony",
+        "type": "substantiivi",
+        "example_fi": "Kahvi maistuu parvekkeella.",
+        "example_en": "Coffee tastes good on the balcony.",
+        "note": "Taivutus: parveke–parvekkeen–parveketta. Astevaihtelu k→kk."
+      },
+      {
+        "fi": "keittiö",
+        "en": "kitchen",
+        "type": "substantiivi",
+        "example_fi": "Valmistan ruoan keittiössä.",
+        "example_en": "I prepare the food in the kitchen.",
+        "note": "Taivutus: keittiö–keittiön–keittiötä."
+      },
+      {
+        "fi": "olohuone",
+        "en": "living room",
+        "type": "substantiivi",
+        "example_fi": "Katsomme televisiota olohuoneessa.",
+        "example_en": "We watch television in the living room.",
+        "note": "Taivutus: olohuone–olohuoneen–olohuonetta."
+      },
+      {
+        "fi": "makuuhuone",
+        "en": "bedroom",
+        "type": "substantiivi",
+        "example_fi": "Nukun makuuhuoneessa.",
+        "example_en": "I sleep in the bedroom.",
+        "note": "Taivutus: makuuhuone–makuuhuoneen."
+      },
+      {
+        "fi": "sauna",
+        "en": "sauna",
+        "type": "substantiivi",
+        "example_fi": "Suomalaiset rakastavat saunaa.",
+        "example_en": "Finns love the sauna.",
+        "note": "Taivutus: sauna–saunan–saunaa."
+      },
+      {
+        "fi": "lämmitys",
+        "en": "heating",
+        "type": "substantiivi",
+        "example_fi": "Talon lämmitys on kallista.",
+        "example_en": "Heating the house is expensive.",
+        "note": "Taivutus: lämmitys–lämmityksen–lämmitystä."
+      },
+      {
+        "fi": "jäte",
+        "en": "waste",
+        "type": "substantiivi",
+        "example_fi": "Lajittelen jätteet oikein.",
+        "example_en": "I sort the waste correctly.",
+        "note": "Taivutus: jäte–jätteen–jätettä. Astevaihtelu t→tt."
+      },
+      {
+        "fi": "kierrätys",
+        "en": "recycling",
+        "type": "substantiivi",
+        "example_fi": "Kierrätys säästää luontoa.",
+        "example_en": "Recycling saves nature.",
+        "note": "Taivutus: kierrätys–kierrätyksen–kierrätystä."
+      },
+      {
+        "fi": "maksaa",
+        "en": "to pay",
+        "type": "verbi",
+        "example_fi": "Maksan laskut ajallaan.",
+        "example_en": "I pay the bills on time.",
+        "note": "Taivutus: maksaa–maksan–maksoi. Myös 'to cost'."
+      }
+    ]
+  }
+]

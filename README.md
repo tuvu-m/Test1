@@ -3,7 +3,7 @@
 A category-based Finnish–English flashcard game inspired by [ykimock.fi](https://ykimock.fi)
 and the vocabulary themes of the **Suomen mestari** textbook series (YKI / beginner–intermediate level).
 
-Around **1000 cards** across ~25 topics. Every card hides its explanation until you flip it:
+**~1075 cards** across 25 topics. Every card hides its explanation until you flip it:
 
 - **Sanaluokka** — word type (substantiivi, verbi, adjektiivi, …)
 - **Esimerkkilause** — an example sentence in Finnish, with English translation
