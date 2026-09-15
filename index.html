@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Suomi–English Flashcards</title>
+  <meta name="description" content="Finnish–English flashcard game organised by category (Suomen Mestari / YKI style). ~1000 cards with word type, examples and usage notes." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <button class="brand" id="homeBtn" title="Etusivu / Home">
+        <span class="brand__flag">🇫🇮</span>
+        <span class="brand__name">Suomi<span class="brand__arrow">→</span>English</span>
+        <span class="brand__sub">Flashcards</span>
+      </button>
+      <div class="topbar__actions">
+        <div class="dir-toggle" id="dirToggle" role="group" aria-label="Study direction">
+          <button data-dir="fi-en" class="is-active">FI → EN</button>
+          <button data-dir="en-fi">EN → FI</button>
+        </div>
+        <button class="icon-btn" id="themeBtn" title="Vaihda teema / Toggle theme" aria-label="Toggle theme">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- ===================== HOME / CATEGORY PICKER ===================== -->
+    <section id="homeView" class="view">
+      <div class="hero">
+        <h1 class="hero__title">Opettele suomea korteilla</h1>
+        <p class="hero__lead">Valitse aihe ja harjoittele sanoja. Jokaisessa kortissa on piilotettuna
+          <strong>sanaluokka</strong>, <strong>esimerkkilause</strong> ja <strong>käyttövihje</strong>.</p>
+        <div class="hero__stats">
+          <div class="stat"><span class="stat__num" id="statCards">–</span><span class="stat__label">korttia</span></div>
+          <div class="stat"><span class="stat__num" id="statCats">–</span><span class="stat__label">aihetta</span></div>
+          <div class="stat"><span class="stat__num" id="statLearned">0</span><span class="stat__label">opittu</span></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input type="search" id="catSearch" class="search" placeholder="Hae aihetta… (Search topics)" autocomplete="off" />
+        <button class="btn btn--primary" id="studyAllBtn">📚 Opiskele kaikki</button>
+        <button class="btn" id="resetProgressBtn" title="Nollaa edistyminen">♻︎ Nollaa</button>
+      </div>
+
+      <div id="categoryGrid" class="cat-grid" aria-live="polite"></div>
+    </section>
+
+    <!-- ===================== STUDY (FLASHCARD) VIEW ===================== -->
+    <section id="studyView" class="view" hidden>
+      <div class="study-head">
+        <button class="btn btn--ghost" id="backBtn">← Takaisin</button>
+        <div class="study-title" id="studyTitle">Aihe</div>
+        <div class="mode-toggle" id="modeToggle" role="group" aria-label="Mode">
+          <button data-mode="flash" class="is-active">🃏 Kortit</button>
+          <button data-mode="quiz">✍️ Visa</button>
+        </div>
+      </div>
+
+      <div class="progress">
+        <div class="progress__bar"><span id="progressFill"></span></div>
+        <div class="progress__meta">
+          <span id="progressCount">0 / 0</span>
+          <span id="progressKnown" class="progress__known">✓ 0</span>
+        </div>
+      </div>
+
+      <!-- Flashcard mode -->
+      <div id="flashMode">
+        <div class="card-stage">
+          <div class="flashcard" id="flashcard" tabindex="0" role="button" aria-label="Käännä kortti">
+            <div class="flashcard__inner">
+              <div class="flashcard__face flashcard__face--front">
+                <span class="flashcard__hint" id="frontHint">Suomi</span>
+                <span class="flashcard__word" id="frontWord">—</span>
+                <span class="flashcard__tap">Napauta tai paina välilyöntiä kääntääksesi</span>
+              </div>
+              <div class="flashcard__face flashcard__face--back">
+                <span class="badge" id="backType">—</span>
+                <span class="flashcard__word flashcard__word--answer" id="backWord">—</span>
+                <div class="flashcard__example">
+                  <p class="ex-fi" id="exampleFi"></p>
+                  <p class="ex-en" id="exampleEn"></p>
+                </div>
+                <p class="flashcard__note" id="backNote"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="answer-row" id="answerRow" hidden>
+          <button class="btn btn--dont" id="dontKnowBtn">✗ En osaa</button>
+          <button class="btn btn--flip" id="flipBtn">↻ Käännä</button>
+          <button class="btn btn--know" id="knowBtn">✓ Osaan</button>
+        </div>
+        <div class="study-controls">
+          <button class="btn btn--ghost" id="prevBtn">‹ Edellinen</button>
+          <button class="btn btn--ghost" id="shuffleBtn">🔀 Sekoita</button>
+          <button class="btn btn--ghost" id="nextBtn">Seuraava ›</button>
+        </div>
+      </div>
+
+      <!-- Quiz mode -->
+      <div id="quizMode" hidden>
+        <div class="quiz-card">
+          <span class="quiz-prompt-label" id="quizPromptLabel">Mikä on käännös?</span>
+          <div class="quiz-word" id="quizWord">—</div>
+          <div class="quiz-options" id="quizOptions"></div>
+          <div class="quiz-feedback" id="quizFeedback"></div>
+        </div>
+      </div>
+
+      <!-- Completion -->
+      <div id="doneView" class="done" hidden>
+        <div class="done__emoji">🎉</div>
+        <h2 class="done__title" id="doneTitle">Hyvin tehty!</h2>
+        <p class="done__text" id="doneText"></p>
+        <div class="done__actions">
+          <button class="btn btn--primary" id="restartBtn">↻ Uudelleen</button>
+          <button class="btn" id="reviewMissedBtn">Kertaa virheet</button>
+          <button class="btn btn--ghost" id="doneHomeBtn">Etusivulle</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Aiheet mukailevat <em>Suomen mestari</em> -sanastoa ja YKI-tason teemoja.</span>
+  </footer>
+
+  <!-- Card data (sets a global window.FLASHCARDS) -->
+  <script src="data/cards.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
