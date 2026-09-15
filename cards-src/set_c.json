@@ -1,0 +1,1752 @@
+[
+  {
+    "category": "Värit ja muodot",
+    "category_en": "Colors & shapes",
+    "cards": [
+      {
+        "fi": "väri",
+        "en": "color",
+        "type": "substantiivi",
+        "example_fi": "Tämä väri on kaunis.",
+        "example_en": "This color is beautiful.",
+        "note": "Taivutus: väri–värin–väriä."
+      },
+      {
+        "fi": "punainen",
+        "en": "red",
+        "type": "adjektiivi",
+        "example_fi": "Auto on punainen.",
+        "example_en": "The car is red.",
+        "note": "Taivutus: punainen–punaisen–punaista."
+      },
+      {
+        "fi": "sininen",
+        "en": "blue",
+        "type": "adjektiivi",
+        "example_fi": "Taivas on sininen.",
+        "example_en": "The sky is blue.",
+        "note": "Taivutus: sininen–sinisen–sinistä."
+      },
+      {
+        "fi": "keltainen",
+        "en": "yellow",
+        "type": "adjektiivi",
+        "example_fi": "Aurinko on keltainen.",
+        "example_en": "The sun is yellow.",
+        "note": "Taivutus: keltainen–keltaisen–keltaista."
+      },
+      {
+        "fi": "vihreä",
+        "en": "green",
+        "type": "adjektiivi",
+        "example_fi": "Ruoho on vihreää.",
+        "example_en": "The grass is green.",
+        "note": "Taivutus: vihreä–vihreän–vihreää."
+      },
+      {
+        "fi": "musta",
+        "en": "black",
+        "type": "adjektiivi",
+        "example_fi": "Kissa on musta.",
+        "example_en": "The cat is black.",
+        "note": "Taivutus: musta–mustan–mustaa."
+      },
+      {
+        "fi": "valkoinen",
+        "en": "white",
+        "type": "adjektiivi",
+        "example_fi": "Lumi on valkoista.",
+        "example_en": "The snow is white.",
+        "note": "Taivutus: valkoinen–valkoisen–valkoista."
+      },
+      {
+        "fi": "harmaa",
+        "en": "grey",
+        "type": "adjektiivi",
+        "example_fi": "Taivas on harmaa.",
+        "example_en": "The sky is grey.",
+        "note": "Taivutus: harmaa–harmaan–harmaata."
+      },
+      {
+        "fi": "ruskea",
+        "en": "brown",
+        "type": "adjektiivi",
+        "example_fi": "Karhu on ruskea.",
+        "example_en": "The bear is brown.",
+        "note": "Taivutus: ruskea–ruskean–ruskeaa."
+      },
+      {
+        "fi": "oranssi",
+        "en": "orange",
+        "type": "adjektiivi",
+        "example_fi": "Appelsiini on oranssi.",
+        "example_en": "The orange is orange.",
+        "note": "Taivutus: oranssi–oranssin–oranssia."
+      },
+      {
+        "fi": "violetti",
+        "en": "purple",
+        "type": "adjektiivi",
+        "example_fi": "Kukka on violetti.",
+        "example_en": "The flower is purple.",
+        "note": "Astevaihtelu tt–t: violetti–violetin."
+      },
+      {
+        "fi": "vaaleanpunainen",
+        "en": "pink",
+        "type": "adjektiivi",
+        "example_fi": "Mekko on vaaleanpunainen.",
+        "example_en": "The dress is pink.",
+        "note": "Taivutus: vaaleanpunainen–vaaleanpunaisen."
+      },
+      {
+        "fi": "vaalea",
+        "en": "light (colored)",
+        "type": "adjektiivi",
+        "example_fi": "Hänellä on vaaleat hiukset.",
+        "example_en": "She has light hair.",
+        "note": "Taivutus: vaalea–vaalean–vaaleaa."
+      },
+      {
+        "fi": "tumma",
+        "en": "dark",
+        "type": "adjektiivi",
+        "example_fi": "Yö on tumma.",
+        "example_en": "The night is dark.",
+        "note": "Taivutus: tumma–tumman–tummaa."
+      },
+      {
+        "fi": "kirkas",
+        "en": "bright",
+        "type": "adjektiivi",
+        "example_fi": "Valo on kirkas.",
+        "example_en": "The light is bright.",
+        "note": "Astevaihtelu k–kk: kirkas–kirkkaan."
+      },
+      {
+        "fi": "muoto",
+        "en": "shape",
+        "type": "substantiivi",
+        "example_fi": "Pöydällä on outo muoto.",
+        "example_en": "The table has a strange shape.",
+        "note": "Astevaihtelu t–d: muoto–muodon."
+      },
+      {
+        "fi": "ympyrä",
+        "en": "circle",
+        "type": "substantiivi",
+        "example_fi": "Piirrän ympyrän.",
+        "example_en": "I draw a circle.",
+        "note": "Taivutus: ympyrä–ympyrän–ympyrää."
+      },
+      {
+        "fi": "neliö",
+        "en": "square",
+        "type": "substantiivi",
+        "example_fi": "Neliössä on neljä sivua.",
+        "example_en": "A square has four sides.",
+        "note": "Taivutus: neliö–neliön–neliötä."
+      },
+      {
+        "fi": "kolmio",
+        "en": "triangle",
+        "type": "substantiivi",
+        "example_fi": "Kolmiossa on kolme kulmaa.",
+        "example_en": "A triangle has three corners.",
+        "note": "Taivutus: kolmio–kolmion–kolmiota."
+      },
+      {
+        "fi": "suorakulmio",
+        "en": "rectangle",
+        "type": "substantiivi",
+        "example_fi": "Ovi on suorakulmio.",
+        "example_en": "The door is a rectangle.",
+        "note": "Taivutus: suorakulmio–suorakulmion."
+      },
+      {
+        "fi": "suora",
+        "en": "straight; line",
+        "type": "adjektiivi",
+        "example_fi": "Viiva on suora.",
+        "example_en": "The line is straight.",
+        "note": "Taivutus: suora–suoran–suoraa."
+      },
+      {
+        "fi": "viiva",
+        "en": "line",
+        "type": "substantiivi",
+        "example_fi": "Piirrä viiva paperille.",
+        "example_en": "Draw a line on the paper.",
+        "note": "Taivutus: viiva–viivan–viivaa."
+      },
+      {
+        "fi": "piste",
+        "en": "dot; point",
+        "type": "substantiivi",
+        "example_fi": "Lauseen lopussa on piste.",
+        "example_en": "There is a period at the end of the sentence.",
+        "note": "Taivutus: piste–pisteen–pistettä."
+      },
+      {
+        "fi": "kulma",
+        "en": "corner; angle",
+        "type": "substantiivi",
+        "example_fi": "Neliössä on neljä kulmaa.",
+        "example_en": "A square has four corners.",
+        "note": "Taivutus: kulma–kulman–kulmaa."
+      },
+      {
+        "fi": "iso",
+        "en": "big",
+        "type": "adjektiivi",
+        "example_fi": "Talo on iso.",
+        "example_en": "The house is big.",
+        "note": "Taivutus: iso–ison–isoa."
+      },
+      {
+        "fi": "pieni",
+        "en": "small",
+        "type": "adjektiivi",
+        "example_fi": "Hiiri on pieni.",
+        "example_en": "The mouse is small.",
+        "note": "Taivutus: pieni–pienen–pientä."
+      },
+      {
+        "fi": "suuri",
+        "en": "large",
+        "type": "adjektiivi",
+        "example_fi": "Meri on suuri.",
+        "example_en": "The sea is large.",
+        "note": "Taivutus: suuri–suuren–suurta."
+      },
+      {
+        "fi": "pyöreä",
+        "en": "round",
+        "type": "adjektiivi",
+        "example_fi": "Pallo on pyöreä.",
+        "example_en": "The ball is round.",
+        "note": "Taivutus: pyöreä–pyöreän–pyöreää."
+      },
+      {
+        "fi": "kapea",
+        "en": "narrow",
+        "type": "adjektiivi",
+        "example_fi": "Katu on kapea.",
+        "example_en": "The street is narrow.",
+        "note": "Taivutus: kapea–kapean–kapeaa."
+      },
+      {
+        "fi": "leveä",
+        "en": "wide",
+        "type": "adjektiivi",
+        "example_fi": "Joki on leveä.",
+        "example_en": "The river is wide.",
+        "note": "Taivutus: leveä–leveän–leveää."
+      },
+      {
+        "fi": "pitkä",
+        "en": "long; tall",
+        "type": "adjektiivi",
+        "example_fi": "Tie on pitkä.",
+        "example_en": "The road is long.",
+        "note": "Astevaihtelu tk–t: pitkä–pitkän."
+      },
+      {
+        "fi": "lyhyt",
+        "en": "short",
+        "type": "adjektiivi",
+        "example_fi": "Matka on lyhyt.",
+        "example_en": "The trip is short.",
+        "note": "Taivutus: lyhyt–lyhyen–lyhyttä."
+      },
+      {
+        "fi": "korkea",
+        "en": "high; tall",
+        "type": "adjektiivi",
+        "example_fi": "Vuori on korkea.",
+        "example_en": "The mountain is high.",
+        "note": "Taivutus: korkea–korkean–korkeaa."
+      },
+      {
+        "fi": "matala",
+        "en": "low",
+        "type": "adjektiivi",
+        "example_fi": "Pöytä on matala.",
+        "example_en": "The table is low.",
+        "note": "Taivutus: matala–matalan–matalaa."
+      },
+      {
+        "fi": "paksu",
+        "en": "thick",
+        "type": "adjektiivi",
+        "example_fi": "Kirja on paksu.",
+        "example_en": "The book is thick.",
+        "note": "Taivutus: paksu–paksun–paksua."
+      }
+    ]
+  },
+  {
+    "category": "Sää ja luonto",
+    "category_en": "Weather & nature",
+    "cards": [
+      {
+        "fi": "sää",
+        "en": "weather",
+        "type": "substantiivi",
+        "example_fi": "Tänään on hyvä sää.",
+        "example_en": "The weather is good today.",
+        "note": "Taivutus: sää–sään–säätä."
+      },
+      {
+        "fi": "aurinko",
+        "en": "sun",
+        "type": "substantiivi",
+        "example_fi": "Aurinko paistaa.",
+        "example_en": "The sun is shining.",
+        "note": "Astevaihtelu k–g: aurinko–auringon."
+      },
+      {
+        "fi": "sade",
+        "en": "rain",
+        "type": "substantiivi",
+        "example_fi": "Sade kastelee kadun.",
+        "example_en": "The rain wets the street.",
+        "note": "Astevaihtelu: sade–sateen–sadetta."
+      },
+      {
+        "fi": "lumi",
+        "en": "snow",
+        "type": "substantiivi",
+        "example_fi": "Lumi on valkoista.",
+        "example_en": "The snow is white.",
+        "note": "Taivutus: lumi–lumen–lunta."
+      },
+      {
+        "fi": "tuuli",
+        "en": "wind",
+        "type": "substantiivi",
+        "example_fi": "Ulkona on kova tuuli.",
+        "example_en": "There is a strong wind outside.",
+        "note": "Taivutus: tuuli–tuulen–tuulta."
+      },
+      {
+        "fi": "pilvi",
+        "en": "cloud",
+        "type": "substantiivi",
+        "example_fi": "Taivaalla on pilvi.",
+        "example_en": "There is a cloud in the sky.",
+        "note": "Taivutus: pilvi–pilven–pilveä."
+      },
+      {
+        "fi": "ukkonen",
+        "en": "thunderstorm",
+        "type": "substantiivi",
+        "example_fi": "Kesällä on usein ukkonen.",
+        "example_en": "In summer there is often a thunderstorm.",
+        "note": "Taivutus: ukkonen–ukkosen–ukkosta."
+      },
+      {
+        "fi": "sumu",
+        "en": "fog",
+        "type": "substantiivi",
+        "example_fi": "Aamulla oli sumu.",
+        "example_en": "There was fog in the morning.",
+        "note": "Taivutus: sumu–sumun–sumua."
+      },
+      {
+        "fi": "jää",
+        "en": "ice",
+        "type": "substantiivi",
+        "example_fi": "Järvellä on jää.",
+        "example_en": "There is ice on the lake.",
+        "note": "Taivutus: jää–jään–jäätä."
+      },
+      {
+        "fi": "taivas",
+        "en": "sky",
+        "type": "substantiivi",
+        "example_fi": "Taivas on sininen.",
+        "example_en": "The sky is blue.",
+        "note": "Taivutus: taivas–taivaan–taivasta."
+      },
+      {
+        "fi": "pakkanen",
+        "en": "frost; freezing cold",
+        "type": "substantiivi",
+        "example_fi": "Talvella on pakkanen.",
+        "example_en": "In winter it is freezing.",
+        "note": "Taivutus: pakkanen–pakkasen–pakkasta."
+      },
+      {
+        "fi": "lämpötila",
+        "en": "temperature",
+        "type": "substantiivi",
+        "example_fi": "Lämpötila on nolla astetta.",
+        "example_en": "The temperature is zero degrees.",
+        "note": "Taivutus: lämpötila–lämpötilan."
+      },
+      {
+        "fi": "sateenkaari",
+        "en": "rainbow",
+        "type": "substantiivi",
+        "example_fi": "Taivaalla näkyy sateenkaari.",
+        "example_en": "A rainbow is visible in the sky.",
+        "note": "Taivutus: sateenkaari–sateenkaaren–sateenkaarta."
+      },
+      {
+        "fi": "myrsky",
+        "en": "storm",
+        "type": "substantiivi",
+        "example_fi": "Merellä on myrsky.",
+        "example_en": "There is a storm at sea.",
+        "note": "Taivutus: myrsky–myrskyn–myrskyä."
+      },
+      {
+        "fi": "luonto",
+        "en": "nature",
+        "type": "substantiivi",
+        "example_fi": "Suomen luonto on kaunis.",
+        "example_en": "Finnish nature is beautiful.",
+        "note": "Astevaihtelu nt–nn: luonto–luonnon."
+      },
+      {
+        "fi": "metsä",
+        "en": "forest",
+        "type": "substantiivi",
+        "example_fi": "Kävelen metsässä.",
+        "example_en": "I walk in the forest.",
+        "note": "Taivutus: metsä–metsän–metsää."
+      },
+      {
+        "fi": "järvi",
+        "en": "lake",
+        "type": "substantiivi",
+        "example_fi": "Uin järvessä.",
+        "example_en": "I swim in the lake.",
+        "note": "Taivutus: järvi–järven–järveä."
+      },
+      {
+        "fi": "meri",
+        "en": "sea",
+        "type": "substantiivi",
+        "example_fi": "Meri on suuri.",
+        "example_en": "The sea is large.",
+        "note": "Taivutus: meri–meren–merta."
+      },
+      {
+        "fi": "joki",
+        "en": "river",
+        "type": "substantiivi",
+        "example_fi": "Joki virtaa mereen.",
+        "example_en": "The river flows to the sea.",
+        "note": "Astevaihtelu k–pois: joki–joen."
+      },
+      {
+        "fi": "vuori",
+        "en": "mountain",
+        "type": "substantiivi",
+        "example_fi": "Vuori on korkea.",
+        "example_en": "The mountain is high.",
+        "note": "Taivutus: vuori–vuoren–vuorta."
+      },
+      {
+        "fi": "saari",
+        "en": "island",
+        "type": "substantiivi",
+        "example_fi": "Saari on keskellä järveä.",
+        "example_en": "The island is in the middle of the lake.",
+        "note": "Taivutus: saari–saaren–saarta."
+      },
+      {
+        "fi": "ranta",
+        "en": "beach; shore",
+        "type": "substantiivi",
+        "example_fi": "Menemme rannalle.",
+        "example_en": "We go to the beach.",
+        "note": "Astevaihtelu nt–nn: ranta–rannan."
+      },
+      {
+        "fi": "puu",
+        "en": "tree",
+        "type": "substantiivi",
+        "example_fi": "Pihalla kasvaa puu.",
+        "example_en": "A tree grows in the yard.",
+        "note": "Taivutus: puu–puun–puuta."
+      },
+      {
+        "fi": "kukka",
+        "en": "flower",
+        "type": "substantiivi",
+        "example_fi": "Maljakossa on kukka.",
+        "example_en": "There is a flower in the vase.",
+        "note": "Astevaihtelu kk–k: kukka–kukan."
+      },
+      {
+        "fi": "ruoho",
+        "en": "grass",
+        "type": "substantiivi",
+        "example_fi": "Ruoho on vihreää.",
+        "example_en": "The grass is green.",
+        "note": "Taivutus: ruoho–ruohon–ruohoa."
+      },
+      {
+        "fi": "kivi",
+        "en": "stone",
+        "type": "substantiivi",
+        "example_fi": "Tiellä on iso kivi.",
+        "example_en": "There is a big stone on the road.",
+        "note": "Taivutus: kivi–kiven–kiveä."
+      },
+      {
+        "fi": "maa",
+        "en": "ground; earth; land",
+        "type": "substantiivi",
+        "example_fi": "Lumi peittää maan.",
+        "example_en": "The snow covers the ground.",
+        "note": "Taivutus: maa–maan–maata."
+      },
+      {
+        "fi": "hiekka",
+        "en": "sand",
+        "type": "substantiivi",
+        "example_fi": "Rannalla on hiekkaa.",
+        "example_en": "There is sand on the beach.",
+        "note": "Astevaihtelu kk–k: hiekka–hiekan."
+      },
+      {
+        "fi": "lehti",
+        "en": "leaf",
+        "type": "substantiivi",
+        "example_fi": "Puusta putoaa lehti.",
+        "example_en": "A leaf falls from the tree.",
+        "note": "Astevaihtelu t–d: lehti–lehden."
+      },
+      {
+        "fi": "oksa",
+        "en": "branch",
+        "type": "substantiivi",
+        "example_fi": "Linnut istuvat oksalla.",
+        "example_en": "The birds sit on the branch.",
+        "note": "Taivutus: oksa–oksan–oksaa."
+      },
+      {
+        "fi": "juuri",
+        "en": "root",
+        "type": "substantiivi",
+        "example_fi": "Puun juuri on syvällä.",
+        "example_en": "The tree's root is deep.",
+        "note": "Taivutus: juuri–juuren–juurta."
+      },
+      {
+        "fi": "tähti",
+        "en": "star",
+        "type": "substantiivi",
+        "example_fi": "Taivaalla loistaa tähti.",
+        "example_en": "A star shines in the sky.",
+        "note": "Astevaihtelu t–d: tähti–tähden."
+      },
+      {
+        "fi": "kuu",
+        "en": "moon",
+        "type": "substantiivi",
+        "example_fi": "Kuu paistaa yöllä.",
+        "example_en": "The moon shines at night.",
+        "note": "Taivutus: kuu–kuun–kuuta."
+      },
+      {
+        "fi": "maailma",
+        "en": "world",
+        "type": "substantiivi",
+        "example_fi": "Maailma on suuri.",
+        "example_en": "The world is big.",
+        "note": "Taivutus: maailma–maailman–maailmaa."
+      },
+      {
+        "fi": "ilma",
+        "en": "air; weather",
+        "type": "substantiivi",
+        "example_fi": "Ilma on raikas.",
+        "example_en": "The air is fresh.",
+        "note": "Taivutus: ilma–ilman–ilmaa."
+      },
+      {
+        "fi": "sataa",
+        "en": "to rain",
+        "type": "verbi",
+        "example_fi": "Ulkona sataa vettä.",
+        "example_en": "It is raining outside.",
+        "note": "Rektio: sataa vettä/lunta; yks. 3. sataa."
+      },
+      {
+        "fi": "paistaa",
+        "en": "to shine; to fry",
+        "type": "verbi",
+        "example_fi": "Aurinko paistaa taivaalla.",
+        "example_en": "The sun shines in the sky.",
+        "note": "Merkitsee myös 'to fry': paistaa kalaa."
+      },
+      {
+        "fi": "tuulla",
+        "en": "to be windy",
+        "type": "verbi",
+        "example_fi": "Ulkona tuulee kovaa.",
+        "example_en": "It is windy outside.",
+        "note": "Yks. 3. tuulee; sääverbi."
+      },
+      {
+        "fi": "kasvaa",
+        "en": "to grow",
+        "type": "verbi",
+        "example_fi": "Metsässä kasvaa puita.",
+        "example_en": "Trees grow in the forest.",
+        "note": "Taivutus: kasvaa–kasvan–kasvoi."
+      },
+      {
+        "fi": "kukkia",
+        "en": "to bloom",
+        "type": "verbi",
+        "example_fi": "Kukat kukkivat keväällä.",
+        "example_en": "The flowers bloom in spring.",
+        "note": "Taivutus: kukkia–kukkii–kukki."
+      },
+      {
+        "fi": "kylmä",
+        "en": "cold",
+        "type": "adjektiivi",
+        "example_fi": "Talvella on kylmä.",
+        "example_en": "It is cold in winter.",
+        "note": "Taivutus: kylmä–kylmän–kylmää."
+      },
+      {
+        "fi": "lämmin",
+        "en": "warm",
+        "type": "adjektiivi",
+        "example_fi": "Kesällä on lämmin.",
+        "example_en": "It is warm in summer.",
+        "note": "Astevaihtelu mm–mp: lämmin–lämpimän."
+      },
+      {
+        "fi": "kuuma",
+        "en": "hot",
+        "type": "adjektiivi",
+        "example_fi": "Kesällä on kuuma.",
+        "example_en": "It is hot in summer.",
+        "note": "Taivutus: kuuma–kuuman–kuumaa."
+      },
+      {
+        "fi": "märkä",
+        "en": "wet",
+        "type": "adjektiivi",
+        "example_fi": "Sateen jälkeen maa on märkä.",
+        "example_en": "After the rain the ground is wet.",
+        "note": "Astevaihtelu rk–r: märkä–märän."
+      },
+      {
+        "fi": "pilvinen",
+        "en": "cloudy",
+        "type": "adjektiivi",
+        "example_fi": "Tänään on pilvinen sää.",
+        "example_en": "The weather is cloudy today.",
+        "note": "Taivutus: pilvinen–pilvisen–pilvistä."
+      }
+    ]
+  },
+  {
+    "category": "Eläimet",
+    "category_en": "Animals",
+    "cards": [
+      {
+        "fi": "eläin",
+        "en": "animal",
+        "type": "substantiivi",
+        "example_fi": "Koira on eläin.",
+        "example_en": "A dog is an animal.",
+        "note": "Taivutus: eläin–eläimen–eläintä."
+      },
+      {
+        "fi": "koira",
+        "en": "dog",
+        "type": "substantiivi",
+        "example_fi": "Koira haukkuu.",
+        "example_en": "The dog barks.",
+        "note": "Taivutus: koira–koiran–koiraa."
+      },
+      {
+        "fi": "kissa",
+        "en": "cat",
+        "type": "substantiivi",
+        "example_fi": "Kissa nukkuu sohvalla.",
+        "example_en": "The cat sleeps on the sofa.",
+        "note": "Taivutus: kissa–kissan–kissaa."
+      },
+      {
+        "fi": "hevonen",
+        "en": "horse",
+        "type": "substantiivi",
+        "example_fi": "Hevonen juoksee pellolla.",
+        "example_en": "The horse runs in the field.",
+        "note": "Taivutus: hevonen–hevosen–hevosta."
+      },
+      {
+        "fi": "lehmä",
+        "en": "cow",
+        "type": "substantiivi",
+        "example_fi": "Lehmä syö ruohoa.",
+        "example_en": "The cow eats grass.",
+        "note": "Taivutus: lehmä–lehmän–lehmää."
+      },
+      {
+        "fi": "sika",
+        "en": "pig",
+        "type": "substantiivi",
+        "example_fi": "Sika tonkii maata.",
+        "example_en": "The pig roots the ground.",
+        "note": "Astevaihtelu k–pois: sika–sian."
+      },
+      {
+        "fi": "lammas",
+        "en": "sheep",
+        "type": "substantiivi",
+        "example_fi": "Lampaalla on villaa.",
+        "example_en": "The sheep has wool.",
+        "note": "Astevaihtelu mm–mp: lammas–lampaan."
+      },
+      {
+        "fi": "kana",
+        "en": "hen; chicken",
+        "type": "substantiivi",
+        "example_fi": "Kana munii munan.",
+        "example_en": "The hen lays an egg.",
+        "note": "Taivutus: kana–kanan–kanaa."
+      },
+      {
+        "fi": "lintu",
+        "en": "bird",
+        "type": "substantiivi",
+        "example_fi": "Lintu lentää taivaalla.",
+        "example_en": "The bird flies in the sky.",
+        "note": "Astevaihtelu nt–nn: lintu–linnun."
+      },
+      {
+        "fi": "kala",
+        "en": "fish",
+        "type": "substantiivi",
+        "example_fi": "Kala ui vedessä.",
+        "example_en": "The fish swims in the water.",
+        "note": "Taivutus: kala–kalan–kalaa."
+      },
+      {
+        "fi": "karhu",
+        "en": "bear",
+        "type": "substantiivi",
+        "example_fi": "Karhu nukkuu talvella.",
+        "example_en": "The bear sleeps in winter.",
+        "note": "Taivutus: karhu–karhun–karhua."
+      },
+      {
+        "fi": "susi",
+        "en": "wolf",
+        "type": "substantiivi",
+        "example_fi": "Susi ulvoo metsässä.",
+        "example_en": "The wolf howls in the forest.",
+        "note": "Taivutus: susi–suden–sutta."
+      },
+      {
+        "fi": "kettu",
+        "en": "fox",
+        "type": "substantiivi",
+        "example_fi": "Kettu on ovela.",
+        "example_en": "The fox is cunning.",
+        "note": "Astevaihtelu tt–t: kettu–ketun."
+      },
+      {
+        "fi": "jänis",
+        "en": "hare; rabbit",
+        "type": "substantiivi",
+        "example_fi": "Jänis juoksee nopeasti.",
+        "example_en": "The hare runs fast.",
+        "note": "Taivutus: jänis–jäniksen–jänistä."
+      },
+      {
+        "fi": "hirvi",
+        "en": "elk; moose",
+        "type": "substantiivi",
+        "example_fi": "Hirvi ylitti tien.",
+        "example_en": "The moose crossed the road.",
+        "note": "Taivutus: hirvi–hirven–hirveä."
+      },
+      {
+        "fi": "poro",
+        "en": "reindeer",
+        "type": "substantiivi",
+        "example_fi": "Poro elää Lapissa.",
+        "example_en": "The reindeer lives in Lapland.",
+        "note": "Taivutus: poro–poron–poroa."
+      },
+      {
+        "fi": "orava",
+        "en": "squirrel",
+        "type": "substantiivi",
+        "example_fi": "Orava syö käpyjä.",
+        "example_en": "The squirrel eats cones.",
+        "note": "Taivutus: orava–oravan–oravaa."
+      },
+      {
+        "fi": "hiiri",
+        "en": "mouse",
+        "type": "substantiivi",
+        "example_fi": "Hiiri on pieni.",
+        "example_en": "The mouse is small.",
+        "note": "Taivutus: hiiri–hiiren–hiirtä."
+      },
+      {
+        "fi": "käärme",
+        "en": "snake",
+        "type": "substantiivi",
+        "example_fi": "Käärme luikertelee ruohossa.",
+        "example_en": "The snake slithers in the grass.",
+        "note": "Taivutus: käärme–käärmeen–käärmettä."
+      },
+      {
+        "fi": "hyönteinen",
+        "en": "insect",
+        "type": "substantiivi",
+        "example_fi": "Kärpänen on hyönteinen.",
+        "example_en": "A fly is an insect.",
+        "note": "Taivutus: hyönteinen–hyönteisen–hyönteistä."
+      },
+      {
+        "fi": "mehiläinen",
+        "en": "bee",
+        "type": "substantiivi",
+        "example_fi": "Mehiläinen tekee hunajaa.",
+        "example_en": "The bee makes honey.",
+        "note": "Taivutus: mehiläinen–mehiläisen–mehiläistä."
+      },
+      {
+        "fi": "perhonen",
+        "en": "butterfly",
+        "type": "substantiivi",
+        "example_fi": "Perhonen lentää kukalta kukalle.",
+        "example_en": "The butterfly flies from flower to flower.",
+        "note": "Taivutus: perhonen–perhosen–perhosta."
+      },
+      {
+        "fi": "kärpänen",
+        "en": "fly",
+        "type": "substantiivi",
+        "example_fi": "Kärpänen surisee ikkunassa.",
+        "example_en": "The fly buzzes at the window.",
+        "note": "Taivutus: kärpänen–kärpäsen–kärpästä."
+      },
+      {
+        "fi": "hyttynen",
+        "en": "mosquito",
+        "type": "substantiivi",
+        "example_fi": "Hyttynen puri minua.",
+        "example_en": "The mosquito bit me.",
+        "note": "Taivutus: hyttynen–hyttysen–hyttystä."
+      },
+      {
+        "fi": "muurahainen",
+        "en": "ant",
+        "type": "substantiivi",
+        "example_fi": "Muurahainen kantaa neulasta.",
+        "example_en": "The ant carries a needle.",
+        "note": "Taivutus: muurahainen–muurahaisen–muurahaista."
+      },
+      {
+        "fi": "hämähäkki",
+        "en": "spider",
+        "type": "substantiivi",
+        "example_fi": "Hämähäkki kutoo verkkoa.",
+        "example_en": "The spider weaves a web.",
+        "note": "Astevaihtelu kk–k: hämähäkki–hämähäkin."
+      },
+      {
+        "fi": "sammakko",
+        "en": "frog",
+        "type": "substantiivi",
+        "example_fi": "Sammakko hyppää veteen.",
+        "example_en": "The frog jumps into the water.",
+        "note": "Astevaihtelu kk–k: sammakko–sammakon."
+      },
+      {
+        "fi": "ankka",
+        "en": "duck",
+        "type": "substantiivi",
+        "example_fi": "Ankka ui lammessa.",
+        "example_en": "The duck swims in the pond.",
+        "note": "Astevaihtelu nkk–nk: ankka–ankan."
+      },
+      {
+        "fi": "hanhi",
+        "en": "goose",
+        "type": "substantiivi",
+        "example_fi": "Hanhi lentää etelään.",
+        "example_en": "The goose flies south.",
+        "note": "Taivutus: hanhi–hanhen–hanhea."
+      },
+      {
+        "fi": "joutsen",
+        "en": "swan",
+        "type": "substantiivi",
+        "example_fi": "Joutsen ui järvellä.",
+        "example_en": "The swan swims on the lake.",
+        "note": "Taivutus: joutsen–joutsenen–joutsenta."
+      },
+      {
+        "fi": "pöllö",
+        "en": "owl",
+        "type": "substantiivi",
+        "example_fi": "Pöllö on yöeläin.",
+        "example_en": "The owl is a nocturnal animal.",
+        "note": "Taivutus: pöllö–pöllön–pöllöä."
+      },
+      {
+        "fi": "varis",
+        "en": "crow",
+        "type": "substantiivi",
+        "example_fi": "Varis istuu katolla.",
+        "example_en": "The crow sits on the roof.",
+        "note": "Taivutus: varis–variksen–varista."
+      },
+      {
+        "fi": "hylje",
+        "en": "seal",
+        "type": "substantiivi",
+        "example_fi": "Hylje ui meressä.",
+        "example_en": "The seal swims in the sea.",
+        "note": "Astevaihtelu lj–lk: hylje–hylkeen."
+      },
+      {
+        "fi": "valas",
+        "en": "whale",
+        "type": "substantiivi",
+        "example_fi": "Valas on suuri eläin.",
+        "example_en": "The whale is a large animal.",
+        "note": "Taivutus: valas–valaan–valasta."
+      },
+      {
+        "fi": "ilves",
+        "en": "lynx",
+        "type": "substantiivi",
+        "example_fi": "Ilves on villi kissa.",
+        "example_en": "The lynx is a wild cat.",
+        "note": "Taivutus: ilves–ilveksen–ilvestä."
+      },
+      {
+        "fi": "mato",
+        "en": "worm",
+        "type": "substantiivi",
+        "example_fi": "Mato ryömii maassa.",
+        "example_en": "The worm crawls on the ground.",
+        "note": "Astevaihtelu t–d: mato–madon."
+      },
+      {
+        "fi": "etana",
+        "en": "snail",
+        "type": "substantiivi",
+        "example_fi": "Etana liikkuu hitaasti.",
+        "example_en": "The snail moves slowly.",
+        "note": "Taivutus: etana–etanan–etanaa."
+      },
+      {
+        "fi": "pentu",
+        "en": "puppy; cub",
+        "type": "substantiivi",
+        "example_fi": "Koiralla on pentu.",
+        "example_en": "The dog has a puppy.",
+        "note": "Astevaihtelu nt–nn: pentu–pennun."
+      },
+      {
+        "fi": "häntä",
+        "en": "tail",
+        "type": "substantiivi",
+        "example_fi": "Koiralla on pitkä häntä.",
+        "example_en": "The dog has a long tail.",
+        "note": "Astevaihtelu nt–nn: häntä–hännän."
+      },
+      {
+        "fi": "siipi",
+        "en": "wing",
+        "type": "substantiivi",
+        "example_fi": "Linnulla on kaksi siipeä.",
+        "example_en": "The bird has two wings.",
+        "note": "Astevaihtelu p–v: siipi–siiven."
+      },
+      {
+        "fi": "turkki",
+        "en": "fur",
+        "type": "substantiivi",
+        "example_fi": "Kissalla on pehmeä turkki.",
+        "example_en": "The cat has soft fur.",
+        "note": "Astevaihtelu kk–k: turkki–turkin."
+      },
+      {
+        "fi": "haukkua",
+        "en": "to bark",
+        "type": "verbi",
+        "example_fi": "Koira haukkuu vieraalle.",
+        "example_en": "The dog barks at the stranger.",
+        "note": "Taivutus: haukkua–haukkuu–haukkui."
+      },
+      {
+        "fi": "naukua",
+        "en": "to meow",
+        "type": "verbi",
+        "example_fi": "Kissa naukuu nälissään.",
+        "example_en": "The cat meows because it is hungry.",
+        "note": "Taivutus: naukua–naukuu–naukui."
+      },
+      {
+        "fi": "lentää",
+        "en": "to fly",
+        "type": "verbi",
+        "example_fi": "Lintu lentää korkealla.",
+        "example_en": "The bird flies high.",
+        "note": "Astevaihtelu nt–ns: lentää–lensi."
+      },
+      {
+        "fi": "uida",
+        "en": "to swim",
+        "type": "verbi",
+        "example_fi": "Kala ui vedessä.",
+        "example_en": "The fish swims in the water.",
+        "note": "Taivutus: uida–uin–ui."
+      }
+    ]
+  },
+  {
+    "category": "Kaupunki ja liikenne",
+    "category_en": "City & transport",
+    "cards": [
+      {
+        "fi": "kaupunki",
+        "en": "city",
+        "type": "substantiivi",
+        "example_fi": "Helsinki on suuri kaupunki.",
+        "example_en": "Helsinki is a big city.",
+        "note": "Astevaihtelu nk–ng: kaupunki–kaupungin."
+      },
+      {
+        "fi": "katu",
+        "en": "street",
+        "type": "substantiivi",
+        "example_fi": "Kävelen katua pitkin.",
+        "example_en": "I walk along the street.",
+        "note": "Astevaihtelu t–d: katu–kadun."
+      },
+      {
+        "fi": "tie",
+        "en": "road",
+        "type": "substantiivi",
+        "example_fi": "Tie johtaa kaupunkiin.",
+        "example_en": "The road leads to the city.",
+        "note": "Taivutus: tie–tien–tietä."
+      },
+      {
+        "fi": "tori",
+        "en": "market square",
+        "type": "substantiivi",
+        "example_fi": "Torilla myydään vihanneksia.",
+        "example_en": "Vegetables are sold at the market.",
+        "note": "Taivutus: tori–torin–toria."
+      },
+      {
+        "fi": "kauppa",
+        "en": "shop",
+        "type": "substantiivi",
+        "example_fi": "Menen kauppaan.",
+        "example_en": "I go to the shop.",
+        "note": "Astevaihtelu pp–p: kauppa–kaupan."
+      },
+      {
+        "fi": "pankki",
+        "en": "bank",
+        "type": "substantiivi",
+        "example_fi": "Nostan rahaa pankista.",
+        "example_en": "I withdraw money from the bank.",
+        "note": "Astevaihtelu nkk–nk: pankki–pankin."
+      },
+      {
+        "fi": "posti",
+        "en": "post office",
+        "type": "substantiivi",
+        "example_fi": "Vien kirjeen postiin.",
+        "example_en": "I take the letter to the post office.",
+        "note": "Taivutus: posti–postin–postia."
+      },
+      {
+        "fi": "kirjasto",
+        "en": "library",
+        "type": "substantiivi",
+        "example_fi": "Lainaan kirjan kirjastosta.",
+        "example_en": "I borrow a book from the library.",
+        "note": "Taivutus: kirjasto–kirjaston–kirjastoa."
+      },
+      {
+        "fi": "sairaala",
+        "en": "hospital",
+        "type": "substantiivi",
+        "example_fi": "Lääkäri työskentelee sairaalassa.",
+        "example_en": "The doctor works in the hospital.",
+        "note": "Taivutus: sairaala–sairaalan–sairaalaa."
+      },
+      {
+        "fi": "koulu",
+        "en": "school",
+        "type": "substantiivi",
+        "example_fi": "Lapset menevät kouluun.",
+        "example_en": "The children go to school.",
+        "note": "Taivutus: koulu–koulun–koulua."
+      },
+      {
+        "fi": "kirkko",
+        "en": "church",
+        "type": "substantiivi",
+        "example_fi": "Kirkko on vanha.",
+        "example_en": "The church is old.",
+        "note": "Astevaihtelu kk–k: kirkko–kirkon."
+      },
+      {
+        "fi": "ravintola",
+        "en": "restaurant",
+        "type": "substantiivi",
+        "example_fi": "Syömme ravintolassa.",
+        "example_en": "We eat at the restaurant.",
+        "note": "Taivutus: ravintola–ravintolan–ravintolaa."
+      },
+      {
+        "fi": "hotelli",
+        "en": "hotel",
+        "type": "substantiivi",
+        "example_fi": "Nukumme hotellissa.",
+        "example_en": "We sleep at the hotel.",
+        "note": "Taivutus: hotelli–hotellin–hotellia."
+      },
+      {
+        "fi": "asema",
+        "en": "station",
+        "type": "substantiivi",
+        "example_fi": "Juna saapuu asemalle.",
+        "example_en": "The train arrives at the station.",
+        "note": "Taivutus: asema–aseman–asemaa."
+      },
+      {
+        "fi": "lentokenttä",
+        "en": "airport",
+        "type": "substantiivi",
+        "example_fi": "Lento lähtee lentokentältä.",
+        "example_en": "The flight leaves from the airport.",
+        "note": "Astevaihtelu tt–t: lentokenttä–lentokentän."
+      },
+      {
+        "fi": "aukio",
+        "en": "square; plaza",
+        "type": "substantiivi",
+        "example_fi": "Ihmiset kokoontuvat aukiolle.",
+        "example_en": "People gather in the square.",
+        "note": "Taivutus: aukio–aukion–aukiota."
+      },
+      {
+        "fi": "silta",
+        "en": "bridge",
+        "type": "substantiivi",
+        "example_fi": "Kävelemme sillan yli.",
+        "example_en": "We walk across the bridge.",
+        "note": "Astevaihtelu lt–ll: silta–sillan."
+      },
+      {
+        "fi": "puisto",
+        "en": "park",
+        "type": "substantiivi",
+        "example_fi": "Lapset leikkivät puistossa.",
+        "example_en": "The children play in the park.",
+        "note": "Taivutus: puisto–puiston–puistoa."
+      },
+      {
+        "fi": "talo",
+        "en": "house; building",
+        "type": "substantiivi",
+        "example_fi": "Talo on korkea.",
+        "example_en": "The building is tall.",
+        "note": "Taivutus: talo–talon–taloa."
+      },
+      {
+        "fi": "rakennus",
+        "en": "building",
+        "type": "substantiivi",
+        "example_fi": "Rakennus on uusi.",
+        "example_en": "The building is new.",
+        "note": "Taivutus: rakennus–rakennuksen–rakennusta."
+      },
+      {
+        "fi": "auto",
+        "en": "car",
+        "type": "substantiivi",
+        "example_fi": "Ajan autolla töihin.",
+        "example_en": "I drive to work by car.",
+        "note": "Taivutus: auto–auton–autoa."
+      },
+      {
+        "fi": "bussi",
+        "en": "bus",
+        "type": "substantiivi",
+        "example_fi": "Menen bussilla kouluun.",
+        "example_en": "I go to school by bus.",
+        "note": "Taivutus: bussi–bussin–bussia."
+      },
+      {
+        "fi": "juna",
+        "en": "train",
+        "type": "substantiivi",
+        "example_fi": "Juna on myöhässä.",
+        "example_en": "The train is late.",
+        "note": "Taivutus: juna–junan–junaa."
+      },
+      {
+        "fi": "ratikka",
+        "en": "tram",
+        "type": "substantiivi",
+        "example_fi": "Ratikka kulkee keskustassa.",
+        "example_en": "The tram runs in the center.",
+        "note": "Puhekieli; astevaihtelu kk–k: ratikka–ratikan."
+      },
+      {
+        "fi": "metro",
+        "en": "metro",
+        "type": "substantiivi",
+        "example_fi": "Metro on nopea.",
+        "example_en": "The metro is fast.",
+        "note": "Taivutus: metro–metron–metroa."
+      },
+      {
+        "fi": "polkupyörä",
+        "en": "bicycle",
+        "type": "substantiivi",
+        "example_fi": "Ajan polkupyörällä.",
+        "example_en": "I ride a bicycle.",
+        "note": "Taivutus: polkupyörä–polkupyörän–polkupyörää."
+      },
+      {
+        "fi": "taksi",
+        "en": "taxi",
+        "type": "substantiivi",
+        "example_fi": "Otan taksin lentokentälle.",
+        "example_en": "I take a taxi to the airport.",
+        "note": "Taivutus: taksi–taksin–taksia."
+      },
+      {
+        "fi": "lippu",
+        "en": "ticket; flag",
+        "type": "substantiivi",
+        "example_fi": "Ostan junalipun.",
+        "example_en": "I buy a train ticket.",
+        "note": "Astevaihtelu pp–p: lippu–lipun."
+      },
+      {
+        "fi": "laiva",
+        "en": "ship",
+        "type": "substantiivi",
+        "example_fi": "Laiva purjehtii merellä.",
+        "example_en": "The ship sails at sea.",
+        "note": "Taivutus: laiva–laivan–laivaa."
+      },
+      {
+        "fi": "lentokone",
+        "en": "airplane",
+        "type": "substantiivi",
+        "example_fi": "Lentokone nousee ilmaan.",
+        "example_en": "The airplane takes off.",
+        "note": "Taivutus: lentokone–lentokoneen–lentokonetta."
+      },
+      {
+        "fi": "moottoripyörä",
+        "en": "motorcycle",
+        "type": "substantiivi",
+        "example_fi": "Hän ajaa moottoripyörällä.",
+        "example_en": "He rides a motorcycle.",
+        "note": "Taivutus: moottoripyörä–moottoripyörän."
+      },
+      {
+        "fi": "pysäkki",
+        "en": "(bus) stop",
+        "type": "substantiivi",
+        "example_fi": "Odotan bussia pysäkillä.",
+        "example_en": "I wait for the bus at the stop.",
+        "note": "Astevaihtelu kk–k: pysäkki–pysäkin."
+      },
+      {
+        "fi": "risteys",
+        "en": "intersection",
+        "type": "substantiivi",
+        "example_fi": "Käänny risteyksessä oikealle.",
+        "example_en": "Turn right at the intersection.",
+        "note": "Taivutus: risteys–risteyksen–risteystä."
+      },
+      {
+        "fi": "liikennevalo",
+        "en": "traffic light",
+        "type": "substantiivi",
+        "example_fi": "Pysähdy punaisella liikennevalolla.",
+        "example_en": "Stop at the red traffic light.",
+        "note": "Taivutus: liikennevalo–liikennevalon."
+      },
+      {
+        "fi": "jalkakäytävä",
+        "en": "sidewalk",
+        "type": "substantiivi",
+        "example_fi": "Kävele jalkakäytävällä.",
+        "example_en": "Walk on the sidewalk.",
+        "note": "Taivutus: jalkakäytävä–jalkakäytävän."
+      },
+      {
+        "fi": "keskusta",
+        "en": "center; downtown",
+        "type": "substantiivi",
+        "example_fi": "Menen keskustaan ostoksille.",
+        "example_en": "I go downtown to shop.",
+        "note": "Taivutus: keskusta–keskustan–keskustaa."
+      },
+      {
+        "fi": "liikenne",
+        "en": "traffic",
+        "type": "substantiivi",
+        "example_fi": "Aamulla on paljon liikennettä.",
+        "example_en": "There is a lot of traffic in the morning.",
+        "note": "Taivutus: liikenne–liikenteen–liikennettä."
+      },
+      {
+        "fi": "matka",
+        "en": "trip; journey",
+        "type": "substantiivi",
+        "example_fi": "Matka kestää tunnin.",
+        "example_en": "The trip takes an hour.",
+        "note": "Astevaihtelu tk–t: matka–matkan."
+      },
+      {
+        "fi": "ajaa",
+        "en": "to drive",
+        "type": "verbi",
+        "example_fi": "Ajan autoa varovasti.",
+        "example_en": "I drive the car carefully.",
+        "note": "Taivutus: ajaa–ajan–ajoi."
+      },
+      {
+        "fi": "kävellä",
+        "en": "to walk",
+        "type": "verbi",
+        "example_fi": "Kävelen töihin joka päivä.",
+        "example_en": "I walk to work every day.",
+        "note": "Taivutus: kävellä–kävelen–käveli."
+      },
+      {
+        "fi": "matkustaa",
+        "en": "to travel",
+        "type": "verbi",
+        "example_fi": "Matkustan junalla Tampereelle.",
+        "example_en": "I travel to Tampere by train.",
+        "note": "Taivutus: matkustaa–matkustan–matkusti."
+      },
+      {
+        "fi": "pysähtyä",
+        "en": "to stop",
+        "type": "verbi",
+        "example_fi": "Auto pysähtyy risteyksessä.",
+        "example_en": "The car stops at the intersection.",
+        "note": "Taivutus: pysähtyä–pysähtyy–pysähtyi."
+      },
+      {
+        "fi": "kääntyä",
+        "en": "to turn",
+        "type": "verbi",
+        "example_fi": "Käänny vasemmalle risteyksestä.",
+        "example_en": "Turn left at the intersection.",
+        "note": "Taivutus: kääntyä–kääntyy–kääntyi."
+      },
+      {
+        "fi": "nopea",
+        "en": "fast",
+        "type": "adjektiivi",
+        "example_fi": "Juna on nopea.",
+        "example_en": "The train is fast.",
+        "note": "Taivutus: nopea–nopean–nopeaa."
+      },
+      {
+        "fi": "hidas",
+        "en": "slow",
+        "type": "adjektiivi",
+        "example_fi": "Bussi on hidas.",
+        "example_en": "The bus is slow.",
+        "note": "Astevaihtelu d–t: hidas–hitaan."
+      }
+    ]
+  },
+  {
+    "category": "Kauppa ja asiointi",
+    "category_en": "Shopping & services",
+    "cards": [
+      {
+        "fi": "ruokakauppa",
+        "en": "grocery store",
+        "type": "substantiivi",
+        "example_fi": "Ostan maitoa ruokakaupasta.",
+        "example_en": "I buy milk from the grocery store.",
+        "note": "Astevaihtelu pp–p: ruokakauppa–ruokakaupan."
+      },
+      {
+        "fi": "ostos",
+        "en": "purchase",
+        "type": "substantiivi",
+        "example_fi": "Teen ostoksia lauantaisin.",
+        "example_en": "I do shopping on Saturdays.",
+        "note": "Taivutus: ostos–ostoksen–ostosta."
+      },
+      {
+        "fi": "ostaa",
+        "en": "to buy",
+        "type": "verbi",
+        "example_fi": "Ostan uuden takin.",
+        "example_en": "I buy a new coat.",
+        "note": "Taivutus: ostaa–ostan–osti."
+      },
+      {
+        "fi": "myydä",
+        "en": "to sell",
+        "type": "verbi",
+        "example_fi": "Kauppias myy vihanneksia.",
+        "example_en": "The merchant sells vegetables.",
+        "note": "Taivutus: myydä–myyn–myi."
+      },
+      {
+        "fi": "maksaa",
+        "en": "to pay; to cost",
+        "type": "verbi",
+        "example_fi": "Maksan ostokset kortilla.",
+        "example_en": "I pay for the purchases by card.",
+        "note": "Taivutus: maksaa–maksan–maksoi."
+      },
+      {
+        "fi": "raha",
+        "en": "money",
+        "type": "substantiivi",
+        "example_fi": "Minulla ei ole rahaa.",
+        "example_en": "I don't have money.",
+        "note": "Taivutus: raha–rahan–rahaa."
+      },
+      {
+        "fi": "hinta",
+        "en": "price",
+        "type": "substantiivi",
+        "example_fi": "Tämän hinta on kymmenen euroa.",
+        "example_en": "The price of this is ten euros.",
+        "note": "Astevaihtelu nt–nn: hinta–hinnan."
+      },
+      {
+        "fi": "halpa",
+        "en": "cheap",
+        "type": "adjektiivi",
+        "example_fi": "Tämä paita on halpa.",
+        "example_en": "This shirt is cheap.",
+        "note": "Astevaihtelu lp–lv: halpa–halvan."
+      },
+      {
+        "fi": "kallis",
+        "en": "expensive",
+        "type": "adjektiivi",
+        "example_fi": "Auto on kallis.",
+        "example_en": "The car is expensive.",
+        "note": "Taivutus: kallis–kalliin–kallista."
+      },
+      {
+        "fi": "alennus",
+        "en": "discount",
+        "type": "substantiivi",
+        "example_fi": "Kaupassa on iso alennus.",
+        "example_en": "There is a big discount in the shop.",
+        "note": "Taivutus: alennus–alennuksen–alennusta."
+      },
+      {
+        "fi": "kassa",
+        "en": "checkout; cash register",
+        "type": "substantiivi",
+        "example_fi": "Maksan kassalla.",
+        "example_en": "I pay at the checkout.",
+        "note": "Taivutus: kassa–kassan–kassaa."
+      },
+      {
+        "fi": "kuitti",
+        "en": "receipt",
+        "type": "substantiivi",
+        "example_fi": "Sain kuitin kassalta.",
+        "example_en": "I got a receipt from the cashier.",
+        "note": "Astevaihtelu tt–t: kuitti–kuitin."
+      },
+      {
+        "fi": "kortti",
+        "en": "card",
+        "type": "substantiivi",
+        "example_fi": "Maksan pankkikortilla.",
+        "example_en": "I pay with a bank card.",
+        "note": "Astevaihtelu tt–t: kortti–kortin."
+      },
+      {
+        "fi": "käteinen",
+        "en": "cash",
+        "type": "substantiivi",
+        "example_fi": "Maksan käteisellä.",
+        "example_en": "I pay with cash.",
+        "note": "Taivutus: käteinen–käteisen–käteistä."
+      },
+      {
+        "fi": "asiakas",
+        "en": "customer",
+        "type": "substantiivi",
+        "example_fi": "Asiakas maksaa ostokset.",
+        "example_en": "The customer pays for the purchases.",
+        "note": "Astevaihtelu k–kk: asiakas–asiakkaan."
+      },
+      {
+        "fi": "myyjä",
+        "en": "salesperson",
+        "type": "substantiivi",
+        "example_fi": "Myyjä auttaa asiakasta.",
+        "example_en": "The salesperson helps the customer.",
+        "note": "Taivutus: myyjä–myyjän–myyjää."
+      },
+      {
+        "fi": "tarjous",
+        "en": "offer; deal",
+        "type": "substantiivi",
+        "example_fi": "Kaupassa on hyvä tarjous.",
+        "example_en": "There is a good offer in the shop.",
+        "note": "Taivutus: tarjous–tarjouksen–tarjousta."
+      },
+      {
+        "fi": "ilmainen",
+        "en": "free (of charge)",
+        "type": "adjektiivi",
+        "example_fi": "Sisäänpääsy on ilmainen.",
+        "example_en": "The entrance is free.",
+        "note": "Taivutus: ilmainen–ilmaisen–ilmaista."
+      },
+      {
+        "fi": "euro",
+        "en": "euro",
+        "type": "substantiivi",
+        "example_fi": "Kahvi maksaa kaksi euroa.",
+        "example_en": "The coffee costs two euros.",
+        "note": "Taivutus: euro–euron–euroa."
+      },
+      {
+        "fi": "sentti",
+        "en": "cent",
+        "type": "substantiivi",
+        "example_fi": "Se maksaa viisikymmentä senttiä.",
+        "example_en": "It costs fifty cents.",
+        "note": "Astevaihtelu tt–t: sentti–sentin."
+      },
+      {
+        "fi": "lompakko",
+        "en": "wallet",
+        "type": "substantiivi",
+        "example_fi": "Rahat ovat lompakossa.",
+        "example_en": "The money is in the wallet.",
+        "note": "Astevaihtelu kk–k: lompakko–lompakon."
+      },
+      {
+        "fi": "lasku",
+        "en": "bill; invoice",
+        "type": "substantiivi",
+        "example_fi": "Maksan sähkölaskun.",
+        "example_en": "I pay the electricity bill.",
+        "note": "Taivutus: lasku–laskun–laskua."
+      },
+      {
+        "fi": "tili",
+        "en": "account",
+        "type": "substantiivi",
+        "example_fi": "Rahat ovat pankkitilillä.",
+        "example_en": "The money is in the bank account.",
+        "note": "Taivutus: tili–tilin–tiliä."
+      },
+      {
+        "fi": "hintalappu",
+        "en": "price tag",
+        "type": "substantiivi",
+        "example_fi": "Katson hintalappua.",
+        "example_en": "I look at the price tag.",
+        "note": "Astevaihtelu pp–p: hintalappu–hintalapun."
+      },
+      {
+        "fi": "koko",
+        "en": "size",
+        "type": "substantiivi",
+        "example_fi": "Mikä koko sinulla on?",
+        "example_en": "What size are you?",
+        "note": "Astevaihtelu k–pois: koko–koon."
+      },
+      {
+        "fi": "tuote",
+        "en": "product",
+        "type": "substantiivi",
+        "example_fi": "Tämä tuote on laadukas.",
+        "example_en": "This product is of high quality.",
+        "note": "Astevaihtelu t–tt: tuote–tuotteen."
+      },
+      {
+        "fi": "valikoima",
+        "en": "selection; range",
+        "type": "substantiivi",
+        "example_fi": "Kaupassa on laaja valikoima.",
+        "example_en": "The shop has a wide selection.",
+        "note": "Taivutus: valikoima–valikoiman–valikoimaa."
+      },
+      {
+        "fi": "jono",
+        "en": "queue; line",
+        "type": "substantiivi",
+        "example_fi": "Kassalla on pitkä jono.",
+        "example_en": "There is a long queue at the checkout.",
+        "note": "Taivutus: jono–jonon–jonoa."
+      },
+      {
+        "fi": "ostoskori",
+        "en": "shopping basket",
+        "type": "substantiivi",
+        "example_fi": "Laitan tuotteet ostoskoriin.",
+        "example_en": "I put the products in the basket.",
+        "note": "Taivutus: ostoskori–ostoskorin–ostoskoria."
+      },
+      {
+        "fi": "ostoskärry",
+        "en": "shopping cart",
+        "type": "substantiivi",
+        "example_fi": "Työnnän ostoskärryä.",
+        "example_en": "I push the shopping cart.",
+        "note": "Taivutus: ostoskärry–ostoskärryn–ostoskärryä."
+      },
+      {
+        "fi": "kauppias",
+        "en": "shopkeeper; merchant",
+        "type": "substantiivi",
+        "example_fi": "Kauppias avaa liikkeen aamulla.",
+        "example_en": "The shopkeeper opens the store in the morning.",
+        "note": "Taivutus: kauppias–kauppiaan–kauppiasta."
+      },
+      {
+        "fi": "liike",
+        "en": "shop; store",
+        "type": "substantiivi",
+        "example_fi": "Liike on auki kello kymmenen.",
+        "example_en": "The store is open at ten o'clock.",
+        "note": "Astevaihtelu k–kk: liike–liikkeen."
+      },
+      {
+        "fi": "aukioloaika",
+        "en": "opening hours",
+        "type": "substantiivi",
+        "example_fi": "Tarkistan kaupan aukioloajat.",
+        "example_en": "I check the shop's opening hours.",
+        "note": "Astevaihtelu k–j: aukioloaika–aukioloajan."
+      },
+      {
+        "fi": "valita",
+        "en": "to choose",
+        "type": "verbi",
+        "example_fi": "Valitsen punaisen paidan.",
+        "example_en": "I choose the red shirt.",
+        "note": "Taivutus: valita–valitsen–valitsi."
+      },
+      {
+        "fi": "vaihtaa",
+        "en": "to exchange; to change",
+        "type": "verbi",
+        "example_fi": "Vaihdan paidan isompaan.",
+        "example_en": "I exchange the shirt for a bigger one.",
+        "note": "Astevaihtelu ht–hd: vaihtaa–vaihdan."
+      },
+      {
+        "fi": "palauttaa",
+        "en": "to return",
+        "type": "verbi",
+        "example_fi": "Palautan viallisen tuotteen.",
+        "example_en": "I return the faulty product.",
+        "note": "Astevaihtelu tt–t: palauttaa–palautan."
+      },
+      {
+        "fi": "tarvita",
+        "en": "to need",
+        "type": "verbi",
+        "example_fi": "Tarvitsen uudet kengät.",
+        "example_en": "I need new shoes.",
+        "note": "Taivutus: tarvita–tarvitsen–tarvitsi."
+      },
+      {
+        "fi": "sopia",
+        "en": "to fit; to suit; to agree",
+        "type": "verbi",
+        "example_fi": "Tämä takki sopii minulle.",
+        "example_en": "This coat fits me.",
+        "note": "Taivutus: sopia–sopii–sopi."
+      },
+      {
+        "fi": "auki",
+        "en": "open",
+        "type": "adverbi",
+        "example_fi": "Kauppa on auki.",
+        "example_en": "The shop is open.",
+        "note": "Taipumaton; vrt. kiinni."
+      },
+      {
+        "fi": "kiinni",
+        "en": "closed; shut",
+        "type": "adverbi",
+        "example_fi": "Kauppa on kiinni sunnuntaisin.",
+        "example_en": "The shop is closed on Sundays.",
+        "note": "Taipumaton; vrt. auki."
+      },
+      {
+        "fi": "edullinen",
+        "en": "affordable; inexpensive",
+        "type": "adjektiivi",
+        "example_fi": "Tuote on edullinen.",
+        "example_en": "The product is affordable.",
+        "note": "Taivutus: edullinen–edullisen–edullista."
+      },
+      {
+        "fi": "maksuton",
+        "en": "free of charge",
+        "type": "adjektiivi",
+        "example_fi": "Palvelu on maksuton.",
+        "example_en": "The service is free of charge.",
+        "note": "Taivutus: maksuton–maksuttoman–maksutonta."
+      },
+      {
+        "fi": "hylly",
+        "en": "shelf",
+        "type": "substantiivi",
+        "example_fi": "Tuotteet ovat hyllyllä.",
+        "example_en": "The products are on the shelf.",
+        "note": "Taivutus: hylly–hyllyn–hyllyä."
+      },
+      {
+        "fi": "vaihtoraha",
+        "en": "change (money returned)",
+        "type": "substantiivi",
+        "example_fi": "Sain vaihtorahaa kaksi euroa.",
+        "example_en": "I got two euros in change.",
+        "note": "Taivutus: vaihtoraha–vaihtorahan–vaihtorahaa."
+      },
+      {
+        "fi": "ale",
+        "en": "sale",
+        "type": "substantiivi",
+        "example_fi": "Kaupassa on nyt ale.",
+        "example_en": "There is a sale in the shop now.",
+        "note": "Puhekieli sanasta 'alennusmyynti'."
+      }
+    ]
+  }
+]

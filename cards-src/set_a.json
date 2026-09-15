@@ -1,0 +1,1712 @@
+[
+  {
+    "category": "Tervehdykset ja kohteliaisuus",
+    "category_en": "Greetings & politeness",
+    "cards": [
+      {
+        "fi": "hei",
+        "en": "hello",
+        "type": "partikkeli",
+        "example_fi": "Hei, mitä kuuluu?",
+        "example_en": "Hi, how are you?",
+        "note": "Yleisin tervehdys, sopii kaikkiin tilanteisiin."
+      },
+      {
+        "fi": "moi",
+        "en": "hi",
+        "type": "partikkeli",
+        "example_fi": "Moi, olen Anna.",
+        "example_en": "Hi, I'm Anna.",
+        "note": "Epämuodollinen tervehdys; myös 'moi moi' hyvästiksi."
+      },
+      {
+        "fi": "terve",
+        "en": "hi, hello",
+        "type": "partikkeli",
+        "example_fi": "Terve! Pitkästä aikaa.",
+        "example_en": "Hi! Long time no see.",
+        "note": "Rento tervehdys; sana 'terve' = healthy."
+      },
+      {
+        "fi": "moikka",
+        "en": "hi",
+        "type": "partikkeli",
+        "example_fi": "Moikka, tuletko mukaan?",
+        "example_en": "Hi, are you coming along?",
+        "note": "Puhekielinen, leikkisä tervehdys."
+      },
+      {
+        "fi": "heippa",
+        "en": "bye",
+        "type": "partikkeli",
+        "example_fi": "Heippa, nähdään huomenna!",
+        "example_en": "Bye, see you tomorrow!",
+        "note": "Epämuodollinen hyvästely."
+      },
+      {
+        "fi": "näkemiin",
+        "en": "goodbye",
+        "type": "partikkeli",
+        "example_fi": "Kiitos ja näkemiin.",
+        "example_en": "Thanks and goodbye.",
+        "note": "Kohtelias, muodollinen hyvästely."
+      },
+      {
+        "fi": "hei hei",
+        "en": "bye bye",
+        "type": "fraasi",
+        "example_fi": "Hei hei, hyvää päivänjatkoa!",
+        "example_en": "Bye bye, have a nice day!",
+        "note": "Ystävällinen hyvästely puhelimessa ja kasvokkain."
+      },
+      {
+        "fi": "nähdään",
+        "en": "see you",
+        "type": "fraasi",
+        "example_fi": "Nähdään ensi viikolla!",
+        "example_en": "See you next week!",
+        "note": "Passiivimuoto verbistä nähdä; käytetään hyvästelyssä."
+      },
+      {
+        "fi": "kiitos",
+        "en": "thank you",
+        "type": "partikkeli",
+        "example_fi": "Kiitos avusta!",
+        "example_en": "Thanks for the help!",
+        "note": "Rektio: kiitos + elatiivi (kiitos avusta)."
+      },
+      {
+        "fi": "kiitos paljon",
+        "en": "thank you very much",
+        "type": "fraasi",
+        "example_fi": "Kiitos paljon lahjasta.",
+        "example_en": "Thank you very much for the gift.",
+        "note": "Myös 'paljon kiitoksia'. Kohtelias kiitos."
+      },
+      {
+        "fi": "kiitti",
+        "en": "thanks",
+        "type": "partikkeli",
+        "example_fi": "Kiitti, sä olet paras!",
+        "example_en": "Thanks, you're the best!",
+        "note": "Puhekielinen, rento muoto sanasta kiitos."
+      },
+      {
+        "fi": "ole hyvä",
+        "en": "you're welcome; here you are",
+        "type": "fraasi",
+        "example_fi": "– Kiitos! – Ole hyvä.",
+        "example_en": "– Thanks! – You're welcome.",
+        "note": "Vastaus kiitokseen; myös ojennettaessa jotakin. Monikko: olkaa hyvä."
+      },
+      {
+        "fi": "anteeksi",
+        "en": "sorry; excuse me",
+        "type": "partikkeli",
+        "example_fi": "Anteeksi, missä on asema?",
+        "example_en": "Excuse me, where is the station?",
+        "note": "Huomion pyytämiseen tai anteeksi pyytämiseen."
+      },
+      {
+        "fi": "tervetuloa",
+        "en": "welcome",
+        "type": "partikkeli",
+        "example_fi": "Tervetuloa meille!",
+        "example_en": "Welcome to our place!",
+        "note": "Kirjoitetaan yhteen. Tervetuloa + allatiivi (meille)."
+      },
+      {
+        "fi": "huomenta",
+        "en": "(good) morning",
+        "type": "partikkeli",
+        "example_fi": "Huomenta, hyvin nukuttu?",
+        "example_en": "Morning, sleep well?",
+        "note": "Lyhyempi muoto tervehdyksestä 'hyvää huomenta'."
+      },
+      {
+        "fi": "hyvää huomenta",
+        "en": "good morning",
+        "type": "fraasi",
+        "example_fi": "Hyvää huomenta kaikille!",
+        "example_en": "Good morning, everyone!",
+        "note": "Partitiivi 'hyvää'; käytetään aamulla."
+      },
+      {
+        "fi": "hyvää päivää",
+        "en": "good day",
+        "type": "fraasi",
+        "example_fi": "Hyvää päivää, kuinka voitte?",
+        "example_en": "Good day, how are you?",
+        "note": "Muodollinen päiväaikainen tervehdys."
+      },
+      {
+        "fi": "hyvää iltaa",
+        "en": "good evening",
+        "type": "fraasi",
+        "example_fi": "Hyvää iltaa, tervetuloa!",
+        "example_en": "Good evening, welcome!",
+        "note": "Illalla käytettävä kohtelias tervehdys."
+      },
+      {
+        "fi": "hyvää yötä",
+        "en": "good night",
+        "type": "fraasi",
+        "example_fi": "Hyvää yötä, nuku hyvin!",
+        "example_en": "Good night, sleep well!",
+        "note": "Sanotaan nukkumaan mentäessä. Puhekielessä 'öitä'."
+      },
+      {
+        "fi": "mitä kuuluu",
+        "en": "how are you",
+        "type": "fraasi",
+        "example_fi": "Moi! Mitä kuuluu?",
+        "example_en": "Hi! How are you?",
+        "note": "Vastaus usein 'kiitos hyvää'. Verbi kuulua."
+      },
+      {
+        "fi": "kiva",
+        "en": "nice",
+        "type": "adjektiivi",
+        "example_fi": "Tosi kiva nähdä sinua!",
+        "example_en": "So nice to see you!",
+        "note": "Taivutus: kiva–kivan–kivaa. Arkinen sana."
+      },
+      {
+        "fi": "hauska tutustua",
+        "en": "nice to meet you",
+        "type": "fraasi",
+        "example_fi": "Olen Mika. – Hauska tutustua!",
+        "example_en": "I'm Mika. – Nice to meet you!",
+        "note": "Sanotaan uutta ihmistä tavatessa."
+      },
+      {
+        "fi": "onnea",
+        "en": "congratulations; good luck",
+        "type": "partikkeli",
+        "example_fi": "Onnea syntymäpäivän johdosta!",
+        "example_en": "Congratulations on your birthday!",
+        "note": "Partitiivi sanasta onni. Myös 'onnea matkaan' = good luck."
+      },
+      {
+        "fi": "paljon onnea",
+        "en": "congratulations",
+        "type": "fraasi",
+        "example_fi": "Paljon onnea, valmistuit!",
+        "example_en": "Congratulations, you graduated!",
+        "note": "Onnitteluun; myös laulu 'Paljon onnea vaan'."
+      },
+      {
+        "fi": "hyvää ruokahalua",
+        "en": "bon appétit",
+        "type": "fraasi",
+        "example_fi": "Hyvää ruokahalua kaikille!",
+        "example_en": "Enjoy your meal, everyone!",
+        "note": "Sanotaan ennen ateriaa. Ruokahalu = appetite."
+      },
+      {
+        "fi": "hyvää viikonloppua",
+        "en": "have a good weekend",
+        "type": "fraasi",
+        "example_fi": "Nähdään maanantaina, hyvää viikonloppua!",
+        "example_en": "See you Monday, have a good weekend!",
+        "note": "Toivotus perjantaina. Vastaus: 'kiitos samoin'."
+      },
+      {
+        "fi": "ei kestä",
+        "en": "you're welcome; no problem",
+        "type": "fraasi",
+        "example_fi": "– Kiitos avusta! – Ei kestä.",
+        "example_en": "– Thanks for the help! – No problem.",
+        "note": "Rento vastaus kiitokseen."
+      },
+      {
+        "fi": "tervehdys",
+        "en": "greeting",
+        "type": "substantiivi",
+        "example_fi": "Hän nosti kättä tervehdykseksi.",
+        "example_en": "He raised his hand as a greeting.",
+        "note": "Taivutus: tervehdys–tervehdyksen–tervehdystä."
+      },
+      {
+        "fi": "kohteliaisuus",
+        "en": "politeness",
+        "type": "substantiivi",
+        "example_fi": "Kohteliaisuus on tärkeää.",
+        "example_en": "Politeness is important.",
+        "note": "Taivutus: kohteliaisuus–kohteliaisuuden–kohteliaisuutta."
+      },
+      {
+        "fi": "valitettavasti",
+        "en": "unfortunately",
+        "type": "adverbi",
+        "example_fi": "Valitettavasti en pääse tulemaan.",
+        "example_en": "Unfortunately I can't come.",
+        "note": "Kohtelias kieltäytyminen. Vastakohta: onneksi."
+      },
+      {
+        "fi": "tietysti",
+        "en": "of course",
+        "type": "adverbi",
+        "example_fi": "Tietysti autan sinua.",
+        "example_en": "Of course I'll help you.",
+        "note": "Synonyymit: tietenkin, toki."
+      },
+      {
+        "fi": "tietenkin",
+        "en": "of course",
+        "type": "adverbi",
+        "example_fi": "Tietenkin tulen juhliin!",
+        "example_en": "Of course I'll come to the party!",
+        "note": "Vahvistaa myöntävää vastausta."
+      },
+      {
+        "fi": "kyllä",
+        "en": "yes",
+        "type": "partikkeli",
+        "example_fi": "Kyllä, olen samaa mieltä.",
+        "example_en": "Yes, I agree.",
+        "note": "Muodollisempi kuin 'joo'. Kielto: ei."
+      },
+      {
+        "fi": "ei",
+        "en": "no",
+        "type": "partikkeli",
+        "example_fi": "Ei kiitos, en halua.",
+        "example_en": "No thanks, I don't want any.",
+        "note": "Myös kieltoverbi: en, et, ei, emme, ette, eivät."
+      },
+      {
+        "fi": "joo",
+        "en": "yeah",
+        "type": "partikkeli",
+        "example_fi": "Joo, mennään kahville.",
+        "example_en": "Yeah, let's go for coffee.",
+        "note": "Puhekielinen 'kyllä'."
+      },
+      {
+        "fi": "ehkä",
+        "en": "maybe",
+        "type": "adverbi",
+        "example_fi": "Ehkä tulen, ehkä en.",
+        "example_en": "Maybe I'll come, maybe not.",
+        "note": "Ilmaisee epävarmuutta. Synonyymi: kenties."
+      },
+      {
+        "fi": "ystävällinen",
+        "en": "friendly, kind",
+        "type": "adjektiivi",
+        "example_fi": "Myyjä oli hyvin ystävällinen.",
+        "example_en": "The salesperson was very friendly.",
+        "note": "Taivutus: ystävällinen–ystävällisen–ystävällistä."
+      },
+      {
+        "fi": "kohtelias",
+        "en": "polite",
+        "type": "adjektiivi",
+        "example_fi": "Ole kohtelias vieraille.",
+        "example_en": "Be polite to the guests.",
+        "note": "Taivutus: kohtelias–kohteliaan–kohteliasta."
+      },
+      {
+        "fi": "toki",
+        "en": "sure, certainly",
+        "type": "partikkeli",
+        "example_fi": "Toki, autan mielelläni.",
+        "example_en": "Sure, I'll gladly help.",
+        "note": "Kohtelias myöntyminen."
+      },
+      {
+        "fi": "onnittelu",
+        "en": "congratulation",
+        "type": "substantiivi",
+        "example_fi": "Lähetin hänelle onnittelut.",
+        "example_en": "I sent him my congratulations.",
+        "note": "Usein monikossa: onnittelut. Taivutus: onnittelu–onnittelun."
+      }
+    ]
+  },
+  {
+    "category": "Perhe ja ihmiset",
+    "category_en": "Family & people",
+    "cards": [
+      {
+        "fi": "perhe",
+        "en": "family",
+        "type": "substantiivi",
+        "example_fi": "Meidän perheessä on neljä henkeä.",
+        "example_en": "There are four people in our family.",
+        "note": "Taivutus: perhe–perheen–perhettä."
+      },
+      {
+        "fi": "äiti",
+        "en": "mother",
+        "type": "substantiivi",
+        "example_fi": "Äiti tekee ruokaa keittiössä.",
+        "example_en": "Mom is cooking in the kitchen.",
+        "note": "Taivutus: äiti–äidin–äitiä (t→d)."
+      },
+      {
+        "fi": "isä",
+        "en": "father",
+        "type": "substantiivi",
+        "example_fi": "Isä lukee lehteä.",
+        "example_en": "Dad is reading the paper.",
+        "note": "Taivutus: isä–isän–isää."
+      },
+      {
+        "fi": "sisko",
+        "en": "sister",
+        "type": "substantiivi",
+        "example_fi": "Siskoni asuu Turussa.",
+        "example_en": "My sister lives in Turku.",
+        "note": "Taivutus: sisko–siskon–siskoa (k katoaa). Arkinen, vrt. sisar."
+      },
+      {
+        "fi": "veli",
+        "en": "brother",
+        "type": "substantiivi",
+        "example_fi": "Veljeni on minua vanhempi.",
+        "example_en": "My brother is older than me.",
+        "note": "Taivutus: veli–veljen–veljeä."
+      },
+      {
+        "fi": "sisar",
+        "en": "sister",
+        "type": "substantiivi",
+        "example_fi": "Hänellä on kaksi sisarta.",
+        "example_en": "She has two sisters.",
+        "note": "Muodollisempi kuin sisko. Taivutus: sisar–sisaren–sisarta."
+      },
+      {
+        "fi": "lapsi",
+        "en": "child",
+        "type": "substantiivi",
+        "example_fi": "Lapsi leikkii pihalla.",
+        "example_en": "The child is playing in the yard.",
+        "note": "Taivutus: lapsi–lapsen–lasta. Monikko: lapset."
+      },
+      {
+        "fi": "vauva",
+        "en": "baby",
+        "type": "substantiivi",
+        "example_fi": "Vauva nukkuu vaunuissa.",
+        "example_en": "The baby is sleeping in the pram.",
+        "note": "Taivutus: vauva–vauvan–vauvaa."
+      },
+      {
+        "fi": "mummo",
+        "en": "grandma",
+        "type": "substantiivi",
+        "example_fi": "Mummo paistaa pullaa.",
+        "example_en": "Grandma is baking buns.",
+        "note": "Arkinen; myös mummi. Taivutus: mummo–mummon–mummoa."
+      },
+      {
+        "fi": "vaari",
+        "en": "grandpa",
+        "type": "substantiivi",
+        "example_fi": "Vaari kertoo tarinoita.",
+        "example_en": "Grandpa tells stories.",
+        "note": "Arkinen; myös pappa. Taivutus: vaari–vaarin–vaaria."
+      },
+      {
+        "fi": "isoäiti",
+        "en": "grandmother",
+        "type": "substantiivi",
+        "example_fi": "Isoäitini on 80-vuotias.",
+        "example_en": "My grandmother is 80 years old.",
+        "note": "Muodollisempi kuin mummo. Taivutus kuten äiti."
+      },
+      {
+        "fi": "isoisä",
+        "en": "grandfather",
+        "type": "substantiivi",
+        "example_fi": "Isoisä asuu maalla.",
+        "example_en": "Grandfather lives in the countryside.",
+        "note": "Muodollisempi kuin vaari. Taivutus kuten isä."
+      },
+      {
+        "fi": "täti",
+        "en": "aunt",
+        "type": "substantiivi",
+        "example_fi": "Täti tulee kylään sunnuntaina.",
+        "example_en": "Auntie is visiting on Sunday.",
+        "note": "Isän tai äidin sisar. Taivutus: täti–tädin–tätiä (t→d)."
+      },
+      {
+        "fi": "setä",
+        "en": "uncle (paternal)",
+        "type": "substantiivi",
+        "example_fi": "Setä on isän veli.",
+        "example_en": "Uncle is dad's brother.",
+        "note": "Isän veli. Taivutus: setä–sedän–setää (t→d)."
+      },
+      {
+        "fi": "eno",
+        "en": "uncle (maternal)",
+        "type": "substantiivi",
+        "example_fi": "Eno on äidin veli.",
+        "example_en": "Uncle is mom's brother.",
+        "note": "Äidin veli. Taivutus: eno–enon–enoa."
+      },
+      {
+        "fi": "serkku",
+        "en": "cousin",
+        "type": "substantiivi",
+        "example_fi": "Serkkuni asuu Ruotsissa.",
+        "example_en": "My cousin lives in Sweden.",
+        "note": "Taivutus: serkku–serkun–serkkua (kk→k)."
+      },
+      {
+        "fi": "aviomies",
+        "en": "husband",
+        "type": "substantiivi",
+        "example_fi": "Hänen aviomiehensä on opettaja.",
+        "example_en": "Her husband is a teacher.",
+        "note": "Myös lyhyesti 'mies'. Taivutus: aviomies–aviomiehen."
+      },
+      {
+        "fi": "vaimo",
+        "en": "wife",
+        "type": "substantiivi",
+        "example_fi": "Vaimoni pitää puutarhanhoidosta.",
+        "example_en": "My wife likes gardening.",
+        "note": "Taivutus: vaimo–vaimon–vaimoa."
+      },
+      {
+        "fi": "mies",
+        "en": "man",
+        "type": "substantiivi",
+        "example_fi": "Nuori mies odottaa bussia.",
+        "example_en": "A young man is waiting for the bus.",
+        "note": "Tarkoittaa myös aviomiestä. Taivutus: mies–miehen–miestä."
+      },
+      {
+        "fi": "nainen",
+        "en": "woman",
+        "type": "substantiivi",
+        "example_fi": "Nainen lukee kirjaa puistossa.",
+        "example_en": "A woman is reading a book in the park.",
+        "note": "Taivutus: nainen–naisen–naista."
+      },
+      {
+        "fi": "poikaystävä",
+        "en": "boyfriend",
+        "type": "substantiivi",
+        "example_fi": "Minulla on uusi poikaystävä.",
+        "example_en": "I have a new boyfriend.",
+        "note": "Yhdyssana: poika + ystävä. Taivutus kuten ystävä."
+      },
+      {
+        "fi": "tyttöystävä",
+        "en": "girlfriend",
+        "type": "substantiivi",
+        "example_fi": "Hänen tyttöystävänsä on kotoisin Espanjasta.",
+        "example_en": "His girlfriend is from Spain.",
+        "note": "Yhdyssana: tyttö + ystävä."
+      },
+      {
+        "fi": "naapuri",
+        "en": "neighbour",
+        "type": "substantiivi",
+        "example_fi": "Naapuri lainasi meille porakoneen.",
+        "example_en": "The neighbour lent us a drill.",
+        "note": "Taivutus: naapuri–naapurin–naapuria."
+      },
+      {
+        "fi": "ystävä",
+        "en": "friend",
+        "type": "substantiivi",
+        "example_fi": "Hyvä ystävä auttaa aina.",
+        "example_en": "A good friend always helps.",
+        "note": "Taivutus: ystävä–ystävän–ystävää."
+      },
+      {
+        "fi": "kaveri",
+        "en": "friend, buddy",
+        "type": "substantiivi",
+        "example_fi": "Menen kaverin kanssa elokuviin.",
+        "example_en": "I'm going to the movies with a friend.",
+        "note": "Arkisempi kuin ystävä. Taivutus: kaveri–kaverin."
+      },
+      {
+        "fi": "ihminen",
+        "en": "person, human",
+        "type": "substantiivi",
+        "example_fi": "Jokainen ihminen on erilainen.",
+        "example_en": "Every person is different.",
+        "note": "Taivutus: ihminen–ihmisen–ihmistä. Monikko: ihmiset."
+      },
+      {
+        "fi": "poika",
+        "en": "boy; son",
+        "type": "substantiivi",
+        "example_fi": "Poika pelaa jalkapalloa.",
+        "example_en": "The boy is playing football.",
+        "note": "Tarkoittaa myös poikalasta. Taivutus: poika–pojan–poikaa (k→j)."
+      },
+      {
+        "fi": "tyttö",
+        "en": "girl; daughter",
+        "type": "substantiivi",
+        "example_fi": "Tyttö piirtää kuvaa.",
+        "example_en": "The girl is drawing a picture.",
+        "note": "Taivutus: tyttö–tytön–tyttöä (tt→t)."
+      },
+      {
+        "fi": "vanhemmat",
+        "en": "parents",
+        "type": "substantiivi",
+        "example_fi": "Vanhempani asuvat Oulussa.",
+        "example_en": "My parents live in Oulu.",
+        "note": "Monikkomuoto sanasta vanhempi; yksikkö vanhempi = a parent."
+      },
+      {
+        "fi": "puoliso",
+        "en": "spouse",
+        "type": "substantiivi",
+        "example_fi": "Kutsu myös puolisosi juhliin.",
+        "example_en": "Invite your spouse to the party too.",
+        "note": "Neutraali sana aviopuolisosta. Taivutus: puoliso–puolison."
+      },
+      {
+        "fi": "sukulainen",
+        "en": "relative",
+        "type": "substantiivi",
+        "example_fi": "Meillä on sukulaisia Kanadassa.",
+        "example_en": "We have relatives in Canada.",
+        "note": "Taivutus: sukulainen–sukulaisen–sukulaista."
+      },
+      {
+        "fi": "suku",
+        "en": "family, kin",
+        "type": "substantiivi",
+        "example_fi": "Koko suku kokoontuu jouluna.",
+        "example_en": "The whole extended family gathers at Christmas.",
+        "note": "Taivutus: suku–suvun–sukua (k→v)."
+      },
+      {
+        "fi": "nuori",
+        "en": "young; young person",
+        "type": "adjektiivi",
+        "example_fi": "Nuori mies auttoi vanhusta.",
+        "example_en": "The young man helped an elderly person.",
+        "note": "Myös substantiivina. Taivutus: nuori–nuoren–nuorta."
+      },
+      {
+        "fi": "vanhus",
+        "en": "elderly person",
+        "type": "substantiivi",
+        "example_fi": "Vanhus istui penkillä.",
+        "example_en": "The elderly person sat on the bench.",
+        "note": "Taivutus: vanhus–vanhuksen–vanhusta."
+      },
+      {
+        "fi": "aikuinen",
+        "en": "adult",
+        "type": "substantiivi",
+        "example_fi": "Aikuinen maksaa täyden lipun.",
+        "example_en": "An adult pays the full ticket price.",
+        "note": "Myös adjektiivi. Taivutus: aikuinen–aikuisen–aikuista."
+      },
+      {
+        "fi": "teini",
+        "en": "teenager",
+        "type": "substantiivi",
+        "example_fi": "Teini kuuntelee musiikkia.",
+        "example_en": "The teenager is listening to music.",
+        "note": "Puhekielinen sanasta teini-ikäinen. Taivutus: teini–teinin."
+      },
+      {
+        "fi": "herra",
+        "en": "gentleman, Mr",
+        "type": "substantiivi",
+        "example_fi": "Hyvät naiset ja herrat!",
+        "example_en": "Ladies and gentlemen!",
+        "note": "Kohtelias puhuttelu. Taivutus: herra–herran–herraa."
+      },
+      {
+        "fi": "rouva",
+        "en": "lady, Mrs",
+        "type": "substantiivi",
+        "example_fi": "Rouva Virtanen odottaa aulassa.",
+        "example_en": "Mrs Virtanen is waiting in the lobby.",
+        "note": "Naimisissa olevan naisen puhuttelu. Taivutus: rouva–rouvan."
+      },
+      {
+        "fi": "neiti",
+        "en": "miss, young lady",
+        "type": "substantiivi",
+        "example_fi": "Neiti, unohditte laukkunne.",
+        "example_en": "Miss, you forgot your bag.",
+        "note": "Naimattoman naisen puhuttelu. Taivutus: neiti–neidin (t→d)."
+      },
+      {
+        "fi": "kaksonen",
+        "en": "twin",
+        "type": "substantiivi",
+        "example_fi": "He ovat identtiset kaksoset.",
+        "example_en": "They are identical twins.",
+        "note": "Usein monikossa: kaksoset. Taivutus: kaksonen–kaksosen."
+      },
+      {
+        "fi": "lapsenlapsi",
+        "en": "grandchild",
+        "type": "substantiivi",
+        "example_fi": "Mummolla on viisi lapsenlasta.",
+        "example_en": "Grandma has five grandchildren.",
+        "note": "Yhdyssana: lapsen + lapsi. Taivutus kuten lapsi."
+      },
+      {
+        "fi": "appi",
+        "en": "father-in-law",
+        "type": "substantiivi",
+        "example_fi": "Appi korjaa autoa.",
+        "example_en": "My father-in-law is fixing the car.",
+        "note": "Puolison isä. Taivutus: appi–apen–appea (pp→p). Myös appiukko."
+      },
+      {
+        "fi": "anoppi",
+        "en": "mother-in-law",
+        "type": "substantiivi",
+        "example_fi": "Anoppi tuli kylään.",
+        "example_en": "My mother-in-law came to visit.",
+        "note": "Puolison äiti. Taivutus: anoppi–anopin–anoppia (pp→p)."
+      },
+      {
+        "fi": "miniä",
+        "en": "daughter-in-law",
+        "type": "substantiivi",
+        "example_fi": "Miniä auttaa anoppia keittiössä.",
+        "example_en": "The daughter-in-law helps her mother-in-law in the kitchen.",
+        "note": "Pojan vaimo. Taivutus: miniä–miniän–miniää."
+      },
+      {
+        "fi": "vävy",
+        "en": "son-in-law",
+        "type": "substantiivi",
+        "example_fi": "Vävy on mukava mies.",
+        "example_en": "My son-in-law is a nice man.",
+        "note": "Tyttären mies. Taivutus: vävy–vävyn–vävyä."
+      }
+    ]
+  },
+  {
+    "category": "Numerot ja määrät",
+    "category_en": "Numbers & quantities",
+    "cards": [
+      {
+        "fi": "yksi",
+        "en": "one",
+        "type": "numeraali",
+        "example_fi": "Haluan yhden kahvin.",
+        "example_en": "I'd like one coffee.",
+        "note": "Taivutus: yksi–yhden–yhtä."
+      },
+      {
+        "fi": "kaksi",
+        "en": "two",
+        "type": "numeraali",
+        "example_fi": "Minulla on kaksi lasta.",
+        "example_en": "I have two children.",
+        "note": "Taivutus: kaksi–kahden–kahta. Luvun jälkeen partitiivi (kaksi lasta)."
+      },
+      {
+        "fi": "kolme",
+        "en": "three",
+        "type": "numeraali",
+        "example_fi": "Kello on kolme.",
+        "example_en": "It's three o'clock.",
+        "note": "Taivutus: kolme–kolmen–kolmea."
+      },
+      {
+        "fi": "neljä",
+        "en": "four",
+        "type": "numeraali",
+        "example_fi": "Pöydässä on neljä tuolia.",
+        "example_en": "There are four chairs at the table.",
+        "note": "Taivutus: neljä–neljän–neljää."
+      },
+      {
+        "fi": "viisi",
+        "en": "five",
+        "type": "numeraali",
+        "example_fi": "Bussi lähtee viideltä.",
+        "example_en": "The bus leaves at five.",
+        "note": "Taivutus: viisi–viiden–viittä."
+      },
+      {
+        "fi": "kuusi",
+        "en": "six",
+        "type": "numeraali",
+        "example_fi": "Kuusi plus neljä on kymmenen.",
+        "example_en": "Six plus four is ten.",
+        "note": "Taivutus: kuusi–kuuden–kuutta. Homonyymi: kuusi = spruce."
+      },
+      {
+        "fi": "seitsemän",
+        "en": "seven",
+        "type": "numeraali",
+        "example_fi": "Viikossa on seitsemän päivää.",
+        "example_en": "There are seven days in a week.",
+        "note": "Taivutus: seitsemän–seitsemän–seitsemää."
+      },
+      {
+        "fi": "kahdeksan",
+        "en": "eight",
+        "type": "numeraali",
+        "example_fi": "Työpäivä kestää kahdeksan tuntia.",
+        "example_en": "The workday lasts eight hours.",
+        "note": "Taivutus: kahdeksan–kahdeksan–kahdeksaa."
+      },
+      {
+        "fi": "yhdeksän",
+        "en": "nine",
+        "type": "numeraali",
+        "example_fi": "Kauppa aukeaa yhdeksältä.",
+        "example_en": "The shop opens at nine.",
+        "note": "Taivutus: yhdeksän–yhdeksän–yhdeksää."
+      },
+      {
+        "fi": "kymmenen",
+        "en": "ten",
+        "type": "numeraali",
+        "example_fi": "Sain kokeesta kymmenen.",
+        "example_en": "I got a ten on the exam.",
+        "note": "Taivutus: kymmenen–kymmenen–kymmentä."
+      },
+      {
+        "fi": "yksitoista",
+        "en": "eleven",
+        "type": "numeraali",
+        "example_fi": "Juna saapuu kello yksitoista.",
+        "example_en": "The train arrives at eleven o'clock.",
+        "note": "Luvut 11–19: perusluku + toista. Taivutus: yhdentoista."
+      },
+      {
+        "fi": "kaksitoista",
+        "en": "twelve",
+        "type": "numeraali",
+        "example_fi": "Vuodessa on kaksitoista kuukautta.",
+        "example_en": "There are twelve months in a year.",
+        "note": "Taivutus: kahdentoista–kahtatoista."
+      },
+      {
+        "fi": "kaksikymmentä",
+        "en": "twenty",
+        "type": "numeraali",
+        "example_fi": "Olen kaksikymmentä vuotta vanha.",
+        "example_en": "I am twenty years old.",
+        "note": "Kymmenet: perusluku + kymmentä. Taivutus: kahdenkymmenen."
+      },
+      {
+        "fi": "kolmekymmentä",
+        "en": "thirty",
+        "type": "numeraali",
+        "example_fi": "Bussissa on kolmekymmentä matkustajaa.",
+        "example_en": "There are thirty passengers on the bus.",
+        "note": "Taivutus: kolmenkymmenen–kolmeakymmentä."
+      },
+      {
+        "fi": "sata",
+        "en": "hundred",
+        "type": "numeraali",
+        "example_fi": "Kirja maksaa sata euroa.",
+        "example_en": "The book costs a hundred euros.",
+        "note": "Taivutus: sata–sadan–sataa (t→d)."
+      },
+      {
+        "fi": "tuhat",
+        "en": "thousand",
+        "type": "numeraali",
+        "example_fi": "Kaupungissa asuu tuhat ihmistä.",
+        "example_en": "A thousand people live in the town.",
+        "note": "Taivutus: tuhat–tuhannen–tuhatta."
+      },
+      {
+        "fi": "miljoona",
+        "en": "million",
+        "type": "numeraali",
+        "example_fi": "Voitin miljoona euroa.",
+        "example_en": "I won a million euros.",
+        "note": "Taivutus: miljoona–miljoonan–miljoonaa."
+      },
+      {
+        "fi": "miljardi",
+        "en": "billion",
+        "type": "numeraali",
+        "example_fi": "Maapallolla on miljardeja ihmisiä.",
+        "example_en": "There are billions of people on Earth.",
+        "note": "Taivutus: miljardi–miljardin–miljardia."
+      },
+      {
+        "fi": "nolla",
+        "en": "zero",
+        "type": "numeraali",
+        "example_fi": "Lämpötila on nolla astetta.",
+        "example_en": "The temperature is zero degrees.",
+        "note": "Taivutus: nolla–nollan–nollaa."
+      },
+      {
+        "fi": "ensimmäinen",
+        "en": "first",
+        "type": "numeraali",
+        "example_fi": "Tämä on ensimmäinen kertani täällä.",
+        "example_en": "This is my first time here.",
+        "note": "Järjestysluku. Taivutus: ensimmäinen–ensimmäisen–ensimmäistä."
+      },
+      {
+        "fi": "toinen",
+        "en": "second; other",
+        "type": "numeraali",
+        "example_fi": "Asun toisessa kerroksessa.",
+        "example_en": "I live on the second floor.",
+        "note": "Myös 'toinen' = other/another. Taivutus: toinen–toisen–toista."
+      },
+      {
+        "fi": "kolmas",
+        "en": "third",
+        "type": "numeraali",
+        "example_fi": "Hän tuli kilpailussa kolmanneksi.",
+        "example_en": "He came third in the competition.",
+        "note": "Taivutus: kolmas–kolmannen–kolmatta."
+      },
+      {
+        "fi": "neljäs",
+        "en": "fourth",
+        "type": "numeraali",
+        "example_fi": "Neljäs päivä oli paras.",
+        "example_en": "The fourth day was the best.",
+        "note": "Taivutus: neljäs–neljännen–neljättä."
+      },
+      {
+        "fi": "viides",
+        "en": "fifth",
+        "type": "numeraali",
+        "example_fi": "Toukokuu on vuoden viides kuukausi.",
+        "example_en": "May is the fifth month of the year.",
+        "note": "Taivutus: viides–viidennen–viidettä."
+      },
+      {
+        "fi": "puoli",
+        "en": "half",
+        "type": "numeraali",
+        "example_fi": "Otan puoli leipää.",
+        "example_en": "I'll take half a loaf.",
+        "note": "Kellossa: puoli kolme = 2.30. Taivutus: puoli–puolen–puolta."
+      },
+      {
+        "fi": "neljännes",
+        "en": "quarter",
+        "type": "substantiivi",
+        "example_fi": "Söin neljänneksen kakusta.",
+        "example_en": "I ate a quarter of the cake.",
+        "note": "1/4. Taivutus: neljännes–neljänneksen–neljännestä."
+      },
+      {
+        "fi": "muutama",
+        "en": "a few",
+        "type": "numeraali",
+        "example_fi": "Ostin muutaman omenan.",
+        "example_en": "I bought a few apples.",
+        "note": "Yksikössä + partitiivi (muutaman omenan). Taivutus: muutama–muutaman."
+      },
+      {
+        "fi": "monta",
+        "en": "many",
+        "type": "numeraali",
+        "example_fi": "Kaupassa oli monta ihmistä.",
+        "example_en": "There were many people in the shop.",
+        "note": "Partitiivimuoto sanasta moni; + yksikön partitiivi (monta ihmistä)."
+      },
+      {
+        "fi": "moni",
+        "en": "many (a)",
+        "type": "pronomini",
+        "example_fi": "Moni opiskelija asuu keskustassa.",
+        "example_en": "Many a student lives in the centre.",
+        "note": "Yksikössä + yksikkö. Taivutus: moni–monen–monta."
+      },
+      {
+        "fi": "vähän",
+        "en": "a little, few",
+        "type": "adverbi",
+        "example_fi": "Minulla on vähän aikaa.",
+        "example_en": "I have a little time.",
+        "note": "+ partitiivi (vähän aikaa). Vastakohta: paljon."
+      },
+      {
+        "fi": "paljon",
+        "en": "a lot, much",
+        "type": "adverbi",
+        "example_fi": "Kaupungissa on paljon turisteja.",
+        "example_en": "There are a lot of tourists in the city.",
+        "note": "+ partitiivi (paljon turisteja). Vastakohta: vähän."
+      },
+      {
+        "fi": "kaikki",
+        "en": "all, everything",
+        "type": "pronomini",
+        "example_fi": "Kaikki oli valmista.",
+        "example_en": "Everything was ready.",
+        "note": "Taivutus: kaikki–kaiken–kaikkea. Monikko: kaikki ihmiset."
+      },
+      {
+        "fi": "pari",
+        "en": "a couple, pair",
+        "type": "substantiivi",
+        "example_fi": "Odota pari minuuttia.",
+        "example_en": "Wait a couple of minutes.",
+        "note": "+ partitiivi (pari minuuttia). Taivutus: pari–parin–paria."
+      },
+      {
+        "fi": "numero",
+        "en": "number",
+        "type": "substantiivi",
+        "example_fi": "Mikä on puhelinnumerosi?",
+        "example_en": "What's your phone number?",
+        "note": "Taivutus: numero–numeron–numeroa."
+      },
+      {
+        "fi": "luku",
+        "en": "number, figure",
+        "type": "substantiivi",
+        "example_fi": "Kirjoita luku sanoin.",
+        "example_en": "Write the number in words.",
+        "note": "Tarkoittaa myös lukua (chapter). Taivutus: luku–luvun–lukua (k→v)."
+      },
+      {
+        "fi": "määrä",
+        "en": "amount, quantity",
+        "type": "substantiivi",
+        "example_fi": "Sokerin määrä on liian suuri.",
+        "example_en": "The amount of sugar is too big.",
+        "note": "Taivutus: määrä–määrän–määrää."
+      },
+      {
+        "fi": "osa",
+        "en": "part",
+        "type": "substantiivi",
+        "example_fi": "Osa opiskelijoista myöhästyi.",
+        "example_en": "Some of the students were late.",
+        "note": "+ partitiivi (osa opiskelijoista). Taivutus: osa–osan–osaa."
+      },
+      {
+        "fi": "kokonainen",
+        "en": "whole, entire",
+        "type": "adjektiivi",
+        "example_fi": "Söin kokonaisen pizzan.",
+        "example_en": "I ate a whole pizza.",
+        "note": "Taivutus: kokonainen–kokonaisen–kokonaista."
+      },
+      {
+        "fi": "tusina",
+        "en": "dozen",
+        "type": "substantiivi",
+        "example_fi": "Ostin tusinan munia.",
+        "example_en": "I bought a dozen eggs.",
+        "note": "12 kpl; + partitiivi. Taivutus: tusina–tusinan."
+      },
+      {
+        "fi": "enemmän",
+        "en": "more",
+        "type": "adverbi",
+        "example_fi": "Tarvitsen enemmän aikaa.",
+        "example_en": "I need more time.",
+        "note": "Vertailumuoto sanasta paljon; + partitiivi. Vastakohta: vähemmän."
+      },
+      {
+        "fi": "vähemmän",
+        "en": "less",
+        "type": "adverbi",
+        "example_fi": "Syön nykyään vähemmän sokeria.",
+        "example_en": "I eat less sugar nowadays.",
+        "note": "Vertailumuoto sanasta vähän. Vastakohta: enemmän."
+      },
+      {
+        "fi": "riittävästi",
+        "en": "enough, sufficiently",
+        "type": "adverbi",
+        "example_fi": "Nukuitko riittävästi?",
+        "example_en": "Did you sleep enough?",
+        "note": "+ partitiivi (riittävästi rahaa). Synonyymi: tarpeeksi."
+      },
+      {
+        "fi": "tarpeeksi",
+        "en": "enough",
+        "type": "adverbi",
+        "example_fi": "Ruokaa on tarpeeksi kaikille.",
+        "example_en": "There's enough food for everyone.",
+        "note": "+ partitiivi (tarpeeksi ruokaa). Synonyymi: riittävästi."
+      },
+      {
+        "fi": "usea",
+        "en": "several",
+        "type": "pronomini",
+        "example_fi": "Useat ihmiset olivat samaa mieltä.",
+        "example_en": "Several people agreed.",
+        "note": "Usein monikossa: useat, useita. Taivutus: usea–usean."
+      },
+      {
+        "fi": "yhteensä",
+        "en": "in total, altogether",
+        "type": "adverbi",
+        "example_fi": "Lasku oli yhteensä 50 euroa.",
+        "example_en": "The bill was 50 euros in total.",
+        "note": "Ilmaisee kokonaissummaa."
+      }
+    ]
+  },
+  {
+    "category": "Aika, kellonaika ja viikonpäivät",
+    "category_en": "Time, clock & weekdays",
+    "cards": [
+      {
+        "fi": "aika",
+        "en": "time",
+        "type": "substantiivi",
+        "example_fi": "Minulla ei ole aikaa.",
+        "example_en": "I don't have time.",
+        "note": "Taivutus: aika–ajan–aikaa (k→j). Myös 'aika' = quite."
+      },
+      {
+        "fi": "tunti",
+        "en": "hour",
+        "type": "substantiivi",
+        "example_fi": "Matka kestää kaksi tuntia.",
+        "example_en": "The trip takes two hours.",
+        "note": "Taivutus: tunti–tunnin–tuntia (nt→nn). Myös oppitunti = lesson."
+      },
+      {
+        "fi": "minuutti",
+        "en": "minute",
+        "type": "substantiivi",
+        "example_fi": "Odota viisi minuuttia.",
+        "example_en": "Wait five minutes.",
+        "note": "Taivutus: minuutti–minuutin–minuuttia (tt→t)."
+      },
+      {
+        "fi": "sekunti",
+        "en": "second",
+        "type": "substantiivi",
+        "example_fi": "Sekunti on lyhyt aika.",
+        "example_en": "A second is a short time.",
+        "note": "Taivutus: sekunti–sekunnin–sekuntia (nt→nn)."
+      },
+      {
+        "fi": "kello",
+        "en": "clock; o'clock",
+        "type": "substantiivi",
+        "example_fi": "Kello on nyt kaksi.",
+        "example_en": "It's two o'clock now.",
+        "note": "Taivutus: kello–kellon–kelloa. 'Paljonko kello on?' = What time is it?"
+      },
+      {
+        "fi": "aamu",
+        "en": "morning",
+        "type": "substantiivi",
+        "example_fi": "Herään aikaisin aamulla.",
+        "example_en": "I wake up early in the morning.",
+        "note": "Taivutus: aamu–aamun–aamua."
+      },
+      {
+        "fi": "aamupäivä",
+        "en": "morning, forenoon",
+        "type": "substantiivi",
+        "example_fi": "Tapaaminen on aamupäivällä.",
+        "example_en": "The meeting is in the late morning.",
+        "note": "Noin klo 9–12. Taivutus kuten päivä."
+      },
+      {
+        "fi": "päivä",
+        "en": "day",
+        "type": "substantiivi",
+        "example_fi": "Tänään on kaunis päivä.",
+        "example_en": "Today is a beautiful day.",
+        "note": "Taivutus: päivä–päivän–päivää."
+      },
+      {
+        "fi": "iltapäivä",
+        "en": "afternoon",
+        "type": "substantiivi",
+        "example_fi": "Nähdään iltapäivällä.",
+        "example_en": "See you in the afternoon.",
+        "note": "Noin klo 12–18. Taivutus kuten päivä."
+      },
+      {
+        "fi": "ilta",
+        "en": "evening",
+        "type": "substantiivi",
+        "example_fi": "Illalla katson televisiota.",
+        "example_en": "In the evening I watch television.",
+        "note": "Taivutus: ilta–illan–iltaa (lt→ll)."
+      },
+      {
+        "fi": "yö",
+        "en": "night",
+        "type": "substantiivi",
+        "example_fi": "Nukuin hyvin koko yön.",
+        "example_en": "I slept well all night.",
+        "note": "Taivutus: yö–yön–yötä."
+      },
+      {
+        "fi": "keskipäivä",
+        "en": "noon, midday",
+        "type": "substantiivi",
+        "example_fi": "Syömme lounasta keskipäivällä.",
+        "example_en": "We eat lunch at noon.",
+        "note": "Klo 12. Taivutus kuten päivä."
+      },
+      {
+        "fi": "keskiyö",
+        "en": "midnight",
+        "type": "substantiivi",
+        "example_fi": "Juna saapuu keskiyöllä.",
+        "example_en": "The train arrives at midnight.",
+        "note": "Klo 24/00. Taivutus kuten yö."
+      },
+      {
+        "fi": "maanantai",
+        "en": "Monday",
+        "type": "substantiivi",
+        "example_fi": "Menen töihin maanantaina.",
+        "example_en": "I go to work on Monday.",
+        "note": "Viikonpäivät pienellä. Essiivi: maanantaina = on Monday."
+      },
+      {
+        "fi": "tiistai",
+        "en": "Tuesday",
+        "type": "substantiivi",
+        "example_fi": "Tiistaina on suomen tunti.",
+        "example_en": "On Tuesday there's a Finnish lesson.",
+        "note": "Essiivi: tiistaina = on Tuesday."
+      },
+      {
+        "fi": "keskiviikko",
+        "en": "Wednesday",
+        "type": "substantiivi",
+        "example_fi": "Keskiviikko on viikon keskellä.",
+        "example_en": "Wednesday is in the middle of the week.",
+        "note": "Taivutus: keskiviikko–keskiviikon (kk→k)."
+      },
+      {
+        "fi": "torstai",
+        "en": "Thursday",
+        "type": "substantiivi",
+        "example_fi": "Torstaina käyn kaupassa.",
+        "example_en": "On Thursday I go shopping.",
+        "note": "Essiivi: torstaina."
+      },
+      {
+        "fi": "perjantai",
+        "en": "Friday",
+        "type": "substantiivi",
+        "example_fi": "Perjantaina on viikonloppu edessä.",
+        "example_en": "On Friday the weekend is ahead.",
+        "note": "Essiivi: perjantaina."
+      },
+      {
+        "fi": "lauantai",
+        "en": "Saturday",
+        "type": "substantiivi",
+        "example_fi": "Lauantaina nukun pitkään.",
+        "example_en": "On Saturday I sleep in.",
+        "note": "Essiivi: lauantaina."
+      },
+      {
+        "fi": "sunnuntai",
+        "en": "Sunday",
+        "type": "substantiivi",
+        "example_fi": "Sunnuntai on lepopäivä.",
+        "example_en": "Sunday is a day of rest.",
+        "note": "Essiivi: sunnuntaina."
+      },
+      {
+        "fi": "viikko",
+        "en": "week",
+        "type": "substantiivi",
+        "example_fi": "Loma kestää yhden viikon.",
+        "example_en": "The holiday lasts one week.",
+        "note": "Taivutus: viikko–viikon–viikkoa (kk→k)."
+      },
+      {
+        "fi": "viikonloppu",
+        "en": "weekend",
+        "type": "substantiivi",
+        "example_fi": "Vietämme viikonlopun mökillä.",
+        "example_en": "We spend the weekend at the cottage.",
+        "note": "Yhdyssana: viikon + loppu. Taivutus: viikonlopun."
+      },
+      {
+        "fi": "arki",
+        "en": "weekday, everyday life",
+        "type": "substantiivi",
+        "example_fi": "Arkena herään kuudelta.",
+        "example_en": "On weekdays I wake up at six.",
+        "note": "Vastakohta viikonloppu/juhla. Taivutus: arki–arjen–arkea (k→j)."
+      },
+      {
+        "fi": "tänään",
+        "en": "today",
+        "type": "adverbi",
+        "example_fi": "Tänään on tiistai.",
+        "example_en": "Today is Tuesday.",
+        "note": "Ajan adverbi. Vrt. huomenna, eilen."
+      },
+      {
+        "fi": "huomenna",
+        "en": "tomorrow",
+        "type": "adverbi",
+        "example_fi": "Huomenna menen lääkäriin.",
+        "example_en": "Tomorrow I'm going to the doctor.",
+        "note": "Vrt. huomenta = morning. Vastakohta: eilen."
+      },
+      {
+        "fi": "eilen",
+        "en": "yesterday",
+        "type": "adverbi",
+        "example_fi": "Eilen satoi koko päivän.",
+        "example_en": "Yesterday it rained all day.",
+        "note": "Vastakohta: huomenna."
+      },
+      {
+        "fi": "ylihuomenna",
+        "en": "the day after tomorrow",
+        "type": "adverbi",
+        "example_fi": "Ylihuomenna on juhla.",
+        "example_en": "The day after tomorrow there's a party.",
+        "note": "Kaksi päivää tästä eteenpäin."
+      },
+      {
+        "fi": "toissapäivänä",
+        "en": "the day before yesterday",
+        "type": "adverbi",
+        "example_fi": "Toissapäivänä kävin uimassa.",
+        "example_en": "The day before yesterday I went swimming.",
+        "note": "Kaksi päivää sitten. Myös 'toissa päivänä'."
+      },
+      {
+        "fi": "nyt",
+        "en": "now",
+        "type": "adverbi",
+        "example_fi": "Tule tänne nyt!",
+        "example_en": "Come here now!",
+        "note": "Nykyhetki. Vrt. juuri nyt = right now."
+      },
+      {
+        "fi": "sitten",
+        "en": "then; ago",
+        "type": "adverbi",
+        "example_fi": "Kävin siellä viikko sitten.",
+        "example_en": "I went there a week ago.",
+        "note": "Ajanilmauksissa 'sitten' = ago; muuten 'sitten' = then."
+      },
+      {
+        "fi": "pian",
+        "en": "soon",
+        "type": "adverbi",
+        "example_fi": "Bussi tulee pian.",
+        "example_en": "The bus is coming soon.",
+        "note": "Lähitulevaisuus. Synonyymi: kohta."
+      },
+      {
+        "fi": "myöhään",
+        "en": "late",
+        "type": "adverbi",
+        "example_fi": "Menin nukkumaan myöhään.",
+        "example_en": "I went to bed late.",
+        "note": "Vastakohta: aikaisin. Vrt. myöhässä = delayed."
+      },
+      {
+        "fi": "aikaisin",
+        "en": "early",
+        "type": "adverbi",
+        "example_fi": "Heräsin aikaisin aamulla.",
+        "example_en": "I woke up early in the morning.",
+        "note": "Vastakohta: myöhään. Synonyymi: varhain."
+      },
+      {
+        "fi": "varhain",
+        "en": "early",
+        "type": "adverbi",
+        "example_fi": "Linnut laulavat varhain aamulla.",
+        "example_en": "The birds sing early in the morning.",
+        "note": "Kirjakielisempi kuin aikaisin."
+      },
+      {
+        "fi": "hetki",
+        "en": "moment",
+        "type": "substantiivi",
+        "example_fi": "Odota hetki!",
+        "example_en": "Wait a moment!",
+        "note": "Taivutus: hetki–hetken–hetkeä (k katoaa)."
+      },
+      {
+        "fi": "vartti",
+        "en": "quarter of an hour",
+        "type": "substantiivi",
+        "example_fi": "Tulen vartin kuluttua.",
+        "example_en": "I'll come in a quarter of an hour.",
+        "note": "15 minuuttia. Taivutus: vartti–vartin–varttia (tt→t)."
+      },
+      {
+        "fi": "vuorokausi",
+        "en": "24-hour day",
+        "type": "substantiivi",
+        "example_fi": "Vuorokaudessa on 24 tuntia.",
+        "example_en": "There are 24 hours in a day.",
+        "note": "Yö ja päivä yhdessä. Taivutus: vuorokausi–vuorokauden."
+      },
+      {
+        "fi": "aikataulu",
+        "en": "schedule, timetable",
+        "type": "substantiivi",
+        "example_fi": "Tarkista junan aikataulu.",
+        "example_en": "Check the train timetable.",
+        "note": "Taivutus: aikataulu–aikataulun."
+      },
+      {
+        "fi": "myöhässä",
+        "en": "late, delayed",
+        "type": "adverbi",
+        "example_fi": "Juna on kymmenen minuuttia myöhässä.",
+        "example_en": "The train is ten minutes late.",
+        "note": "Vastakohta: ajoissa. Vrt. myöhään = at a late hour."
+      },
+      {
+        "fi": "ajoissa",
+        "en": "on time, in time",
+        "type": "adverbi",
+        "example_fi": "Saavuin ajoissa asemalle.",
+        "example_en": "I arrived at the station on time.",
+        "note": "Vastakohta: myöhässä."
+      }
+    ]
+  },
+  {
+    "category": "Kuukaudet ja vuodenajat",
+    "category_en": "Months & seasons",
+    "cards": [
+      {
+        "fi": "tammikuu",
+        "en": "January",
+        "type": "substantiivi",
+        "example_fi": "Tammikuussa on kylmä.",
+        "example_en": "It's cold in January.",
+        "note": "Kuukaudet pienellä. Inessiivi: tammikuussa = in January."
+      },
+      {
+        "fi": "helmikuu",
+        "en": "February",
+        "type": "substantiivi",
+        "example_fi": "Helmikuu on lyhyin kuukausi.",
+        "example_en": "February is the shortest month.",
+        "note": "Inessiivi: helmikuussa."
+      },
+      {
+        "fi": "maaliskuu",
+        "en": "March",
+        "type": "substantiivi",
+        "example_fi": "Maaliskuussa lumi sulaa.",
+        "example_en": "In March the snow melts.",
+        "note": "Kevään ensimmäinen kuukausi."
+      },
+      {
+        "fi": "huhtikuu",
+        "en": "April",
+        "type": "substantiivi",
+        "example_fi": "Huhtikuussa sataa usein.",
+        "example_en": "It often rains in April.",
+        "note": "Inessiivi: huhtikuussa."
+      },
+      {
+        "fi": "toukokuu",
+        "en": "May",
+        "type": "substantiivi",
+        "example_fi": "Toukokuussa puut vihertävät.",
+        "example_en": "In May the trees turn green.",
+        "note": "Vappu on toukokuun 1. päivä."
+      },
+      {
+        "fi": "kesäkuu",
+        "en": "June",
+        "type": "substantiivi",
+        "example_fi": "Koulu loppuu kesäkuussa.",
+        "example_en": "School ends in June.",
+        "note": "Juhannus on kesäkuussa."
+      },
+      {
+        "fi": "heinäkuu",
+        "en": "July",
+        "type": "substantiivi",
+        "example_fi": "Heinäkuu on lämpimin kuukausi.",
+        "example_en": "July is the warmest month.",
+        "note": "Suomen yleisin lomakuukausi."
+      },
+      {
+        "fi": "elokuu",
+        "en": "August",
+        "type": "substantiivi",
+        "example_fi": "Elokuussa koulu alkaa.",
+        "example_en": "School starts in August.",
+        "note": "Kesän viimeinen kuukausi."
+      },
+      {
+        "fi": "syyskuu",
+        "en": "September",
+        "type": "substantiivi",
+        "example_fi": "Syyskuussa alkaa syksy.",
+        "example_en": "Autumn begins in September.",
+        "note": "Syksyn ensimmäinen kuukausi."
+      },
+      {
+        "fi": "lokakuu",
+        "en": "October",
+        "type": "substantiivi",
+        "example_fi": "Lokakuussa lehdet putoavat.",
+        "example_en": "In October the leaves fall.",
+        "note": "Inessiivi: lokakuussa."
+      },
+      {
+        "fi": "marraskuu",
+        "en": "November",
+        "type": "substantiivi",
+        "example_fi": "Marraskuu on pimeä kuukausi.",
+        "example_en": "November is a dark month.",
+        "note": "Inessiivi: marraskuussa."
+      },
+      {
+        "fi": "joulukuu",
+        "en": "December",
+        "type": "substantiivi",
+        "example_fi": "Joulu on joulukuussa.",
+        "example_en": "Christmas is in December.",
+        "note": "Vuoden viimeinen kuukausi."
+      },
+      {
+        "fi": "kuukausi",
+        "en": "month",
+        "type": "substantiivi",
+        "example_fi": "Vuodessa on kaksitoista kuukautta.",
+        "example_en": "There are twelve months in a year.",
+        "note": "Taivutus: kuukausi–kuukauden–kuukautta."
+      },
+      {
+        "fi": "vuosi",
+        "en": "year",
+        "type": "substantiivi",
+        "example_fi": "Uusi vuosi alkaa tammikuussa.",
+        "example_en": "The new year begins in January.",
+        "note": "Taivutus: vuosi–vuoden–vuotta."
+      },
+      {
+        "fi": "kevät",
+        "en": "spring",
+        "type": "substantiivi",
+        "example_fi": "Keväällä linnut palaavat.",
+        "example_en": "In spring the birds return.",
+        "note": "Adessiivi: keväällä. Taivutus: kevät–kevään–kevättä."
+      },
+      {
+        "fi": "kesä",
+        "en": "summer",
+        "type": "substantiivi",
+        "example_fi": "Kesällä uimme järvessä.",
+        "example_en": "In summer we swim in the lake.",
+        "note": "Adessiivi: kesällä. Taivutus: kesä–kesän–kesää."
+      },
+      {
+        "fi": "syksy",
+        "en": "autumn, fall",
+        "type": "substantiivi",
+        "example_fi": "Syksyllä sää viilenee.",
+        "example_en": "In autumn the weather cools down.",
+        "note": "Adessiivi: syksyllä. Taivutus: syksy–syksyn–syksyä."
+      },
+      {
+        "fi": "talvi",
+        "en": "winter",
+        "type": "substantiivi",
+        "example_fi": "Talvella sataa lunta.",
+        "example_en": "In winter it snows.",
+        "note": "Adessiivi: talvella. Taivutus: talvi–talven–talvea."
+      },
+      {
+        "fi": "vuodenaika",
+        "en": "season",
+        "type": "substantiivi",
+        "example_fi": "Suomessa on neljä vuodenaikaa.",
+        "example_en": "Finland has four seasons.",
+        "note": "Yhdyssana: vuoden + aika. Taivutus: vuodenaika–vuodenajan."
+      },
+      {
+        "fi": "juhlapäivä",
+        "en": "holiday, feast day",
+        "type": "substantiivi",
+        "example_fi": "Itsenäisyyspäivä on juhlapäivä.",
+        "example_en": "Independence Day is a holiday.",
+        "note": "Yhdyssana: juhla + päivä."
+      },
+      {
+        "fi": "joulu",
+        "en": "Christmas",
+        "type": "substantiivi",
+        "example_fi": "Vietämme joulua perheen kanssa.",
+        "example_en": "We spend Christmas with the family.",
+        "note": "Taivutus: joulu–joulun–joulua. 'Hyvää joulua!' = Merry Christmas!"
+      },
+      {
+        "fi": "pääsiäinen",
+        "en": "Easter",
+        "type": "substantiivi",
+        "example_fi": "Pääsiäisenä syödään mämmiä.",
+        "example_en": "At Easter people eat mämmi.",
+        "note": "Keväällä. Taivutus: pääsiäinen–pääsiäisen–pääsiäistä."
+      },
+      {
+        "fi": "juhannus",
+        "en": "Midsummer",
+        "type": "substantiivi",
+        "example_fi": "Juhannuksena poltetaan kokkoja.",
+        "example_en": "At Midsummer people light bonfires.",
+        "note": "Kesäkuun juhla. Taivutus: juhannus–juhannuksen."
+      },
+      {
+        "fi": "uusivuosi",
+        "en": "New Year",
+        "type": "substantiivi",
+        "example_fi": "Uutenavuotena ammutaan ilotulitteita.",
+        "example_en": "On New Year fireworks are set off.",
+        "note": "Molemmat osat taipuvat: uudenvuoden, uutenavuotena."
+      },
+      {
+        "fi": "vappu",
+        "en": "May Day",
+        "type": "substantiivi",
+        "example_fi": "Vappuna syödään munkkeja.",
+        "example_en": "On May Day people eat doughnuts.",
+        "note": "1.5. Taivutus: vappu–vapun–vappua (pp→p)."
+      },
+      {
+        "fi": "itsenäisyyspäivä",
+        "en": "Independence Day",
+        "type": "substantiivi",
+        "example_fi": "Itsenäisyyspäivää vietetään 6. joulukuuta.",
+        "example_en": "Independence Day is celebrated on 6 December.",
+        "note": "Suomen kansallispäivä. Yhdyssana."
+      },
+      {
+        "fi": "jouluaatto",
+        "en": "Christmas Eve",
+        "type": "substantiivi",
+        "example_fi": "Joulupukki tulee jouluaattona.",
+        "example_en": "Santa comes on Christmas Eve.",
+        "note": "24.12., juhlan päähetki Suomessa. Essiivi: jouluaattona."
+      },
+      {
+        "fi": "loma",
+        "en": "holiday, vacation",
+        "type": "substantiivi",
+        "example_fi": "Olen ensi viikolla lomalla.",
+        "example_en": "I'm on holiday next week.",
+        "note": "Taivutus: loma–loman–lomaa."
+      },
+      {
+        "fi": "kesäloma",
+        "en": "summer holiday",
+        "type": "substantiivi",
+        "example_fi": "Kesäloma kestää neljä viikkoa.",
+        "example_en": "The summer holiday lasts four weeks.",
+        "note": "Yhdyssana: kesä + loma."
+      },
+      {
+        "fi": "talviloma",
+        "en": "winter holiday",
+        "type": "substantiivi",
+        "example_fi": "Koululaisilla on talviloma helmikuussa.",
+        "example_en": "Schoolchildren have a winter holiday in February.",
+        "note": "Hiihtoloma. Yhdyssana: talvi + loma."
+      },
+      {
+        "fi": "lumi",
+        "en": "snow",
+        "type": "substantiivi",
+        "example_fi": "Maassa on paljon lunta.",
+        "example_en": "There's a lot of snow on the ground.",
+        "note": "Taivutus: lumi–lumen–lunta. 'Sataa lunta' = it snows."
+      },
+      {
+        "fi": "pakkanen",
+        "en": "frost, freezing cold",
+        "type": "substantiivi",
+        "example_fi": "Ulkona on kova pakkanen.",
+        "example_en": "It's freezing cold outside.",
+        "note": "Miinusasteet. Taivutus: pakkanen–pakkasen–pakkasta."
+      },
+      {
+        "fi": "aurinko",
+        "en": "sun",
+        "type": "substantiivi",
+        "example_fi": "Aurinko paistaa kirkkaasti.",
+        "example_en": "The sun is shining brightly.",
+        "note": "Taivutus: aurinko–auringon–aurinkoa (nk→ng)."
+      },
+      {
+        "fi": "sää",
+        "en": "weather",
+        "type": "substantiivi",
+        "example_fi": "Millainen sää tänään on?",
+        "example_en": "What's the weather like today?",
+        "note": "Taivutus: sää–sään–säätä."
+      },
+      {
+        "fi": "lämmin",
+        "en": "warm",
+        "type": "adjektiivi",
+        "example_fi": "Kesällä on lämmin.",
+        "example_en": "It's warm in summer.",
+        "note": "Taivutus: lämmin–lämpimän–lämmintä. Vastakohta: kylmä."
+      },
+      {
+        "fi": "kylmä",
+        "en": "cold",
+        "type": "adjektiivi",
+        "example_fi": "Vesi on kylmää.",
+        "example_en": "The water is cold.",
+        "note": "Taivutus: kylmä–kylmän–kylmää. Vastakohta: lämmin."
+      },
+      {
+        "fi": "sade",
+        "en": "rain",
+        "type": "substantiivi",
+        "example_fi": "Sade yllätti meidät.",
+        "example_en": "The rain caught us by surprise.",
+        "note": "Taivutus: sade–sateen–sadetta. 'Sataa' = it rains."
+      },
+      {
+        "fi": "juhla",
+        "en": "celebration, party",
+        "type": "substantiivi",
+        "example_fi": "Juhla alkaa kello kuusi.",
+        "example_en": "The party starts at six o'clock.",
+        "note": "Taivutus: juhla–juhlan–juhlaa. Monikko: juhlat."
+      },
+      {
+        "fi": "syntymäpäivä",
+        "en": "birthday",
+        "type": "substantiivi",
+        "example_fi": "Milloin sinulla on syntymäpäivä?",
+        "example_en": "When is your birthday?",
+        "note": "Yhdyssana: syntymä + päivä. Arkisesti synttärit."
+      },
+      {
+        "fi": "vuosikymmen",
+        "en": "decade",
+        "type": "substantiivi",
+        "example_fi": "Asuin siellä kokonaisen vuosikymmenen.",
+        "example_en": "I lived there for a whole decade.",
+        "note": "Kymmenen vuotta. Taivutus: vuosikymmen–vuosikymmenen."
+      }
+    ]
+  }
+]
