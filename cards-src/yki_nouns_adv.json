@@ -1,0 +1,736 @@
+[
+ {
+  "category": "YKI – Substantiivit (edistynyt sanasto)",
+  "category_en": "Nouns: advanced YKI vocabulary",
+  "cards": [
+   {
+    "fi": "näkökulma",
+    "en": "perspective",
+    "type": "substantiivi",
+    "example_fi": "Hänen näkökulmansa asiaan oli hyvin kiinnostava.",
+    "example_en": "His perspective on the matter was very interesting.",
+    "note": "Genetiivi: näkökulman · Partitiivi: näkökulmaa · Mon. partitiivi: näkökulmia · Mon. genetiivi: näkökulmien"
+   },
+   {
+    "fi": "merkitys",
+    "en": "meaning",
+    "type": "substantiivi",
+    "example_fi": "En ymmärtänyt tämän sanan merkitystä.",
+    "example_en": "I did not understand the meaning of this word.",
+    "note": "Genetiivi: merkityksen · Partitiivi: merkitystä · Mon. partitiivi: merkityksiä · Mon. genetiivi: merkitysten / merkityksien"
+   },
+   {
+    "fi": "kehitys",
+    "en": "development",
+    "type": "substantiivi",
+    "example_fi": "Teknologian kehitys on ollut nopeaa.",
+    "example_en": "The development of technology has been rapid.",
+    "note": "Genetiivi: kehityksen · Partitiivi: kehitystä · Mon. partitiivi: kehityksiä · Mon. genetiivi: kehitysten / kehityksien"
+   },
+   {
+    "fi": "muutoksen",
+    "en": "change",
+    "type": "substantiivi",
+    "example_fi": "Yritys valmistautuu suureen muutokseen.",
+    "example_en": "The company is preparing for a big change.",
+    "note": "Genetiivi: muutoksen · Partitiivi: muutosta · Mon. partitiivi: muutoksia · Mon. genetiivi: muutosten / muutoksien"
+   },
+   {
+    "fi": "haaste",
+    "en": "challenge",
+    "type": "substantiivi",
+    "example_fi": "Uusi työ oli hänelle iso haaste.",
+    "example_en": "The new job was a big challenge for him.",
+    "note": "Genetiivi: haasteen · Partitiivi: haastetta · Mon. partitiivi: haasteita · Mon. genetiivi: haasteiden"
+   },
+   {
+    "fi": "väittely",
+    "en": "debate",
+    "type": "substantiivi",
+    "example_fi": "Osallistuin eiliseen väittelyyn ilmastosta.",
+    "example_en": "I took part in yesterday's debate about the climate.",
+    "note": "Genetiivi: väittelyn · Partitiivi: väittelyä · Mon. partitiivi: väittelyjä · Mon. genetiivi: väittelyjen"
+   },
+   {
+    "fi": "kyky",
+    "en": "ability",
+    "type": "substantiivi",
+    "example_fi": "Hänellä on hyvä kyky ratkaista ongelmia.",
+    "example_en": "She has a good ability to solve problems.",
+    "note": "Genetiivi: kyvyn · Partitiivi: kykyä · Mon. partitiivi: kykyjä · Mon. genetiivi: kykyjen"
+   },
+   {
+    "fi": "vastuu",
+    "en": "responsibility",
+    "type": "substantiivi",
+    "example_fi": "Otan täyden vastuun virheestä.",
+    "example_en": "I take full responsibility for the mistake.",
+    "note": "Genetiivi: vastuun · Partitiivi: vastuuta · Mon. partitiivi: vastuita · Mon. genetiivi: vastuiden"
+   },
+   {
+    "fi": "edistys",
+    "en": "progress",
+    "type": "substantiivi",
+    "example_fi": "Oppilaan edistys oli huomattavaa.",
+    "example_en": "The student's progress was remarkable.",
+    "note": "Genetiivi: edistyksen · Partitiivi: edistystä · Mon. partitiivi: edistyksiä · Mon. genetiivi: edistysten / edistyksien"
+   },
+   {
+    "fi": "päätös",
+    "en": "decision",
+    "type": "substantiivi",
+    "example_fi": "Teimme yhdessä tärkeän päätöksen.",
+    "example_en": "We made an important decision together.",
+    "note": "Genetiivi: päätöksen · Partitiivi: päätöstä · Mon. partitiivi: päätöksiä · Mon. genetiivi: päätösten / päätöksien"
+   },
+   {
+    "fi": "vaikutus",
+    "en": "influence",
+    "type": "substantiivi",
+    "example_fi": "Opettajalla oli suuri vaikutus minuun.",
+    "example_en": "The teacher had a great influence on me.",
+    "note": "Genetiivi: vaikutuksen · Partitiivi: vaikutusta · Mon. partitiivi: vaikutuksia · Mon. genetiivi: vaikutusten / vaikutuksien"
+   },
+   {
+    "fi": "tulos",
+    "en": "result",
+    "type": "substantiivi",
+    "example_fi": "Odotamme kokeen tulosta jännittyneinä.",
+    "example_en": "We are anxiously waiting for the result of the test.",
+    "note": "Genetiivi: tuloksen · Partitiivi: tulosta · Mon. partitiivi: tuloksia · Mon. genetiivi: tulosten / tuloksien"
+   },
+   {
+    "fi": "asenne",
+    "en": "attitude",
+    "type": "substantiivi",
+    "example_fi": "Hänen asenteensa työhön on positiivinen.",
+    "example_en": "His attitude toward work is positive.",
+    "note": "Genetiivi: asenteen · Partitiivi: asennetta · Mon. partitiivi: asenteita · Mon. genetiivi: asenteiden"
+   },
+   {
+    "fi": "tutkimus",
+    "en": "research",
+    "type": "substantiivi",
+    "example_fi": "Yliopisto julkaisi uuden tutkimuksen.",
+    "example_en": "The university published a new piece of research.",
+    "note": "Genetiivi: tutkimuksen · Partitiivi: tutkimusta · Mon. partitiivi: tutkimuksia · Mon. genetiivi: tutkimusten / tutkimuksien"
+   },
+   {
+    "fi": "koulutus",
+    "en": "education",
+    "type": "substantiivi",
+    "example_fi": "Hyvä koulutus avaa monta ovea.",
+    "example_en": "A good education opens many doors.",
+    "note": "Genetiivi: koulutuksen · Partitiivi: koulutusta · Mon. partitiivi: koulutuksia · Mon. genetiivi: koulutusten / koulutuksien"
+   },
+   {
+    "fi": "työkalut",
+    "en": "tools",
+    "type": "substantiivi",
+    "example_fi": "Laita työkalut takaisin laatikkoon.",
+    "example_en": "Put the tools back in the box.",
+    "note": "Genetiivi: työkalun · Partitiivi: työkalua · Mon. partitiivi: työkaluja · Mon. genetiivi: työkalujen"
+   },
+   {
+    "fi": "alue",
+    "en": "area",
+    "type": "substantiivi",
+    "example_fi": "Asun rauhallisella alueella kaupungin laidalla.",
+    "example_en": "I live in a quiet area on the edge of the city.",
+    "note": "Genetiivi: alueen · Partitiivi: aluetta · Mon. partitiivi: alueita · Mon. genetiivi: alueiden"
+   },
+   {
+    "fi": "yhteistyö",
+    "en": "collaboration",
+    "type": "substantiivi",
+    "example_fi": "Projekti onnistui hyvän yhteistyön ansiosta.",
+    "example_en": "The project succeeded thanks to good collaboration.",
+    "note": "Genetiivi: yhteistyön · Partitiivi: yhteistyötä · Mon. partitiivi: yhteistöitä · Mon. genetiivi: yhteistöiden"
+   },
+   {
+    "fi": "periaate",
+    "en": "principle",
+    "type": "substantiivi",
+    "example_fi": "Rehellisyys on hänen tärkein periaatteensa.",
+    "example_en": "Honesty is his most important principle.",
+    "note": "Genetiivi: periaatteen · Partitiivi: periaatetta · Mon. partitiivi: periaatteita · Mon. genetiivi: periaatteiden"
+   },
+   {
+    "fi": "kokemus",
+    "en": "experience",
+    "type": "substantiivi",
+    "example_fi": "Matka oli unohtumaton kokemus.",
+    "example_en": "The trip was an unforgettable experience.",
+    "note": "Genetiivi: kokemuksen · Partitiivi: kokemusta · Mon. partitiivi: kokemuksia · Mon. genetiivi: kokemusten / kokemuksien"
+   },
+   {
+    "fi": "syy",
+    "en": "reason",
+    "type": "substantiivi",
+    "example_fi": "Kerro minulle todellinen syy.",
+    "example_en": "Tell me the real reason.",
+    "note": "Genetiivi: syyn · Partitiivi: syytä · Mon. partitiivi: syitä · Mon. genetiivi: syiden"
+   },
+   {
+    "fi": "arvo",
+    "en": "value",
+    "type": "substantiivi",
+    "example_fi": "Talon arvo on noussut viime vuonna.",
+    "example_en": "The value of the house has risen over the past year.",
+    "note": "Genetiivi: arvon · Partitiivi: arvoa · Mon. partitiivi: arvoja · Mon. genetiivi: arvojen"
+   },
+   {
+    "fi": "huolenaihe",
+    "en": "concern",
+    "type": "substantiivi",
+    "example_fi": "Ilmastonmuutos on suuri huolenaihe.",
+    "example_en": "Climate change is a big concern.",
+    "note": "Genetiivi: huolenaiheen · Partitiivi: huolenaihetta · Mon. partitiivi: huolenaiheita · Mon. genetiivi: huolenaiheiden"
+   },
+   {
+    "fi": "tarkoitus",
+    "en": "purpose",
+    "type": "substantiivi",
+    "example_fi": "Mikä on tämän kokouksen tarkoitus?",
+    "example_en": "What is the purpose of this meeting?",
+    "note": "Genetiivi: tarkoituksen · Partitiivi: tarkoitusta · Mon. partitiivi: tarkoituksia · Mon. genetiivi: tarkoitusten / tarkoituksien"
+   },
+   {
+    "fi": "tunne",
+    "en": "feeling",
+    "type": "substantiivi",
+    "example_fi": "Minulla oli outo tunne koko illan.",
+    "example_en": "I had a strange feeling the whole evening.",
+    "note": "Genetiivi: tunteen · Partitiivi: tunnetta · Mon. partitiivi: tunteita · Mon. genetiivi: tunteiden"
+   },
+   {
+    "fi": "luonne",
+    "en": "character",
+    "type": "substantiivi",
+    "example_fi": "Hänellä on lämmin ja rehellinen luonne.",
+    "example_en": "She has a warm and honest character.",
+    "note": "Genetiivi: luonteen · Partitiivi: luonnetta · Mon. partitiivi: luonteita · Mon. genetiivi: luonteiden"
+   },
+   {
+    "fi": "näkymä",
+    "en": "view",
+    "type": "substantiivi",
+    "example_fi": "Vuoren huipulta avautui upea näkymä.",
+    "example_en": "A magnificent view opened up from the mountain top.",
+    "note": "Genetiivi: näkymän · Partitiivi: näkymää · Mon. partitiivi: näkymiä · Mon. genetiivi: näkymien"
+   },
+   {
+    "fi": "vaihtoehto",
+    "en": "alternative",
+    "type": "substantiivi",
+    "example_fi": "Meillä ei ollut muuta vaihtoehtoa.",
+    "example_en": "We had no other alternative.",
+    "note": "Genetiivi: vaihtoehdon · Partitiivi: vaihtoehtoa · Mon. partitiivi: vaihtoehtoja · Mon. genetiivi: vaihtoehtojen"
+   },
+   {
+    "fi": "tilanne",
+    "en": "situation",
+    "type": "substantiivi",
+    "example_fi": "Tilanne muuttui nopeasti pahemmaksi.",
+    "example_en": "The situation quickly grew worse.",
+    "note": "Genetiivi: tilanteen · Partitiivi: tilannetta · Mon. partitiivi: tilanteita · Mon. genetiivi: tilanteiden"
+   },
+   {
+    "fi": "strategia",
+    "en": "strategy",
+    "type": "substantiivi",
+    "example_fi": "Yritys esitteli uuden strategiansa.",
+    "example_en": "The company presented its new strategy.",
+    "note": "Genetiivi: strategian · Partitiivi: strategiaa · Mon. partitiivi: strategioita · Mon. genetiivi: strategioiden"
+   },
+   {
+    "fi": "selitys",
+    "en": "explanation",
+    "type": "substantiivi",
+    "example_fi": "Hänen selityksensä ei vakuuttanut minua.",
+    "example_en": "His explanation did not convince me.",
+    "note": "Genetiivi: selityksen · Partitiivi: selitystä · Mon. partitiivi: selityksiä · Mon. genetiivi: selitysten / selityksien"
+   },
+   {
+    "fi": "näkökanta",
+    "en": "viewpoint",
+    "type": "substantiivi",
+    "example_fi": "Ymmärrän sinun näkökantasi hyvin.",
+    "example_en": "I understand your viewpoint well.",
+    "note": "Genetiivi: näkökannan · Partitiivi: näkökantaa · Mon. partitiivi: näkökantoja · Mon. genetiivi: näkökantojen"
+   },
+   {
+    "fi": "oikeus",
+    "en": "right",
+    "type": "substantiivi",
+    "example_fi": "Jokaisella on oikeus koulutukseen.",
+    "example_en": "Everyone has the right to education.",
+    "note": "Genetiivi: oikeuden · Partitiivi: oikeutta · Mon. partitiivi: oikeuksia · Mon. genetiivi: oikeuksien"
+   },
+   {
+    "fi": "väline",
+    "en": "instrument",
+    "type": "substantiivi",
+    "example_fi": "Kynä on yksinkertainen mutta tärkeä väline.",
+    "example_en": "A pen is a simple but important instrument.",
+    "note": "Genetiivi: välineen · Partitiivi: välinettä · Mon. partitiivi: välineitä · Mon. genetiivi: välineiden"
+   },
+   {
+    "fi": "ohjelma",
+    "en": "program",
+    "type": "substantiivi",
+    "example_fi": "Katsoin eilen kiinnostavan ohjelman.",
+    "example_en": "I watched an interesting program yesterday.",
+    "note": "Genetiivi: ohjelman · Partitiivi: ohjelmaa · Mon. partitiivi: ohjelmia · Mon. genetiivi: ohjelmien"
+   },
+   {
+    "fi": "yksityiskohta",
+    "en": "detail",
+    "type": "substantiivi",
+    "example_fi": "Hän muisti jokaisen pienen yksityiskohdan.",
+    "example_en": "She remembered every little detail.",
+    "note": "Genetiivi: yksityiskohdan · Partitiivi: yksityiskohtaa · Mon. partitiivi: yksityiskohtia · Mon. genetiivi: yksityiskohtien"
+   },
+   {
+    "fi": "jännite",
+    "en": "tension",
+    "type": "substantiivi",
+    "example_fi": "Ryhmän välillä oli selvä jännite.",
+    "example_en": "There was a clear tension within the group.",
+    "note": "Genetiivi: jännitteen · Partitiivi: jännitettä · Mon. partitiivi: jännitteitä · Mon. genetiivi: jännitteiden"
+   },
+   {
+    "fi": "tapaus",
+    "en": "case",
+    "type": "substantiivi",
+    "example_fi": "Poliisi tutki tapausta huolellisesti.",
+    "example_en": "The police investigated the case carefully.",
+    "note": "Genetiivi: tapauksen · Partitiivi: tapausta · Mon. partitiivi: tapauksia · Mon. genetiivi: tapausten / tapauksien"
+   },
+   {
+    "fi": "tieto",
+    "en": "knowledge",
+    "type": "substantiivi",
+    "example_fi": "Tarvitsen lisää tietoa aiheesta.",
+    "example_en": "I need more knowledge about the topic.",
+    "note": "Genetiivi: tiedon · Partitiivi: tietoa · Mon. partitiivi: tietoja · Mon. genetiivi: tietojen"
+   },
+   {
+    "fi": "johtopäätös",
+    "en": "conclusion",
+    "type": "substantiivi",
+    "example_fi": "Teimme nopean johtopäätöksen tuloksista.",
+    "example_en": "We drew a quick conclusion from the results.",
+    "note": "Genetiivi: johtopäätöksen · Partitiivi: johtopäätöstä · Mon. partitiivi: johtopäätöksiä · Mon. genetiivi: johtopäätösten / johtopäätöksien"
+   },
+   {
+    "fi": "käsitys",
+    "en": "understanding",
+    "type": "substantiivi",
+    "example_fi": "Minulla on selkeä käsitys asiasta.",
+    "example_en": "I have a clear understanding of the matter.",
+    "note": "Genetiivi: käsityksen · Partitiivi: käsitystä · Mon. partitiivi: käsityksiä · Mon. genetiivi: käsitysten / käsityksien"
+   },
+   {
+    "fi": "valinta",
+    "en": "choice",
+    "type": "substantiivi",
+    "example_fi": "Se oli vaikea mutta oikea valinta.",
+    "example_en": "It was a difficult but right choice.",
+    "note": "Genetiivi: valinnan · Partitiivi: valintaa · Mon. partitiivi: valintoja · Mon. genetiivi: valintojen"
+   },
+   {
+    "fi": "luettelo",
+    "en": "list",
+    "type": "substantiivi",
+    "example_fi": "Kirjoitin ostoksista pitkän luettelon.",
+    "example_en": "I wrote a long list of the purchases.",
+    "note": "Genetiivi: luettelon · Partitiivi: luetteloa · Mon. partitiivi: luetteloita · Mon. genetiivi: luetteloiden"
+   },
+   {
+    "fi": "vaikutusvalta",
+    "en": "influence",
+    "type": "substantiivi",
+    "example_fi": "Hänellä on paljon vaikutusvaltaa yrityksessä.",
+    "example_en": "She has a lot of influence in the company.",
+    "note": "Genetiivi: vaikutusvallan · Partitiivi: vaikutusvaltaa · Mon. partitiivi: vaikutusvaltoja · Mon. genetiivi: vaikutusvaltojen"
+   },
+   {
+    "fi": "päämäärä",
+    "en": "goal",
+    "type": "substantiivi",
+    "example_fi": "Meillä on yhteinen päämäärä.",
+    "example_en": "We have a common goal.",
+    "note": "Genetiivi: päämäärän · Partitiivi: päämäärää · Mon. partitiivi: päämääriä · Mon. genetiivi: päämäärien"
+   },
+   {
+    "fi": "liiketoiminta",
+    "en": "business",
+    "type": "substantiivi",
+    "example_fi": "Yrityksen liiketoiminta kasvoi nopeasti.",
+    "example_en": "The company's business grew quickly.",
+    "note": "Genetiivi: liiketoiminnan · Partitiivi: liiketoimintaa · Mon. partitiivi: liiketoimintoja · Mon. genetiivi: liiketoimintojen"
+   },
+   {
+    "fi": "mittari",
+    "en": "metric",
+    "type": "substantiivi",
+    "example_fi": "Myynti on tärkeä mittari yritykselle.",
+    "example_en": "Sales are an important metric for a company.",
+    "note": "Genetiivi: mittarin · Partitiivi: mittaria · Mon. partitiivi: mittareita · Mon. genetiivi: mittareiden"
+   },
+   {
+    "fi": "malli",
+    "en": "model",
+    "type": "substantiivi",
+    "example_fi": "Ostin auton uusimman mallin.",
+    "example_en": "I bought the newest model of the car.",
+    "note": "Genetiivi: mallin · Partitiivi: mallia · Mon. partitiivi: malleja · Mon. genetiivi: mallien"
+   },
+   {
+    "fi": "tilaisuus",
+    "en": "opportunity",
+    "type": "substantiivi",
+    "example_fi": "En halua menettää tätä tilaisuutta.",
+    "example_en": "I do not want to lose this opportunity.",
+    "note": "Genetiivi: tilaisuuden · Partitiivi: tilaisuutta · Mon. partitiivi: tilaisuuksia · Mon. genetiivi: tilaisuuksien"
+   },
+   {
+    "fi": "yhteys",
+    "en": "connection",
+    "type": "substantiivi",
+    "example_fi": "Löysin selvän yhteyden näiden asioiden välillä.",
+    "example_en": "I found a clear connection between these things.",
+    "note": "Genetiivi: yhteyden · Partitiivi: yhteyttä · Mon. partitiivi: yhteyksiä · Mon. genetiivi: yhteyksien"
+   },
+   {
+    "fi": "kehys",
+    "en": "framework",
+    "type": "substantiivi",
+    "example_fi": "Suunnitelmalle luotiin selkeä kehys.",
+    "example_en": "A clear framework was created for the plan.",
+    "note": "Genetiivi: kehyksen · Partitiivi: kehystä · Mon. partitiivi: kehyksiä · Mon. genetiivi: kehysten / kehyksien"
+   },
+   {
+    "fi": "kestävyys",
+    "en": "sustainability",
+    "type": "substantiivi",
+    "example_fi": "Ympäristön kestävyys on nyt tärkeä aihe.",
+    "example_en": "Environmental sustainability is now an important topic.",
+    "note": "Genetiivi: kestävyyden · Partitiivi: kestävyyttä · Mon. partitiivi: kestävyyksiä · Mon. genetiivi: kestävyyksien"
+   },
+   {
+    "fi": "yhteiskunta",
+    "en": "society",
+    "type": "substantiivi",
+    "example_fi": "Elämme monikulttuurisessa yhteiskunnassa.",
+    "example_en": "We live in a multicultural society.",
+    "note": "Genetiivi: yhteiskunnan · Partitiivi: yhteiskuntaa · Mon. partitiivi: yhteiskuntia · Mon. genetiivi: yhteiskuntien"
+   },
+   {
+    "fi": "perustus",
+    "en": "foundation",
+    "type": "substantiivi",
+    "example_fi": "Talon perustus valettiin viime kesänä.",
+    "example_en": "The foundation of the house was poured last summer.",
+    "note": "Genetiivi: perustuksen · Partitiivi: perustusta · Mon. partitiivi: perustuksia · Mon. genetiivi: perustusten / perustuksien"
+   },
+   {
+    "fi": "osaaminen",
+    "en": "expertise",
+    "type": "substantiivi",
+    "example_fi": "Hänen osaamisensa on erittäin arvokasta.",
+    "example_en": "Her expertise is very valuable.",
+    "note": "Genetiivi: osaamisen · Partitiivi: osaamista · Mon. partitiivi: osaamisia · Mon. genetiivi: osaamisten / osaamisien"
+   },
+   {
+    "fi": "dynamiikka",
+    "en": "dynamics",
+    "type": "substantiivi",
+    "example_fi": "Tiimin dynamiikka parani nopeasti.",
+    "example_en": "The team's dynamics improved quickly.",
+    "note": "Genetiivi: dynamiikan · Partitiivi: dynamiikkaa · Mon. partitiivi: dynamiikkoja · Mon. genetiivi: dynamiikkojen"
+   },
+   {
+    "fi": "prosessi",
+    "en": "process",
+    "type": "substantiivi",
+    "example_fi": "Oppiminen on hidas prosessi.",
+    "example_en": "Learning is a slow process.",
+    "note": "Genetiivi: prosessin · Partitiivi: prosessia · Mon. partitiivi: prosesseja · Mon. genetiivi: prosessien"
+   },
+   {
+    "fi": "kilpailu",
+    "en": "competition",
+    "type": "substantiivi",
+    "example_fi": "Voitin ensimmäisen kerran kilpailun.",
+    "example_en": "I won the competition for the first time.",
+    "note": "Genetiivi: kilpailun · Partitiivi: kilpailua · Mon. partitiivi: kilpailuja · Mon. genetiivi: kilpailujen"
+   },
+   {
+    "fi": "osuus",
+    "en": "share",
+    "type": "substantiivi",
+    "example_fi": "Sain oman osuuteni voitosta.",
+    "example_en": "I got my own share of the profit.",
+    "note": "Genetiivi: osuuden · Partitiivi: osuutta · Mon. partitiivi: osuuksia · Mon. genetiivi: osuuksien"
+   },
+   {
+    "fi": "innovaatio",
+    "en": "innovation",
+    "type": "substantiivi",
+    "example_fi": "Tämä keksintö on todellinen innovaatio.",
+    "example_en": "This invention is a true innovation.",
+    "note": "Genetiivi: innovaation · Partitiivi: innovaatiota · Mon. partitiivi: innovaatioita · Mon. genetiivi: innovaatioiden"
+   },
+   {
+    "fi": "esitys",
+    "en": "presentation",
+    "type": "substantiivi",
+    "example_fi": "Hänen esityksensä oli selkeä ja lyhyt.",
+    "example_en": "Her presentation was clear and short.",
+    "note": "Genetiivi: esityksen · Partitiivi: esitystä · Mon. partitiivi: esityksiä · Mon. genetiivi: esitysten / esityksien"
+   },
+   {
+    "fi": "käsittely",
+    "en": "handling",
+    "type": "substantiivi",
+    "example_fi": "Asian käsittely kestää muutaman viikon.",
+    "example_en": "The handling of the matter takes a few weeks.",
+    "note": "Genetiivi: käsittelyn · Partitiivi: käsittelyä · Mon. partitiivi: käsittelyjä · Mon. genetiivi: käsittelyjen"
+   },
+   {
+    "fi": "kulutus",
+    "en": "consumption",
+    "type": "substantiivi",
+    "example_fi": "Auton polttoaineen kulutus on pieni.",
+    "example_en": "The car's fuel consumption is low.",
+    "note": "Genetiivi: kulutuksen · Partitiivi: kulutusta · Mon. partitiivi: kulutuksia · Mon. genetiivi: kulutusten / kulutuksien"
+   },
+   {
+    "fi": "arvio",
+    "en": "evaluation",
+    "type": "substantiivi",
+    "example_fi": "Sain työstäni hyvän arvion.",
+    "example_en": "I received a good evaluation for my work.",
+    "note": "Genetiivi: arvion · Partitiivi: arviota · Mon. partitiivi: arvioita · Mon. genetiivi: arvioiden"
+   },
+   {
+    "fi": "tarkistus",
+    "en": "review",
+    "type": "substantiivi",
+    "example_fi": "Teksti vaatii vielä yhden tarkistuksen.",
+    "example_en": "The text still requires one review.",
+    "note": "Genetiivi: tarkistuksen · Partitiivi: tarkistusta · Mon. partitiivi: tarkistuksia · Mon. genetiivi: tarkistusten / tarkistuksien"
+   },
+   {
+    "fi": "ulottuvuus",
+    "en": "dimension",
+    "type": "substantiivi",
+    "example_fi": "Tarina sai uuden ulottuvuuden.",
+    "example_en": "The story gained a new dimension.",
+    "note": "Genetiivi: ulottuvuuden · Partitiivi: ulottuvuutta · Mon. partitiivi: ulottuvuuksia · Mon. genetiivi: ulottuvuuksien"
+   },
+   {
+    "fi": "yhdistelmä",
+    "en": "combination",
+    "type": "substantiivi",
+    "example_fi": "Ruoka oli maukas makujen yhdistelmä.",
+    "example_en": "The food was a tasty combination of flavors.",
+    "note": "Genetiivi: yhdistelmän · Partitiivi: yhdistelmää · Mon. partitiivi: yhdistelmiä · Mon. genetiivi: yhdistelmien"
+   },
+   {
+    "fi": "valta",
+    "en": "power",
+    "type": "substantiivi",
+    "example_fi": "Presidentillä on paljon valtaa.",
+    "example_en": "The president has a lot of power.",
+    "note": "Genetiivi: vallan · Partitiivi: valtaa · Mon. partitiivi: valtoja · Mon. genetiivi: valtojen"
+   },
+   {
+    "fi": "käsite",
+    "en": "concept",
+    "type": "substantiivi",
+    "example_fi": "Vapaus on laaja käsite.",
+    "example_en": "Freedom is a broad concept.",
+    "note": "Genetiivi: käsitteen · Partitiivi: käsitettä · Mon. partitiivi: käsitteitä · Mon. genetiivi: käsitteiden"
+   },
+   {
+    "fi": "vakuutus",
+    "en": "insurance",
+    "type": "substantiivi",
+    "example_fi": "Otin autolle uuden vakuutuksen.",
+    "example_en": "I took out new insurance for the car.",
+    "note": "Genetiivi: vakuutuksen · Partitiivi: vakuutusta · Mon. partitiivi: vakuutuksia · Mon. genetiivi: vakuutusten / vakuutuksien"
+   },
+   {
+    "fi": "varmistus",
+    "en": "assurance",
+    "type": "substantiivi",
+    "example_fi": "Tarvitsen vielä varmistuksen asiasta.",
+    "example_en": "I still need assurance about the matter.",
+    "note": "Genetiivi: varmistuksen · Partitiivi: varmistusta · Mon. partitiivi: varmistuksia · Mon. genetiivi: varmistusten / varmistuksien"
+   },
+   {
+    "fi": "johtaminen",
+    "en": "management",
+    "type": "substantiivi",
+    "example_fi": "Hyvä johtaminen motivoi työntekijöitä.",
+    "example_en": "Good management motivates employees.",
+    "note": "Genetiivi: johtamisen · Partitiivi: johtamista · Mon. partitiivi: johtamisia · Mon. genetiivi: johtamisten / johtamisien"
+   },
+   {
+    "fi": "kulttuuri",
+    "en": "culture",
+    "type": "substantiivi",
+    "example_fi": "Japanin kulttuuri kiehtoo minua.",
+    "example_en": "Japanese culture fascinates me.",
+    "note": "Genetiivi: kulttuurin · Partitiivi: kulttuuria · Mon. partitiivi: kulttuureja · Mon. genetiivi: kulttuurien"
+   },
+   {
+    "fi": "työntekijä",
+    "en": "employee",
+    "type": "substantiivi",
+    "example_fi": "Uusi työntekijä aloitti maanantaina.",
+    "example_en": "The new employee started on Monday.",
+    "note": "Genetiivi: työntekijän · Partitiivi: työntekijää · Mon. partitiivi: työntekijöitä · Mon. genetiivi: työntekijöiden"
+   },
+   {
+    "fi": "asiantuntemus",
+    "en": "expertise",
+    "type": "substantiivi",
+    "example_fi": "Tehtävä vaatii erityistä asiantuntemusta.",
+    "example_en": "The task requires special expertise.",
+    "note": "Genetiivi: asiantuntemuksen · Partitiivi: asiantuntemusta · Mon. partitiivi: asiantuntemuksia · Mon. genetiivi: asiantuntemusten / asiantuntemuksien"
+   },
+   {
+    "fi": "järjestelmä",
+    "en": "system",
+    "type": "substantiivi",
+    "example_fi": "Uusi järjestelmä toimii moitteettomasti.",
+    "example_en": "The new system works flawlessly.",
+    "note": "Genetiivi: järjestelmän · Partitiivi: järjestelmää · Mon. partitiivi: järjestelmiä · Mon. genetiivi: järjestelmien"
+   },
+   {
+    "fi": "ympäristö",
+    "en": "environment",
+    "type": "substantiivi",
+    "example_fi": "Meidän on suojeltava ympäristöä.",
+    "example_en": "We must protect the environment.",
+    "note": "Genetiivi: ympäristön · Partitiivi: ympäristöä · Mon. partitiivi: ympäristöjä · Mon. genetiivi: ympäristöjen"
+   },
+   {
+    "fi": "menestys",
+    "en": "success",
+    "type": "substantiivi",
+    "example_fi": "Toivotan sinulle menestystä työssäsi.",
+    "example_en": "I wish you success in your work.",
+    "note": "Genetiivi: menestyksen · Partitiivi: menestystä · Mon. partitiivi: menestyksiä · Mon. genetiivi: menestysten / menestyksien"
+   },
+   {
+    "fi": "haastattelu",
+    "en": "interview",
+    "type": "substantiivi",
+    "example_fi": "Työhaastattelu meni yllättävän hyvin.",
+    "example_en": "The job interview went surprisingly well.",
+    "note": "Genetiivi: haastattelun · Partitiivi: haastattelua · Mon. partitiivi: haastatteluja · Mon. genetiivi: haastattelujen"
+   },
+   {
+    "fi": "arviointi",
+    "en": "assessment",
+    "type": "substantiivi",
+    "example_fi": "Opettaja teki oppilaista arvioinnin.",
+    "example_en": "The teacher made an assessment of the students.",
+    "note": "Genetiivi: arvioinnin · Partitiivi: arviointia · Mon. partitiivi: arviointeja · Mon. genetiivi: arviointien"
+   },
+   {
+    "fi": "koordinaatti",
+    "en": "coordinate",
+    "type": "substantiivi",
+    "example_fi": "Merkitsin kartalle tarkan koordinaatin.",
+    "example_en": "I marked the exact coordinate on the map.",
+    "note": "Genetiivi: koordinaatin · Partitiivi: koordinaattia · Mon. partitiivi: koordinaatteja · Mon. genetiivi: koordinaattien"
+   },
+   {
+    "fi": "maksu",
+    "en": "payment",
+    "type": "substantiivi",
+    "example_fi": "Sain laskusta ensimmäisen maksun.",
+    "example_en": "I received the first payment from the invoice.",
+    "note": "Genetiivi: maksun · Partitiivi: maksua · Mon. partitiivi: maksuja · Mon. genetiivi: maksujen"
+   },
+   {
+    "fi": "keskustelu",
+    "en": "discussion",
+    "type": "substantiivi",
+    "example_fi": "Kävimme pitkän keskustelun tulevaisuudesta.",
+    "example_en": "We had a long discussion about the future.",
+    "note": "Genetiivi: keskustelun · Partitiivi: keskustelua · Mon. partitiivi: keskusteluja · Mon. genetiivi: keskustelujen"
+   },
+   {
+    "fi": "verotus",
+    "en": "taxation",
+    "type": "substantiivi",
+    "example_fi": "Yritysten verotus muuttuu ensi vuonna.",
+    "example_en": "The taxation of companies changes next year.",
+    "note": "Genetiivi: verotuksen · Partitiivi: verotusta · Mon. partitiivi: verotuksia · Mon. genetiivi: verotusten / verotuksien"
+   },
+   {
+    "fi": "resurssi",
+    "en": "resource",
+    "type": "substantiivi",
+    "example_fi": "Aika on arvokas resurssi.",
+    "example_en": "Time is a valuable resource.",
+    "note": "Genetiivi: resurssin · Partitiivi: resurssia · Mon. partitiivi: resursseja · Mon. genetiivi: resurssien"
+   },
+   {
+    "fi": "takuu",
+    "en": "guarantee",
+    "type": "substantiivi",
+    "example_fi": "Tuotteella on kahden vuoden takuu.",
+    "example_en": "The product has a two-year guarantee.",
+    "note": "Genetiivi: takuun · Partitiivi: takuuta · Mon. partitiivi: takuita · Mon. genetiivi: takuiden"
+   },
+   {
+    "fi": "suositus",
+    "en": "recommendation",
+    "type": "substantiivi",
+    "example_fi": "Sain ystävältäni hyvän suosituksen.",
+    "example_en": "I got a good recommendation from my friend.",
+    "note": "Genetiivi: suosituksen · Partitiivi: suositusta · Mon. partitiivi: suosituksia · Mon. genetiivi: suositusten / suosituksien"
+   },
+   {
+    "fi": "turvallisuus",
+    "en": "security",
+    "type": "substantiivi",
+    "example_fi": "Lasten turvallisuus on tärkeintä.",
+    "example_en": "Children's security is the most important thing.",
+    "note": "Genetiivi: turvallisuuden · Partitiivi: turvallisuutta · Mon. partitiivi: turvallisuuksia · Mon. genetiivi: turvallisuuksien"
+   },
+   {
+    "fi": "säilytys",
+    "en": "storage",
+    "type": "substantiivi",
+    "example_fi": "Ruoan säilytys viileässä on tärkeää.",
+    "example_en": "The storage of food in a cool place is important.",
+    "note": "Genetiivi: säilytyksen · Partitiivi: säilytystä · Mon. partitiivi: säilytyksiä · Mon. genetiivi: säilytysten / säilytyksien"
+   },
+   {
+    "fi": "valvonta",
+    "en": "monitoring",
+    "type": "substantiivi",
+    "example_fi": "Alueen valvonta on tehokasta.",
+    "example_en": "The monitoring of the area is effective.",
+    "note": "Genetiivi: valvonnan · Partitiivi: valvontaa · Mon. partitiivi: valvontoja · Mon. genetiivi: valvontojen"
+   },
+   {
+    "fi": "osallistuminen",
+    "en": "participation",
+    "type": "substantiivi",
+    "example_fi": "Kaikkien osallistuminen on toivottavaa.",
+    "example_en": "Everyone's participation is desirable.",
+    "note": "Genetiivi: osallistumisen · Partitiivi: osallistumista · Mon. partitiivi: osallistumisia · Mon. genetiivi: osallistumisten / osallistumisien"
+   }
+  ]
+ }
+]

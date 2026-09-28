@@ -36,6 +36,7 @@ const ORDER = [
   "YKI – Reaktiot", "YKI – Adverbit ja sidesanat", "YKI – Luonteenpiirteet",
   "YKI – Substantiivit (sijamuodot)", "YKI – Adjektiivit (sijamuodot)",
   "YKI – Verbit (minä-muoto)",
+  "YKI – Substantiivit (edistynyt sanasto)", "YKI – Adjektiivit (edistynyt sanasto)",
   // Grammar drills
   "Harjoitus – Monikon partitiivi", "Harjoitus – Monikon genetiivi"
 ];

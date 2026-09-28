@@ -1,0 +1,792 @@
+[
+ {
+  "category": "YKI – Adjektiivit (edistynyt sanasto)",
+  "category_en": "Adjectives: advanced YKI vocabulary",
+  "cards": [
+   {
+    "fi": "vaikuttava",
+    "en": "impressive",
+    "type": "adjektiivi",
+    "example_fi": "Esitys oli todella vaikuttava.",
+    "example_en": "The presentation was really impressive.",
+    "note": "Genetiivi: vaikuttavan · Partitiivi: vaikuttavaa · Mon. partitiivi: vaikuttavia · Mon. genetiivi: vaikuttavien"
+   },
+   {
+    "fi": "monipuolinen",
+    "en": "versatile",
+    "type": "adjektiivi",
+    "example_fi": "Hän on hyvin monipuolinen työntekijä.",
+    "example_en": "He is a very versatile employee.",
+    "note": "Genetiivi: monipuolisen · Partitiivi: monipuolista · Mon. partitiivi: monipuolisia · Mon. genetiivi: monipuolisten"
+   },
+   {
+    "fi": "syvällinen",
+    "en": "profound",
+    "type": "adjektiivi",
+    "example_fi": "Kirjassa on syvällinen sanoma.",
+    "example_en": "The book has a profound message.",
+    "note": "Genetiivi: syvällisen · Partitiivi: syvällistä · Mon. partitiivi: syvällisiä · Mon. genetiivi: syvällisten"
+   },
+   {
+    "fi": "kestävä",
+    "en": "sustainable",
+    "type": "adjektiivi",
+    "example_fi": "Valitsemme aina kestävän ratkaisun.",
+    "example_en": "We always choose the sustainable solution.",
+    "note": "Genetiivi: kestävän · Partitiivi: kestävää · Mon. partitiivi: kestäviä · Mon. genetiivi: kestävien"
+   },
+   {
+    "fi": "huomaavainen",
+    "en": "considerate",
+    "type": "adjektiivi",
+    "example_fi": "Naapurini on hyvin huomaavainen.",
+    "example_en": "My neighbour is very considerate.",
+    "note": "Genetiivi: huomaavaisen · Partitiivi: huomaavaista · Mon. partitiivi: huomaavaisia · Mon. genetiivi: huomaavaisten"
+   },
+   {
+    "fi": "järkevä",
+    "en": "reasonable",
+    "type": "adjektiivi",
+    "example_fi": "Se on järkevä päätös.",
+    "example_en": "That is a reasonable decision.",
+    "note": "Genetiivi: järkevän · Partitiivi: järkevää · Mon. partitiivi: järkeviä · Mon. genetiivi: järkevien"
+   },
+   {
+    "fi": "harkitseva",
+    "en": "thoughtful",
+    "type": "adjektiivi",
+    "example_fi": "Hän on rauhallinen ja harkitseva johtaja.",
+    "example_en": "He is a calm and thoughtful leader.",
+    "note": "Genetiivi: harkitsevan · Partitiivi: harkitsevaa · Mon. partitiivi: harkitsevia · Mon. genetiivi: harkitsevien"
+   },
+   {
+    "fi": "perusteltu",
+    "en": "justified",
+    "type": "adjektiivi",
+    "example_fi": "Vastaus oli hyvin perusteltu.",
+    "example_en": "The answer was well justified.",
+    "note": "Genetiivi: perustellun · Partitiivi: perusteltua · Mon. partitiivi: perusteltuja · Mon. genetiivi: perusteltujen"
+   },
+   {
+    "fi": "yksityiskohtainen",
+    "en": "detailed",
+    "type": "adjektiivi",
+    "example_fi": "Sain yksityiskohtaisen ohjeen.",
+    "example_en": "I got a detailed instruction.",
+    "note": "Genetiivi: yksityiskohtaisen · Partitiivi: yksityiskohtaista · Mon. partitiivi: yksityiskohtaisia · Mon. genetiivi: yksityiskohtaisten"
+   },
+   {
+    "fi": "ennakoiva",
+    "en": "predictive",
+    "type": "adjektiivi",
+    "example_fi": "Yritys tekee ennakoivaa suunnittelua.",
+    "example_en": "The company does predictive planning.",
+    "note": "Genetiivi: ennakoivan · Partitiivi: ennakoivaa · Mon. partitiivi: ennakoivia · Mon. genetiivi: ennakoivien"
+   },
+   {
+    "fi": "kunnianhimoinen",
+    "en": "ambitious",
+    "type": "adjektiivi",
+    "example_fi": "Hän on kunnianhimoinen opiskelija.",
+    "example_en": "She is an ambitious student.",
+    "note": "Genetiivi: kunnianhimoisen · Partitiivi: kunnianhimoista · Mon. partitiivi: kunnianhimoisia · Mon. genetiivi: kunnianhimoisten"
+   },
+   {
+    "fi": "äärimmäinen",
+    "en": "extreme",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on äärimmäinen tilanne.",
+    "example_en": "This is an extreme situation.",
+    "note": "Genetiivi: äärimmäisen · Partitiivi: äärimmäistä · Mon. partitiivi: äärimmäisiä · Mon. genetiivi: äärimmäisten"
+   },
+   {
+    "fi": "looginen",
+    "en": "logical",
+    "type": "adjektiivi",
+    "example_fi": "Selitys oli täysin looginen.",
+    "example_en": "The explanation was completely logical.",
+    "note": "Genetiivi: loogisen · Partitiivi: loogista · Mon. partitiivi: loogisia · Mon. genetiivi: loogisten"
+   },
+   {
+    "fi": "perusteellinen",
+    "en": "thorough",
+    "type": "adjektiivi",
+    "example_fi": "Teimme perusteellisen tutkimuksen.",
+    "example_en": "We did a thorough study.",
+    "note": "Genetiivi: perusteellisen · Partitiivi: perusteellista · Mon. partitiivi: perusteellisia · Mon. genetiivi: perusteellisten"
+   },
+   {
+    "fi": "monitahoinen",
+    "en": "multifaceted",
+    "type": "adjektiivi",
+    "example_fi": "Ongelma on hyvin monitahoinen.",
+    "example_en": "The problem is very multifaceted.",
+    "note": "Genetiivi: monitahoisen · Partitiivi: monitahoista · Mon. partitiivi: monitahoisia · Mon. genetiivi: monitahoisten"
+   },
+   {
+    "fi": "haasteellinen",
+    "en": "challenging",
+    "type": "adjektiivi",
+    "example_fi": "Uusi projekti on haasteellinen.",
+    "example_en": "The new project is challenging.",
+    "note": "Genetiivi: haasteellisen · Partitiivi: haasteellista · Mon. partitiivi: haasteellisia · Mon. genetiivi: haasteellisten"
+   },
+   {
+    "fi": "joustava",
+    "en": "flexible",
+    "type": "adjektiivi",
+    "example_fi": "Meillä on joustava työaika.",
+    "example_en": "We have flexible working hours.",
+    "note": "Genetiivi: joustavan · Partitiivi: joustavaa · Mon. partitiivi: joustavia · Mon. genetiivi: joustavien"
+   },
+   {
+    "fi": "epäilyttävä",
+    "en": "doubtful",
+    "type": "adjektiivi",
+    "example_fi": "Hänen tarinansa kuulosti epäilyttävältä.",
+    "example_en": "His story sounded doubtful.",
+    "note": "Genetiivi: epäilyttävän · Partitiivi: epäilyttävää · Mon. partitiivi: epäilyttäviä · Mon. genetiivi: epäilyttävien"
+   },
+   {
+    "fi": "perinpohjainen",
+    "en": "meticulous",
+    "type": "adjektiivi",
+    "example_fi": "Hän teki perinpohjaisen selvityksen.",
+    "example_en": "She made a meticulous report.",
+    "note": "Genetiivi: perinpohjaisen · Partitiivi: perinpohjaista · Mon. partitiivi: perinpohjaisia · Mon. genetiivi: perinpohjaisten"
+   },
+   {
+    "fi": "riippuvainen",
+    "en": "dependent",
+    "type": "adjektiivi",
+    "example_fi": "Lapsi on riippuvainen vanhemmistaan.",
+    "example_en": "The child is dependent on his parents.",
+    "note": "Genetiivi: riippuvaisen · Partitiivi: riippuvaista · Mon. partitiivi: riippuvaisia · Mon. genetiivi: riippuvaisten"
+   },
+   {
+    "fi": "itsenäinen",
+    "en": "independent",
+    "type": "adjektiivi",
+    "example_fi": "Hän on hyvin itsenäinen lapsi.",
+    "example_en": "She is a very independent child.",
+    "note": "Genetiivi: itsenäisen · Partitiivi: itsenäistä · Mon. partitiivi: itsenäisiä · Mon. genetiivi: itsenäisten"
+   },
+   {
+    "fi": "luotettava",
+    "en": "reliable",
+    "type": "adjektiivi",
+    "example_fi": "Hän on luotettava ystävä.",
+    "example_en": "He is a reliable friend.",
+    "note": "Genetiivi: luotettavan · Partitiivi: luotettavaa · Mon. partitiivi: luotettavia · Mon. genetiivi: luotettavien"
+   },
+   {
+    "fi": "vastuullinen",
+    "en": "responsible",
+    "type": "adjektiivi",
+    "example_fi": "Etsimme vastuullista työntekijää.",
+    "example_en": "We are looking for a responsible employee.",
+    "note": "Genetiivi: vastuullisen · Partitiivi: vastuullista · Mon. partitiivi: vastuullisia · Mon. genetiivi: vastuullisten"
+   },
+   {
+    "fi": "omaperäinen",
+    "en": "original",
+    "type": "adjektiivi",
+    "example_fi": "Taiteilijalla on omaperäinen tyyli.",
+    "example_en": "The artist has an original style.",
+    "note": "Genetiivi: omaperäisen · Partitiivi: omaperäistä · Mon. partitiivi: omaperäisiä · Mon. genetiivi: omaperäisten"
+   },
+   {
+    "fi": "järjestelmällinen",
+    "en": "systematic",
+    "type": "adjektiivi",
+    "example_fi": "Hän on hyvin järjestelmällinen.",
+    "example_en": "He is very systematic.",
+    "note": "Genetiivi: järjestelmällisen · Partitiivi: järjestelmällistä · Mon. partitiivi: järjestelmällisiä · Mon. genetiivi: järjestelmällisten"
+   },
+   {
+    "fi": "korkeatasoinen",
+    "en": "high-quality",
+    "type": "adjektiivi",
+    "example_fi": "Ravintola tarjoaa korkeatasoista ruokaa.",
+    "example_en": "The restaurant serves high-quality food.",
+    "note": "Genetiivi: korkeatasoisen · Partitiivi: korkeatasoista · Mon. partitiivi: korkeatasoisia · Mon. genetiivi: korkeatasoisten"
+   },
+   {
+    "fi": "kaavamainen",
+    "en": "formulaic",
+    "type": "adjektiivi",
+    "example_fi": "Teksti oli hieman kaavamainen.",
+    "example_en": "The text was a bit formulaic.",
+    "note": "Genetiivi: kaavamaisen · Partitiivi: kaavamaista · Mon. partitiivi: kaavamaisia · Mon. genetiivi: kaavamaisten"
+   },
+   {
+    "fi": "tehokas",
+    "en": "efficient",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on tehokas menetelmä.",
+    "example_en": "This is an efficient method.",
+    "note": "Genetiivi: tehokkaan · Partitiivi: tehokasta · Mon. partitiivi: tehokkaita · Mon. genetiivi: tehokkaiden"
+   },
+   {
+    "fi": "pohdiskeleva",
+    "en": "reflective",
+    "type": "adjektiivi",
+    "example_fi": "Hän on hiljainen ja pohdiskeleva.",
+    "example_en": "He is quiet and reflective.",
+    "note": "Genetiivi: pohdiskelevan · Partitiivi: pohdiskelevaa · Mon. partitiivi: pohdiskelevia · Mon. genetiivi: pohdiskelevien"
+   },
+   {
+    "fi": "kriittinen",
+    "en": "critical",
+    "type": "adjektiivi",
+    "example_fi": "Opettaja antoi kriittistä palautetta.",
+    "example_en": "The teacher gave critical feedback.",
+    "note": "Genetiivi: kriittisen · Partitiivi: kriittistä · Mon. partitiivi: kriittisiä · Mon. genetiivi: kriittisten"
+   },
+   {
+    "fi": "haavoittuva",
+    "en": "vulnerable",
+    "type": "adjektiivi",
+    "example_fi": "Vanhukset ovat haavoittuva ryhmä.",
+    "example_en": "The elderly are a vulnerable group.",
+    "note": "Genetiivi: haavoittuvan · Partitiivi: haavoittuvaa · Mon. partitiivi: haavoittuvia · Mon. genetiivi: haavoittuvien"
+   },
+   {
+    "fi": "tuottelias",
+    "en": "productive",
+    "type": "adjektiivi",
+    "example_fi": "Hän on tuottelias kirjailija.",
+    "example_en": "She is a productive writer.",
+    "note": "Genetiivi: tuotteliaan · Partitiivi: tuotteliasta · Mon. partitiivi: tuotteliaita · Mon. genetiivi: tuotteliaiden"
+   },
+   {
+    "fi": "vuorovaikutteinen",
+    "en": "interactive",
+    "type": "adjektiivi",
+    "example_fi": "Kurssi on vuorovaikutteinen.",
+    "example_en": "The course is interactive.",
+    "note": "Genetiivi: vuorovaikutteisen · Partitiivi: vuorovaikutteista · Mon. partitiivi: vuorovaikutteisia · Mon. genetiivi: vuorovaikutteisten"
+   },
+   {
+    "fi": "samankaltainen",
+    "en": "similar",
+    "type": "adjektiivi",
+    "example_fi": "Meillä on samankaltainen mielipide.",
+    "example_en": "We have a similar opinion.",
+    "note": "Genetiivi: samankaltaisen · Partitiivi: samankaltaista · Mon. partitiivi: samankaltaisia · Mon. genetiivi: samankaltaisten"
+   },
+   {
+    "fi": "naiivisti",
+    "en": "naive",
+    "type": "adjektiivi",
+    "example_fi": "Hän toimi hyvin naiivisti.",
+    "example_en": "He acted very naively.",
+    "note": "Genetiivi: naiivin · Partitiivi: naiivia · Mon. partitiivi: naiiveja · Mon. genetiivi: naiivien"
+   },
+   {
+    "fi": "kyseenalainen",
+    "en": "questionable",
+    "type": "adjektiivi",
+    "example_fi": "Päätös oli kyseenalainen.",
+    "example_en": "The decision was questionable.",
+    "note": "Genetiivi: kyseenalaisen · Partitiivi: kyseenalaista · Mon. partitiivi: kyseenalaisia · Mon. genetiivi: kyseenalaisten"
+   },
+   {
+    "fi": "alttiimpi",
+    "en": "prone",
+    "type": "adjektiivi",
+    "example_fi": "Väsyneenä olen alttiimpi virheille.",
+    "example_en": "When tired, I am more prone to mistakes.",
+    "note": "Genetiivi: alttiimman · Partitiivi: alttiimpaa · Mon. partitiivi: alttiimpia · Mon. genetiivi: alttiimpien"
+   },
+   {
+    "fi": "hienovarainen",
+    "en": "subtle",
+    "type": "adjektiivi",
+    "example_fi": "Hän antoi hienovaraisen vihjeen.",
+    "example_en": "She gave a subtle hint.",
+    "note": "Genetiivi: hienovaraisen · Partitiivi: hienovaraista · Mon. partitiivi: hienovaraisia · Mon. genetiivi: hienovaraisten"
+   },
+   {
+    "fi": "järkyttävä",
+    "en": "shocking",
+    "type": "adjektiivi",
+    "example_fi": "Uutinen oli järkyttävä.",
+    "example_en": "The news was shocking.",
+    "note": "Genetiivi: järkyttävän · Partitiivi: järkyttävää · Mon. partitiivi: järkyttäviä · Mon. genetiivi: järkyttävien"
+   },
+   {
+    "fi": "epävirallinen",
+    "en": "informal",
+    "type": "adjektiivi",
+    "example_fi": "Se oli epävirallinen tapaaminen.",
+    "example_en": "It was an informal meeting.",
+    "note": "Genetiivi: epävirallisen · Partitiivi: epävirallista · Mon. partitiivi: epävirallisia · Mon. genetiivi: epävirallisten"
+   },
+   {
+    "fi": "rohkea",
+    "en": "bold",
+    "type": "adjektiivi",
+    "example_fi": "Se oli rohkea päätös.",
+    "example_en": "It was a bold decision.",
+    "note": "Genetiivi: rohkean · Partitiivi: rohkeaa · Mon. partitiivi: rohkeita · Mon. genetiivi: rohkeiden"
+   },
+   {
+    "fi": "pohdittu",
+    "en": "well-thought-out",
+    "type": "adjektiivi",
+    "example_fi": "Suunnitelma oli tarkkaan pohdittu.",
+    "example_en": "The plan was carefully thought out.",
+    "note": "Genetiivi: pohditun · Partitiivi: pohdittua · Mon. partitiivi: pohdittuja · Mon. genetiivi: pohdittujen"
+   },
+   {
+    "fi": "asiallinen",
+    "en": "matter-of-fact",
+    "type": "adjektiivi",
+    "example_fi": "Hänen vastauksensa oli asiallinen.",
+    "example_en": "His answer was matter-of-fact.",
+    "note": "Genetiivi: asiallisen · Partitiivi: asiallista · Mon. partitiivi: asiallisia · Mon. genetiivi: asiallisten"
+   },
+   {
+    "fi": "yhteiskunnallinen",
+    "en": "societal",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on tärkeä yhteiskunnallinen kysymys.",
+    "example_en": "This is an important societal question.",
+    "note": "Genetiivi: yhteiskunnallisen · Partitiivi: yhteiskunnallista · Mon. partitiivi: yhteiskunnallisia · Mon. genetiivi: yhteiskunnallisten"
+   },
+   {
+    "fi": "taloudellinen",
+    "en": "economic",
+    "type": "adjektiivi",
+    "example_fi": "Maan taloudellinen tilanne parani.",
+    "example_en": "The country's economic situation improved.",
+    "note": "Genetiivi: taloudellisen · Partitiivi: taloudellista · Mon. partitiivi: taloudellisia · Mon. genetiivi: taloudellisten"
+   },
+   {
+    "fi": "käytännöllinen",
+    "en": "practical",
+    "type": "adjektiivi",
+    "example_fi": "Tämä työkalu on hyvin käytännöllinen.",
+    "example_en": "This tool is very practical.",
+    "note": "Genetiivi: käytännöllisen · Partitiivi: käytännöllistä · Mon. partitiivi: käytännöllisiä · Mon. genetiivi: käytännöllisten"
+   },
+   {
+    "fi": "esteettinen",
+    "en": "aesthetic",
+    "type": "adjektiivi",
+    "example_fi": "Rakennuksella on esteettinen arvo.",
+    "example_en": "The building has aesthetic value.",
+    "note": "Genetiivi: esteettisen · Partitiivi: esteettistä · Mon. partitiivi: esteettisiä · Mon. genetiivi: esteettisten"
+   },
+   {
+    "fi": "ulospäin suuntautunut",
+    "en": "outgoing",
+    "type": "adjektiivi",
+    "example_fi": "Hän on ulospäin suuntautunut ihminen.",
+    "example_en": "She is an outgoing person.",
+    "note": "Genetiivi: ulospäin suuntautuneen · Partitiivi: ulospäin suuntautunutta · Mon. partitiivi: ulospäin suuntautuneita · Mon. genetiivi: ulospäin suuntautuneiden"
+   },
+   {
+    "fi": "korostunut",
+    "en": "accentuated",
+    "type": "adjektiivi",
+    "example_fi": "Hänellä on korostunut vastuuntunto.",
+    "example_en": "He has an accentuated sense of responsibility.",
+    "note": "Genetiivi: korostuneen · Partitiivi: korostunutta · Mon. partitiivi: korostuneita · Mon. genetiivi: korostuneiden"
+   },
+   {
+    "fi": "dynaaminen",
+    "en": "dynamic",
+    "type": "adjektiivi",
+    "example_fi": "Tiimimme on nuori ja dynaaminen.",
+    "example_en": "Our team is young and dynamic.",
+    "note": "Genetiivi: dynaamisen · Partitiivi: dynaamista · Mon. partitiivi: dynaamisia · Mon. genetiivi: dynaamisten"
+   },
+   {
+    "fi": "kapea-alainen",
+    "en": "narrow-minded",
+    "type": "adjektiivi",
+    "example_fi": "Hänen näkemyksensä on kapea-alainen.",
+    "example_en": "His view is narrow-minded.",
+    "note": "Genetiivi: kapea-alaisen · Partitiivi: kapea-alaista · Mon. partitiivi: kapea-alaisia · Mon. genetiivi: kapea-alaisten"
+   },
+   {
+    "fi": "perinteinen",
+    "en": "traditional",
+    "type": "adjektiivi",
+    "example_fi": "Söimme perinteistä suomalaista ruokaa.",
+    "example_en": "We ate traditional Finnish food.",
+    "note": "Genetiivi: perinteisen · Partitiivi: perinteistä · Mon. partitiivi: perinteisiä · Mon. genetiivi: perinteisten"
+   },
+   {
+    "fi": "intuitiivinen",
+    "en": "intuitive",
+    "type": "adjektiivi",
+    "example_fi": "Sovellus on hyvin intuitiivinen.",
+    "example_en": "The app is very intuitive.",
+    "note": "Genetiivi: intuitiivisen · Partitiivi: intuitiivista · Mon. partitiivi: intuitiivisia · Mon. genetiivi: intuitiivisten"
+   },
+   {
+    "fi": "kuormittava",
+    "en": "burdensome",
+    "type": "adjektiivi",
+    "example_fi": "Työ on henkisesti kuormittavaa.",
+    "example_en": "The work is mentally burdensome.",
+    "note": "Genetiivi: kuormittavan · Partitiivi: kuormittavaa · Mon. partitiivi: kuormittavia · Mon. genetiivi: kuormittavien"
+   },
+   {
+    "fi": "tunteellinen",
+    "en": "emotional",
+    "type": "adjektiivi",
+    "example_fi": "Elokuvan loppu oli tunteellinen.",
+    "example_en": "The end of the film was emotional.",
+    "note": "Genetiivi: tunteellisen · Partitiivi: tunteellista · Mon. partitiivi: tunteellisia · Mon. genetiivi: tunteellisten"
+   },
+   {
+    "fi": "reilu",
+    "en": "fair",
+    "type": "adjektiivi",
+    "example_fi": "Hän on aina reilu peluri.",
+    "example_en": "He is always a fair player.",
+    "note": "Genetiivi: reilun · Partitiivi: reilua · Mon. partitiivi: reiluja · Mon. genetiivi: reilujen"
+   },
+   {
+    "fi": "elintärkeä",
+    "en": "vital",
+    "type": "adjektiivi",
+    "example_fi": "Vesi on elintärkeä ihmiselle.",
+    "example_en": "Water is vital for humans.",
+    "note": "Genetiivi: elintärkeän · Partitiivi: elintärkeää · Mon. partitiivi: elintärkeitä · Mon. genetiivi: elintärkeiden"
+   },
+   {
+    "fi": "nopeuttava",
+    "en": "accelerative",
+    "type": "adjektiivi",
+    "example_fi": "Se on prosessia nopeuttava tekijä.",
+    "example_en": "It is a factor that accelerates the process.",
+    "note": "Genetiivi: nopeuttavan · Partitiivi: nopeuttavaa · Mon. partitiivi: nopeuttavia · Mon. genetiivi: nopeuttavien"
+   },
+   {
+    "fi": "käytettävissä",
+    "en": "available",
+    "type": "adjektiivi",
+    "example_fi": "Sali on käytettävissä koko päivän.",
+    "example_en": "The hall is available all day.",
+    "note": "Genetiivi: käytettävän · Partitiivi: käytettävää · Mon. partitiivi: käytettäviä · Mon. genetiivi: käytettävien"
+   },
+   {
+    "fi": "jännittävä",
+    "en": "exciting",
+    "type": "adjektiivi",
+    "example_fi": "Katsoimme jännittävän elokuvan.",
+    "example_en": "We watched an exciting film.",
+    "note": "Genetiivi: jännittävän · Partitiivi: jännittävää · Mon. partitiivi: jännittäviä · Mon. genetiivi: jännittävien"
+   },
+   {
+    "fi": "liiallinen",
+    "en": "excessive",
+    "type": "adjektiivi",
+    "example_fi": "Liiallinen kahvi ei ole hyväksi.",
+    "example_en": "Excessive coffee is not good.",
+    "note": "Genetiivi: liiallisen · Partitiivi: liiallista · Mon. partitiivi: liiallisia · Mon. genetiivi: liiallisten"
+   },
+   {
+    "fi": "epäselvä",
+    "en": "unclear",
+    "type": "adjektiivi",
+    "example_fi": "Ohje oli minulle epäselvä.",
+    "example_en": "The instruction was unclear to me.",
+    "note": "Genetiivi: epäselvän · Partitiivi: epäselvää · Mon. partitiivi: epäselviä · Mon. genetiivi: epäselvien"
+   },
+   {
+    "fi": "heikko",
+    "en": "fragile",
+    "type": "adjektiivi",
+    "example_fi": "Signaali oli hyvin heikko.",
+    "example_en": "The signal was very weak.",
+    "note": "Genetiivi: heikon · Partitiivi: heikkoa · Mon. partitiivi: heikkoja · Mon. genetiivi: heikkojen"
+   },
+   {
+    "fi": "rauhallinen",
+    "en": "calm",
+    "type": "adjektiivi",
+    "example_fi": "Kylä on rauhallinen paikka.",
+    "example_en": "The village is a calm place.",
+    "note": "Genetiivi: rauhallisen · Partitiivi: rauhallista · Mon. partitiivi: rauhallisia · Mon. genetiivi: rauhallisten"
+   },
+   {
+    "fi": "yhteistyöhaluinen",
+    "en": "cooperative",
+    "type": "adjektiivi",
+    "example_fi": "Hän on yhteistyöhaluinen kollega.",
+    "example_en": "She is a cooperative colleague.",
+    "note": "Genetiivi: yhteistyöhaluisen · Partitiivi: yhteistyöhaluista · Mon. partitiivi: yhteistyöhaluisia · Mon. genetiivi: yhteistyöhaluisten"
+   },
+   {
+    "fi": "epätavallinen",
+    "en": "unusual",
+    "type": "adjektiivi",
+    "example_fi": "Se oli epätavallinen tilanne.",
+    "example_en": "It was an unusual situation.",
+    "note": "Genetiivi: epätavallisen · Partitiivi: epätavallista · Mon. partitiivi: epätavallisia · Mon. genetiivi: epätavallisten"
+   },
+   {
+    "fi": "hämmentävä",
+    "en": "confusing",
+    "type": "adjektiivi",
+    "example_fi": "Kysymys oli hämmentävä.",
+    "example_en": "The question was confusing.",
+    "note": "Genetiivi: hämmentävän · Partitiivi: hämmentävää · Mon. partitiivi: hämmentäviä · Mon. genetiivi: hämmentävien"
+   },
+   {
+    "fi": "avarakatseinen",
+    "en": "open-minded",
+    "type": "adjektiivi",
+    "example_fi": "Hän on avarakatseinen johtaja.",
+    "example_en": "He is an open-minded leader.",
+    "note": "Genetiivi: avarakatseisen · Partitiivi: avarakatseista · Mon. partitiivi: avarakatseisia · Mon. genetiivi: avarakatseisten"
+   },
+   {
+    "fi": "vakuuttava",
+    "en": "convincing",
+    "type": "adjektiivi",
+    "example_fi": "Puhe oli erittäin vakuuttava.",
+    "example_en": "The speech was very convincing.",
+    "note": "Genetiivi: vakuuttavan · Partitiivi: vakuuttavaa · Mon. partitiivi: vakuuttavia · Mon. genetiivi: vakuuttavien"
+   },
+   {
+    "fi": "terävä",
+    "en": "sharp",
+    "type": "adjektiivi",
+    "example_fi": "Hänellä on terävä äly.",
+    "example_en": "She has a sharp mind.",
+    "note": "Genetiivi: terävän · Partitiivi: terävää · Mon. partitiivi: teräviä · Mon. genetiivi: terävien"
+   },
+   {
+    "fi": "joustamaton",
+    "en": "rigid",
+    "type": "adjektiivi",
+    "example_fi": "Aikataulu on täysin joustamaton.",
+    "example_en": "The schedule is completely rigid.",
+    "note": "Genetiivi: joustamattoman · Partitiivi: joustamatonta · Mon. partitiivi: joustamattomia · Mon. genetiivi: joustamattomien"
+   },
+   {
+    "fi": "vastakkainen",
+    "en": "opposite",
+    "type": "adjektiivi",
+    "example_fi": "Olemme vastakkaista mieltä.",
+    "example_en": "We are of the opposite opinion.",
+    "note": "Genetiivi: vastakkaisen · Partitiivi: vastakkaista · Mon. partitiivi: vastakkaisia · Mon. genetiivi: vastakkaisten"
+   },
+   {
+    "fi": "syvästi",
+    "en": "deeply",
+    "type": "adjektiivi",
+    "example_fi": "Olen syvästi pahoillani.",
+    "example_en": "I am deeply sorry.",
+    "note": "Genetiivi: syvän · Partitiivi: syvää · Mon. partitiivi: syviä · Mon. genetiivi: syvien"
+   },
+   {
+    "fi": "kiireellinen",
+    "en": "urgent",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on kiireellinen asia.",
+    "example_en": "This is an urgent matter.",
+    "note": "Genetiivi: kiireellisen · Partitiivi: kiireellistä · Mon. partitiivi: kiireellisiä · Mon. genetiivi: kiireellisten"
+   },
+   {
+    "fi": "yllättävä",
+    "en": "surprising",
+    "type": "adjektiivi",
+    "example_fi": "Tulos oli yllättävä.",
+    "example_en": "The result was surprising.",
+    "note": "Genetiivi: yllättävän · Partitiivi: yllättävää · Mon. partitiivi: yllättäviä · Mon. genetiivi: yllättävien"
+   },
+   {
+    "fi": "myönteinen",
+    "en": "positive",
+    "type": "adjektiivi",
+    "example_fi": "Sain myönteisen vastauksen.",
+    "example_en": "I got a positive answer.",
+    "note": "Genetiivi: myönteisen · Partitiivi: myönteistä · Mon. partitiivi: myönteisiä · Mon. genetiivi: myönteisten"
+   },
+   {
+    "fi": "kielteinen",
+    "en": "negative",
+    "type": "adjektiivi",
+    "example_fi": "Hän antoi kielteisen päätöksen.",
+    "example_en": "He gave a negative decision.",
+    "note": "Genetiivi: kielteisen · Partitiivi: kielteistä · Mon. partitiivi: kielteisiä · Mon. genetiivi: kielteisten"
+   },
+   {
+    "fi": "kohtuullinen",
+    "en": "reasonable",
+    "type": "adjektiivi",
+    "example_fi": "Hinta on kohtuullinen.",
+    "example_en": "The price is reasonable.",
+    "note": "Genetiivi: kohtuullisen · Partitiivi: kohtuullista · Mon. partitiivi: kohtuullisia · Mon. genetiivi: kohtuullisten"
+   },
+   {
+    "fi": "tarmokas",
+    "en": "energetic",
+    "type": "adjektiivi",
+    "example_fi": "Hän on tarmokas ja ahkera.",
+    "example_en": "She is energetic and hardworking.",
+    "note": "Genetiivi: tarmokkaan · Partitiivi: tarmokasta · Mon. partitiivi: tarmokkaita · Mon. genetiivi: tarmokkaiden"
+   },
+   {
+    "fi": "varautunut",
+    "en": "reserved",
+    "type": "adjektiivi",
+    "example_fi": "Hän on aluksi hieman varautunut.",
+    "example_en": "He is a bit reserved at first.",
+    "note": "Genetiivi: varautuneen · Partitiivi: varautunutta · Mon. partitiivi: varautuneita · Mon. genetiivi: varautuneiden"
+   },
+   {
+    "fi": "ristiriitainen",
+    "en": "contradictory",
+    "type": "adjektiivi",
+    "example_fi": "Sain ristiriitaista tietoa.",
+    "example_en": "I got contradictory information.",
+    "note": "Genetiivi: ristiriitaisen · Partitiivi: ristiriitaista · Mon. partitiivi: ristiriitaisia · Mon. genetiivi: ristiriitaisten"
+   },
+   {
+    "fi": "ennakkoluuloton",
+    "en": "open-minded",
+    "type": "adjektiivi",
+    "example_fi": "Hän on ennakkoluuloton uusia ideoita kohtaan.",
+    "example_en": "She is open-minded towards new ideas.",
+    "note": "Genetiivi: ennakkoluulottoman · Partitiivi: ennakkoluulotonta · Mon. partitiivi: ennakkoluulottomia · Mon. genetiivi: ennakkoluulottomien"
+   },
+   {
+    "fi": "hajautettu",
+    "en": "decentralized",
+    "type": "adjektiivi",
+    "example_fi": "Järjestelmä on täysin hajautettu.",
+    "example_en": "The system is fully decentralized.",
+    "note": "Genetiivi: hajautetun · Partitiivi: hajautettua · Mon. partitiivi: hajautettuja · Mon. genetiivi: hajautettujen"
+   },
+   {
+    "fi": "läheinen",
+    "en": "close-knit",
+    "type": "adjektiivi",
+    "example_fi": "Meillä on läheinen suhde.",
+    "example_en": "We have a close relationship.",
+    "note": "Genetiivi: läheisen · Partitiivi: läheistä · Mon. partitiivi: läheisiä · Mon. genetiivi: läheisten"
+   },
+   {
+    "fi": "vankka",
+    "en": "solid",
+    "type": "adjektiivi",
+    "example_fi": "Talolla on vankka perustus.",
+    "example_en": "The house has a solid foundation.",
+    "note": "Genetiivi: vankan · Partitiivi: vankkaa · Mon. partitiivi: vankkoja · Mon. genetiivi: vankkojen"
+   },
+   {
+    "fi": "väheksyvä",
+    "en": "disparaging",
+    "type": "adjektiivi",
+    "example_fi": "Hän loi väheksyvän katseen.",
+    "example_en": "He gave a disparaging look.",
+    "note": "Genetiivi: väheksyvän · Partitiivi: väheksyvää · Mon. partitiivi: väheksyviä · Mon. genetiivi: väheksyvien"
+   },
+   {
+    "fi": "yksilöllinen",
+    "en": "individualistic",
+    "type": "adjektiivi",
+    "example_fi": "Jokainen saa yksilöllistä ohjausta.",
+    "example_en": "Everyone gets individual guidance.",
+    "note": "Genetiivi: yksilöllisen · Partitiivi: yksilöllistä · Mon. partitiivi: yksilöllisiä · Mon. genetiivi: yksilöllisten"
+   },
+   {
+    "fi": "ali arvioitu",
+    "en": "underrated",
+    "type": "adjektiivi",
+    "example_fi": "Tämä kirja on ali arvioitu.",
+    "example_en": "This book is underrated.",
+    "note": "Genetiivi: ali arvioidun · Partitiivi: ali arvioitua · Mon. partitiivi: ali arvioituja · Mon. genetiivi: ali arvioitujen"
+   },
+   {
+    "fi": "huolestuttava",
+    "en": "disturbing",
+    "type": "adjektiivi",
+    "example_fi": "Tilanne on huolestuttava.",
+    "example_en": "The situation is disturbing.",
+    "note": "Genetiivi: huolestuttavan · Partitiivi: huolestuttavaa · Mon. partitiivi: huolestuttavia · Mon. genetiivi: huolestuttavien"
+   },
+   {
+    "fi": "tilapäinen",
+    "en": "temporary",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on vain tilapäinen ratkaisu.",
+    "example_en": "This is only a temporary solution.",
+    "note": "Genetiivi: tilapäisen · Partitiivi: tilapäistä · Mon. partitiivi: tilapäisiä · Mon. genetiivi: tilapäisten"
+   },
+   {
+    "fi": "jyrkkä",
+    "en": "steep",
+    "type": "adjektiivi",
+    "example_fi": "Mäki on todella jyrkkä.",
+    "example_en": "The hill is really steep.",
+    "note": "Genetiivi: jyrkän · Partitiivi: jyrkkää · Mon. partitiivi: jyrkkiä · Mon. genetiivi: jyrkkien"
+   },
+   {
+    "fi": "innostava",
+    "en": "inspiring",
+    "type": "adjektiivi",
+    "example_fi": "Opettaja on hyvin innostava.",
+    "example_en": "The teacher is very inspiring.",
+    "note": "Genetiivi: innostavan · Partitiivi: innostavaa · Mon. partitiivi: innostavia · Mon. genetiivi: innostavien"
+   },
+   {
+    "fi": "aito",
+    "en": "genuine",
+    "type": "adjektiivi",
+    "example_fi": "Tämä on aito nahkalaukku.",
+    "example_en": "This is a genuine leather bag.",
+    "note": "Genetiivi: aidon · Partitiivi: aitoa · Mon. partitiivi: aitoja · Mon. genetiivi: aitojen"
+   },
+   {
+    "fi": "toivottu",
+    "en": "desired",
+    "type": "adjektiivi",
+    "example_fi": "Sade oli kauan toivottu.",
+    "example_en": "The rain was long desired.",
+    "note": "Genetiivi: toivotun · Partitiivi: toivottua · Mon. partitiivi: toivottuja · Mon. genetiivi: toivottujen"
+   },
+   {
+    "fi": "hämärä",
+    "en": "fuzzy",
+    "type": "adjektiivi",
+    "example_fi": "Valokuva oli hämärä.",
+    "example_en": "The photo was fuzzy.",
+    "note": "Genetiivi: hämärän · Partitiivi: hämärää · Mon. partitiivi: hämäriä · Mon. genetiivi: hämärien"
+   },
+   {
+    "fi": "mahtava",
+    "en": "magnificent",
+    "type": "adjektiivi",
+    "example_fi": "Näkymä vuorelta oli mahtava.",
+    "example_en": "The view from the mountain was magnificent.",
+    "note": "Genetiivi: mahtavan · Partitiivi: mahtavaa · Mon. partitiivi: mahtavia · Mon. genetiivi: mahtavien"
+   },
+   {
+    "fi": "kannustava",
+    "en": "encouraging",
+    "type": "adjektiivi",
+    "example_fi": "Valmentaja on kannustava.",
+    "example_en": "The coach is encouraging.",
+    "note": "Genetiivi: kannustavan · Partitiivi: kannustavaa · Mon. partitiivi: kannustavia · Mon. genetiivi: kannustavien"
+   },
+   {
+    "fi": "kaikinpuolinen",
+    "en": "comprehensive",
+    "type": "adjektiivi",
+    "example_fi": "Toivotan sinulle kaikinpuolista menestystä.",
+    "example_en": "I wish you comprehensive success.",
+    "note": "Genetiivi: kaikinpuolisen · Partitiivi: kaikinpuolista · Mon. partitiivi: kaikinpuolisia · Mon. genetiivi: kaikinpuolisten"
+   }
+  ]
+ }
+]

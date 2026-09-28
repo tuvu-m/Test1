@@ -1,0 +1,800 @@
+[
+ {
+  "category": "YKI – Fraasit ja sanonnat",
+  "category_en": "YKI phrases & collocations",
+  "cards": [
+   {
+    "fi": "ottaa yhteyttä",
+    "en": "to contact; to get in touch",
+    "type": "fraasi",
+    "example_fi": "Voit ottaa minuun yhteyttä sähköpostitse.",
+    "example_en": "You can contact me by email.",
+    "note": "Formal; common in emails."
+   },
+   {
+    "fi": "olla kiinnostunut",
+    "en": "to be interested (in)",
+    "type": "fraasi",
+    "example_fi": "Olen kiinnostunut suomalaisesta kulttuurista.",
+    "example_en": "I am interested in Finnish culture.",
+    "note": "Takes elative case (-sta/-stä)."
+   },
+   {
+    "fi": "kiireellinen",
+    "en": "urgent",
+    "type": "fraasi",
+    "example_fi": "Onko tämä asia kiireellinen?",
+    "example_en": "Is this matter urgent?",
+    "note": "Common in work emails."
+   },
+   {
+    "fi": "ilmestyä",
+    "en": "to appear; to be published",
+    "type": "fraasi",
+    "example_fi": "Uusi kirja ilmestyy ensi kuussa.",
+    "example_en": "The new book will be published next month.",
+    "note": "Used of books, news, publications."
+   },
+   {
+    "fi": "tulla toimeen",
+    "en": "to get along; to manage, cope",
+    "type": "fraasi",
+    "example_fi": "Tulen hyvin toimeen uusien ihmisten kanssa.",
+    "example_en": "I get along well with new people.",
+    "note": "Takes kanssa for 'get along with'."
+   },
+   {
+    "fi": "vaikuttaa",
+    "en": "to seem; to influence",
+    "type": "fraasi",
+    "example_fi": "Se vaikuttaa mielenkiintoiselta vaihtoehdolta.",
+    "example_en": "It seems like an interesting option.",
+    "note": "'Vaikuttaa + -lta/-ltä' = seems."
+   },
+   {
+    "fi": "mahdollisimman pian",
+    "en": "as soon as possible",
+    "type": "fraasi",
+    "example_fi": "Voitko lähettää sen mahdollisimman pian?",
+    "example_en": "Can you send it as soon as possible?",
+    "note": "Polite request phrase."
+   },
+   {
+    "fi": "erityisesti",
+    "en": "especially, particularly",
+    "type": "fraasi",
+    "example_fi": "Pidän erityisesti suomalaisesta musiikista.",
+    "example_en": "I especially like Finnish music.",
+    "note": "Adverb; emphasises a point."
+   },
+   {
+    "fi": "pitää huolta",
+    "en": "to take care (of)",
+    "type": "fraasi",
+    "example_fi": "Pidän huolta terveydestäni.",
+    "example_en": "I take care of my health.",
+    "note": "Takes elative case (-sta/-stä)."
+   },
+   {
+    "fi": "sopia hyvin",
+    "en": "to suit well",
+    "type": "fraasi",
+    "example_fi": "Tämä väri sopii sinulle hyvin.",
+    "example_en": "This color suits you very well.",
+    "note": "Takes allative (-lle) for the person."
+   },
+   {
+    "fi": "säännöllisesti",
+    "en": "regularly",
+    "type": "fraasi",
+    "example_fi": "Käyn lenkillä säännöllisesti.",
+    "example_en": "I go jogging regularly.",
+    "note": "Adverb of frequency."
+   },
+   {
+    "fi": "ottaa osaa",
+    "en": "to take part; to offer condolences",
+    "type": "fraasi",
+    "example_fi": "Haluan ottaa osaa suruunne.",
+    "example_en": "I want to share in your grief.",
+    "note": "'Ottaa osaa suruun' = condolences."
+   },
+   {
+    "fi": "viettää aikaa",
+    "en": "to spend time",
+    "type": "fraasi",
+    "example_fi": "Vietän aikaa perheen kanssa viikonloppuisin.",
+    "example_en": "I spend time with my family on weekends.",
+    "note": "Neutral, everyday register."
+   },
+   {
+    "fi": "mieluummin",
+    "en": "rather; preferably",
+    "type": "fraasi",
+    "example_fi": "Syön mieluummin kalaa kuin lihaa.",
+    "example_en": "I prefer to eat fish than meat.",
+    "note": "Used with 'kuin' to compare."
+   },
+   {
+    "fi": "joutua tekemään",
+    "en": "to be forced to, have to",
+    "type": "fraasi",
+    "example_fi": "Jouduin perumaan tapaamisen.",
+    "example_en": "I had to cancel the meeting.",
+    "note": "Implies obligation, not choice."
+   },
+   {
+    "fi": "olla tottunut",
+    "en": "to be used to, accustomed to",
+    "type": "fraasi",
+    "example_fi": "Olen tottunut kylmään säähän.",
+    "example_en": "I'm used to cold weather.",
+    "note": "Takes illative (-Vn) case."
+   },
+   {
+    "fi": "tähän mennessä",
+    "en": "so far, up to now",
+    "type": "fraasi",
+    "example_fi": "Tähän mennessä kaikki on sujunut hyvin.",
+    "example_en": "So far, everything has gone well.",
+    "note": "Time expression; neutral."
+   },
+   {
+    "fi": "saada tietää",
+    "en": "to find out; to learn (of)",
+    "type": "fraasi",
+    "example_fi": "Sain tietää asiasta eilen.",
+    "example_en": "I found out about it yesterday.",
+    "note": "Neutral; about getting news."
+   },
+   {
+    "fi": "järjestyä",
+    "en": "to work out; to be arranged",
+    "type": "fraasi",
+    "example_fi": "Kaikki asiat järjestyvät kyllä.",
+    "example_en": "Everything will be alright.",
+    "note": "Reassuring, everyday phrase."
+   },
+   {
+    "fi": "Olen pahoillani, että...",
+    "en": "I'm sorry that...",
+    "type": "fraasi",
+    "example_fi": "Olen pahoillani, että en voi osallistua tapaamiseen.",
+    "example_en": "I'm sorry I can't attend the meeting.",
+    "note": "Polite apology opener."
+   },
+   {
+    "fi": "Olkaa hyvä ja…",
+    "en": "Please... (do)",
+    "type": "fraasi",
+    "example_fi": "Olkaa hyvä ja ottakaa yhteyttä, jos teillä on kysyttävää.",
+    "example_en": "Please contact us if you have any questions.",
+    "note": "Formal, plural imperative."
+   },
+   {
+    "fi": "Voisitteko ystävällisesti…",
+    "en": "Could you kindly...",
+    "type": "fraasi",
+    "example_fi": "Voisitteko ystävällisesti lähettää asiakirjan?",
+    "example_en": "Could you please send the document?",
+    "note": "Very polite; formal emails."
+   },
+   {
+    "fi": "Kiitos etukäteen.",
+    "en": "Thank you in advance.",
+    "type": "fraasi",
+    "example_fi": "Kiitos etukäteen yhteistyöstä.",
+    "example_en": "Thank you in advance for your cooperation.",
+    "note": "Formal email closing line."
+   },
+   {
+    "fi": "Liitän mukaan…",
+    "en": "I am attaching...",
+    "type": "fraasi",
+    "example_fi": "Liitän mukaan tarvittavat tiedostot.",
+    "example_en": "I am attaching the necessary files.",
+    "note": "Formal; email attachments."
+   },
+   {
+    "fi": "Olen kiinnostunut kuulemaan lisää…",
+    "en": "I am interested in hearing more about...",
+    "type": "fraasi",
+    "example_fi": "Olen kiinnostunut kuulemaan lisää kurssista.",
+    "example_en": "I am interested in hearing more about the course.",
+    "note": "Polite inquiry opener."
+   },
+   {
+    "fi": "Voisinko saada lisätietoja…",
+    "en": "Could I get more information about...",
+    "type": "fraasi",
+    "example_fi": "Voisinko saada lisätietoja palveluista?",
+    "example_en": "Could I get more information about the services?",
+    "note": "Formal request for details."
+   },
+   {
+    "fi": "Sopisiko teille, jos…",
+    "en": "Would it suit you if...",
+    "type": "fraasi",
+    "example_fi": "Sopisiko teille, jos tapaamme huomenna?",
+    "example_en": "Would it be okay if we meet tomorrow?",
+    "note": "Polite scheduling request."
+   },
+   {
+    "fi": "Pahoittelen viivästystä.",
+    "en": "I apologize for the delay.",
+    "type": "fraasi",
+    "example_fi": "Pahoittelen viivästystä vastauksessa.",
+    "example_en": "I apologize for the delay in responding.",
+    "note": "Formal; apologising in emails."
+   },
+   {
+    "fi": "Olisi hienoa, jos…",
+    "en": "It would be great if...",
+    "type": "fraasi",
+    "example_fi": "Olisi hienoa, jos voisitte vastata pian.",
+    "example_en": "It would be great if you could respond soon.",
+    "note": "Polite, softened request."
+   },
+   {
+    "fi": "Ystävällisin terveisin",
+    "en": "Kind regards",
+    "type": "fraasi",
+    "example_fi": "Ystävällisin terveisin, Linh Nguyen",
+    "example_en": "Kind regards, Linh Nguyen",
+    "note": "Standard formal email sign-off."
+   },
+   {
+    "fi": "Toivon, että…",
+    "en": "I hope that...",
+    "type": "fraasi",
+    "example_fi": "Toivon, että tapaamme pian.",
+    "example_en": "I hope to see you soon.",
+    "note": "Polite; expressing a wish."
+   },
+   {
+    "fi": "Arvostaisin kovasti, jos…",
+    "en": "I would greatly appreciate it if...",
+    "type": "fraasi",
+    "example_fi": "Arvostaisin kovasti, jos voisitte tarkistaa tämän.",
+    "example_en": "I would really appreciate it if you could check this.",
+    "note": "Very polite request."
+   },
+   {
+    "fi": "Haluan kiittää teitä…",
+    "en": "I want to thank you...",
+    "type": "fraasi",
+    "example_fi": "Haluan kiittää teitä hyvästä palvelusta.",
+    "example_en": "I want to thank you for your good service.",
+    "note": "Formal expression of thanks."
+   },
+   {
+    "fi": "Kuulostaa hyvältä.",
+    "en": "Sounds good.",
+    "type": "fraasi",
+    "example_fi": "Kuulostaa hyvältä, sovitaan näin.",
+    "example_en": "Sounds good, let's agree on this.",
+    "note": "Casual agreement."
+   },
+   {
+    "fi": "Olen käytettävissä…",
+    "en": "I am available...",
+    "type": "fraasi",
+    "example_fi": "Olen käytettävissä keskiviikkona klo 14.",
+    "example_en": "I am available on Wednesday at 2 p.m.",
+    "note": "Formal; giving availability."
+   },
+   {
+    "fi": "Pyydän vahvistusta.",
+    "en": "I request confirmation.",
+    "type": "fraasi",
+    "example_fi": "Pyydän vahvistusta tapaamisajasta.",
+    "example_en": "I would like to request confirmation of the meeting time.",
+    "note": "Formal; asking to confirm."
+   },
+   {
+    "fi": "Odotan vastaustanne.",
+    "en": "I look forward to your reply.",
+    "type": "fraasi",
+    "example_fi": "Odotan vastaustanne ensi viikkoon mennessä.",
+    "example_en": "I look forward to your response by next week.",
+    "note": "Formal email closing."
+   },
+   {
+    "fi": "Anteeksi häiriö.",
+    "en": "Sorry to disturb you.",
+    "type": "fraasi",
+    "example_fi": "Anteeksi häiriö, mutta minulla olisi kysymys.",
+    "example_en": "Sorry to interrupt, but I have a question.",
+    "note": "Polite interruption opener."
+   },
+   {
+    "fi": "Jos teille sopii…",
+    "en": "If it suits you...",
+    "type": "fraasi",
+    "example_fi": "Jos teille sopii, voisin soittaa huomenna.",
+    "example_en": "If it's okay with you, I could call you tomorrow.",
+    "note": "Polite, softening phrase."
+   },
+   {
+    "fi": "tehdä päätös",
+    "en": "to make a decision",
+    "type": "fraasi",
+    "example_fi": "Teimme päätöksen yhdessä.",
+    "example_en": "We made the decision together.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "ottaa selvää",
+    "en": "to find out",
+    "type": "fraasi",
+    "example_fi": "Otan selvää asiasta huomenna.",
+    "example_en": "I'll find out tomorrow.",
+    "note": "Slightly informal than 'saada selville'."
+   },
+   {
+    "fi": "olla varattu",
+    "en": "to be busy, booked",
+    "type": "fraasi",
+    "example_fi": "Olen valitettavasti varattu silloin.",
+    "example_en": "Unfortunately, I'm booked then.",
+    "note": "Of people or times."
+   },
+   {
+    "fi": "pitää yhteyttä",
+    "en": "to keep in touch",
+    "type": "fraasi",
+    "example_fi": "Pidetään yhteyttä jatkossakin.",
+    "example_en": "We will continue to stay in touch.",
+    "note": "Friendly closing phrase."
+   },
+   {
+    "fi": "jäädä pois",
+    "en": "to stay away; to miss (not attend)",
+    "type": "fraasi",
+    "example_fi": "Jouduin jäämään pois kokouksesta.",
+    "example_en": "I had to leave the meeting.",
+    "note": "Of skipping an event."
+   },
+   {
+    "fi": "kuulua hintaan",
+    "en": "to be included in the price",
+    "type": "fraasi",
+    "example_fi": "Aamiainen kuuluu hintaan.",
+    "example_en": "Breakfast is included in the price.",
+    "note": "Common in services, travel."
+   },
+   {
+    "fi": "tulla ajoissa",
+    "en": "to come/arrive on time",
+    "type": "fraasi",
+    "example_fi": "Yritän tulla ajoissa tapaamiseen.",
+    "example_en": "I try to be on time for the meeting.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "käydä katsomassa",
+    "en": "to go and see",
+    "type": "fraasi",
+    "example_fi": "Käydään katsomassa se elokuva.",
+    "example_en": "Let's go see that movie.",
+    "note": "'Käydä + -massa/-mässä' construction."
+   },
+   {
+    "fi": "olla samaa mieltä",
+    "en": "to agree, be of the same opinion",
+    "type": "fraasi",
+    "example_fi": "Olen samaa mieltä kanssasi.",
+    "example_en": "I agree with you.",
+    "note": "Takes kanssa for the person."
+   },
+   {
+    "fi": "käydä kaupassa",
+    "en": "to go to the store, go shopping",
+    "type": "fraasi",
+    "example_fi": "Käyn nopeasti kaupassa.",
+    "example_en": "I'll go to the store quickly.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "pitää esitelmä",
+    "en": "to give a presentation",
+    "type": "fraasi",
+    "example_fi": "Pidän esitelmän huomenna.",
+    "example_en": "I'm giving a presentation tomorrow.",
+    "note": "Common in study/work settings."
+   },
+   {
+    "fi": "laittaa viesti",
+    "en": "to send a message",
+    "type": "fraasi",
+    "example_fi": "Laitan sinulle viestin myöhemmin.",
+    "example_en": "I'll message you later.",
+    "note": "Informal; texting."
+   },
+   {
+    "fi": "ottaa vastaan",
+    "en": "to receive; to accept",
+    "type": "fraasi",
+    "example_fi": "Otamme mielellämme vastaan palautetta.",
+    "example_en": "We welcome feedback.",
+    "note": "'Ottaa vastaan palautetta' = welcome feedback."
+   },
+   {
+    "fi": "käyttää aikaa",
+    "en": "to spend time",
+    "type": "fraasi",
+    "example_fi": "Käytän paljon aikaa lukemiseen.",
+    "example_en": "I spend a lot of time reading.",
+    "note": "Similar to 'viettää aikaa'."
+   },
+   {
+    "fi": "pysyä rauhallisena",
+    "en": "to stay calm",
+    "type": "fraasi",
+    "example_fi": "Yritän pysyä rauhallisena vaikeassa tilanteessa.",
+    "example_en": "I try to stay calm in a difficult situation.",
+    "note": "Takes essive (-na/-nä)."
+   },
+   {
+    "fi": "olla kiinnostava",
+    "en": "to be interesting",
+    "type": "fraasi",
+    "example_fi": "Tämä idea on todella kiinnostava.",
+    "example_en": "This idea is really interesting.",
+    "note": "Describes ideas, topics."
+   },
+   {
+    "fi": "olla tarpeen",
+    "en": "to be necessary, needed",
+    "type": "fraasi",
+    "example_fi": "Se ei ole enää tarpeen.",
+    "example_en": "It is no longer necessary.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "tarkistaa asia",
+    "en": "to check a matter",
+    "type": "fraasi",
+    "example_fi": "Tarkistan asian huomenna.",
+    "example_en": "I'll check it tomorrow.",
+    "note": "Neutral; work contexts."
+   },
+   {
+    "fi": "olla voimassa",
+    "en": "to be valid, in force",
+    "type": "fraasi",
+    "example_fi": "Tarjous on voimassa viikon.",
+    "example_en": "The offer is valid for one week.",
+    "note": "Of offers, tickets, permits."
+   },
+   {
+    "fi": "ilmoittautua mukaan",
+    "en": "to sign up, register (to join)",
+    "type": "fraasi",
+    "example_fi": "Ilmoittauduin mukaan kurssille.",
+    "example_en": "I signed up for the course.",
+    "note": "'Ilmoittautua + -lle' for courses."
+   },
+   {
+    "fi": "päättää tehdä",
+    "en": "to decide to do",
+    "type": "fraasi",
+    "example_fi": "Päätin lähteä mukaan.",
+    "example_en": "I decided to go along.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "antaa palautetta",
+    "en": "to give feedback",
+    "type": "fraasi",
+    "example_fi": "Voit antaa palautetta sähköpostilla.",
+    "example_en": "You can provide feedback by email.",
+    "note": "Common in service contexts."
+   },
+   {
+    "fi": "pitää tauko",
+    "en": "to take a break",
+    "type": "fraasi",
+    "example_fi": "Pidetään pieni tauko.",
+    "example_en": "Let's take a short break.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "olla valmis",
+    "en": "to be ready",
+    "type": "fraasi",
+    "example_fi": "Olen valmis lähtemään.",
+    "example_en": "I'm ready to go.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "olla kiire",
+    "en": "to be in a hurry, busy",
+    "type": "fraasi",
+    "example_fi": "Minulla on nyt kiire.",
+    "example_en": "I'm busy now.",
+    "note": "'Minulla on kiire' pattern."
+   },
+   {
+    "fi": "olla varma",
+    "en": "to be sure",
+    "type": "fraasi",
+    "example_fi": "Oletko varma tästä?",
+    "example_en": "Are you sure about this?",
+    "note": "Takes elative (-sta/-stä)."
+   },
+   {
+    "fi": "kertoa tarkemmin",
+    "en": "to tell in more detail",
+    "type": "fraasi",
+    "example_fi": "Voitko kertoa tarkemmin?",
+    "example_en": "Can you tell me more?",
+    "note": "Polite request for detail."
+   },
+   {
+    "fi": "kysyä neuvoa",
+    "en": "to ask for advice",
+    "type": "fraasi",
+    "example_fi": "Kysyin neuvoa ystävältä.",
+    "example_en": "I asked a friend for advice.",
+    "note": "Takes ablative (-lta/-ltä) for the person."
+   },
+   {
+    "fi": "olla eri mieltä",
+    "en": "to disagree, be of a different opinion",
+    "type": "fraasi",
+    "example_fi": "Olen eri mieltä kanssasi.",
+    "example_en": "I disagree with you.",
+    "note": "Takes kanssa for the person."
+   },
+   {
+    "fi": "saada selville",
+    "en": "to find out, discover",
+    "type": "fraasi",
+    "example_fi": "Sain selville, että…",
+    "example_en": "I found out that…",
+    "note": "Slightly more formal phrasing."
+   },
+   {
+    "fi": "odottaa vastausta",
+    "en": "to wait for an answer",
+    "type": "fraasi",
+    "example_fi": "Odotan vastausta sähköpostilla.",
+    "example_en": "I am waiting for a response by email.",
+    "note": "Neutral; email contexts."
+   },
+   {
+    "fi": "tulla takaisin",
+    "en": "to come back, return",
+    "type": "fraasi",
+    "example_fi": "Tulen takaisin kahdelta.",
+    "example_en": "I'll be back at two.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "antaa mahdollisuus",
+    "en": "to give an opportunity",
+    "type": "fraasi",
+    "example_fi": "Se antaa hyvän mahdollisuuden oppia.",
+    "example_en": "It gives a good opportunity to learn.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "pitää huolta terveydestä",
+    "en": "to take care of one's health",
+    "type": "fraasi",
+    "example_fi": "Meidän pitaisi pitää huolta terveydestä.",
+    "example_en": "We should take care of our health.",
+    "note": "Health/well-being contexts."
+   },
+   {
+    "fi": "selvitä asia",
+    "en": "to sort out, resolve a matter",
+    "type": "fraasi",
+    "example_fi": "Selvitän asian pian.",
+    "example_en": "I'll sort out the matter soon.",
+    "note": "Neutral; work contexts."
+   },
+   {
+    "fi": "ottaa mukaan",
+    "en": "to take along, bring with",
+    "type": "fraasi",
+    "example_fi": "Otan sateenvarjon mukaan.",
+    "example_en": "I'll take an umbrella with me.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "pitää tärkeänä",
+    "en": "to consider important",
+    "type": "fraasi",
+    "example_fi": "Pidän tätä asiaa tärkeänä.",
+    "example_en": "I consider this matter important.",
+    "note": "Takes partitive object + essive."
+   },
+   {
+    "fi": "viedä loppuun",
+    "en": "to complete, finish, carry through",
+    "type": "fraasi",
+    "example_fi": "Viemme projektin loppuun ensi viikolla.",
+    "example_en": "We'll finish the project next week.",
+    "note": "Of projects and tasks."
+   },
+   {
+    "fi": "saada viesti",
+    "en": "to receive a message",
+    "type": "fraasi",
+    "example_fi": "Sain viestin aamulla.",
+    "example_en": "I got a message in the morning.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "mennä pieleen",
+    "en": "to go wrong",
+    "type": "fraasi",
+    "example_fi": "Kaikki meni pieleen.",
+    "example_en": "Everything went wrong.",
+    "note": "Informal; of plans failing."
+   },
+   {
+    "fi": "olla hyvä idea",
+    "en": "to be a good idea",
+    "type": "fraasi",
+    "example_fi": "Se on hyvä idea.",
+    "example_en": "It's a good idea.",
+    "note": "Casual approval."
+   },
+   {
+    "fi": "joutua odottamaan",
+    "en": "to have to wait",
+    "type": "fraasi",
+    "example_fi": "Jouduin odottamaan pitkään.",
+    "example_en": "I had to wait a long time.",
+    "note": "Implies unwanted waiting."
+   },
+   {
+    "fi": "saada apua",
+    "en": "to get help",
+    "type": "fraasi",
+    "example_fi": "Sain apua ystävältä.",
+    "example_en": "I got help from a friend.",
+    "note": "Takes ablative (-lta/-ltä) for the source."
+   },
+   {
+    "fi": "pitää lupaus",
+    "en": "to keep a promise",
+    "type": "fraasi",
+    "example_fi": "Pidin lupaukseni.",
+    "example_en": "I kept my promise.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "päästä perille",
+    "en": "to arrive, reach the destination",
+    "type": "fraasi",
+    "example_fi": "Pääsin perille myöhässä.",
+    "example_en": "I arrived late.",
+    "note": "Of arriving somewhere."
+   },
+   {
+    "fi": "olla huolissaan",
+    "en": "to be worried",
+    "type": "fraasi",
+    "example_fi": "Olen huolissani sinusta.",
+    "example_en": "I'm worried about you.",
+    "note": "Takes elative (-sta/-stä) for the object."
+   },
+   {
+    "fi": "käydä iltapäivällä",
+    "en": "to drop by in the afternoon",
+    "type": "fraasi",
+    "example_fi": "Käyn iltapäivällä.",
+    "example_en": "I'll drop by in the afternoon.",
+    "note": "Casual; visiting."
+   },
+   {
+    "fi": "jäädä odottamaan",
+    "en": "to stay and wait",
+    "type": "fraasi",
+    "example_fi": "Jään odottamaan tähän.",
+    "example_en": "I'll wait here.",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "muistuttaa asiasta",
+    "en": "to remind about something",
+    "type": "fraasi",
+    "example_fi": "Voitko muistuttaa minua?",
+    "example_en": "Can you remind me?",
+    "note": "Takes partitive for the person."
+   },
+   {
+    "fi": "olla yhteydessä",
+    "en": "to be in contact",
+    "type": "fraasi",
+    "example_fi": "Olen yhteydessä sinuun huomenna.",
+    "example_en": "I'll be in touch with you tomorrow.",
+    "note": "Slightly formal; emails."
+   },
+   {
+    "fi": "tehdä vaikutus",
+    "en": "to make an impression",
+    "type": "fraasi",
+    "example_fi": "Hän teki hyvän vaikutuksen.",
+    "example_en": "He made a good impression.",
+    "note": "'Tehdä hyvä vaikutus' = good impression."
+   },
+   {
+    "fi": "kysyä apua",
+    "en": "to ask for help",
+    "type": "fraasi",
+    "example_fi": "Voitko kysyä apua?",
+    "example_en": "Can you ask for help?",
+    "note": "Everyday phrase."
+   },
+   {
+    "fi": "olla voimassa vielä",
+    "en": "to still be valid",
+    "type": "fraasi",
+    "example_fi": "Tarjous on voimassa vielä tänään.",
+    "example_en": "The offer is still valid today.",
+    "note": "Of offers with time left."
+   },
+   {
+    "fi": "pysyä terveenä",
+    "en": "to stay healthy",
+    "type": "fraasi",
+    "example_fi": "Pysy terveenä!",
+    "example_en": "Stay healthy!",
+    "note": "Well-wishing phrase."
+   },
+   {
+    "fi": "tuntea olonsa hyväksi",
+    "en": "to feel good, feel well",
+    "type": "fraasi",
+    "example_fi": "Tunsin oloni hyväksi.",
+    "example_en": "I felt good.",
+    "note": "About one's state of mind or body."
+   },
+   {
+    "fi": "saada valmiiksi",
+    "en": "to finish, get done",
+    "type": "fraasi",
+    "example_fi": "Sain raportin valmiiksi.",
+    "example_en": "I finished the report.",
+    "note": "Of completing a task."
+   },
+   {
+    "fi": "mennä sovitusti",
+    "en": "to go as agreed, as planned",
+    "type": "fraasi",
+    "example_fi": "Kaikki meni sovitusti.",
+    "example_en": "Everything went as agreed.",
+    "note": "Neutral register."
+   },
+   {
+    "fi": "olla tilaisuus",
+    "en": "to have an opportunity",
+    "type": "fraasi",
+    "example_fi": "Minulla on tilaisuus matkustaa.",
+    "example_en": "I have the opportunity to travel.",
+    "note": "'Minulla on tilaisuus' pattern."
+   },
+   {
+    "fi": "ilmoittaa asiasta",
+    "en": "to report, notify about something",
+    "type": "fraasi",
+    "example_fi": "Ilmoitan asiasta myöhemmin.",
+    "example_en": "I'll notify about it later.",
+    "note": "Formal; official contexts."
+   },
+   {
+    "fi": "päättää yhdessä",
+    "en": "to decide together",
+    "type": "fraasi",
+    "example_fi": "Päätetään yhdessä.",
+    "example_en": "Let's decide together.",
+    "note": "Neutral register."
+   }
+  ]
+ }
+]

@@ -27,7 +27,8 @@
     "YKI – Adverbit ja sidesanat": "🧭", "YKI – Luonteenpiirteet": "🙂",
     "YKI – Substantiivit (sijamuodot)": "📦", "YKI – Adjektiivit (sijamuodot)": "🔤",
     "YKI – Verbit (minä-muoto)": "🏃‍♂️",
-    "Harjoitus – Monikon partitiivi": "🧮", "Harjoitus – Monikon genetiivi": "🧮"
+    "YKI – Substantiivit (edistynyt sanasto)": "📚", "YKI – Adjektiivit (edistynyt sanasto)": "✨",
+    "Harjoitus – Monikon partitiivi": "🧮", "Harjoitus – Monikon genetiivi": "🔢"
   };
   var FALLBACK_EMOJI = ["📗", "📘", "📙", "📕", "🗂️", "🧩", "💬", "⭐"];
 
