@@ -1,0 +1,800 @@
+[
+ {
+  "category": "YKI – Kysymykset (B1)",
+  "category_en": "YKI common questions (B1)",
+  "cards": [
+   {
+    "fi": "Mikä sinun nimesi on?",
+    "en": "What is your name?",
+    "type": "fraasi",
+    "example_fi": "Minun nimeni on Minh.",
+    "example_en": "My name is Minh.",
+    "note": "Answer with 'Minun nimeni on...' or 'Olen...'"
+   },
+   {
+    "fi": "Kuinka vanha sinä olet?",
+    "en": "How old are you?",
+    "type": "fraasi",
+    "example_fi": "Olen 27-vuotias.",
+    "example_en": "I am 27 years old.",
+    "note": "Use number + '-vuotias'."
+   },
+   {
+    "fi": "Missä sinä asut?",
+    "en": "Where do you live?",
+    "type": "fraasi",
+    "example_fi": "Asun Helsingissä.",
+    "example_en": "I live in Helsinki.",
+    "note": "Use 'asun' + place in the -ssa/-ssä (inessive) case."
+   },
+   {
+    "fi": "Mistä sinä olet kotoisin?",
+    "en": "Where are you from?",
+    "type": "fraasi",
+    "example_fi": "Olen kotoisin Vietnamista.",
+    "example_en": "I am from Vietnam.",
+    "note": "Use 'olen kotoisin' + country in the -sta/-stä case."
+   },
+   {
+    "fi": "Mitä sinä teet työksesi?",
+    "en": "What do you do for a living?",
+    "type": "fraasi",
+    "example_fi": "Työskentelen ohjelmistokehittäjänä.",
+    "example_en": "I work as a software developer.",
+    "note": "Use 'olen' + job, or 'työskentelen' + job in -na/-nä."
+   },
+   {
+    "fi": "Mitä harrastuksia sinulla on?",
+    "en": "What hobbies do you have?",
+    "type": "fraasi",
+    "example_fi": "Harrastan lukemista ja lenkkeilyä.",
+    "example_en": "I like reading and jogging.",
+    "note": "Use 'harrastan' + hobby in partitive."
+   },
+   {
+    "fi": "Kuinka kauan olet asunut Suomessa?",
+    "en": "How long have you lived in Finland?",
+    "type": "fraasi",
+    "example_fi": "Olen asunut Suomessa kolme vuotta.",
+    "example_en": "I have lived in Finland for three years.",
+    "note": "Use perfect tense 'olen asunut' + time."
+   },
+   {
+    "fi": "Miksi opiskelet suomea?",
+    "en": "Why do you study Finnish?",
+    "type": "fraasi",
+    "example_fi": "Opiskelen suomea, koska asun ja työskentelen Suomessa.",
+    "example_en": "I study Finnish because I live and work in Finland.",
+    "note": "Start the reason with 'koska'."
+   },
+   {
+    "fi": "Millainen ihminen olet?",
+    "en": "What kind of person are you?",
+    "type": "fraasi",
+    "example_fi": "Olen rauhallinen ja ystävällinen ihminen.",
+    "example_en": "I am a calm and friendly person.",
+    "note": "Use adjectives after 'olen'."
+   },
+   {
+    "fi": "Missä työskentelet?",
+    "en": "Where do you work?",
+    "type": "fraasi",
+    "example_fi": "Työskentelen isossa teknologiayrityksessä.",
+    "example_en": "I work at a big technology company.",
+    "note": "Use 'työskentelen' + workplace in -ssa/-ssä."
+   },
+   {
+    "fi": "Mitä teet työksesi?",
+    "en": "What do you do for a living?",
+    "type": "fraasi",
+    "example_fi": "Olen ohjelmistokehittäjä.",
+    "example_en": "I am a software developer.",
+    "note": "Name your profession with 'olen'."
+   },
+   {
+    "fi": "Mihin aikaan aloitat ja lopetat työpäiväsi?",
+    "en": "What time do you start and finish your workday?",
+    "type": "fraasi",
+    "example_fi": "Aloitan työni kello kahdeksan ja lopetan kello neljä.",
+    "example_en": "I start work at eight and finish at four.",
+    "note": "Use 'kello' + time for both verbs."
+   },
+   {
+    "fi": "Pidätkö työstäsi? Miksi?",
+    "en": "Do you like your job? Why?",
+    "type": "fraasi",
+    "example_fi": "Pidän työstäni, koska se on mielenkiintoista.",
+    "example_en": "I like my job because it is interesting.",
+    "note": "Answer 'pidän' or 'en pidä' and explain with 'koska'."
+   },
+   {
+    "fi": "Oletko ollut koskaan työtön?",
+    "en": "Have you ever been unemployed?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, olin työtön puoli vuotta.",
+    "example_en": "Yes, I was unemployed for half a year.",
+    "note": "Answer with 'kyllä' or 'en ole' + perfect/past tense."
+   },
+   {
+    "fi": "Missä opiskelet?",
+    "en": "Where do you study?",
+    "type": "fraasi",
+    "example_fi": "Opiskelen suomea kansalaisopistossa.",
+    "example_en": "I study Finnish at the adult education centre.",
+    "note": "Use 'opiskelen' + place in -ssa/-ssä."
+   },
+   {
+    "fi": "Mitä aineita opiskelet?",
+    "en": "What subjects do you study?",
+    "type": "fraasi",
+    "example_fi": "Opiskelen suomea ja matematiikkaa.",
+    "example_en": "I study Finnish and mathematics.",
+    "note": "List subjects in partitive."
+   },
+   {
+    "fi": "Mikä on lempiainee?",
+    "en": "What is your favourite subject?",
+    "type": "fraasi",
+    "example_fi": "Lempiaineeni on suomen kieli.",
+    "example_en": "My favourite subject is Finnish.",
+    "note": "Use 'lempiaineeni on' + subject."
+   },
+   {
+    "fi": "Mitä haluaisit opiskella tulevaisuudessa?",
+    "en": "What would you like to study in the future?",
+    "type": "fraasi",
+    "example_fi": "Haluaisin opiskella tulevaisuudessa kauppatieteitä.",
+    "example_en": "In the future I would like to study business.",
+    "note": "Use conditional 'haluaisin opiskella'."
+   },
+   {
+    "fi": "Mikä on unelma-ammattisi?",
+    "en": "What is your dream profession?",
+    "type": "fraasi",
+    "example_fi": "Unelma-ammattini on lääkäri.",
+    "example_en": "My dream profession is a doctor.",
+    "note": "Use 'unelma-ammattini on' + job."
+   },
+   {
+    "fi": "Mitä teet vapaa-ajallasi?",
+    "en": "What do you do in your free time?",
+    "type": "fraasi",
+    "example_fi": "Vapaa-ajallani luen kirjoja ja tapaan ystäviä.",
+    "example_en": "In my free time I read books and meet friends.",
+    "note": "Start with 'vapaa-ajallani' and list activities."
+   },
+   {
+    "fi": "Käytkö elokuvissa?",
+    "en": "Do you go to the movies?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, käyn elokuvissa noin kerran kuukaudessa.",
+    "example_en": "Yes, I go to the movies about once a month.",
+    "note": "Answer 'kyllä, käyn' or 'en käy' + how often."
+   },
+   {
+    "fi": "Luetko kirjoja?",
+    "en": "Do you read books?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, luen mielelläni romaaneja.",
+    "example_en": "Yes, I gladly read novels.",
+    "note": "Use 'luen' + 'mielelläni' to say you enjoy it."
+   },
+   {
+    "fi": "Urheiletko?",
+    "en": "Do you do sports?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, urheilen kolme kertaa viikossa.",
+    "example_en": "Yes, I do sports three times a week.",
+    "note": "Answer with frequency: '... kertaa viikossa'."
+   },
+   {
+    "fi": "Minkälaisesta musiikista pidät?",
+    "en": "What kind of music do you like?",
+    "type": "fraasi",
+    "example_fi": "Pidän rauhallisesta popmusiikista.",
+    "example_en": "I like calm pop music.",
+    "note": "'Pidän' takes the -sta/-stä case."
+   },
+   {
+    "fi": "Katsotko televisiota? Mitä ohjelmia?",
+    "en": "Do you watch television? What programmes?",
+    "type": "fraasi",
+    "example_fi": "Katson televisiota ja pidän dokumenteista.",
+    "example_en": "I watch television and I like documentaries.",
+    "note": "Name programme types after saying what you watch."
+   },
+   {
+    "fi": "Käytkö ravintolassa?",
+    "en": "Do you go to restaurants?",
+    "type": "fraasi",
+    "example_fi": "Käyn ravintolassa joskus viikonloppuisin.",
+    "example_en": "I go to a restaurant sometimes on weekends.",
+    "note": "Add a frequency word like 'joskus' or 'usein'."
+   },
+   {
+    "fi": "Mitä teet viikonloppuisin?",
+    "en": "What do you do on weekends?",
+    "type": "fraasi",
+    "example_fi": "Viikonloppuisin lepään ja tapaan ystäviäni.",
+    "example_en": "On weekends I rest and meet my friends.",
+    "note": "Start with 'viikonloppuisin' + verbs."
+   },
+   {
+    "fi": "Onko sinulla lemmikkiä?",
+    "en": "Do you have a pet?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, minulla on kissa.",
+    "example_en": "Yes, I have a cat.",
+    "note": "Use 'minulla on' or 'minulla ei ole'."
+   },
+   {
+    "fi": "Mikä on lempiharrastuksesi?",
+    "en": "What is your favourite hobby?",
+    "type": "fraasi",
+    "example_fi": "Lempiharrastukseni on valokuvaus.",
+    "example_en": "My favourite hobby is photography.",
+    "note": "Use 'lempiharrastukseni on' + hobby."
+   },
+   {
+    "fi": "Kuinka monta ihmistä perheessäsi on?",
+    "en": "How many people are in your family?",
+    "type": "fraasi",
+    "example_fi": "Perheessäni on neljä ihmistä.",
+    "example_en": "There are four people in my family.",
+    "note": "Use 'perheessäni on' + number."
+   },
+   {
+    "fi": "Millainen suhde sinulla on vanhempiisi?",
+    "en": "What kind of relationship do you have with your parents?",
+    "type": "fraasi",
+    "example_fi": "Minulla on läheinen suhde vanhempiini.",
+    "example_en": "I have a close relationship with my parents.",
+    "note": "Use 'minulla on ... suhde' + adjective."
+   },
+   {
+    "fi": "Onko sinulla sisaruksia?",
+    "en": "Do you have siblings?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, minulla on yksi veli ja yksi sisko.",
+    "example_en": "Yes, I have one brother and one sister.",
+    "note": "Use 'minulla on' + veli/sisko."
+   },
+   {
+    "fi": "Mitä perheesi tekee yhdessä?",
+    "en": "What does your family do together?",
+    "type": "fraasi",
+    "example_fi": "Perheeni matkustaa ja syö yhdessä.",
+    "example_en": "My family travels and eats together.",
+    "note": "Use verbs + 'yhdessä'."
+   },
+   {
+    "fi": "Kuinka usein tapaat ystäviäsi?",
+    "en": "How often do you meet your friends?",
+    "type": "fraasi",
+    "example_fi": "Tapaan ystäviäni joka viikko.",
+    "example_en": "I meet my friends every week.",
+    "note": "Use 'tapaan ystäviäni' + frequency."
+   },
+   {
+    "fi": "Mitä teet ystäviesi kanssa?",
+    "en": "What do you do with your friends?",
+    "type": "fraasi",
+    "example_fi": "Ystävieni kanssa käyn kahvilla ja ulkoilen.",
+    "example_en": "With my friends I go for coffee and walk outside.",
+    "note": "Use '...kanssa' + activities."
+   },
+   {
+    "fi": "Mikä on tärkeintä ystävyydessä?",
+    "en": "What is most important in friendship?",
+    "type": "fraasi",
+    "example_fi": "Tärkeintä ystävyydessä on luottamus.",
+    "example_en": "The most important thing in friendship is trust.",
+    "note": "Use 'tärkeintä ... on' + noun."
+   },
+   {
+    "fi": "Minkälainen hyvä ystävä on?",
+    "en": "What is a good friend like?",
+    "type": "fraasi",
+    "example_fi": "Hyvä ystävä on rehellinen ja luotettava.",
+    "example_en": "A good friend is honest and reliable.",
+    "note": "Describe with adjectives after 'on'."
+   },
+   {
+    "fi": "Missä tapasit parhaan ystäväsi?",
+    "en": "Where did you meet your best friend?",
+    "type": "fraasi",
+    "example_fi": "Tapasin parhaan ystäväni koulussa.",
+    "example_en": "I met my best friend at school.",
+    "note": "Use past tense 'tapasin' + place in -ssa/-ssä."
+   },
+   {
+    "fi": "Kenen kanssa vietät mielelläsi aikaa?",
+    "en": "Who do you like to spend time with?",
+    "type": "fraasi",
+    "example_fi": "Vietän mielelläni aikaa perheeni kanssa.",
+    "example_en": "I like to spend time with my family.",
+    "note": "Use 'vietän mielelläni aikaa' + person + 'kanssa'."
+   },
+   {
+    "fi": "Mihin aikaan heräät arkisin?",
+    "en": "What time do you wake up on weekdays?",
+    "type": "fraasi",
+    "example_fi": "Herään arkisin kello kuusi.",
+    "example_en": "On weekdays I wake up at six o'clock.",
+    "note": "Use 'herään' + 'kello' + time."
+   },
+   {
+    "fi": "Mitä syöt aamiaiseksi?",
+    "en": "What do you eat for breakfast?",
+    "type": "fraasi",
+    "example_fi": "Syön aamiaiseksi puuroa ja juon kahvia.",
+    "example_en": "For breakfast I eat porridge and drink coffee.",
+    "note": "Use 'aamiaiseksi' + food in partitive."
+   },
+   {
+    "fi": "Miten menet töihin tai kouluun?",
+    "en": "How do you get to work or school?",
+    "type": "fraasi",
+    "example_fi": "Menen töihin bussilla.",
+    "example_en": "I go to work by bus.",
+    "note": "Transport takes the -lla/-llä case: 'bussilla'."
+   },
+   {
+    "fi": "Mitä teet illalla?",
+    "en": "What do you do in the evening?",
+    "type": "fraasi",
+    "example_fi": "Illalla katson televisiota ja luen.",
+    "example_en": "In the evening I watch TV and read.",
+    "note": "Start with 'illalla' + verbs."
+   },
+   {
+    "fi": "Mitä teet kotona viikonloppuisin?",
+    "en": "What do you do at home on weekends?",
+    "type": "fraasi",
+    "example_fi": "Kotona viikonloppuisin siivoan ja laitan ruokaa.",
+    "example_en": "At home on weekends I clean and cook.",
+    "note": "Use home activities: siivoan, laitan ruokaa."
+   },
+   {
+    "fi": "Minkälaisia kotitöitä teet?",
+    "en": "What kind of housework do you do?",
+    "type": "fraasi",
+    "example_fi": "Teen kotitöitä, kuten siivoan ja pesen pyykkiä.",
+    "example_en": "I do housework, such as cleaning and washing laundry.",
+    "note": "Use 'kuten' to give examples."
+   },
+   {
+    "fi": "Mitä ostat kaupasta?",
+    "en": "What do you buy from the shop?",
+    "type": "fraasi",
+    "example_fi": "Ostan kaupasta ruokaa ja juomia.",
+    "example_en": "I buy food and drinks from the shop.",
+    "note": "Use 'ostan kaupasta' + items in partitive."
+   },
+   {
+    "fi": "Missä teet ostoksia?",
+    "en": "Where do you do your shopping?",
+    "type": "fraasi",
+    "example_fi": "Teen ostoksia lähikaupassa.",
+    "example_en": "I do my shopping at the local shop.",
+    "note": "Use 'teen ostoksia' + place in -ssa/-ssä."
+   },
+   {
+    "fi": "Käytkö usein kirjastossa?",
+    "en": "Do you often go to the library?",
+    "type": "fraasi",
+    "example_fi": "Käyn kirjastossa noin kerran viikossa.",
+    "example_en": "I go to the library about once a week.",
+    "note": "Answer with frequency after 'käyn kirjastossa'."
+   },
+   {
+    "fi": "Miten vietät lomasi?",
+    "en": "How do you spend your holiday?",
+    "type": "fraasi",
+    "example_fi": "Vietän lomani matkustaen ja lepäillen.",
+    "example_en": "I spend my holiday travelling and resting.",
+    "note": "Use 'vietän lomani' + activities."
+   },
+   {
+    "fi": "Käytkö lääkärissä usein?",
+    "en": "Do you go to the doctor often?",
+    "type": "fraasi",
+    "example_fi": "En käy lääkärissä usein, vain kun olen sairas.",
+    "example_en": "I don't go to the doctor often, only when I'm sick.",
+    "note": "Answer 'käyn'/'en käy' + explanation."
+   },
+   {
+    "fi": "Milloin olit viimeksi sairas?",
+    "en": "When were you last sick?",
+    "type": "fraasi",
+    "example_fi": "Olin viimeksi sairas viime kuussa.",
+    "example_en": "I was last sick last month.",
+    "note": "Use past tense 'olin' + time expression."
+   },
+   {
+    "fi": "Mitä teet, jos sinulla on kuumetta?",
+    "en": "What do you do if you have a fever?",
+    "type": "fraasi",
+    "example_fi": "Jos minulla on kuumetta, lepään ja juon vettä.",
+    "example_en": "If I have a fever, I rest and drink water.",
+    "note": "Start with 'jos minulla on kuumetta,' then actions."
+   },
+   {
+    "fi": "Syötkö terveellisesti?",
+    "en": "Do you eat healthily?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, syön paljon vihanneksia ja hedelmiä.",
+    "example_en": "Yes, I eat a lot of vegetables and fruit.",
+    "note": "Answer 'kyllä'/'en' + examples of food."
+   },
+   {
+    "fi": "Liikutko säännöllisesti?",
+    "en": "Do you exercise regularly?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, liikun säännöllisesti neljä kertaa viikossa.",
+    "example_en": "Yes, I exercise regularly four times a week.",
+    "note": "Use 'liikun' + frequency."
+   },
+   {
+    "fi": "Miten hoidat terveyttäsi?",
+    "en": "How do you take care of your health?",
+    "type": "fraasi",
+    "example_fi": "Hoidan terveyttäni liikkumalla ja nukkumalla hyvin.",
+    "example_en": "I take care of my health by exercising and sleeping well.",
+    "note": "Use the -malla/-mällä form to say 'by doing'."
+   },
+   {
+    "fi": "Oletko ollut sairaalassa?",
+    "en": "Have you been in hospital?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, olin sairaalassa kerran lapsena.",
+    "example_en": "Yes, I was in hospital once as a child.",
+    "note": "Use perfect/past tense + 'sairaalassa'."
+   },
+   {
+    "fi": "Milloin sinulla oli viimeksi flunssa?",
+    "en": "When did you last have a cold?",
+    "type": "fraasi",
+    "example_fi": "Minulla oli viimeksi flunssa talvella.",
+    "example_en": "I last had a cold in the winter.",
+    "note": "Use 'minulla oli' + time."
+   },
+   {
+    "fi": "Miten pidät itsesi kunnossa?",
+    "en": "How do you keep yourself fit?",
+    "type": "fraasi",
+    "example_fi": "Pidän itseni kunnossa urheilemalla joka päivä.",
+    "example_en": "I keep myself fit by doing sports every day.",
+    "note": "Use the -malla/-mällä form."
+   },
+   {
+    "fi": "Käytkö kuntosalilla?",
+    "en": "Do you go to the gym?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, käyn kuntosalilla kaksi kertaa viikossa.",
+    "example_en": "Yes, I go to the gym twice a week.",
+    "note": "Use 'käyn kuntosalilla' + frequency."
+   },
+   {
+    "fi": "Missä käyt kaupassa?",
+    "en": "Where do you go grocery shopping?",
+    "type": "fraasi",
+    "example_fi": "Käyn kaupassa lähellä kotiani.",
+    "example_en": "I go shopping near my home.",
+    "note": "Use 'käyn kaupassa' + place."
+   },
+   {
+    "fi": "Mitä ostat yleensä kaupasta?",
+    "en": "What do you usually buy from the shop?",
+    "type": "fraasi",
+    "example_fi": "Ostan yleensä leipää, maitoa ja vihanneksia.",
+    "example_en": "I usually buy bread, milk and vegetables.",
+    "note": "Use 'yleensä' + items in partitive."
+   },
+   {
+    "fi": "Käytkö kirpputorilla?",
+    "en": "Do you go to flea markets?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, käyn kirpputorilla joskus.",
+    "example_en": "Yes, I go to the flea market sometimes.",
+    "note": "Use 'käyn kirpputorilla' + frequency."
+   },
+   {
+    "fi": "Miten maksat ostoksesi?",
+    "en": "How do you pay for your purchases?",
+    "type": "fraasi",
+    "example_fi": "Maksan ostokseni yleensä kortilla.",
+    "example_en": "I usually pay for my purchases by card.",
+    "note": "Payment method takes -lla/-llä: 'kortilla'."
+   },
+   {
+    "fi": "Käytkö kahvilassa?",
+    "en": "Do you go to cafés?",
+    "type": "fraasi",
+    "example_fi": "Käyn kahvilassa usein ystävieni kanssa.",
+    "example_en": "I often go to a café with my friends.",
+    "note": "Use 'käyn kahvilassa' + detail."
+   },
+   {
+    "fi": "Mitä ostat lahjaksi ystävälle?",
+    "en": "What do you buy as a gift for a friend?",
+    "type": "fraasi",
+    "example_fi": "Ostan ystävälle lahjaksi kirjan.",
+    "example_en": "I buy a book as a gift for a friend.",
+    "note": "Use 'lahjaksi' + item in accusative."
+   },
+   {
+    "fi": "Oletko ostanut verkkokaupasta?",
+    "en": "Have you bought from an online shop?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, olen ostanut vaatteita verkkokaupasta.",
+    "example_en": "Yes, I have bought clothes from an online shop.",
+    "note": "Use perfect tense 'olen ostanut'."
+   },
+   {
+    "fi": "Mitä mieltä olet verkkokaupoista?",
+    "en": "What do you think about online shops?",
+    "type": "fraasi",
+    "example_fi": "Mielestäni verkkokaupat ovat helppoja ja käteviä.",
+    "example_en": "In my opinion online shops are easy and convenient.",
+    "note": "Start with 'mielestäni' to give an opinion."
+   },
+   {
+    "fi": "Miten hoidat pankkiasioitasi?",
+    "en": "How do you handle your banking?",
+    "type": "fraasi",
+    "example_fi": "Hoidan pankkiasioitani verkkopankissa.",
+    "example_en": "I handle my banking in online banking.",
+    "note": "Use 'hoidan pankkiasioitani' + place/way."
+   },
+   {
+    "fi": "Miten maksat vuokran?",
+    "en": "How do you pay the rent?",
+    "type": "fraasi",
+    "example_fi": "Maksan vuokran verkkopankissa joka kuukausi.",
+    "example_en": "I pay the rent in online banking every month.",
+    "note": "Use 'maksan vuokran' + way + time."
+   },
+   {
+    "fi": "Käytkö usein matkalla?",
+    "en": "Do you often travel?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, matkustan usein kesällä.",
+    "example_en": "Yes, I often travel in the summer.",
+    "note": "Use 'matkustan' + frequency."
+   },
+   {
+    "fi": "Missä olet käynyt?",
+    "en": "Where have you been?",
+    "type": "fraasi",
+    "example_fi": "Olen käynyt Ruotsissa ja Virossa.",
+    "example_en": "I have been to Sweden and Estonia.",
+    "note": "Use perfect tense 'olen käynyt' + places in -ssa/-ssä."
+   },
+   {
+    "fi": "Mikä on unelmamatkakohteesi?",
+    "en": "What is your dream travel destination?",
+    "type": "fraasi",
+    "example_fi": "Unelmamatkakohteeni on Japani.",
+    "example_en": "My dream travel destination is Japan.",
+    "note": "Use 'unelmamatkakohteeni on' + country."
+   },
+   {
+    "fi": "Miten matkustat Suomessa?",
+    "en": "How do you travel in Finland?",
+    "type": "fraasi",
+    "example_fi": "Matkustan Suomessa yleensä junalla.",
+    "example_en": "I usually travel in Finland by train.",
+    "note": "Transport takes -lla/-llä: 'junalla'."
+   },
+   {
+    "fi": "Oletko käynyt Lapissa?",
+    "en": "Have you been to Lapland?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, olen käynyt Lapissa kerran talvella.",
+    "example_en": "Yes, I have been to Lapland once in the winter.",
+    "note": "Use perfect tense 'olen käynyt' or 'en ole käynyt'."
+   },
+   {
+    "fi": "Pidätkö lentomatkustamisesta?",
+    "en": "Do you like air travel?",
+    "type": "fraasi",
+    "example_fi": "Pidän lentomatkustamisesta, koska se on nopeaa.",
+    "example_en": "I like air travel because it is fast.",
+    "note": "'Pidän' + -sta/-stä, then 'koska'."
+   },
+   {
+    "fi": "Millä matkustat töihin?",
+    "en": "What do you travel to work by?",
+    "type": "fraasi",
+    "example_fi": "Matkustan töihin bussilla.",
+    "example_en": "I travel to work by bus.",
+    "note": "Answer with transport in -lla/-llä."
+   },
+   {
+    "fi": "Onko sinulla ajokorttia?",
+    "en": "Do you have a driving licence?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, minulla on ajokortti.",
+    "example_en": "Yes, I have a driving licence.",
+    "note": "Use 'minulla on' or 'minulla ei ole ajokorttia'."
+   },
+   {
+    "fi": "Oletko käyttänyt junaa Suomessa?",
+    "en": "Have you used the train in Finland?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, olen käyttänyt junaa usein Suomessa.",
+    "example_en": "Yes, I have used the train often in Finland.",
+    "note": "Use perfect tense 'olen käyttänyt'."
+   },
+   {
+    "fi": "Käytätkö polkupyörää?",
+    "en": "Do you use a bicycle?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, käytän polkupyörää kesällä.",
+    "example_en": "Yes, I use a bicycle in the summer.",
+    "note": "Answer 'käytän' or 'en käytä' + detail."
+   },
+   {
+    "fi": "Minkälainen sää on tänään?",
+    "en": "What is the weather like today?",
+    "type": "fraasi",
+    "example_fi": "Tänään on aurinkoista ja lämmintä.",
+    "example_en": "Today it is sunny and warm.",
+    "note": "Use 'tänään on' + weather adjectives."
+   },
+   {
+    "fi": "Mikä on lempivuodenaikasi?",
+    "en": "What is your favourite season?",
+    "type": "fraasi",
+    "example_fi": "Lempivuodenaikani on kesä.",
+    "example_en": "My favourite season is summer.",
+    "note": "Use 'lempivuodenaikani on' + season."
+   },
+   {
+    "fi": "Pidätkö talvesta?",
+    "en": "Do you like winter?",
+    "type": "fraasi",
+    "example_fi": "Pidän talvesta, koska pidän lumesta.",
+    "example_en": "I like winter because I like snow.",
+    "note": "'Pidän talvesta' + reason with 'koska'."
+   },
+   {
+    "fi": "Mitä teet kesällä?",
+    "en": "What do you do in the summer?",
+    "type": "fraasi",
+    "example_fi": "Kesällä uin ja vietän aikaa mökillä.",
+    "example_en": "In the summer I swim and spend time at the cottage.",
+    "note": "Start with 'kesällä' + verbs."
+   },
+   {
+    "fi": "Onko ilmastonmuutos mielestäsi vakava asia?",
+    "en": "Do you think climate change is a serious issue?",
+    "type": "fraasi",
+    "example_fi": "Mielestäni ilmastonmuutos on hyvin vakava asia.",
+    "example_en": "In my opinion climate change is a very serious issue.",
+    "note": "Give an opinion with 'mielestäni'."
+   },
+   {
+    "fi": "Käytkö metsässä?",
+    "en": "Do you go to the forest?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, käyn metsässä kävelemässä joka viikko.",
+    "example_en": "Yes, I go walking in the forest every week.",
+    "note": "Use 'käyn metsässä' + activity in -massa/-mässä."
+   },
+   {
+    "fi": "Onko Suomessa puhdas luonto?",
+    "en": "Does Finland have clean nature?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, Suomessa on hyvin puhdas luonto.",
+    "example_en": "Yes, Finland has very clean nature.",
+    "note": "Answer with 'kyllä, Suomessa on' + adjective."
+   },
+   {
+    "fi": "Mitä voit tehdä ympäristön hyväksi?",
+    "en": "What can you do for the environment?",
+    "type": "fraasi",
+    "example_fi": "Voin kierrättää ja käyttää julkista liikennettä.",
+    "example_en": "I can recycle and use public transport.",
+    "note": "Use 'voin' + verbs in basic form."
+   },
+   {
+    "fi": "Käytätkö kierrätystä?",
+    "en": "Do you recycle?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, kierrätän paperia, lasia ja muovia.",
+    "example_en": "Yes, I recycle paper, glass and plastic.",
+    "note": "Answer 'kierrätän' + materials in partitive."
+   },
+   {
+    "fi": "Mitä ajattelet suomalaisesta luonnosta?",
+    "en": "What do you think about Finnish nature?",
+    "type": "fraasi",
+    "example_fi": "Mielestäni suomalainen luonto on kaunis ja rauhallinen.",
+    "example_en": "In my opinion Finnish nature is beautiful and peaceful.",
+    "note": "Use 'mielestäni' + adjectives."
+   },
+   {
+    "fi": "Mitä söit viimeksi?",
+    "en": "What did you eat last?",
+    "type": "fraasi",
+    "example_fi": "Söin viimeksi keittoa ja leipää.",
+    "example_en": "Last I ate soup and bread.",
+    "note": "Use past tense 'söin' + food in partitive."
+   },
+   {
+    "fi": "Mikä on lempiruokasi?",
+    "en": "What is your favourite food?",
+    "type": "fraasi",
+    "example_fi": "Lempiruokani on kalakeitto.",
+    "example_en": "My favourite food is fish soup.",
+    "note": "Use 'lempiruokani on' + food."
+   },
+   {
+    "fi": "Osaatko laittaa ruokaa?",
+    "en": "Can you cook?",
+    "type": "fraasi",
+    "example_fi": "Kyllä, osaan laittaa ruokaa melko hyvin.",
+    "example_en": "Yes, I can cook quite well.",
+    "note": "Use 'osaan laittaa ruokaa' + adverb."
+   },
+   {
+    "fi": "Mitä teet yleensä syntymäpäivänäsi?",
+    "en": "What do you usually do on your birthday?",
+    "type": "fraasi",
+    "example_fi": "Syntymäpäivänäni vietän aikaa perheen kanssa.",
+    "example_en": "On my birthday I spend time with family.",
+    "note": "Start with 'syntymäpäivänäni' + activity."
+   },
+   {
+    "fi": "Miten juhlit joulua?",
+    "en": "How do you celebrate Christmas?",
+    "type": "fraasi",
+    "example_fi": "Juhlin joulua perheeni kanssa ja syömme hyvää ruokaa.",
+    "example_en": "I celebrate Christmas with my family and we eat good food.",
+    "note": "Use 'juhlin joulua' + '...kanssa'."
+   },
+   {
+    "fi": "Miten juhlit pääsiäistä?",
+    "en": "How do you celebrate Easter?",
+    "type": "fraasi",
+    "example_fi": "Juhlin pääsiäistä rauhallisesti kotona.",
+    "example_en": "I celebrate Easter quietly at home.",
+    "note": "Use 'juhlin pääsiäistä' + how/where."
+   },
+   {
+    "fi": "Minkälainen on hyvä naapuri?",
+    "en": "What is a good neighbour like?",
+    "type": "fraasi",
+    "example_fi": "Hyvä naapuri on ystävällinen ja auttavainen.",
+    "example_en": "A good neighbour is friendly and helpful.",
+    "note": "Describe with adjectives after 'on'."
+   },
+   {
+    "fi": "Kuinka usein siivoat kotona?",
+    "en": "How often do you clean at home?",
+    "type": "fraasi",
+    "example_fi": "Siivoan kotona kerran viikossa.",
+    "example_en": "I clean at home once a week.",
+    "note": "Use 'siivoan kotona' + frequency."
+   },
+   {
+    "fi": "Mitä haluaisit oppia tulevaisuudessa?",
+    "en": "What would you like to learn in the future?",
+    "type": "fraasi",
+    "example_fi": "Haluaisin oppia soittamaan pianoa.",
+    "example_en": "I would like to learn to play the piano.",
+    "note": "Use conditional 'haluaisin oppia' + verb."
+   },
+   {
+    "fi": "Missä näet itsesi viiden vuoden päästä?",
+    "en": "Where do you see yourself in five years?",
+    "type": "fraasi",
+    "example_fi": "Viiden vuoden päästä näen itseni hyvässä työssä Suomessa.",
+    "example_en": "In five years I see myself in a good job in Finland.",
+    "note": "Start with 'viiden vuoden päästä' + future plan."
+   }
+  ]
+ }
+]

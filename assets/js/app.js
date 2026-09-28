@@ -21,7 +21,14 @@
     "Harrastukset ja vapaa-aika": "⚽", "Matkustaminen": "✈️",
     "Yhteiskunta ja asuminen": "🏙️", "Yleiset verbit": "🏃",
     "Adjektiivit": "🔠", "Adverbit ja paikat": "📍",
-    "Kysymyssanat ja pronominit": "❓", "Yleiset partikkelit ja sidesanat": "🔗"
+    "Kysymyssanat ja pronominit": "❓", "Yleiset partikkelit ja sidesanat": "🔗",
+    "YKI – Fraasit ja sanonnat": "📝", "YKI – Mallilauseet": "🧩",
+    "YKI – Kysymykset (B1)": "🗣️", "YKI – Reaktiot": "💬",
+    "YKI – Adverbit ja sidesanat": "🧭", "YKI – Luonteenpiirteet": "🙂",
+    "YKI – Substantiivit (sijamuodot)": "📦", "YKI – Adjektiivit (sijamuodot)": "🔤",
+    "YKI – Verbit (minä-muoto)": "🏃‍♂️",
+    "YKI – Substantiivit (edistynyt sanasto)": "📚", "YKI – Adjektiivit (edistynyt sanasto)": "✨",
+    "Harjoitus – Monikon partitiivi": "🧮", "Harjoitus – Monikon genetiivi": "🔢"
   };
   var FALLBACK_EMOJI = ["📗", "📘", "📙", "📕", "🗂️", "🧩", "💬", "⭐"];
 
@@ -133,17 +140,32 @@
     shown.forEach(function (cat) {
       var total = (cat.cards || []).length;
       var done = learnedInCategory(cat);
+      var unknown = total - done;
       var pct = total ? Math.round((done / total) * 100) : 0;
-      var card = el("button", "cat-card");
+      var card = el("div", "cat-card");
       card.innerHTML =
-        '<span class="cat-card__emoji">' + esc(cat.emoji) + "</span>" +
-        '<span class="cat-card__name">' + esc(cat.category) + "</span>" +
-        '<span class="cat-card__en">' + esc(cat.category_en || "") + "</span>" +
-        '<span class="cat-card__foot">' +
-          '<span class="cat-card__mini"><span style="width:' + pct + '%"></span></span>' +
-          '<span class="cat-card__count">' + done + "/" + total + "</span>" +
-        "</span>";
-      card.addEventListener("click", function () { startStudy(cat.cards, cat.category, cat.emoji); });
+        '<button class="cat-card__open">' +
+          '<span class="cat-card__emoji">' + esc(cat.emoji) + "</span>" +
+          '<span class="cat-card__name">' + esc(cat.category) + "</span>" +
+          '<span class="cat-card__en">' + esc(cat.category_en || "") + "</span>" +
+          '<span class="cat-card__foot">' +
+            '<span class="cat-card__mini"><span style="width:' + pct + '%"></span></span>' +
+            '<span class="cat-card__count">' + done + "/" + total + "</span>" +
+          "</span>" +
+        "</button>";
+      card.querySelector(".cat-card__open").addEventListener("click", function () {
+        startStudy(cat.cards, cat.category, cat.emoji, cat.cards);
+      });
+      // Revise only the cards not yet marked "known" in this topic.
+      if (done > 0 && unknown > 0) {
+        var rev = el("button", "cat-card__revise", "🔁 Kertaa " + unknown + " osaamatonta");
+        rev.title = "Harjoittele vain sanat, joita et vielä osaa";
+        rev.addEventListener("click", function () {
+          var deck = cat.cards.filter(function (c) { return !learned.has(cardKey(c)); });
+          startStudy(deck, cat.category + " — kertaus", "🔁", cat.cards);
+        });
+        card.appendChild(rev);
+      }
       grid.appendChild(card);
     });
   }
@@ -182,10 +204,11 @@
     return a;
   }
 
-  function startStudy(deck, title, emoji) {
+  function startStudy(deck, title, emoji, sourceDeck) {
     if (!deck || !deck.length) return;
     session = {
       title: title, emoji: emoji, deck: deck,
+      sourceDeck: sourceDeck || deck,
       order: shuffle(deck.map(function (_, i) { return i; })),
       pos: 0, mode: "flash", missed: new Set(), flipped: false
     };
@@ -246,9 +269,17 @@
     if (session.pos >= session.deck.length) return showDone();
     var card = currentCard();
     var fb = frontBack(card);
-    session.flipped = false;
     var fc = $("flashcard");
-    fc.classList.remove("is-flipped");
+    // If the previous card was showing its answer, flip back to the front
+    // WITHOUT animation. Otherwise the 3D rotation briefly reveals the new
+    // card's back face (the answer, e.g. the Finnish word) before landing on
+    // the front — giving the answer away.
+    var wasFlipped = fc.classList.contains("is-flipped");
+    if (wasFlipped) {
+      fc.classList.add("no-anim");
+      fc.classList.remove("is-flipped");
+    }
+    session.flipped = false;
     $("frontHint").textContent = fb.hint;
     $("frontWord").textContent = fb.front;
     $("backType").textContent = card.type || "";
@@ -258,6 +289,12 @@
     $("backNote").textContent = card.note || "";
     $("backNote").style.display = card.note ? "" : "none";
     $("answerRow").hidden = true;
+    if (wasFlipped) {
+      // Force a reflow so the un-flip applies instantly, then re-enable
+      // animation for the next user-initiated flip.
+      void fc.offsetWidth;
+      fc.classList.remove("no-anim");
+    }
     updateProgress();
   }
 
@@ -380,6 +417,16 @@
         " sanaa tästä pakasta." + (session.missed.size ? " Kertaa " + session.missed.size + " virhettä." : "");
     }
     $("reviewMissedBtn").style.display = session.missed.size ? "" : "none";
+    // Offer to drill every still-unknown card in the whole subject (persistent,
+    // across sessions) — not just the ones missed this round.
+    var unknownInSubject = session.sourceDeck.filter(function (c) {
+      return !learned.has(cardKey(c));
+    });
+    session._unknownInSubject = unknownInSubject;
+    var showUnknown = unknownInSubject.length > 0 &&
+      unknownInSubject.length !== session.deck.length; // hide if identical to what was just studied
+    $("reviewUnknownBtn").style.display = showUnknown ? "" : "none";
+    $("reviewUnknownBtn").textContent = "Kertaa osaamattomat (" + unknownInSubject.length + ")";
   }
 
   $("restartBtn").addEventListener("click", function () {
@@ -388,7 +435,12 @@
   $("reviewMissedBtn").addEventListener("click", function () {
     var missedCards = session.deck.filter(function (c) { return session.missed.has(cardKey(c)); });
     if (!missedCards.length) return;
-    startStudy(missedCards, session.title + " — virheet", "🔁");
+    startStudy(missedCards, session.title + " — virheet", "🔁", session.sourceDeck);
+  });
+  $("reviewUnknownBtn").addEventListener("click", function () {
+    var deck = session._unknownInSubject || [];
+    if (!deck.length) return;
+    startStudy(deck, session.title.replace(/ —.*$/, "") + " — kertaus", "🔁", session.sourceDeck);
   });
 
   /* ---------- Global keyboard shortcuts ---------- */

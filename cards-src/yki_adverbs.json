@@ -1,0 +1,918 @@
+[
+ {
+  "category": "YKI – Adverbit ja sidesanat",
+  "category_en": "YKI adverbs & connectives",
+  "cards": [
+   {
+    "fi": "nyt",
+    "en": "now",
+    "type": "adverbi",
+    "example_fi": "Minä teen sen nyt.",
+    "example_en": "I am doing it now.",
+    "note": "Time"
+   },
+   {
+    "fi": "tänään",
+    "en": "today",
+    "type": "adverbi",
+    "example_fi": "Tänään on kaunis ilma.",
+    "example_en": "Today the weather is beautiful.",
+    "note": "Time"
+   },
+   {
+    "fi": "eilen",
+    "en": "yesterday",
+    "type": "adverbi",
+    "example_fi": "Kävin eilen kaupassa.",
+    "example_en": "I went to the shop yesterday.",
+    "note": "Time"
+   },
+   {
+    "fi": "huomenna",
+    "en": "tomorrow",
+    "type": "adverbi",
+    "example_fi": "Huomenna menen töihin.",
+    "example_en": "Tomorrow I will go to work.",
+    "note": "Time"
+   },
+   {
+    "fi": "usein",
+    "en": "often",
+    "type": "adverbi",
+    "example_fi": "Käyn usein uimassa.",
+    "example_en": "I often go swimming.",
+    "note": "Time / Frequency"
+   },
+   {
+    "fi": "yleensä",
+    "en": "usually, generally",
+    "type": "adverbi",
+    "example_fi": "Yleensä herään aikaisin.",
+    "example_en": "I usually wake up early.",
+    "note": "Time / Frequency"
+   },
+   {
+    "fi": "joskus",
+    "en": "sometimes",
+    "type": "adverbi",
+    "example_fi": "Joskus juon kahvia illalla.",
+    "example_en": "Sometimes I drink coffee in the evening.",
+    "note": "Time / Frequency"
+   },
+   {
+    "fi": "harvoin",
+    "en": "rarely",
+    "type": "adverbi",
+    "example_fi": "Katson harvoin televisiota.",
+    "example_en": "I rarely watch television.",
+    "note": "Time / Frequency"
+   },
+   {
+    "fi": "aina",
+    "en": "always",
+    "type": "adverbi",
+    "example_fi": "Hän on aina ystävällinen.",
+    "example_en": "He is always friendly.",
+    "note": "Time / Frequency"
+   },
+   {
+    "fi": "koskaan",
+    "en": "ever, never (in neg.)",
+    "type": "adverbi",
+    "example_fi": "En ole koskaan käynyt Lapissa.",
+    "example_en": "I have never been to Lapland.",
+    "note": "Time; used with negation"
+   },
+   {
+    "fi": "heti",
+    "en": "immediately",
+    "type": "adverbi",
+    "example_fi": "Tule heti tänne!",
+    "example_en": "Come here immediately!",
+    "note": "Time"
+   },
+   {
+    "fi": "pian",
+    "en": "soon",
+    "type": "adverbi",
+    "example_fi": "Juna lähtee pian.",
+    "example_en": "The train leaves soon.",
+    "note": "Time"
+   },
+   {
+    "fi": "myöhemmin",
+    "en": "later",
+    "type": "adverbi",
+    "example_fi": "Soitan sinulle myöhemmin.",
+    "example_en": "I will call you later.",
+    "note": "Time"
+   },
+   {
+    "fi": "aikaisin",
+    "en": "early",
+    "type": "adverbi",
+    "example_fi": "Nousin tänään aikaisin.",
+    "example_en": "I got up early today.",
+    "note": "Time"
+   },
+   {
+    "fi": "myöhään",
+    "en": "late",
+    "type": "adverbi",
+    "example_fi": "Menin eilen nukkumaan myöhään.",
+    "example_en": "I went to bed late yesterday.",
+    "note": "Time"
+   },
+   {
+    "fi": "vielä",
+    "en": "still, yet",
+    "type": "adverbi",
+    "example_fi": "Odota vielä hetki.",
+    "example_en": "Wait a moment still.",
+    "note": "Time"
+   },
+   {
+    "fi": "jo",
+    "en": "already",
+    "type": "adverbi",
+    "example_fi": "Olen jo syönyt.",
+    "example_en": "I have already eaten.",
+    "note": "Time"
+   },
+   {
+    "fi": "edelleen",
+    "en": "still, continuing",
+    "type": "adverbi",
+    "example_fi": "Hän asuu edelleen Helsingissä.",
+    "example_en": "He still lives in Helsinki.",
+    "note": "Time"
+   },
+   {
+    "fi": "ensin",
+    "en": "first",
+    "type": "adverbi",
+    "example_fi": "Ensin syömme, sitten lähdemme.",
+    "example_en": "First we eat, then we leave.",
+    "note": "Time / Linking"
+   },
+   {
+    "fi": "sitten",
+    "en": "then, afterwards",
+    "type": "adverbi",
+    "example_fi": "Kävin kaupassa ja sitten kotiin.",
+    "example_en": "I went to the shop and then home.",
+    "note": "Time / Linking"
+   },
+   {
+    "fi": "hyvin",
+    "en": "well, very",
+    "type": "adverbi",
+    "example_fi": "Puhut suomea hyvin.",
+    "example_en": "You speak Finnish well.",
+    "note": "Manner"
+   },
+   {
+    "fi": "huonosti",
+    "en": "badly",
+    "type": "adverbi",
+    "example_fi": "Nukuin viime yönä huonosti.",
+    "example_en": "I slept badly last night.",
+    "note": "Manner"
+   },
+   {
+    "fi": "nopeasti",
+    "en": "quickly",
+    "type": "adverbi",
+    "example_fi": "Hän kävelee nopeasti.",
+    "example_en": "He walks quickly.",
+    "note": "Manner"
+   },
+   {
+    "fi": "hitaasti",
+    "en": "slowly",
+    "type": "adverbi",
+    "example_fi": "Puhu hitaasti, kiitos.",
+    "example_en": "Please speak slowly.",
+    "note": "Manner"
+   },
+   {
+    "fi": "helposti",
+    "en": "easily",
+    "type": "adverbi",
+    "example_fi": "Opin kielet helposti.",
+    "example_en": "I learn languages easily.",
+    "note": "Manner"
+   },
+   {
+    "fi": "vaikeasti",
+    "en": "with difficulty",
+    "type": "adverbi",
+    "example_fi": "Teksti oli vaikeasti ymmärrettävä.",
+    "example_en": "The text was hard to understand.",
+    "note": "Manner"
+   },
+   {
+    "fi": "varmasti",
+    "en": "surely, certainly",
+    "type": "adverbi",
+    "example_fi": "Tulen varmasti juhliin.",
+    "example_en": "I will surely come to the party.",
+    "note": "Manner / Opinion"
+   },
+   {
+    "fi": "ehkä",
+    "en": "maybe, perhaps",
+    "type": "adverbi",
+    "example_fi": "Ehkä sataa huomenna.",
+    "example_en": "Maybe it will rain tomorrow.",
+    "note": "Manner / Opinion"
+   },
+   {
+    "fi": "todella",
+    "en": "really, very",
+    "type": "adverbi",
+    "example_fi": "Ruoka oli todella hyvää.",
+    "example_en": "The food was really good.",
+    "note": "Manner / Opinion"
+   },
+   {
+    "fi": "erityisesti",
+    "en": "especially",
+    "type": "adverbi",
+    "example_fi": "Pidän erityisesti kesästä.",
+    "example_en": "I especially like summer.",
+    "note": "Manner"
+   },
+   {
+    "fi": "yhdessä",
+    "en": "together",
+    "type": "adverbi",
+    "example_fi": "Teimme työn yhdessä.",
+    "example_en": "We did the work together.",
+    "note": "Manner"
+   },
+   {
+    "fi": "yksin",
+    "en": "alone",
+    "type": "adverbi",
+    "example_fi": "Asun yksin.",
+    "example_en": "I live alone.",
+    "note": "Manner"
+   },
+   {
+    "fi": "erikseen",
+    "en": "separately",
+    "type": "adverbi",
+    "example_fi": "Maksamme laskun erikseen.",
+    "example_en": "We pay the bill separately.",
+    "note": "Manner"
+   },
+   {
+    "fi": "kunnolla",
+    "en": "properly",
+    "type": "adverbi",
+    "example_fi": "Syö kunnolla ennen matkaa.",
+    "example_en": "Eat properly before the trip.",
+    "note": "Manner"
+   },
+   {
+    "fi": "tarpeeksi",
+    "en": "enough",
+    "type": "adverbi",
+    "example_fi": "Nukuin tarpeeksi.",
+    "example_en": "I slept enough.",
+    "note": "Manner / Degree"
+   },
+   {
+    "fi": "liikaa",
+    "en": "too much",
+    "type": "adverbi",
+    "example_fi": "Söin liikaa.",
+    "example_en": "I ate too much.",
+    "note": "Manner / Degree"
+   },
+   {
+    "fi": "vähän",
+    "en": "a little, few",
+    "type": "adverbi",
+    "example_fi": "Minulla on vähän aikaa.",
+    "example_en": "I have a little time.",
+    "note": "Manner / Degree"
+   },
+   {
+    "fi": "paljon",
+    "en": "much, a lot",
+    "type": "adverbi",
+    "example_fi": "Hän matkustaa paljon.",
+    "example_en": "He travels a lot.",
+    "note": "Manner / Degree"
+   },
+   {
+    "fi": "melkein",
+    "en": "almost",
+    "type": "adverbi",
+    "example_fi": "Olen melkein valmis.",
+    "example_en": "I am almost ready.",
+    "note": "Manner / Degree"
+   },
+   {
+    "fi": "täällä",
+    "en": "here",
+    "type": "adverbi",
+    "example_fi": "Täällä on kylmä.",
+    "example_en": "It is cold here.",
+    "note": "Place"
+   },
+   {
+    "fi": "siellä",
+    "en": "there",
+    "type": "adverbi",
+    "example_fi": "Siellä oli paljon ihmisiä.",
+    "example_en": "There were many people there.",
+    "note": "Place"
+   },
+   {
+    "fi": "täälläkin",
+    "en": "here too",
+    "type": "adverbi",
+    "example_fi": "Täälläkin sataa.",
+    "example_en": "It rains here too.",
+    "note": "Place"
+   },
+   {
+    "fi": "kaikkialla",
+    "en": "everywhere",
+    "type": "adverbi",
+    "example_fi": "Lunta on kaikkialla.",
+    "example_en": "There is snow everywhere.",
+    "note": "Place"
+   },
+   {
+    "fi": "jossain",
+    "en": "somewhere",
+    "type": "adverbi",
+    "example_fi": "Avaimet ovat jossain täällä.",
+    "example_en": "The keys are somewhere here.",
+    "note": "Place"
+   },
+   {
+    "fi": "missään",
+    "en": "anywhere (in neg.)",
+    "type": "adverbi",
+    "example_fi": "En ole nähnyt häntä missään.",
+    "example_en": "I haven't seen him anywhere.",
+    "note": "Place; used with negation"
+   },
+   {
+    "fi": "muualla",
+    "en": "elsewhere",
+    "type": "adverbi",
+    "example_fi": "Asun nykyään muualla.",
+    "example_en": "I now live elsewhere.",
+    "note": "Place"
+   },
+   {
+    "fi": "ulkona",
+    "en": "outside",
+    "type": "adverbi",
+    "example_fi": "Lapset leikkivät ulkona.",
+    "example_en": "The children play outside.",
+    "note": "Place"
+   },
+   {
+    "fi": "sisällä",
+    "en": "inside",
+    "type": "adverbi",
+    "example_fi": "Talvella olemme paljon sisällä.",
+    "example_en": "In winter we are inside a lot.",
+    "note": "Place"
+   },
+   {
+    "fi": "kotona",
+    "en": "at home",
+    "type": "adverbi",
+    "example_fi": "Olen tänään kotona.",
+    "example_en": "I am at home today.",
+    "note": "Place"
+   },
+   {
+    "fi": "lähellä",
+    "en": "near, nearby",
+    "type": "adverbi",
+    "example_fi": "Kauppa on lähellä.",
+    "example_en": "The shop is nearby.",
+    "note": "Place"
+   },
+   {
+    "fi": "kaukana",
+    "en": "far away",
+    "type": "adverbi",
+    "example_fi": "Työpaikka on kaukana.",
+    "example_en": "The workplace is far away.",
+    "note": "Place"
+   },
+   {
+    "fi": "edessä",
+    "en": "in front",
+    "type": "adverbi",
+    "example_fi": "Auto on talon edessä.",
+    "example_en": "The car is in front of the house.",
+    "note": "Place"
+   },
+   {
+    "fi": "takana",
+    "en": "behind",
+    "type": "adverbi",
+    "example_fi": "Puutarha on talon takana.",
+    "example_en": "The garden is behind the house.",
+    "note": "Place"
+   },
+   {
+    "fi": "vieressä",
+    "en": "beside, next to",
+    "type": "adverbi",
+    "example_fi": "Istun sinun vieressäsi.",
+    "example_en": "I sit next to you.",
+    "note": "Place"
+   },
+   {
+    "fi": "ensiksi",
+    "en": "firstly",
+    "type": "adverbi",
+    "example_fi": "Ensiksi haluan kiittää kaikkia.",
+    "example_en": "Firstly, I want to thank everyone.",
+    "note": "Linking (sequence)"
+   },
+   {
+    "fi": "toiseksi",
+    "en": "secondly",
+    "type": "adverbi",
+    "example_fi": "Toiseksi puhun aikataulusta.",
+    "example_en": "Secondly, I will talk about the schedule.",
+    "note": "Linking (sequence)"
+   },
+   {
+    "fi": "seuraavaksi",
+    "en": "next",
+    "type": "adverbi",
+    "example_fi": "Seuraavaksi käsittelemme budjetin.",
+    "example_en": "Next we deal with the budget.",
+    "note": "Linking (sequence)"
+   },
+   {
+    "fi": "lopuksi",
+    "en": "finally, lastly",
+    "type": "adverbi",
+    "example_fi": "Lopuksi haluan sanoa kiitos.",
+    "example_en": "Finally, I want to say thanks.",
+    "note": "Linking (sequence)"
+   },
+   {
+    "fi": "samalla",
+    "en": "at the same time",
+    "type": "adverbi",
+    "example_fi": "Luen ja kuuntelen samalla musiikkia.",
+    "example_en": "I read and listen to music at the same time.",
+    "note": "Linking"
+   },
+   {
+    "fi": "esimerkiksi",
+    "en": "for example",
+    "type": "adverbi",
+    "example_fi": "Pidän hedelmistä, esimerkiksi omenoista.",
+    "example_en": "I like fruit, for example apples.",
+    "note": "Linking"
+   },
+   {
+    "fi": "lisäksi",
+    "en": "in addition",
+    "type": "adverbi",
+    "example_fi": "Lisäksi tarvitsemme lisää aikaa.",
+    "example_en": "In addition, we need more time.",
+    "note": "Linking"
+   },
+   {
+    "fi": "kuitenkin",
+    "en": "however",
+    "type": "adverbi",
+    "example_fi": "Sää oli huono, kuitenkin lähdimme.",
+    "example_en": "The weather was bad; however, we left.",
+    "note": "Linking (contrast)"
+   },
+   {
+    "fi": "siksi",
+    "en": "therefore, that's why",
+    "type": "adverbi",
+    "example_fi": "Olin väsynyt, siksi jäin kotiin.",
+    "example_en": "I was tired, therefore I stayed home.",
+    "note": "Linking (cause)"
+   },
+   {
+    "fi": "muuten",
+    "en": "otherwise, by the way",
+    "type": "adverbi",
+    "example_fi": "Kiirehdi, muuten myöhästymme.",
+    "example_en": "Hurry, otherwise we will be late.",
+    "note": "Linking"
+   },
+   {
+    "fi": "siis",
+    "en": "so, in other words",
+    "type": "adverbi",
+    "example_fi": "Sataa, siis otan sateenvarjon.",
+    "example_en": "It's raining, so I take an umbrella.",
+    "note": "Linking"
+   },
+   {
+    "fi": "nimittäin",
+    "en": "namely, because",
+    "type": "adverbi",
+    "example_fi": "En tullut, olin nimittäin sairas.",
+    "example_en": "I didn't come; namely, I was sick.",
+    "note": "Linking"
+   },
+   {
+    "fi": "toisaalta",
+    "en": "on the other hand",
+    "type": "adverbi",
+    "example_fi": "Toisaalta se on myös kallista.",
+    "example_en": "On the other hand, it is also expensive.",
+    "note": "Linking (contrast)"
+   },
+   {
+    "fi": "varsinkin",
+    "en": "especially",
+    "type": "adverbi",
+    "example_fi": "Pidän urheilusta, varsinkin jalkapallosta.",
+    "example_en": "I like sports, especially football.",
+    "note": "Linking / Emphasis"
+   },
+   {
+    "fi": "ainakin",
+    "en": "at least",
+    "type": "adverbi",
+    "example_fi": "Ainakin minä yritin.",
+    "example_en": "At least I tried.",
+    "note": "Linking / Emphasis"
+   },
+   {
+    "fi": "mielestäni",
+    "en": "in my opinion",
+    "type": "adverbi",
+    "example_fi": "Mielestäni elokuva oli hyvä.",
+    "example_en": "In my opinion the film was good.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "omasta mielestäni",
+    "en": "in my own opinion",
+    "type": "adverbi",
+    "example_fi": "Omasta mielestäni ehdotus on hyvä.",
+    "example_en": "In my own opinion the proposal is good.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "henkilökohtaisesti",
+    "en": "personally",
+    "type": "adverbi",
+    "example_fi": "Henkilökohtaisesti pidän teestä enemmän.",
+    "example_en": "Personally, I prefer tea.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "tietenkin",
+    "en": "of course",
+    "type": "adverbi",
+    "example_fi": "Tietenkin autan sinua.",
+    "example_en": "Of course I will help you.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "oikeastaan",
+    "en": "actually",
+    "type": "adverbi",
+    "example_fi": "En oikeastaan tiedä.",
+    "example_en": "I don't actually know.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "luultavasti",
+    "en": "probably",
+    "type": "adverbi",
+    "example_fi": "Hän tulee luultavasti myöhässä.",
+    "example_en": "He will probably come late.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "mahdollisesti",
+    "en": "possibly",
+    "type": "adverbi",
+    "example_fi": "Matka siirtyy mahdollisesti ensi viikkoon.",
+    "example_en": "The trip may possibly move to next week.",
+    "note": "Opinion"
+   },
+   {
+    "fi": "päivittäin",
+    "en": "daily",
+    "type": "adverbi",
+    "example_fi": "Luen uutiset päivittäin.",
+    "example_en": "I read the news daily.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "viikoittain",
+    "en": "weekly",
+    "type": "adverbi",
+    "example_fi": "Käymme kaupassa viikoittain.",
+    "example_en": "We go shopping weekly.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "kuukausittain",
+    "en": "monthly",
+    "type": "adverbi",
+    "example_fi": "Maksan vuokran kuukausittain.",
+    "example_en": "I pay the rent monthly.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "vuosittain",
+    "en": "yearly, annually",
+    "type": "adverbi",
+    "example_fi": "Matkustamme vuosittain ulkomaille.",
+    "example_en": "We travel abroad yearly.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "tavallisesti",
+    "en": "usually",
+    "type": "adverbi",
+    "example_fi": "Tavallisesti juon aamulla teetä.",
+    "example_en": "I usually drink tea in the morning.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "säännöllisesti",
+    "en": "regularly",
+    "type": "adverbi",
+    "example_fi": "Urheilen säännöllisesti.",
+    "example_en": "I exercise regularly.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "jatkuvasti",
+    "en": "continuously, constantly",
+    "type": "adverbi",
+    "example_fi": "Puhelin soi jatkuvasti.",
+    "example_en": "The phone rings constantly.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "harvemmin",
+    "en": "less often",
+    "type": "adverbi",
+    "example_fi": "Nykyään käyn harvemmin ulkona.",
+    "example_en": "Nowadays I go out less often.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "useammin",
+    "en": "more often",
+    "type": "adverbi",
+    "example_fi": "Haluaisin nähdä sinua useammin.",
+    "example_en": "I would like to see you more often.",
+    "note": "Frequency"
+   },
+   {
+    "fi": "myös",
+    "en": "also, too",
+    "type": "adverbi",
+    "example_fi": "Minä pidän myös kahvista.",
+    "example_en": "I also like coffee.",
+    "note": "Emphasis / Addition"
+   },
+   {
+    "fi": "jopa",
+    "en": "even",
+    "type": "adverbi",
+    "example_fi": "Hän puhuu jopa viittä kieltä.",
+    "example_en": "He speaks even five languages.",
+    "note": "Emphasis"
+   },
+   {
+    "fi": "vain",
+    "en": "only",
+    "type": "adverbi",
+    "example_fi": "Minulla on vain yksi euro.",
+    "example_en": "I have only one euro.",
+    "note": "Emphasis"
+   },
+   {
+    "fi": "vieläkin",
+    "en": "still (even now)",
+    "type": "adverbi",
+    "example_fi": "Odotan vieläkin vastausta.",
+    "example_en": "I am still waiting for a reply.",
+    "note": "Emphasis"
+   },
+   {
+    "fi": "enää",
+    "en": "any more (in neg.)",
+    "type": "adverbi",
+    "example_fi": "En asu enää täällä.",
+    "example_en": "I don't live here any more.",
+    "note": "Emphasis; used with negation"
+   },
+   {
+    "fi": "lähes",
+    "en": "nearly, almost",
+    "type": "adverbi",
+    "example_fi": "Työ on lähes valmis.",
+    "example_en": "The work is nearly finished.",
+    "note": "Emphasis / Degree"
+   },
+   {
+    "fi": "noin",
+    "en": "about, approximately",
+    "type": "adverbi",
+    "example_fi": "Matka kestää noin tunnin.",
+    "example_en": "The trip takes about an hour.",
+    "note": "Emphasis / Degree"
+   },
+   {
+    "fi": "yhteensä",
+    "en": "in total, altogether",
+    "type": "adverbi",
+    "example_fi": "Se maksoi yhteensä sata euroa.",
+    "example_en": "It cost a hundred euros in total.",
+    "note": "Emphasis"
+   },
+   {
+    "fi": "samalla tavalla",
+    "en": "in the same way",
+    "type": "adverbi",
+    "example_fi": "Teen sen samalla tavalla kuin sinä.",
+    "example_en": "I do it in the same way as you.",
+    "note": "Emphasis"
+   }
+  ]
+ },
+ {
+  "category": "YKI – Luonteenpiirteet",
+  "category_en": "Personality & character",
+  "cards": [
+   {
+    "fi": "ystävällinen",
+    "en": "friendly",
+    "type": "adjektiivi",
+    "example_fi": "Naapurini on hyvin ystävällinen.",
+    "example_en": "My neighbour is very friendly.",
+    "note": "Genitive: ystävällisen. Antonym: epäystävällinen."
+   },
+   {
+    "fi": "kiltti",
+    "en": "kind, good-natured",
+    "type": "adjektiivi",
+    "example_fi": "Hän on kiltti kaikille.",
+    "example_en": "He is kind to everyone.",
+    "note": "Genitive: kiltin. Synonym: hyväsydäminen."
+   },
+   {
+    "fi": "mukava",
+    "en": "nice, pleasant",
+    "type": "adjektiivi",
+    "example_fi": "Uusi kollega on mukava.",
+    "example_en": "The new colleague is nice.",
+    "note": "Genitive: mukavan. Synonym: kiva."
+   },
+   {
+    "fi": "ahkera",
+    "en": "hard-working, diligent",
+    "type": "adjektiivi",
+    "example_fi": "Hän on ahkera opiskelija.",
+    "example_en": "She is a hard-working student.",
+    "note": "Genitive: ahkeran. Antonym: laiska."
+   },
+   {
+    "fi": "rehellinen",
+    "en": "honest",
+    "type": "adjektiivi",
+    "example_fi": "Ole aina rehellinen.",
+    "example_en": "Always be honest.",
+    "note": "Genitive: rehellisen. Antonym: epärehellinen."
+   },
+   {
+    "fi": "luotettava",
+    "en": "reliable, trustworthy",
+    "type": "adjektiivi",
+    "example_fi": "Hän on luotettava työntekijä.",
+    "example_en": "He is a reliable employee.",
+    "note": "Genitive: luotettavan. Antonym: epäluotettava."
+   },
+   {
+    "fi": "kohtelias",
+    "en": "polite",
+    "type": "adjektiivi",
+    "example_fi": "Asiakas oli kohtelias.",
+    "example_en": "The customer was polite.",
+    "note": "Genitive: kohteliaan. Antonym: epäkohtelias."
+   },
+   {
+    "fi": "avulias",
+    "en": "helpful",
+    "type": "adjektiivi",
+    "example_fi": "Myyjä oli erittäin avulias.",
+    "example_en": "The salesperson was very helpful.",
+    "note": "Genitive: avuliaan. Synonym: auttavainen."
+   },
+   {
+    "fi": "aktiivinen",
+    "en": "active",
+    "type": "adjektiivi",
+    "example_fi": "Hän on aktiivinen urheilussa.",
+    "example_en": "He is active in sports.",
+    "note": "Genitive: aktiivisen. Antonym: passiivinen."
+   },
+   {
+    "fi": "sosiaalinen",
+    "en": "sociable, social",
+    "type": "adjektiivi",
+    "example_fi": "Lapsi on hyvin sosiaalinen.",
+    "example_en": "The child is very sociable.",
+    "note": "Genitive: sosiaalisen. Antonym: epäsosiaalinen."
+   },
+   {
+    "fi": "ujo",
+    "en": "shy",
+    "type": "adjektiivi",
+    "example_fi": "Olin nuorena ujo.",
+    "example_en": "I was shy when young.",
+    "note": "Genitive: ujon. Antonym: rohkea."
+   },
+   {
+    "fi": "rohkea",
+    "en": "brave, bold",
+    "type": "adjektiivi",
+    "example_fi": "Hän on rohkea ja reilu.",
+    "example_en": "He is brave and fair.",
+    "note": "Genitive: rohkean. Antonym: arka."
+   },
+   {
+    "fi": "rauhallinen",
+    "en": "calm",
+    "type": "adjektiivi",
+    "example_fi": "Opettaja pysyi rauhallisena.",
+    "example_en": "The teacher stayed calm.",
+    "note": "Genitive: rauhallisen. Antonym: levoton."
+   },
+   {
+    "fi": "iloinen",
+    "en": "happy, cheerful",
+    "type": "adjektiivi",
+    "example_fi": "Hän on aina iloinen.",
+    "example_en": "She is always cheerful.",
+    "note": "Genitive: iloisen. Antonym: surullinen."
+   },
+   {
+    "fi": "surullinen",
+    "en": "sad",
+    "type": "adjektiivi",
+    "example_fi": "Elokuva oli surullinen.",
+    "example_en": "The film was sad.",
+    "note": "Genitive: surullisen. Antonym: iloinen."
+   },
+   {
+    "fi": "ystävällismielinen",
+    "en": "well-meaning, amicable",
+    "type": "adjektiivi",
+    "example_fi": "Keskustelu oli ystävällismielinen.",
+    "example_en": "The conversation was amicable.",
+    "note": "Genitive: ystävällismielisen. Syn: hyväntahtoinen."
+   },
+   {
+    "fi": "vakava",
+    "en": "serious",
+    "type": "adjektiivi",
+    "example_fi": "Hän on vakava ihminen.",
+    "example_en": "He is a serious person.",
+    "note": "Genitive: vakavan. Antonym: kevytmielinen."
+   },
+   {
+    "fi": "laiska",
+    "en": "lazy",
+    "type": "adjektiivi",
+    "example_fi": "Kissa on laiska ja unelias.",
+    "example_en": "The cat is lazy and sleepy.",
+    "note": "Genitive: laiskan. Antonym: ahkera."
+   },
+   {
+    "fi": "vihainen",
+    "en": "angry",
+    "type": "adjektiivi",
+    "example_fi": "Hän oli vihainen minulle.",
+    "example_en": "He was angry with me.",
+    "note": "Genitive: vihaisen. Antonym: tyytyväinen."
+   }
+  ]
+ }
+]

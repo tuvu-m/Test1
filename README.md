@@ -3,7 +3,13 @@
 A category-based Finnish–English flashcard game inspired by [ykimock.fi](https://ykimock.fi)
 and the vocabulary themes of the **Suomen mestari** textbook series (YKI / beginner–intermediate level).
 
-**~1075 cards** across 25 topics. Every card hides its explanation until you flip it:
+**~2150 cards** across 38 topics — a beginner core (Suomen mestari themes) plus
+YKI-level sets built from the user's own study materials (phrases, sentence
+patterns, common questions, reactions, and noun/adjective/verb case-form decks)
+and two grammar drills for the plural cases (partitive/genitive plural, built
+from the example words on [uusikielemme.fi](https://uusikielemme.fi/); the
+captured reference pages are saved as PDFs in `docs/grammar/`). Every card hides
+its explanation until you flip it:
 
 - **Sanaluokka** — word type (substantiivi, verbi, adjektiivi, …)
 - **Esimerkkilause** — an example sentence in Finnish, with English translation

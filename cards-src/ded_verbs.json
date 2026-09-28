@@ -1,0 +1,784 @@
+[
+ {
+  "category": "YKI – Verbit (minä-muoto)",
+  "category_en": "Verbs: I-form present & past (100)",
+  "cards": [
+   {
+    "fi": "olla",
+    "en": "to be",
+    "type": "verbi",
+    "example_fi": "Minä olen suomalainen.",
+    "example_en": "I am Finnish.",
+    "note": "Preesens: minä olen · Imperfekti: minä olin · Verbityyppi 3"
+   },
+   {
+    "fi": "tehdä",
+    "en": "to do",
+    "type": "verbi",
+    "example_fi": "Minä teen läksyt iltaisin.",
+    "example_en": "I do homework in the evenings.",
+    "note": "Preesens: minä teen · Imperfekti: minä tein · Verbityyppi 2"
+   },
+   {
+    "fi": "nähdä",
+    "en": "to see",
+    "type": "verbi",
+    "example_fi": "Minä näen meren ikkunasta.",
+    "example_en": "I see the sea from the window.",
+    "note": "Preesens: minä näen · Imperfekti: minä näin · Verbityyppi 2"
+   },
+   {
+    "fi": "saada",
+    "en": "to get",
+    "type": "verbi",
+    "example_fi": "Minä saan lahjan syntymäpäivänä.",
+    "example_en": "I get a gift on my birthday.",
+    "note": "Preesens: minä saan · Imperfekti: minä sain · Verbityyppi 2"
+   },
+   {
+    "fi": "tietää",
+    "en": "to know",
+    "type": "verbi",
+    "example_fi": "Minä tiedän oikean vastauksen.",
+    "example_en": "I know the right answer.",
+    "note": "Preesens: minä tiedän · Imperfekti: minä tiesin · Verbityyppi 1"
+   },
+   {
+    "fi": "mennä",
+    "en": "to go",
+    "type": "verbi",
+    "example_fi": "Minä menen töihin bussilla.",
+    "example_en": "I go to work by bus.",
+    "note": "Preesens: minä menen · Imperfekti: minä menin · Verbityyppi 3"
+   },
+   {
+    "fi": "tulla",
+    "en": "to come",
+    "type": "verbi",
+    "example_fi": "Minä tulen kotiin kuudelta.",
+    "example_en": "I come home at six.",
+    "note": "Preesens: minä tulen · Imperfekti: minä tulin · Verbityyppi 3"
+   },
+   {
+    "fi": "puhua",
+    "en": "to speak",
+    "type": "verbi",
+    "example_fi": "Minä puhun vähän suomea.",
+    "example_en": "I speak a little Finnish.",
+    "note": "Preesens: minä puhun · Imperfekti: minä puhuin · Verbityyppi 1"
+   },
+   {
+    "fi": "ottaa",
+    "en": "to take",
+    "type": "verbi",
+    "example_fi": "Minä otan kupin kahvia.",
+    "example_en": "I take a cup of coffee.",
+    "note": "Preesens: minä otan · Imperfekti: minä otin · Verbityyppi 1"
+   },
+   {
+    "fi": "antaa",
+    "en": "to give",
+    "type": "verbi",
+    "example_fi": "Minä annan sinulle kirjan.",
+    "example_en": "I give you a book.",
+    "note": "Preesens: minä annan · Imperfekti: minä annoin · Verbityyppi 1"
+   },
+   {
+    "fi": "kuulla",
+    "en": "to hear",
+    "type": "verbi",
+    "example_fi": "Minä kuulen musiikkia naapurista.",
+    "example_en": "I hear music from the neighbour.",
+    "note": "Preesens: minä kuulen · Imperfekti: minä kuulin · Verbityyppi 3"
+   },
+   {
+    "fi": "ajatella",
+    "en": "to think",
+    "type": "verbi",
+    "example_fi": "Minä ajattelen usein lomaa.",
+    "example_en": "I often think about a holiday.",
+    "note": "Preesens: minä ajattelen · Imperfekti: minä ajattelin · Verbityyppi 3"
+   },
+   {
+    "fi": "syödä",
+    "en": "to eat",
+    "type": "verbi",
+    "example_fi": "Minä syön aamiaista keittiössä.",
+    "example_en": "I eat breakfast in the kitchen.",
+    "note": "Preesens: minä syön · Imperfekti: minä söin · Verbityyppi 2"
+   },
+   {
+    "fi": "juoda",
+    "en": "to drink",
+    "type": "verbi",
+    "example_fi": "Minä juon vettä aamulla.",
+    "example_en": "I drink water in the morning.",
+    "note": "Preesens: minä juon · Imperfekti: minä join · Verbityyppi 2"
+   },
+   {
+    "fi": "nukkua",
+    "en": "to sleep",
+    "type": "verbi",
+    "example_fi": "Minä nukun kahdeksan tuntia yössä.",
+    "example_en": "I sleep eight hours a night.",
+    "note": "Preesens: minä nukun · Imperfekti: minä nukuin · Verbityyppi 1"
+   },
+   {
+    "fi": "tuntea",
+    "en": "to feel",
+    "type": "verbi",
+    "example_fi": "Minä tunnen olevani väsynyt.",
+    "example_en": "I feel that I am tired.",
+    "note": "Preesens: minä tunnen · Imperfekti: minä tunsin · Verbityyppi 1"
+   },
+   {
+    "fi": "istua",
+    "en": "to sit",
+    "type": "verbi",
+    "example_fi": "Minä istun sohvalla ja luen.",
+    "example_en": "I sit on the sofa and read.",
+    "note": "Preesens: minä istun · Imperfekti: minä istuin · Verbityyppi 1"
+   },
+   {
+    "fi": "seisoa",
+    "en": "to stand",
+    "type": "verbi",
+    "example_fi": "Minä seison jonossa kaupassa.",
+    "example_en": "I stand in a queue at the shop.",
+    "note": "Preesens: minä seison · Imperfekti: minä seisoin · Verbityyppi 1"
+   },
+   {
+    "fi": "löytää",
+    "en": "to find",
+    "type": "verbi",
+    "example_fi": "Minä löydän avaimet laukusta.",
+    "example_en": "I find the keys in the bag.",
+    "note": "Preesens: minä löydän · Imperfekti: minä löysin · Verbityyppi 1"
+   },
+   {
+    "fi": "katsoa",
+    "en": "to look",
+    "type": "verbi",
+    "example_fi": "Minä katson televisiota illalla.",
+    "example_en": "I watch television in the evening.",
+    "note": "Preesens: minä katson · Imperfekti: minä katsoin · Verbityyppi 1"
+   },
+   {
+    "fi": "lähteä",
+    "en": "to leave",
+    "type": "verbi",
+    "example_fi": "Minä lähden kouluun aikaisin.",
+    "example_en": "I leave for school early.",
+    "note": "Preesens: minä lähden · Imperfekti: minä lähdin · Verbityyppi 1"
+   },
+   {
+    "fi": "tavata",
+    "en": "to meet",
+    "type": "verbi",
+    "example_fi": "Minä tapaan ystäväni kahvilassa.",
+    "example_en": "I meet my friend at the café.",
+    "note": "Preesens: minä tapaan · Imperfekti: minä tapasin · Verbityyppi 4"
+   },
+   {
+    "fi": "rakastaa",
+    "en": "to love",
+    "type": "verbi",
+    "example_fi": "Minä rakastan suomalaista luontoa.",
+    "example_en": "I love Finnish nature.",
+    "note": "Preesens: minä rakastan · Imperfekti: minä rakastin · Verbityyppi 1"
+   },
+   {
+    "fi": "pelata",
+    "en": "to play",
+    "type": "verbi",
+    "example_fi": "Minä pelaan jalkapalloa lauantaisin.",
+    "example_en": "I play football on Saturdays.",
+    "note": "Preesens: minä pelaan · Imperfekti: minä pelasin · Verbityyppi 4"
+   },
+   {
+    "fi": "kirjoittaa",
+    "en": "to write",
+    "type": "verbi",
+    "example_fi": "Minä kirjoitan kirjeen mummolle.",
+    "example_en": "I write a letter to grandma.",
+    "note": "Preesens: minä kirjoitan · Imperfekti: minä kirjoitin · Verbityyppi 1"
+   },
+   {
+    "fi": "lukea",
+    "en": "to read",
+    "type": "verbi",
+    "example_fi": "Minä luen sanomalehden aamulla.",
+    "example_en": "I read the newspaper in the morning.",
+    "note": "Preesens: minä luen · Imperfekti: minä luin · Verbityyppi 1"
+   },
+   {
+    "fi": "ymmärtää",
+    "en": "to understand",
+    "type": "verbi",
+    "example_fi": "Minä ymmärrän opettajaa hyvin.",
+    "example_en": "I understand the teacher well.",
+    "note": "Preesens: minä ymmärrän · Imperfekti: minä ymmärsin · Verbityyppi 1"
+   },
+   {
+    "fi": "kuunnella",
+    "en": "to listen",
+    "type": "verbi",
+    "example_fi": "Minä kuuntelen radiota autossa.",
+    "example_en": "I listen to the radio in the car.",
+    "note": "Preesens: minä kuuntelen · Imperfekti: minä kuuntelin · Verbityyppi 3"
+   },
+   {
+    "fi": "myydä",
+    "en": "to sell",
+    "type": "verbi",
+    "example_fi": "Minä myyn vanhan polkupyörän.",
+    "example_en": "I sell the old bicycle.",
+    "note": "Preesens: minä myyn · Imperfekti: minä myin · Verbityyppi 2"
+   },
+   {
+    "fi": "ostaa",
+    "en": "to buy",
+    "type": "verbi",
+    "example_fi": "Minä ostan leipää kaupasta.",
+    "example_en": "I buy bread from the shop.",
+    "note": "Preesens: minä ostan · Imperfekti: minä ostin · Verbityyppi 1"
+   },
+   {
+    "fi": "työskennellä",
+    "en": "to work",
+    "type": "verbi",
+    "example_fi": "Minä työskentelen sairaalassa.",
+    "example_en": "I work at a hospital.",
+    "note": "Preesens: minä työskentelen · Imperfekti: minä työskentelin · Verbityyppi 3"
+   },
+   {
+    "fi": "yrittää",
+    "en": "to try",
+    "type": "verbi",
+    "example_fi": "Minä yritän oppia uutta kieltä.",
+    "example_en": "I try to learn a new language.",
+    "note": "Preesens: minä yritän · Imperfekti: minä yritin · Verbityyppi 1"
+   },
+   {
+    "fi": "pysyä",
+    "en": "to stay",
+    "type": "verbi",
+    "example_fi": "Minä pysyn kotona sateella.",
+    "example_en": "I stay at home when it rains.",
+    "note": "Preesens: minä pysyn · Imperfekti: minä pysyin · Verbityyppi 1"
+   },
+   {
+    "fi": "asettaa",
+    "en": "to set",
+    "type": "verbi",
+    "example_fi": "Minä asetan kellon soimaan seitsemäksi.",
+    "example_en": "I set the alarm for seven.",
+    "note": "Preesens: minä asetan · Imperfekti: minä asetin · Verbityyppi 1"
+   },
+   {
+    "fi": "kertoa",
+    "en": "to tell",
+    "type": "verbi",
+    "example_fi": "Minä kerron sinulle tarinan.",
+    "example_en": "I tell you a story.",
+    "note": "Preesens: minä kerron · Imperfekti: minä kerroin · Verbityyppi 1"
+   },
+   {
+    "fi": "näyttää",
+    "en": "to show",
+    "type": "verbi",
+    "example_fi": "Minä näytän sinulle kuvat.",
+    "example_en": "I show you the pictures.",
+    "note": "Preesens: minä näytän · Imperfekti: minä näytin · Verbityyppi 1"
+   },
+   {
+    "fi": "käyttää",
+    "en": "to use",
+    "type": "verbi",
+    "example_fi": "Minä käytän tietokonetta joka päivä.",
+    "example_en": "I use the computer every day.",
+    "note": "Preesens: minä käytän · Imperfekti: minä käytin · Verbityyppi 1"
+   },
+   {
+    "fi": "valita",
+    "en": "to choose",
+    "type": "verbi",
+    "example_fi": "Minä valitsen punaisen takin.",
+    "example_en": "I choose the red coat.",
+    "note": "Preesens: minä valitsen · Imperfekti: minä valitsin · Verbityyppi 5"
+   },
+   {
+    "fi": "käydä",
+    "en": "to visit",
+    "type": "verbi",
+    "example_fi": "Minä käyn kaupassa iltapäivällä.",
+    "example_en": "I visit the shop in the afternoon.",
+    "note": "Preesens: minä käyn · Imperfekti: minä kävin · Verbityyppi 2"
+   },
+   {
+    "fi": "soittaa",
+    "en": "to call",
+    "type": "verbi",
+    "example_fi": "Minä soitan äidille joka viikko.",
+    "example_en": "I call my mother every week.",
+    "note": "Preesens: minä soitan · Imperfekti: minä soitin · Verbityyppi 1"
+   },
+   {
+    "fi": "vastata",
+    "en": "to answer",
+    "type": "verbi",
+    "example_fi": "Minä vastaan kysymykseen nopeasti.",
+    "example_en": "I answer the question quickly.",
+    "note": "Preesens: minä vastaan · Imperfekti: minä vastasin · Verbityyppi 4"
+   },
+   {
+    "fi": "kysyä",
+    "en": "to ask",
+    "type": "verbi",
+    "example_fi": "Minä kysyn neuvoa opettajalta.",
+    "example_en": "I ask the teacher for advice.",
+    "note": "Preesens: minä kysyn · Imperfekti: minä kysyin · Verbityyppi 1"
+   },
+   {
+    "fi": "kuvailla",
+    "en": "to describe",
+    "type": "verbi",
+    "example_fi": "Minä kuvailen matkani ystävälle.",
+    "example_en": "I describe my trip to a friend.",
+    "note": "Preesens: minä kuvailen · Imperfekti: minä kuvailin · Verbityyppi 3"
+   },
+   {
+    "fi": "muistaa",
+    "en": "to remember",
+    "type": "verbi",
+    "example_fi": "Minä muistan hänen nimensä.",
+    "example_en": "I remember his name.",
+    "note": "Preesens: minä muistan · Imperfekti: minä muistin · Verbityyppi 1"
+   },
+   {
+    "fi": "unohtaa",
+    "en": "to forget",
+    "type": "verbi",
+    "example_fi": "Minä unohdan usein avaimet.",
+    "example_en": "I often forget the keys.",
+    "note": "Preesens: minä unohdan · Imperfekti: minä unohdin · Verbityyppi 1"
+   },
+   {
+    "fi": "opiskella",
+    "en": "to study",
+    "type": "verbi",
+    "example_fi": "Minä opiskelen suomea yliopistossa.",
+    "example_en": "I study Finnish at the university.",
+    "note": "Preesens: minä opiskelen · Imperfekti: minä opiskelin · Verbityyppi 3"
+   },
+   {
+    "fi": "tanssia",
+    "en": "to dance",
+    "type": "verbi",
+    "example_fi": "Minä tanssin mielelläni juhlissa.",
+    "example_en": "I like to dance at parties.",
+    "note": "Preesens: minä tanssin · Imperfekti: minä tanssin · Verbityyppi 1"
+   },
+   {
+    "fi": "laulaa",
+    "en": "to sing",
+    "type": "verbi",
+    "example_fi": "Minä laulan suihkussa aamulla.",
+    "example_en": "I sing in the shower in the morning.",
+    "note": "Preesens: minä laulan · Imperfekti: minä lauloin · Verbityyppi 1"
+   },
+   {
+    "fi": "maalata",
+    "en": "to paint",
+    "type": "verbi",
+    "example_fi": "Minä maalaan seinät valkoisiksi.",
+    "example_en": "I paint the walls white.",
+    "note": "Preesens: minä maalaan · Imperfekti: minä maalasin · Verbityyppi 4"
+   },
+   {
+    "fi": "harjoitella",
+    "en": "to practice",
+    "type": "verbi",
+    "example_fi": "Minä harjoittelen pianonsoittoa päivittäin.",
+    "example_en": "I practise the piano daily.",
+    "note": "Preesens: minä harjoittelen · Imperfekti: minä harjoittelin · Verbityyppi 3"
+   },
+   {
+    "fi": "lopettaa",
+    "en": "to stop",
+    "type": "verbi",
+    "example_fi": "Minä lopetan työn kello viisi.",
+    "example_en": "I stop work at five o'clock.",
+    "note": "Preesens: minä lopetan · Imperfekti: minä lopetin · Verbityyppi 1"
+   },
+   {
+    "fi": "aukoa",
+    "en": "to open (repeatedly)",
+    "type": "verbi",
+    "example_fi": "Minä auon lahjapaketteja innoissani.",
+    "example_en": "I open the gift packages excitedly.",
+    "note": "Preesens: minä auon · Imperfekti: minä auoin · Verbityyppi 1"
+   },
+   {
+    "fi": "sulkea",
+    "en": "to close",
+    "type": "verbi",
+    "example_fi": "Minä suljen ikkunan illalla.",
+    "example_en": "I close the window in the evening.",
+    "note": "Preesens: minä suljen · Imperfekti: minä suljin · Verbityyppi 1"
+   },
+   {
+    "fi": "sanoa",
+    "en": "to say",
+    "type": "verbi",
+    "example_fi": "Minä sanon aina totuuden.",
+    "example_en": "I always say the truth.",
+    "note": "Preesens: minä sanon · Imperfekti: minä sanoin · Verbityyppi 1"
+   },
+   {
+    "fi": "selittää",
+    "en": "to explain",
+    "type": "verbi",
+    "example_fi": "Minä selitän tehtävän uudelleen.",
+    "example_en": "I explain the task again.",
+    "note": "Preesens: minä selitän · Imperfekti: minä selitin · Verbityyppi 1"
+   },
+   {
+    "fi": "kävellä",
+    "en": "to walk",
+    "type": "verbi",
+    "example_fi": "Minä kävelen puistossa aamuisin.",
+    "example_en": "I walk in the park in the mornings.",
+    "note": "Preesens: minä kävelen · Imperfekti: minä kävelin · Verbityyppi 3"
+   },
+   {
+    "fi": "juosta",
+    "en": "to run",
+    "type": "verbi",
+    "example_fi": "Minä juoksen kymmenen kilometriä.",
+    "example_en": "I run ten kilometres.",
+    "note": "Preesens: minä juoksen · Imperfekti: minä juoksin · Verbityyppi 3"
+   },
+   {
+    "fi": "uida",
+    "en": "to swim",
+    "type": "verbi",
+    "example_fi": "Minä uin järvessä kesällä.",
+    "example_en": "I swim in the lake in summer.",
+    "note": "Preesens: minä uin · Imperfekti: minä uin · Verbityyppi 2"
+   },
+   {
+    "fi": "ajaa",
+    "en": "to drive",
+    "type": "verbi",
+    "example_fi": "Minä ajan autoa varovasti.",
+    "example_en": "I drive the car carefully.",
+    "note": "Preesens: minä ajan · Imperfekti: minä ajoin · Verbityyppi 1"
+   },
+   {
+    "fi": "lentää",
+    "en": "to fly",
+    "type": "verbi",
+    "example_fi": "Minä lennän Helsinkiin huomenna.",
+    "example_en": "I fly to Helsinki tomorrow.",
+    "note": "Preesens: minä lennän · Imperfekti: minä lensin · Verbityyppi 1"
+   },
+   {
+    "fi": "rakentaa",
+    "en": "to build",
+    "type": "verbi",
+    "example_fi": "Minä rakennan mökin järven rantaan.",
+    "example_en": "I build a cabin by the lake.",
+    "note": "Preesens: minä rakennan · Imperfekti: minä rakensin · Verbityyppi 1"
+   },
+   {
+    "fi": "korjata",
+    "en": "to fix",
+    "type": "verbi",
+    "example_fi": "Minä korjaan rikkinäisen pyörän.",
+    "example_en": "I fix the broken bicycle.",
+    "note": "Preesens: minä korjaan · Imperfekti: minä korjasin · Verbityyppi 4"
+   },
+   {
+    "fi": "vaihtaa",
+    "en": "to change",
+    "type": "verbi",
+    "example_fi": "Minä vaihdan rahaa pankissa.",
+    "example_en": "I change money at the bank.",
+    "note": "Preesens: minä vaihdan · Imperfekti: minä vaihdoin · Verbityyppi 1"
+   },
+   {
+    "fi": "puhdistaa",
+    "en": "to clean",
+    "type": "verbi",
+    "example_fi": "Minä puhdistan ikkunat keväällä.",
+    "example_en": "I clean the windows in spring.",
+    "note": "Preesens: minä puhdistan · Imperfekti: minä puhdistin · Verbityyppi 1"
+   },
+   {
+    "fi": "kuivata",
+    "en": "to dry",
+    "type": "verbi",
+    "example_fi": "Minä kuivaan hiukset pyyhkeellä.",
+    "example_en": "I dry my hair with a towel.",
+    "note": "Preesens: minä kuivaan · Imperfekti: minä kuivasin · Verbityyppi 4"
+   },
+   {
+    "fi": "auttaa",
+    "en": "to help",
+    "type": "verbi",
+    "example_fi": "Minä autan naapuria muutossa.",
+    "example_en": "I help the neighbour with the move.",
+    "note": "Preesens: minä autan · Imperfekti: minä autoin · Verbityyppi 1"
+   },
+   {
+    "fi": "luvata",
+    "en": "to promise",
+    "type": "verbi",
+    "example_fi": "Minä lupaan tulla ajoissa.",
+    "example_en": "I promise to come on time.",
+    "note": "Preesens: minä lupaan · Imperfekti: minä lupasin · Verbityyppi 4"
+   },
+   {
+    "fi": "toivoa",
+    "en": "to hope",
+    "type": "verbi",
+    "example_fi": "Minä toivon hyvää säätä lomalle.",
+    "example_en": "I hope for good weather for the holiday.",
+    "note": "Preesens: minä toivon · Imperfekti: minä toivoin · Verbityyppi 1"
+   },
+   {
+    "fi": "pelätä",
+    "en": "to be afraid/fear",
+    "type": "verbi",
+    "example_fi": "Minä pelkään pimeää metsää.",
+    "example_en": "I am afraid of the dark forest.",
+    "note": "Preesens: minä pelkään · Imperfekti: minä pelkäsin · Verbityyppi 4"
+   },
+   {
+    "fi": "ilmoittaa",
+    "en": "to inform",
+    "type": "verbi",
+    "example_fi": "Minä ilmoitan tulostani etukäteen.",
+    "example_en": "I inform of my arrival in advance.",
+    "note": "Preesens: minä ilmoitan · Imperfekti: minä ilmoitin · Verbityyppi 1"
+   },
+   {
+    "fi": "järjestää",
+    "en": "to arrange",
+    "type": "verbi",
+    "example_fi": "Minä järjestän juhlat lauantaina.",
+    "example_en": "I arrange a party on Saturday.",
+    "note": "Preesens: minä järjestän · Imperfekti: minä järjestin · Verbityyppi 1"
+   },
+   {
+    "fi": "tarkistaa",
+    "en": "to check",
+    "type": "verbi",
+    "example_fi": "Minä tarkistan sähköpostini aamulla.",
+    "example_en": "I check my email in the morning.",
+    "note": "Preesens: minä tarkistan · Imperfekti: minä tarkistin · Verbityyppi 1"
+   },
+   {
+    "fi": "välttää",
+    "en": "to avoid",
+    "type": "verbi",
+    "example_fi": "Minä vältän ruuhka-aikaa.",
+    "example_en": "I avoid the rush hour.",
+    "note": "Preesens: minä vältän · Imperfekti: minä vältin · Verbityyppi 1"
+   },
+   {
+    "fi": "varata",
+    "en": "to book",
+    "type": "verbi",
+    "example_fi": "Minä varaan pöydän ravintolasta.",
+    "example_en": "I book a table at the restaurant.",
+    "note": "Preesens: minä varaan · Imperfekti: minä varasin · Verbityyppi 4"
+   },
+   {
+    "fi": "vierailla",
+    "en": "to visit",
+    "type": "verbi",
+    "example_fi": "Minä vierailen isovanhempien luona.",
+    "example_en": "I visit my grandparents.",
+    "note": "Preesens: minä vierailen · Imperfekti: minä vierailin · Verbityyppi 3"
+   },
+   {
+    "fi": "liittyä",
+    "en": "to join/be related",
+    "type": "verbi",
+    "example_fi": "Minä liityn uuteen urheiluseuraan.",
+    "example_en": "I join a new sports club.",
+    "note": "Preesens: minä liityn · Imperfekti: minä liityin · Verbityyppi 1"
+   },
+   {
+    "fi": "osallistua",
+    "en": "to participate",
+    "type": "verbi",
+    "example_fi": "Minä osallistun kokoukseen etänä.",
+    "example_en": "I participate in the meeting remotely.",
+    "note": "Preesens: minä osallistun · Imperfekti: minä osallistuin · Verbityyppi 1"
+   },
+   {
+    "fi": "viedä",
+    "en": "to take/bring/export",
+    "type": "verbi",
+    "example_fi": "Minä vien roskat ulos joka ilta.",
+    "example_en": "I take the rubbish out every evening.",
+    "note": "Preesens: minä vien · Imperfekti: minä vein · Verbityyppi 2"
+   },
+   {
+    "fi": "tuoda",
+    "en": "to bring",
+    "type": "verbi",
+    "example_fi": "Minä tuon kakun juhliin.",
+    "example_en": "I bring a cake to the party.",
+    "note": "Preesens: minä tuon · Imperfekti: minä toin · Verbityyppi 2"
+   },
+   {
+    "fi": "lähettää",
+    "en": "to send",
+    "type": "verbi",
+    "example_fi": "Minä lähetän paketin postissa.",
+    "example_en": "I send the parcel by post.",
+    "note": "Preesens: minä lähetän · Imperfekti: minä lähetin · Verbityyppi 1"
+   },
+   {
+    "fi": "maksaa",
+    "en": "to pay",
+    "type": "verbi",
+    "example_fi": "Minä maksan laskun verkossa.",
+    "example_en": "I pay the bill online.",
+    "note": "Preesens: minä maksan · Imperfekti: minä maksoin · Verbityyppi 1"
+   },
+   {
+    "fi": "ansaita",
+    "en": "to earn",
+    "type": "verbi",
+    "example_fi": "Minä ansaitsen palkkaa työstäni.",
+    "example_en": "I earn a salary from my work.",
+    "note": "Preesens: minä ansaitsen · Imperfekti: minä ansaitsin · Verbityyppi 5"
+   },
+   {
+    "fi": "kehittää",
+    "en": "to develop",
+    "type": "verbi",
+    "example_fi": "Minä kehitän uutta sovellusta.",
+    "example_en": "I develop a new application.",
+    "note": "Preesens: minä kehitän · Imperfekti: minä kehitin · Verbityyppi 1"
+   },
+   {
+    "fi": "säästää",
+    "en": "to save",
+    "type": "verbi",
+    "example_fi": "Minä säästän rahaa matkaa varten.",
+    "example_en": "I save money for a trip.",
+    "note": "Preesens: minä säästän · Imperfekti: minä säästin · Verbityyppi 1"
+   },
+   {
+    "fi": "tukea",
+    "en": "to support",
+    "type": "verbi",
+    "example_fi": "Minä tuen ystävääni vaikeina aikoina.",
+    "example_en": "I support my friend in hard times.",
+    "note": "Preesens: minä tuen · Imperfekti: minä tuin · Verbityyppi 1"
+   },
+   {
+    "fi": "kunnioittaa",
+    "en": "to respect",
+    "type": "verbi",
+    "example_fi": "Minä kunnioitan vanhempiani.",
+    "example_en": "I respect my parents.",
+    "note": "Preesens: minä kunnioitan · Imperfekti: minä kunnioitin · Verbityyppi 1"
+   },
+   {
+    "fi": "arvostaa",
+    "en": "to appreciate",
+    "type": "verbi",
+    "example_fi": "Minä arvostan rehellisyyttä.",
+    "example_en": "I appreciate honesty.",
+    "note": "Preesens: minä arvostan · Imperfekti: minä arvostin · Verbityyppi 1"
+   },
+   {
+    "fi": "käsittää",
+    "en": "to comprise/understand",
+    "type": "verbi",
+    "example_fi": "Minä käsitän nyt ongelman.",
+    "example_en": "I now understand the problem.",
+    "note": "Preesens: minä käsitän · Imperfekti: minä käsitin · Verbityyppi 1"
+   },
+   {
+    "fi": "vahvistaa",
+    "en": "to confirm",
+    "type": "verbi",
+    "example_fi": "Minä vahvistan varauksen sähköpostilla.",
+    "example_en": "I confirm the booking by email.",
+    "note": "Preesens: minä vahvistan · Imperfekti: minä vahvistin · Verbityyppi 1"
+   },
+   {
+    "fi": "haaveilla",
+    "en": "to dream",
+    "type": "verbi",
+    "example_fi": "Minä haaveilen matkasta Lappiin.",
+    "example_en": "I dream of a trip to Lapland.",
+    "note": "Preesens: minä haaveilen · Imperfekti: minä haaveilin · Verbityyppi 3"
+   },
+   {
+    "fi": "tavoitella",
+    "en": "to pursue",
+    "type": "verbi",
+    "example_fi": "Minä tavoittelen parempaa työpaikkaa.",
+    "example_en": "I pursue a better job.",
+    "note": "Preesens: minä tavoittelen · Imperfekti: minä tavoittelin · Verbityyppi 3"
+   },
+   {
+    "fi": "kärsiä",
+    "en": "to suffer",
+    "type": "verbi",
+    "example_fi": "Minä kärsin päänsärystä usein.",
+    "example_en": "I often suffer from a headache.",
+    "note": "Preesens: minä kärsin · Imperfekti: minä kärsin · Verbityyppi 1"
+   },
+   {
+    "fi": "huomata",
+    "en": "to note",
+    "type": "verbi",
+    "example_fi": "Minä huomaan virheen tekstissä.",
+    "example_en": "I notice a mistake in the text.",
+    "note": "Preesens: minä huomaan · Imperfekti: minä huomasin · Verbityyppi 4"
+   },
+   {
+    "fi": "katsella",
+    "en": "to view",
+    "type": "verbi",
+    "example_fi": "Minä katselen maisemaa junasta.",
+    "example_en": "I view the scenery from the train.",
+    "note": "Preesens: minä katselen · Imperfekti: minä katselin · Verbityyppi 3"
+   },
+   {
+    "fi": "kuvittella",
+    "en": "to imagine",
+    "type": "verbi",
+    "example_fi": "Minä kuvittelen olevani rannalla.",
+    "example_en": "I imagine that I am on the beach.",
+    "note": "Preesens: minä kuvittelen · Imperfekti: minä kuvittelin · Verbityyppi 3"
+   },
+   {
+    "fi": "vaikuttaa",
+    "en": "to influence",
+    "type": "verbi",
+    "example_fi": "Minä vaikutan päätökseen äänestämällä.",
+    "example_en": "I influence the decision by voting.",
+    "note": "Preesens: minä vaikutan · Imperfekti: minä vaikutin · Verbityyppi 1"
+   },
+   {
+    "fi": "käyttäytyä",
+    "en": "to behave",
+    "type": "verbi",
+    "example_fi": "Minä käyttäydyn kohteliaasti.",
+    "example_en": "I behave politely.",
+    "note": "Preesens: minä käyttäydyn · Imperfekti: minä käyttäydyin · Verbityyppi 1"
+   }
+  ]
+ }
+]

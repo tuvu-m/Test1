@@ -1,0 +1,1774 @@
+[
+  {
+    "category": "Harjoitus – Monikon partitiivi",
+    "category_en": "Exercise: partitive plural (uusikielemme.fi)",
+    "cards": [
+      {
+        "fi": "talo",
+        "en": "house",
+        "type": "monikon partitiivi",
+        "example_fi": "Kadulla on monia taloja.",
+        "example_en": "There are many houses on the street.",
+        "note": "Monikon partitiivi: taloja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "tyttö",
+        "en": "girl",
+        "type": "monikon partitiivi",
+        "example_fi": "Puistossa leikkii monia tyttöjä.",
+        "example_en": "Many girls are playing in the park.",
+        "note": "Monikon partitiivi: tyttöjä · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "katu",
+        "en": "street",
+        "type": "monikon partitiivi",
+        "example_fi": "Helsingissä on paljon katuja.",
+        "example_en": "There are many streets in Helsinki.",
+        "note": "Monikon partitiivi: katuja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "hylly",
+        "en": "shelf",
+        "type": "monikon partitiivi",
+        "example_fi": "Ostimme uusia hyllyjä.",
+        "example_en": "We bought new shelves.",
+        "note": "Monikon partitiivi: hyllyjä · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "pallo",
+        "en": "ball",
+        "type": "monikon partitiivi",
+        "example_fi": "Laatikossa on palloja.",
+        "example_en": "There are balls in the box.",
+        "note": "Monikon partitiivi: palloja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "aamu",
+        "en": "morning",
+        "type": "monikon partitiivi",
+        "example_fi": "Vietämme kauniita aamuja rannalla.",
+        "example_en": "We spend beautiful mornings on the beach.",
+        "note": "Monikon partitiivi: aamuja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "helppo",
+        "en": "easy",
+        "type": "monikon partitiivi",
+        "example_fi": "Tehtävät eivät ole helppoja.",
+        "example_en": "The tasks are not easy.",
+        "note": "Monikon partitiivi: helppoja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "sato",
+        "en": "harvest",
+        "type": "monikon partitiivi",
+        "example_fi": "Maanviljelijät toivovat hyviä satoja.",
+        "example_en": "Farmers hope for good harvests.",
+        "note": "Monikon partitiivi: satoja · o/u/y/ö-vartalo → -ja/-jä"
+      },
+      {
+        "fi": "kynä",
+        "en": "pen",
+        "type": "monikon partitiivi",
+        "example_fi": "Pöydällä on kyniä.",
+        "example_en": "There are pens on the table.",
+        "note": "Monikon partitiivi: kyniä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "metsä",
+        "en": "forest",
+        "type": "monikon partitiivi",
+        "example_fi": "Suomessa on paljon metsiä.",
+        "example_en": "There are many forests in Finland.",
+        "note": "Monikon partitiivi: metsiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "isä",
+        "en": "father",
+        "type": "monikon partitiivi",
+        "example_fi": "Tapasin monia isiä koulussa.",
+        "example_en": "I met many fathers at school.",
+        "note": "Monikon partitiivi: isiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "kesä",
+        "en": "summer",
+        "type": "monikon partitiivi",
+        "example_fi": "Muistan monia lämpimiä kesiä.",
+        "example_en": "I remember many warm summers.",
+        "note": "Monikon partitiivi: kesiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "leipä",
+        "en": "bread",
+        "type": "monikon partitiivi",
+        "example_fi": "Leipuri paistaa tuoreita leipiä.",
+        "example_en": "The baker bakes fresh loaves.",
+        "note": "Monikon partitiivi: leipiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "kylmä",
+        "en": "cold",
+        "type": "monikon partitiivi",
+        "example_fi": "Suomen talvet ovat kylmiä.",
+        "example_en": "Finland's winters are cold.",
+        "note": "Monikon partitiivi: kylmiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "pöytä",
+        "en": "table",
+        "type": "monikon partitiivi",
+        "example_fi": "Ravintolassa on monia pöytiä.",
+        "example_en": "There are many tables in the restaurant.",
+        "note": "Monikon partitiivi: pöytiä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "ystävä",
+        "en": "friend",
+        "type": "monikon partitiivi",
+        "example_fi": "Minulla on paljon ystäviä.",
+        "example_en": "I have a lot of friends.",
+        "note": "Monikon partitiivi: ystäviä · kaksitav. ä-vartalo → -iä"
+      },
+      {
+        "fi": "sana",
+        "en": "word",
+        "type": "monikon partitiivi",
+        "example_fi": "Opettelen uusia sanoja.",
+        "example_en": "I learn new words.",
+        "note": "Monikon partitiivi: sanoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "hinta",
+        "en": "price",
+        "type": "monikon partitiivi",
+        "example_fi": "Vertailen hintoja.",
+        "example_en": "I compare prices.",
+        "note": "Monikon partitiivi: hintoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "kala",
+        "en": "fish",
+        "type": "monikon partitiivi",
+        "example_fi": "Järvessä on paljon kaloja.",
+        "example_en": "There are many fish in the lake.",
+        "note": "Monikon partitiivi: kaloja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "kissa",
+        "en": "cat",
+        "type": "monikon partitiivi",
+        "example_fi": "Naapurilla on kissoja.",
+        "example_en": "The neighbour has cats.",
+        "note": "Monikon partitiivi: kissoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "teema",
+        "en": "theme",
+        "type": "monikon partitiivi",
+        "example_fi": "Kokous käsitteli monia teemoja.",
+        "example_en": "The meeting covered many themes.",
+        "note": "Monikon partitiivi: teemoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "marja",
+        "en": "berry",
+        "type": "monikon partitiivi",
+        "example_fi": "Metsästä löytyy marjoja.",
+        "example_en": "You can find berries in the forest.",
+        "note": "Monikon partitiivi: marjoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "kirja",
+        "en": "book",
+        "type": "monikon partitiivi",
+        "example_fi": "Luen paljon kirjoja.",
+        "example_en": "I read a lot of books.",
+        "note": "Monikon partitiivi: kirjoja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "herra",
+        "en": "gentleman",
+        "type": "monikon partitiivi",
+        "example_fi": "Salissa istui monia herroja.",
+        "example_en": "Many gentlemen sat in the hall.",
+        "note": "Monikon partitiivi: herroja · kaksitav. a-vartalo → a→o + -ja"
+      },
+      {
+        "fi": "koira",
+        "en": "dog",
+        "type": "monikon partitiivi",
+        "example_fi": "Puistossa juoksee koiria.",
+        "example_en": "Dogs are running in the park.",
+        "note": "Monikon partitiivi: koiria · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "kukka",
+        "en": "flower",
+        "type": "monikon partitiivi",
+        "example_fi": "Ostin kukkia äidille.",
+        "example_en": "I bought flowers for my mother.",
+        "note": "Monikon partitiivi: kukkia · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "tukka",
+        "en": "hair",
+        "type": "monikon partitiivi",
+        "example_fi": "Kampaaja on nähnyt monenlaisia tukkia.",
+        "example_en": "The hairdresser has seen many kinds of hair.",
+        "note": "Monikon partitiivi: tukkia · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "muna",
+        "en": "egg",
+        "type": "monikon partitiivi",
+        "example_fi": "Ostin kaupasta munia.",
+        "example_en": "I bought eggs from the shop.",
+        "note": "Monikon partitiivi: munia · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "loma",
+        "en": "holiday",
+        "type": "monikon partitiivi",
+        "example_fi": "Pidän mielelläni pitkiä lomia.",
+        "example_en": "I gladly take long holidays.",
+        "note": "Monikon partitiivi: lomia · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "oja",
+        "en": "ditch",
+        "type": "monikon partitiivi",
+        "example_fi": "Pellon reunalla on ojia.",
+        "example_en": "There are ditches at the edge of the field.",
+        "note": "Monikon partitiivi: ojia · kaksitav. a-vartalo → a→i + -ia"
+      },
+      {
+        "fi": "tiimi",
+        "en": "team",
+        "type": "monikon partitiivi",
+        "example_fi": "Yrityksessä on monia tiimejä.",
+        "example_en": "There are many teams in the company.",
+        "note": "Monikon partitiivi: tiimejä · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "pankki",
+        "en": "bank",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupungissa on useita pankkeja.",
+        "example_en": "There are several banks in the city.",
+        "note": "Monikon partitiivi: pankkeja · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "posti",
+        "en": "post office",
+        "type": "monikon partitiivi",
+        "example_fi": "Pienissä kylissä ei ole enää posteja.",
+        "example_en": "Small villages no longer have post offices.",
+        "note": "Monikon partitiivi: posteja · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "maali",
+        "en": "goal / paint",
+        "type": "monikon partitiivi",
+        "example_fi": "Joukkue teki useita maaleja.",
+        "example_en": "The team scored several goals.",
+        "note": "Monikon partitiivi: maaleja · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "tili",
+        "en": "account",
+        "type": "monikon partitiivi",
+        "example_fi": "Minulla on useita tilejä.",
+        "example_en": "I have several accounts.",
+        "note": "Monikon partitiivi: tilejä · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "tyyli",
+        "en": "style",
+        "type": "monikon partitiivi",
+        "example_fi": "Taiteilija kokeilee eri tyylejä.",
+        "example_en": "The artist tries different styles.",
+        "note": "Monikon partitiivi: tyylejä · uudehko i-vartalo → -eja/-ejä"
+      },
+      {
+        "fi": "ovi(1)",
+        "en": "door",
+        "type": "monikon partitiivi",
+        "example_fi": "Talossa on monia ovia.",
+        "example_en": "There are many doors in the house.",
+        "note": "Monikon partitiivi: ovia · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "meri(2)",
+        "en": "sea",
+        "type": "monikon partitiivi",
+        "example_fi": "Purjehtija on nähnyt monia meriä.",
+        "example_en": "The sailor has seen many seas.",
+        "note": "Monikon partitiivi: meriä · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "kivi(1)",
+        "en": "stone",
+        "type": "monikon partitiivi",
+        "example_fi": "Rannalla on paljon kiviä.",
+        "example_en": "There are many stones on the shore.",
+        "note": "Monikon partitiivi: kiviä · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "sieni(2)",
+        "en": "mushroom",
+        "type": "monikon partitiivi",
+        "example_fi": "Keräsimme sieniä metsästä.",
+        "example_en": "We picked mushrooms in the forest.",
+        "note": "Monikon partitiivi: sieniä · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "sormi(1)",
+        "en": "finger",
+        "type": "monikon partitiivi",
+        "example_fi": "Pianisti liikuttaa sormia nopeasti.",
+        "example_en": "The pianist moves the fingers quickly.",
+        "note": "Monikon partitiivi: sormia · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "tuli(2)",
+        "en": "fire",
+        "type": "monikon partitiivi",
+        "example_fi": "Yöllä näimme kaukaisia tulia.",
+        "example_en": "At night we saw distant fires.",
+        "note": "Monikon partitiivi: tulia · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "järvi(1)",
+        "en": "lake",
+        "type": "monikon partitiivi",
+        "example_fi": "Suomessa on tuhansia järviä.",
+        "example_en": "There are thousands of lakes in Finland.",
+        "note": "Monikon partitiivi: järviä · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "kieli(2)",
+        "en": "language / tongue",
+        "type": "monikon partitiivi",
+        "example_fi": "Hän puhuu monia kieliä.",
+        "example_en": "He speaks many languages.",
+        "note": "Monikon partitiivi: kieliä · vanha i-sana → -ia/-iä"
+      },
+      {
+        "fi": "uusi(3)",
+        "en": "new",
+        "type": "monikon partitiivi",
+        "example_fi": "Ostin uusia kenkiä.",
+        "example_en": "I bought new shoes.",
+        "note": "Monikon partitiivi: uusia · -si-sana → -ia/-iä"
+      },
+      {
+        "fi": "vuosi(3)",
+        "en": "year",
+        "type": "monikon partitiivi",
+        "example_fi": "Olen asunut täällä monia vuosia.",
+        "example_en": "I have lived here for many years.",
+        "note": "Monikon partitiivi: vuosia · -si-sana → -ia/-iä"
+      },
+      {
+        "fi": "käsi(3)",
+        "en": "hand",
+        "type": "monikon partitiivi",
+        "example_fi": "Työhön tarvitaan monia käsiä.",
+        "example_en": "The work needs many hands.",
+        "note": "Monikon partitiivi: käsiä · -si-sana → -ia/-iä"
+      },
+      {
+        "fi": "reisi(3)",
+        "en": "thigh",
+        "type": "monikon partitiivi",
+        "example_fi": "Juoksija venyttää reisiä.",
+        "example_en": "The runner stretches the thighs.",
+        "note": "Monikon partitiivi: reisiä · -si-sana → -ia/-iä"
+      },
+      {
+        "fi": "huone",
+        "en": "room",
+        "type": "monikon partitiivi",
+        "example_fi": "Hotellissa on paljon huoneita.",
+        "example_en": "There are many rooms in the hotel.",
+        "note": "Monikon partitiivi: huoneita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "perhe",
+        "en": "family",
+        "type": "monikon partitiivi",
+        "example_fi": "Kylässä asuu monia perheitä.",
+        "example_en": "Many families live in the village.",
+        "note": "Monikon partitiivi: perheitä · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "kappale",
+        "en": "piece / song",
+        "type": "monikon partitiivi",
+        "example_fi": "Bändi soitti useita kappaleita.",
+        "example_en": "The band played several songs.",
+        "note": "Monikon partitiivi: kappaleita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "kirje",
+        "en": "letter",
+        "type": "monikon partitiivi",
+        "example_fi": "Sain postissa monia kirjeitä.",
+        "example_en": "I received many letters in the mail.",
+        "note": "Monikon partitiivi: kirjeitä · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "lentokone",
+        "en": "airplane",
+        "type": "monikon partitiivi",
+        "example_fi": "Kentällä on monia lentokoneita.",
+        "example_en": "There are many planes at the airport.",
+        "note": "Monikon partitiivi: lentokoneita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "taide",
+        "en": "art",
+        "type": "monikon partitiivi",
+        "example_fi": "Museossa esitellään eri taiteita.",
+        "example_en": "The museum presents different arts.",
+        "note": "Monikon partitiivi: taiteita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "parveke",
+        "en": "balcony",
+        "type": "monikon partitiivi",
+        "example_fi": "Talossa on monia parvekkeita.",
+        "example_en": "There are many balconies in the building.",
+        "note": "Monikon partitiivi: parvekkeita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "lahje",
+        "en": "trouser leg",
+        "type": "monikon partitiivi",
+        "example_fi": "Räätäli lyhensi lahkeita.",
+        "example_en": "The tailor shortened the trouser legs.",
+        "note": "Monikon partitiivi: lahkeita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "tuote(pic)",
+        "en": "product",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupassa on tuhansia tuotteita.",
+        "example_en": "There are thousands of products in the shop.",
+        "note": "Monikon partitiivi: tuotteita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "koe",
+        "en": "exam / test",
+        "type": "monikon partitiivi",
+        "example_fi": "Meillä on tällä viikolla useita kokeita.",
+        "example_en": "We have several exams this week.",
+        "note": "Monikon partitiivi: kokeita · e-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "nainen",
+        "en": "woman",
+        "type": "monikon partitiivi",
+        "example_fi": "Kokouksessa oli monia naisia.",
+        "example_en": "There were many women at the meeting.",
+        "note": "Monikon partitiivi: naisia · -nen → -sia/-siä"
+      },
+      {
+        "fi": "hevonen",
+        "en": "horse",
+        "type": "monikon partitiivi",
+        "example_fi": "Tallissa on monia hevosia.",
+        "example_en": "There are many horses in the stable.",
+        "note": "Monikon partitiivi: hevosia · -nen → -sia/-siä"
+      },
+      {
+        "fi": "suomalainen",
+        "en": "Finn",
+        "type": "monikon partitiivi",
+        "example_fi": "Junassa oli paljon suomalaisia.",
+        "example_en": "There were many Finns on the train.",
+        "note": "Monikon partitiivi: suomalaisia · -nen → -sia/-siä"
+      },
+      {
+        "fi": "eteinen",
+        "en": "hallway",
+        "type": "monikon partitiivi",
+        "example_fi": "Vanhoissa taloissa on suuria eteisiä.",
+        "example_en": "Old houses have large entrance halls.",
+        "note": "Monikon partitiivi: eteisiä · -nen → -sia/-siä"
+      },
+      {
+        "fi": "iloinen",
+        "en": "happy",
+        "type": "monikon partitiivi",
+        "example_fi": "Lapset ovat iloisia.",
+        "example_en": "The children are happy.",
+        "note": "Monikon partitiivi: iloisia · -nen → -sia/-siä"
+      },
+      {
+        "fi": "ihminen",
+        "en": "person",
+        "type": "monikon partitiivi",
+        "example_fi": "Torilla oli paljon ihmisiä.",
+        "example_en": "There were many people at the market.",
+        "note": "Monikon partitiivi: ihmisiä · -nen → -sia/-siä"
+      },
+      {
+        "fi": "sininen",
+        "en": "blue",
+        "type": "monikon partitiivi",
+        "example_fi": "Taivaalla näkyi sinisiä sävyjä.",
+        "example_en": "Blue shades were visible in the sky.",
+        "note": "Monikon partitiivi: sinisiä · -nen → -sia/-siä"
+      },
+      {
+        "fi": "tavallinen",
+        "en": "ordinary",
+        "type": "monikon partitiivi",
+        "example_fi": "He ovat aivan tavallisia ihmisiä.",
+        "example_en": "They are quite ordinary people.",
+        "note": "Monikon partitiivi: tavallisia · -nen → -sia/-siä"
+      },
+      {
+        "fi": "maa",
+        "en": "country / land",
+        "type": "monikon partitiivi",
+        "example_fi": "Euroopan unioniin kuuluu monia maita.",
+        "example_en": "Many countries belong to the European Union.",
+        "note": "Monikon partitiivi: maita · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "sää",
+        "en": "weather",
+        "type": "monikon partitiivi",
+        "example_fi": "Suomessa koetaan monenlaisia säitä.",
+        "example_en": "Finland experiences many kinds of weather.",
+        "note": "Monikon partitiivi: säitä · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "DVD",
+        "en": "DVD",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupasta löytyy vielä DVD:itä.",
+        "example_en": "You can still find DVDs in the shop.",
+        "note": "Monikon partitiivi: DVD:itä · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "suu",
+        "en": "mouth",
+        "type": "monikon partitiivi",
+        "example_fi": "Hammaslääkäri tutkii päivässä monia suita.",
+        "example_en": "The dentist examines many mouths a day.",
+        "note": "Monikon partitiivi: suita · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "kuu",
+        "en": "moon",
+        "type": "monikon partitiivi",
+        "example_fi": "Jupiterilla on monia kuita.",
+        "example_en": "Jupiter has many moons.",
+        "note": "Monikon partitiivi: kuita · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "harmaa",
+        "en": "grey",
+        "type": "monikon partitiivi",
+        "example_fi": "Maalari sekoittaa erilaisia harmaita.",
+        "example_en": "The painter mixes different greys.",
+        "note": "Monikon partitiivi: harmaita · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "vapaa",
+        "en": "free",
+        "type": "monikon partitiivi",
+        "example_fi": "Hotellissa on vielä vapaita huoneita.",
+        "example_en": "The hotel still has free rooms.",
+        "note": "Monikon partitiivi: vapaita · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "jää",
+        "en": "ice",
+        "type": "monikon partitiivi",
+        "example_fi": "Baarimikko laittoi laseihin jäitä.",
+        "example_en": "The bartender put ice cubes in the glasses.",
+        "note": "Monikon partitiivi: jäitä · pitkä vokaali → -ita/-itä"
+      },
+      {
+        "fi": "vihreä",
+        "en": "green",
+        "type": "monikon partitiivi",
+        "example_fi": "Metsässä erottuu monia vihreitä sävyjä.",
+        "example_en": "Many green shades stand out in the forest.",
+        "note": "Monikon partitiivi: vihreitä · eA-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "pimeä",
+        "en": "dark",
+        "type": "monikon partitiivi",
+        "example_fi": "Talveen kuuluu monia pimeitä iltoja.",
+        "example_en": "Winter includes many dark evenings.",
+        "note": "Monikon partitiivi: pimeitä · eA-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "korkea",
+        "en": "high / tall",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupungissa on korkeita rakennuksia.",
+        "example_en": "There are tall buildings in the city.",
+        "note": "Monikon partitiivi: korkeita · eA-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "leveä",
+        "en": "wide",
+        "type": "monikon partitiivi",
+        "example_fi": "Tässä maassa on leveitä jokia.",
+        "example_en": "This country has wide rivers.",
+        "note": "Monikon partitiivi: leveitä · eA-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "tie",
+        "en": "road",
+        "type": "monikon partitiivi",
+        "example_fi": "Maaseudulla on kapeita teitä.",
+        "example_en": "There are narrow roads in the countryside.",
+        "note": "Monikon partitiivi: teitä · ie/yö/uo → -eitä/-öitä/-oita"
+      },
+      {
+        "fi": "vyö",
+        "en": "belt",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupassa myydään nahkaisia vöitä.",
+        "example_en": "The shop sells leather belts.",
+        "note": "Monikon partitiivi: vöitä · ie/yö/uo → -eitä/-öitä/-oita"
+      },
+      {
+        "fi": "suo",
+        "en": "swamp / bog",
+        "type": "monikon partitiivi",
+        "example_fi": "Pohjois-Suomessa on laajoja soita.",
+        "example_en": "There are wide bogs in northern Finland.",
+        "note": "Monikon partitiivi: soita · ie/yö/uo → -eitä/-öitä/-oita"
+      },
+      {
+        "fi": "yö",
+        "en": "night",
+        "type": "monikon partitiivi",
+        "example_fi": "Vietimme monia öitä ulkona.",
+        "example_en": "We spent many nights outdoors.",
+        "note": "Monikon partitiivi: öitä · ie/yö/uo → -eitä/-öitä/-oita"
+      },
+      {
+        "fi": "televisio",
+        "en": "television",
+        "type": "monikon partitiivi",
+        "example_fi": "Liikkeessä myydään suuria televisioita.",
+        "example_en": "The store sells large televisions.",
+        "note": "Monikon partitiivi: televisioita · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "museo",
+        "en": "museum",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupungissa on monia museoita.",
+        "example_en": "There are many museums in the city.",
+        "note": "Monikon partitiivi: museoita · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "radio",
+        "en": "radio",
+        "type": "monikon partitiivi",
+        "example_fi": "Autoihin asennetaan radioita.",
+        "example_en": "Radios are installed in cars.",
+        "note": "Monikon partitiivi: radioita · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "stereo",
+        "en": "stereo",
+        "type": "monikon partitiivi",
+        "example_fi": "Kirpputorilta löytyy vanhoja stereoita.",
+        "example_en": "You can find old stereos at the flea market.",
+        "note": "Monikon partitiivi: stereoita · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "keittiö",
+        "en": "kitchen",
+        "type": "monikon partitiivi",
+        "example_fi": "Uusissa taloissa on avoimia keittiöitä.",
+        "example_en": "New houses have open kitchens.",
+        "note": "Monikon partitiivi: keittiöitä · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "video",
+        "en": "video",
+        "type": "monikon partitiivi",
+        "example_fi": "Katson netistä videoita.",
+        "example_en": "I watch videos online.",
+        "note": "Monikon partitiivi: videoita · -io/-eo → -ita/-itä"
+      },
+      {
+        "fi": "työtön",
+        "en": "unemployed",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupungissa on paljon työttömiä.",
+        "example_en": "There are many unemployed people in the city.",
+        "note": "Monikon partitiivi: työttömiä · -tOn → -ttomia/-ttömiä"
+      },
+      {
+        "fi": "koditon",
+        "en": "homeless",
+        "type": "monikon partitiivi",
+        "example_fi": "Talvella autetaan kodittomia.",
+        "example_en": "In winter, homeless people are helped.",
+        "note": "Monikon partitiivi: kodittomia · -tOn → -ttomia/-ttömiä"
+      },
+      {
+        "fi": "rasvaton",
+        "en": "fat-free",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupassa myydään rasvattomia tuotteita.",
+        "example_en": "The shop sells fat-free products.",
+        "note": "Monikon partitiivi: rasvattomia · -tOn → -ttomia/-ttömiä"
+      },
+      {
+        "fi": "järjetön",
+        "en": "senseless",
+        "type": "monikon partitiivi",
+        "example_fi": "Kuulin monia järjettömiä väitteitä.",
+        "example_en": "I heard many senseless claims.",
+        "note": "Monikon partitiivi: järjettömiä · -tOn → -ttomia/-ttömiä"
+      },
+      {
+        "fi": "kuningatar",
+        "en": "queen",
+        "type": "monikon partitiivi",
+        "example_fi": "Historiassa on ollut voimakkaita kuningattaria.",
+        "example_en": "History has had powerful queens.",
+        "note": "Monikon partitiivi: kuningattaria · -tAr → -ttaria/-ttäriä"
+      },
+      {
+        "fi": "papitar",
+        "en": "priestess",
+        "type": "monikon partitiivi",
+        "example_fi": "Temppelissä palveli monia papittaria.",
+        "example_en": "Many priestesses served in the temple.",
+        "note": "Monikon partitiivi: papittaria · -tAr → -ttaria/-ttäriä"
+      },
+      {
+        "fi": "ystävätär",
+        "en": "female friend",
+        "type": "monikon partitiivi",
+        "example_fi": "Kutsuin juhliin ystävättäriä.",
+        "example_en": "I invited female friends to the party.",
+        "note": "Monikon partitiivi: ystävättäriä · -tAr → -ttaria/-ttäriä"
+      },
+      {
+        "fi": "kaunotar",
+        "en": "beauty",
+        "type": "monikon partitiivi",
+        "example_fi": "Elokuvassa esiintyi monia kaunottaria.",
+        "example_en": "Many beauties appeared in the film.",
+        "note": "Monikon partitiivi: kaunottaria · -tAr → -ttaria/-ttäriä"
+      },
+      {
+        "fi": "puhelin",
+        "en": "phone",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupassa myydään uusia puhelimia.",
+        "example_en": "The shop sells new phones.",
+        "note": "Monikon partitiivi: puhelimia · -in → -imia/-imiä"
+      },
+      {
+        "fi": "kahvinkeitin",
+        "en": "coffee maker",
+        "type": "monikon partitiivi",
+        "example_fi": "Toimistossa on useita kahvinkeittimiä.",
+        "example_en": "The office has several coffee makers.",
+        "note": "Monikon partitiivi: kahvinkeittimiä · -in → -imia/-imiä"
+      },
+      {
+        "fi": "puhallin",
+        "en": "fan / blower",
+        "type": "monikon partitiivi",
+        "example_fi": "Tehtaassa käytetään suuria puhaltimia.",
+        "example_en": "The factory uses large fans.",
+        "note": "Monikon partitiivi: puhaltimia · -in → -imia/-imiä"
+      },
+      {
+        "fi": "kiharrin",
+        "en": "curling iron",
+        "type": "monikon partitiivi",
+        "example_fi": "Kampaamossa on erilaisia kihartimia.",
+        "example_en": "The salon has various curling irons.",
+        "note": "Monikon partitiivi: kihartimia · -in → -imia/-imiä"
+      },
+      {
+        "fi": "olut",
+        "en": "beer",
+        "type": "monikon partitiivi",
+        "example_fi": "Baarissa on tarjolla monia oluita.",
+        "example_en": "The bar offers many beers.",
+        "note": "Monikon partitiivi: oluita · -Ut → -uita"
+      },
+      {
+        "fi": "väsynyt",
+        "en": "tired",
+        "type": "monikon partitiivi",
+        "example_fi": "Matkustajat olivat väsyneitä.",
+        "example_en": "The passengers were tired.",
+        "note": "Monikon partitiivi: väsyneitä · -nUt-partisiippi → -eita/-eitä"
+      },
+      {
+        "fi": "kevyt",
+        "en": "light",
+        "type": "monikon partitiivi",
+        "example_fi": "Kesällä suosin kevyitä vaatteita.",
+        "example_en": "In summer I prefer light clothes.",
+        "note": "Monikon partitiivi: kevyitä · -yt-vartalo → -yitä"
+      },
+      {
+        "fi": "tottunut",
+        "en": "accustomed",
+        "type": "monikon partitiivi",
+        "example_fi": "Etsimme tottuneita työntekijöitä.",
+        "example_en": "We are looking for experienced workers.",
+        "note": "Monikon partitiivi: tottuneita · -nUt-partisiippi → -eita/-eitä"
+      },
+      {
+        "fi": "lyhyt",
+        "en": "short",
+        "type": "monikon partitiivi",
+        "example_fi": "Kirjoitan mieluummin lyhyitä lauseita.",
+        "example_en": "I prefer to write short sentences.",
+        "note": "Monikon partitiivi: lyhyitä · -yt-vartalo → -yitä"
+      },
+      {
+        "fi": "kuollut",
+        "en": "dead",
+        "type": "monikon partitiivi",
+        "example_fi": "Onnettomuudessa oli useita kuolleita.",
+        "example_en": "There were several dead in the accident.",
+        "note": "Monikon partitiivi: kuolleita · -nUt-partisiippi → -eita/-eitä"
+      },
+      {
+        "fi": "mansikka",
+        "en": "strawberry",
+        "type": "monikon partitiivi",
+        "example_fi": "Kesällä syömme paljon mansikoita.",
+        "example_en": "In summer we eat a lot of strawberries.",
+        "note": "Monikon partitiivi: mansikoita · kolmitav. -kkA → -oita/-öitä"
+      },
+      {
+        "fi": "insinööri",
+        "en": "engineer",
+        "type": "monikon partitiivi",
+        "example_fi": "Yritys palkkaa uusia insinöörejä.",
+        "example_en": "The company hires new engineers.",
+        "note": "Monikon partitiivi: insinöörejä · -i (ammatti) → -ejä/-eitä"
+      },
+      {
+        "fi": "lääkäri",
+        "en": "doctor",
+        "type": "monikon partitiivi",
+        "example_fi": "Sairaalassa työskentelee monia lääkäreitä.",
+        "example_en": "Many doctors work in the hospital.",
+        "note": "Monikon partitiivi: lääkäreitä · -i (ammatti) → -ejä/-eitä"
+      },
+      {
+        "fi": "asema",
+        "en": "station",
+        "type": "monikon partitiivi",
+        "example_fi": "Metrolla on monia asemia.",
+        "example_en": "The metro has many stations.",
+        "note": "Monikon partitiivi: asemia · kolmitav. a-vartalo → -ia"
+      },
+      {
+        "fi": "ravintola",
+        "en": "restaurant",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupungissa on hyviä ravintoloita.",
+        "example_en": "There are good restaurants in the city.",
+        "note": "Monikon partitiivi: ravintoloita · kolmitav. -lA → -oita/-öitä"
+      },
+      {
+        "fi": "ohjelma",
+        "en": "program",
+        "type": "monikon partitiivi",
+        "example_fi": "Tietokoneessa on monia ohjelmia.",
+        "example_en": "There are many programs on the computer.",
+        "note": "Monikon partitiivi: ohjelmia · kolmitav. a-vartalo → -ia"
+      },
+      {
+        "fi": "palvelu",
+        "en": "service",
+        "type": "monikon partitiivi",
+        "example_fi": "Kaupunki tarjoaa monia palveluita.",
+        "example_en": "The city offers many services.",
+        "note": "Monikon partitiivi: palveluita · kolmitav. u-vartalo → -ita/-itä"
+      },
+      {
+        "fi": "opettaja",
+        "en": "teacher",
+        "type": "monikon partitiivi",
+        "example_fi": "Koulussa on päteviä opettajia.",
+        "example_en": "There are qualified teachers in the school.",
+        "note": "Monikon partitiivi: opettajia · kolmitav. a-vartalo → -ja"
+      }
+    ]
+  },
+  {
+    "category": "Harjoitus – Monikon genetiivi",
+    "category_en": "Exercise: genitive plural (uusikielemme.fi)",
+    "cards": [
+      {
+        "fi": "talo",
+        "en": "house",
+        "type": "monikon genetiivi",
+        "example_fi": "Talojen katot ovat punaiset.",
+        "example_en": "The roofs of the houses are red.",
+        "note": "Monikon genetiivi: talojen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "tyttö",
+        "en": "girl",
+        "type": "monikon genetiivi",
+        "example_fi": "Tyttöjen joukkue voitti ottelun.",
+        "example_en": "The girls' team won the match.",
+        "note": "Monikon genetiivi: tyttöjen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "katu",
+        "en": "street",
+        "type": "monikon genetiivi",
+        "example_fi": "Katujen nimet ovat vanhoja.",
+        "example_en": "The names of the streets are old.",
+        "note": "Monikon genetiivi: katujen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "hylly",
+        "en": "shelf",
+        "type": "monikon genetiivi",
+        "example_fi": "Hyllyjen sisältö oli sekaisin.",
+        "example_en": "The contents of the shelves were in a mess.",
+        "note": "Monikon genetiivi: hyllyjen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "pallo",
+        "en": "ball",
+        "type": "monikon genetiivi",
+        "example_fi": "Pallojen väri on punainen.",
+        "example_en": "The colour of the balls is red.",
+        "note": "Monikon genetiivi: pallojen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "aamu",
+        "en": "morning",
+        "type": "monikon genetiivi",
+        "example_fi": "Aamujen hiljaisuus on ihanaa.",
+        "example_en": "The quiet of the mornings is lovely.",
+        "note": "Monikon genetiivi: aamujen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "pöllö",
+        "en": "owl",
+        "type": "monikon genetiivi",
+        "example_fi": "Pöllöjen huhuilu kuului metsästä.",
+        "example_en": "The hooting of the owls came from the forest.",
+        "note": "Monikon genetiivi: pöllöjen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "helppo",
+        "en": "easy",
+        "type": "monikon genetiivi",
+        "example_fi": "Helppojen tehtävien tekeminen on nopeaa.",
+        "example_en": "Doing easy tasks is quick.",
+        "note": "Monikon genetiivi: helppojen · vokaalivartalo → -jen"
+      },
+      {
+        "fi": "kynä",
+        "en": "pen",
+        "type": "monikon genetiivi",
+        "example_fi": "Kynien kärjet olivat tylsiä.",
+        "example_en": "The tips of the pens were blunt.",
+        "note": "Monikon genetiivi: kynien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "metsä",
+        "en": "forest",
+        "type": "monikon genetiivi",
+        "example_fi": "Metsien suojelu on tärkeää.",
+        "example_en": "The protection of forests is important.",
+        "note": "Monikon genetiivi: metsien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "isä",
+        "en": "father",
+        "type": "monikon genetiivi",
+        "example_fi": "Isien rooli perheessä on muuttunut.",
+        "example_en": "The role of fathers in the family has changed.",
+        "note": "Monikon genetiivi: isien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "kesä",
+        "en": "summer",
+        "type": "monikon genetiivi",
+        "example_fi": "Menneiden kesien muistot lämmittävät.",
+        "example_en": "The memories of past summers are warming.",
+        "note": "Monikon genetiivi: kesien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "leipä",
+        "en": "bread",
+        "type": "monikon genetiivi",
+        "example_fi": "Leipien tuoksu täytti keittiön.",
+        "example_en": "The smell of the breads filled the kitchen.",
+        "note": "Monikon genetiivi: leipien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "kylmä",
+        "en": "cold",
+        "type": "monikon genetiivi",
+        "example_fi": "Kylmien talvien jälkeen kevät tuntuu ihanalta.",
+        "example_en": "After cold winters spring feels lovely.",
+        "note": "Monikon genetiivi: kylmien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "pöytä",
+        "en": "table",
+        "type": "monikon genetiivi",
+        "example_fi": "Pöytien pinnat kiiltivät.",
+        "example_en": "The surfaces of the tables shone.",
+        "note": "Monikon genetiivi: pöytien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "hätä",
+        "en": "distress / emergency",
+        "type": "monikon genetiivi",
+        "example_fi": "Monien hätien keskellä hän pysyi rauhallisena.",
+        "example_en": "Amid many troubles he stayed calm.",
+        "note": "Monikon genetiivi: hätien · kaksitav. ä-vartalo → -ien"
+      },
+      {
+        "fi": "sana",
+        "en": "word",
+        "type": "monikon genetiivi",
+        "example_fi": "Sanojen merkitys vaihtelee.",
+        "example_en": "The meaning of words varies.",
+        "note": "Monikon genetiivi: sanojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "hinta",
+        "en": "price",
+        "type": "monikon genetiivi",
+        "example_fi": "Hintojen nousu huolestuttaa.",
+        "example_en": "The rise of prices is worrying.",
+        "note": "Monikon genetiivi: hintojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "kala",
+        "en": "fish",
+        "type": "monikon genetiivi",
+        "example_fi": "Kalojen määrä järvessä väheni.",
+        "example_en": "The number of fish in the lake decreased.",
+        "note": "Monikon genetiivi: kalojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "kissa",
+        "en": "cat",
+        "type": "monikon genetiivi",
+        "example_fi": "Kissojen ruoka loppui.",
+        "example_en": "The cats' food ran out.",
+        "note": "Monikon genetiivi: kissojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "teema",
+        "en": "theme",
+        "type": "monikon genetiivi",
+        "example_fi": "Teemojen käsittely jäi kesken.",
+        "example_en": "The handling of the themes was left unfinished.",
+        "note": "Monikon genetiivi: teemojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "marja",
+        "en": "berry",
+        "type": "monikon genetiivi",
+        "example_fi": "Marjojen poimiminen on mukavaa.",
+        "example_en": "Picking berries is nice.",
+        "note": "Monikon genetiivi: marjojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "kirja",
+        "en": "book",
+        "type": "monikon genetiivi",
+        "example_fi": "Kirjojen kannet olivat kuluneet.",
+        "example_en": "The covers of the books were worn.",
+        "note": "Monikon genetiivi: kirjojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "liima",
+        "en": "glue",
+        "type": "monikon genetiivi",
+        "example_fi": "Liimojen laatu vaihtelee.",
+        "example_en": "The quality of the glues varies.",
+        "note": "Monikon genetiivi: liimojen · kaksitav. a-vartalo → -ojen"
+      },
+      {
+        "fi": "koira",
+        "en": "dog",
+        "type": "monikon genetiivi",
+        "example_fi": "Koirien haukunta herätti minut.",
+        "example_en": "The barking of the dogs woke me.",
+        "note": "Monikon genetiivi: koirien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "kukka",
+        "en": "flower",
+        "type": "monikon genetiivi",
+        "example_fi": "Kukkien tuoksu leijui puutarhassa.",
+        "example_en": "The scent of the flowers drifted in the garden.",
+        "note": "Monikon genetiivi: kukkien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "tukka",
+        "en": "hair",
+        "type": "monikon genetiivi",
+        "example_fi": "Erilaisten tukkien hoito vaatii taitoa.",
+        "example_en": "Caring for different kinds of hair requires skill.",
+        "note": "Monikon genetiivi: tukkien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "muna",
+        "en": "egg",
+        "type": "monikon genetiivi",
+        "example_fi": "Munien kuoret ovat hauraita.",
+        "example_en": "Egg shells are fragile.",
+        "note": "Monikon genetiivi: munien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "loma",
+        "en": "holiday",
+        "type": "monikon genetiivi",
+        "example_fi": "Lomien suunnittelu on hauskaa.",
+        "example_en": "Planning holidays is fun.",
+        "note": "Monikon genetiivi: lomien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "oja",
+        "en": "ditch",
+        "type": "monikon genetiivi",
+        "example_fi": "Ojien vesi virtasi nopeasti.",
+        "example_en": "The water in the ditches flowed fast.",
+        "note": "Monikon genetiivi: ojien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "kooma",
+        "en": "coma",
+        "type": "monikon genetiivi",
+        "example_fi": "Pitkien koomien jälkeen toipuminen on hidasta.",
+        "example_en": "Recovery after long comas is slow.",
+        "note": "Monikon genetiivi: koomien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "tumma",
+        "en": "dark",
+        "type": "monikon genetiivi",
+        "example_fi": "Tummien värien käyttö luo tunnelmaa.",
+        "example_en": "The use of dark colours creates atmosphere.",
+        "note": "Monikon genetiivi: tummien · kaksitav. a-vartalo → -ien"
+      },
+      {
+        "fi": "banaani",
+        "en": "banana",
+        "type": "monikon genetiivi",
+        "example_fi": "Banaanien kuoret ovat keltaisia.",
+        "example_en": "Banana peels are yellow.",
+        "note": "Monikon genetiivi: banaanien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "äiti",
+        "en": "mother",
+        "type": "monikon genetiivi",
+        "example_fi": "Äitien päivää juhlitaan toukokuussa.",
+        "example_en": "Mother's Day is celebrated in May.",
+        "note": "Monikon genetiivi: äitien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "tiimi",
+        "en": "team",
+        "type": "monikon genetiivi",
+        "example_fi": "Tiimien yhteistyö parani.",
+        "example_en": "The cooperation of the teams improved.",
+        "note": "Monikon genetiivi: tiimien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "pankki",
+        "en": "bank",
+        "type": "monikon genetiivi",
+        "example_fi": "Pankkien palvelut siirtyivät verkkoon.",
+        "example_en": "Banks' services moved online.",
+        "note": "Monikon genetiivi: pankkien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "posti",
+        "en": "post office",
+        "type": "monikon genetiivi",
+        "example_fi": "Pienten postien lakkauttaminen harmittaa.",
+        "example_en": "The closing of small post offices is annoying.",
+        "note": "Monikon genetiivi: postien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "maali",
+        "en": "goal / paint",
+        "type": "monikon genetiivi",
+        "example_fi": "Maalien värit haalistuivat.",
+        "example_en": "The colours of the paints faded.",
+        "note": "Monikon genetiivi: maalien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "tyyli",
+        "en": "style",
+        "type": "monikon genetiivi",
+        "example_fi": "Eri tyylien yhdistäminen on vaikeaa.",
+        "example_en": "Combining different styles is difficult.",
+        "note": "Monikon genetiivi: tyylien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "bussi",
+        "en": "bus",
+        "type": "monikon genetiivi",
+        "example_fi": "Bussien aikataulut muuttuivat.",
+        "example_en": "The bus timetables changed.",
+        "note": "Monikon genetiivi: bussien · uudehko i-vartalo → -ien"
+      },
+      {
+        "fi": "järvi",
+        "en": "lake",
+        "type": "monikon genetiivi",
+        "example_fi": "Järvien vesi on puhdasta.",
+        "example_en": "The water of the lakes is clean.",
+        "note": "Monikon genetiivi: järvien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "ovi",
+        "en": "door",
+        "type": "monikon genetiivi",
+        "example_fi": "Ovien lukot olivat rikki.",
+        "example_en": "The locks of the doors were broken.",
+        "note": "Monikon genetiivi: ovien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "sieni",
+        "en": "mushroom",
+        "type": "monikon genetiivi",
+        "example_fi": "Sienten kerääminen on suosittua.",
+        "example_en": "Mushroom picking is popular.",
+        "note": "Monikon genetiivi: sienten / sienien · vanha i-sana → -ten / -ien"
+      },
+      {
+        "fi": "kivi",
+        "en": "stone",
+        "type": "monikon genetiivi",
+        "example_fi": "Kivien pinta oli sileä.",
+        "example_en": "The surface of the stones was smooth.",
+        "note": "Monikon genetiivi: kivien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "sormi",
+        "en": "finger",
+        "type": "monikon genetiivi",
+        "example_fi": "Sormien liikkeet olivat nopeita.",
+        "example_en": "The movements of the fingers were fast.",
+        "note": "Monikon genetiivi: sormien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "nimi",
+        "en": "name",
+        "type": "monikon genetiivi",
+        "example_fi": "Nimien muistaminen on vaikeaa.",
+        "example_en": "Remembering names is difficult.",
+        "note": "Monikon genetiivi: nimien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "lehti",
+        "en": "leaf / newspaper",
+        "type": "monikon genetiivi",
+        "example_fi": "Lehtien värit muuttuvat syksyllä.",
+        "example_en": "The colours of the leaves change in autumn.",
+        "note": "Monikon genetiivi: lehtien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "pilvi",
+        "en": "cloud",
+        "type": "monikon genetiivi",
+        "example_fi": "Pilvien takaa pilkotti aurinko.",
+        "example_en": "The sun peeked from behind the clouds.",
+        "note": "Monikon genetiivi: pilvien · vanha i-sana → -ien"
+      },
+      {
+        "fi": "vesi",
+        "en": "water",
+        "type": "monikon genetiivi",
+        "example_fi": "Vesien suojelu on tärkeää.",
+        "example_en": "The protection of waters is important.",
+        "note": "Monikon genetiivi: vesien / vetten · -si-sana → -ien / -tten"
+      },
+      {
+        "fi": "susi",
+        "en": "wolf",
+        "type": "monikon genetiivi",
+        "example_fi": "Susien ulvonta kuului yöllä.",
+        "example_en": "The howling of the wolves was heard at night.",
+        "note": "Monikon genetiivi: susien / sutten · -si-sana → -ien / -tten"
+      },
+      {
+        "fi": "käsi",
+        "en": "hand",
+        "type": "monikon genetiivi",
+        "example_fi": "Käsien pesu ehkäisee tauteja.",
+        "example_en": "Washing hands prevents diseases.",
+        "note": "Monikon genetiivi: käsien / kätten · -si-sana → -ien / -tten"
+      },
+      {
+        "fi": "reisi",
+        "en": "thigh",
+        "type": "monikon genetiivi",
+        "example_fi": "Reisien lihakset olivat kipeät.",
+        "example_en": "The muscles of the thighs were sore.",
+        "note": "Monikon genetiivi: reisien / reitten · -si-sana → -ien / -tten"
+      },
+      {
+        "fi": "pieni",
+        "en": "small",
+        "type": "monikon genetiivi",
+        "example_fi": "Pienten lasten hoito vie aikaa.",
+        "example_en": "Caring for small children takes time.",
+        "note": "Monikon genetiivi: pienten / pienien · vanha i-sana → -ten / -ien"
+      },
+      {
+        "fi": "meri",
+        "en": "sea",
+        "type": "monikon genetiivi",
+        "example_fi": "Merten pinta nousee.",
+        "example_en": "The level of the seas is rising.",
+        "note": "Monikon genetiivi: merten / merien · vanha i-sana → -ten / -ien"
+      },
+      {
+        "fi": "hiiri",
+        "en": "mouse",
+        "type": "monikon genetiivi",
+        "example_fi": "Hiirten jäljet näkyivät lumessa.",
+        "example_en": "The tracks of the mice were visible in the snow.",
+        "note": "Monikon genetiivi: hiirten / hiirien · vanha i-sana → -ten / -ien"
+      },
+      {
+        "fi": "kieli",
+        "en": "language / tongue",
+        "type": "monikon genetiivi",
+        "example_fi": "Kielten opiskelu avartaa maailmankuvaa.",
+        "example_en": "Studying languages broadens one's worldview.",
+        "note": "Monikon genetiivi: kielten / kielien · vanha i-sana → -ten / -ien"
+      },
+      {
+        "fi": "huone",
+        "en": "room",
+        "type": "monikon genetiivi",
+        "example_fi": "Huoneiden siivous kesti kauan.",
+        "example_en": "Cleaning the rooms took a long time.",
+        "note": "Monikon genetiivi: huoneiden / huoneitten · e-vartalo → -iden / -itten"
+      },
+      {
+        "fi": "perhe",
+        "en": "family",
+        "type": "monikon genetiivi",
+        "example_fi": "Perheiden arki on kiireistä.",
+        "example_en": "The everyday life of families is busy.",
+        "note": "Monikon genetiivi: perheiden / perheitten · e-vartalo → -iden / -itten"
+      },
+      {
+        "fi": "parveke",
+        "en": "balcony",
+        "type": "monikon genetiivi",
+        "example_fi": "Parvekkeiden kunnostus alkaa keväällä.",
+        "example_en": "The renovation of the balconies begins in spring.",
+        "note": "Monikon genetiivi: parvekkeiden / parvekkeitten · e-vartalo → -iden / -itten"
+      },
+      {
+        "fi": "koe",
+        "en": "exam / test",
+        "type": "monikon genetiivi",
+        "example_fi": "Kokeiden tulokset julkaistaan huomenna.",
+        "example_en": "The results of the exams are published tomorrow.",
+        "note": "Monikon genetiivi: kokeiden / kokeitten · e-vartalo → -iden / -itten"
+      },
+      {
+        "fi": "nainen",
+        "en": "woman",
+        "type": "monikon genetiivi",
+        "example_fi": "Naisten oikeudet ovat parantuneet.",
+        "example_en": "Women's rights have improved.",
+        "note": "Monikon genetiivi: naisten · -nen → -sten"
+      },
+      {
+        "fi": "hevonen",
+        "en": "horse",
+        "type": "monikon genetiivi",
+        "example_fi": "Hevosten hoito vaatii työtä.",
+        "example_en": "Caring for horses requires work.",
+        "note": "Monikon genetiivi: hevosten · -nen → -sten"
+      },
+      {
+        "fi": "suomalainen",
+        "en": "Finn",
+        "type": "monikon genetiivi",
+        "example_fi": "Suomalaisten mielipiteet jakautuvat.",
+        "example_en": "The opinions of Finns are divided.",
+        "note": "Monikon genetiivi: suomalaisten · -nen → -sten"
+      },
+      {
+        "fi": "eteinen",
+        "en": "hallway",
+        "type": "monikon genetiivi",
+        "example_fi": "Eteisten valaistus oli hämärä.",
+        "example_en": "The lighting of the hallways was dim.",
+        "note": "Monikon genetiivi: eteisten · -nen → -sten"
+      },
+      {
+        "fi": "iloinen",
+        "en": "happy",
+        "type": "monikon genetiivi",
+        "example_fi": "Iloisten ihmisten seurassa aika kuluu nopeasti.",
+        "example_en": "In the company of happy people time passes quickly.",
+        "note": "Monikon genetiivi: iloisten · -nen → -sten"
+      },
+      {
+        "fi": "ihminen",
+        "en": "person",
+        "type": "monikon genetiivi",
+        "example_fi": "Ihmisten määrä kasvaa.",
+        "example_en": "The number of people grows.",
+        "note": "Monikon genetiivi: ihmisten · -nen → -sten"
+      },
+      {
+        "fi": "maa",
+        "en": "country / land",
+        "type": "monikon genetiivi",
+        "example_fi": "Maiden väliset suhteet ovat hyvät.",
+        "example_en": "The relations between the countries are good.",
+        "note": "Monikon genetiivi: maiden / maitten · pitkä vokaali → -iden / -itten"
+      },
+      {
+        "fi": "suu",
+        "en": "mouth",
+        "type": "monikon genetiivi",
+        "example_fi": "Monien suiden ruokkiminen on kallista.",
+        "example_en": "Feeding many mouths is expensive.",
+        "note": "Monikon genetiivi: suiden / suitten · pitkä vokaali → -iden / -itten"
+      },
+      {
+        "fi": "jää",
+        "en": "ice",
+        "type": "monikon genetiivi",
+        "example_fi": "Jäiden lähtö keväällä on näyttävä ilmiö.",
+        "example_en": "The break-up of the ice in spring is a spectacular sight.",
+        "note": "Monikon genetiivi: jäiden / jäitten · pitkä vokaali → -iden / -itten"
+      },
+      {
+        "fi": "harmaa",
+        "en": "grey",
+        "type": "monikon genetiivi",
+        "example_fi": "Harmaiden pilvien alla oli synkkää.",
+        "example_en": "It was gloomy under the grey clouds.",
+        "note": "Monikon genetiivi: harmaiden / harmaitten · pitkä vokaali → -iden / -itten"
+      },
+      {
+        "fi": "vapaa",
+        "en": "free",
+        "type": "monikon genetiivi",
+        "example_fi": "Vapaiden paikkojen määrä väheni.",
+        "example_en": "The number of free seats decreased.",
+        "note": "Monikon genetiivi: vapaiden / vapaitten · pitkä vokaali → -iden / -itten"
+      },
+      {
+        "fi": "tie",
+        "en": "road",
+        "type": "monikon genetiivi",
+        "example_fi": "Teiden kunto heikkeni talvella.",
+        "example_en": "The condition of the roads worsened in winter.",
+        "note": "Monikon genetiivi: teiden / teitten · ie/yö/uo → -iden / -itten"
+      },
+      {
+        "fi": "vyö",
+        "en": "belt",
+        "type": "monikon genetiivi",
+        "example_fi": "Vöiden soljet olivat metallia.",
+        "example_en": "The buckles of the belts were metal.",
+        "note": "Monikon genetiivi: vöiden / vöitten · ie/yö/uo → -iden / -itten"
+      },
+      {
+        "fi": "yö",
+        "en": "night",
+        "type": "monikon genetiivi",
+        "example_fi": "Öiden pituus kasvaa syksyllä.",
+        "example_en": "The length of the nights grows in autumn.",
+        "note": "Monikon genetiivi: öiden / öitten · ie/yö/uo → -iden / -itten"
+      },
+      {
+        "fi": "työ",
+        "en": "work",
+        "type": "monikon genetiivi",
+        "example_fi": "Töiden määrä lisääntyi.",
+        "example_en": "The amount of work increased.",
+        "note": "Monikon genetiivi: töiden / töitten · ie/yö/uo → -iden / -itten"
+      },
+      {
+        "fi": "televisio",
+        "en": "television",
+        "type": "monikon genetiivi",
+        "example_fi": "Televisioiden hinnat laskivat.",
+        "example_en": "The prices of televisions dropped.",
+        "note": "Monikon genetiivi: televisioiden / televisioitten · -io/-eo → -iden / -itten"
+      },
+      {
+        "fi": "keittiö",
+        "en": "kitchen",
+        "type": "monikon genetiivi",
+        "example_fi": "Keittiöiden suunnittelu on tarkkaa työtä.",
+        "example_en": "Designing kitchens is precise work.",
+        "note": "Monikon genetiivi: keittiöiden / keittiöitten · -io/-eo → -iden / -itten"
+      },
+      {
+        "fi": "museo",
+        "en": "museum",
+        "type": "monikon genetiivi",
+        "example_fi": "Museoiden aukioloajat vaihtelevat.",
+        "example_en": "The opening hours of museums vary.",
+        "note": "Monikon genetiivi: museoiden / museoitten · -io/-eo → -iden / -itten"
+      },
+      {
+        "fi": "video",
+        "en": "video",
+        "type": "monikon genetiivi",
+        "example_fi": "Videoiden katselu vie aikaa.",
+        "example_en": "Watching videos takes time.",
+        "note": "Monikon genetiivi: videoiden / videoitten · -io/-eo → -iden / -itten"
+      },
+      {
+        "fi": "työtön",
+        "en": "unemployed",
+        "type": "monikon genetiivi",
+        "example_fi": "Työttömien tukeminen on tärkeää.",
+        "example_en": "Supporting the unemployed is important.",
+        "note": "Monikon genetiivi: työttömien · -tOn → -ttomien / -ttömien"
+      },
+      {
+        "fi": "koditon",
+        "en": "homeless",
+        "type": "monikon genetiivi",
+        "example_fi": "Kodittomien auttaminen vaatii resursseja.",
+        "example_en": "Helping the homeless requires resources.",
+        "note": "Monikon genetiivi: kodittomien · -tOn → -ttomien / -ttömien"
+      },
+      {
+        "fi": "rasvaton",
+        "en": "fat-free",
+        "type": "monikon genetiivi",
+        "example_fi": "Rasvattomien tuotteiden kysyntä kasvaa.",
+        "example_en": "The demand for fat-free products grows.",
+        "note": "Monikon genetiivi: rasvattomien · -tOn → -ttomien / -ttömien"
+      },
+      {
+        "fi": "järjetön",
+        "en": "senseless",
+        "type": "monikon genetiivi",
+        "example_fi": "Järjettömien sääntöjen noudattaminen turhauttaa.",
+        "example_en": "Following senseless rules is frustrating.",
+        "note": "Monikon genetiivi: järjettömien · -tOn → -ttomien / -ttömien"
+      },
+      {
+        "fi": "ystävätär",
+        "en": "female friend",
+        "type": "monikon genetiivi",
+        "example_fi": "Ystävättärien tapaaminen ilahdutti minua.",
+        "example_en": "Meeting my female friends delighted me.",
+        "note": "Monikon genetiivi: ystävättärien / ystävätärten · -tAr → -ttarien / -tarten"
+      },
+      {
+        "fi": "kuningatar",
+        "en": "queen",
+        "type": "monikon genetiivi",
+        "example_fi": "Kuningattarien muotokuvat riippuivat seinällä.",
+        "example_en": "The portraits of the queens hung on the wall.",
+        "note": "Monikon genetiivi: kuningattarien / kuningatarten · -tAr → -ttarien / -tarten"
+      },
+      {
+        "fi": "valtiatar",
+        "en": "female ruler",
+        "type": "monikon genetiivi",
+        "example_fi": "Valtiattarien valta oli suuri.",
+        "example_en": "The power of the female rulers was great.",
+        "note": "Monikon genetiivi: valtiattarien / valtiatarten · -tAr → -ttarien / -tarten"
+      },
+      {
+        "fi": "herttuatar",
+        "en": "duchess",
+        "type": "monikon genetiivi",
+        "example_fi": "Herttuattarien juhlat olivat loisteliaat.",
+        "example_en": "The duchesses' parties were splendid.",
+        "note": "Monikon genetiivi: herttuattarien / herttuatarten · -tAr → -ttarien / -tarten"
+      },
+      {
+        "fi": "puhelin",
+        "en": "phone",
+        "type": "monikon genetiivi",
+        "example_fi": "Puhelimien akut tyhjenivät nopeasti.",
+        "example_en": "The batteries of the phones drained quickly.",
+        "note": "Monikon genetiivi: puhelimien / puhelinten · -in → -imien / -inten"
+      },
+      {
+        "fi": "puhallin",
+        "en": "fan / blower",
+        "type": "monikon genetiivi",
+        "example_fi": "Puhaltimien ääni oli kova.",
+        "example_en": "The noise of the fans was loud.",
+        "note": "Monikon genetiivi: puhaltimien / puhallinten · -in → -imien / -inten"
+      },
+      {
+        "fi": "kahvinkeitin",
+        "en": "coffee maker",
+        "type": "monikon genetiivi",
+        "example_fi": "Kahvinkeittimien huolto on helppoa.",
+        "example_en": "Maintaining coffee makers is easy.",
+        "note": "Monikon genetiivi: kahvinkeittimien / kahvinkeitinten · -in → -imien / -inten"
+      },
+      {
+        "fi": "kiharrin",
+        "en": "curling iron",
+        "type": "monikon genetiivi",
+        "example_fi": "Kihartimien lämpötila on säädettävissä.",
+        "example_en": "The temperature of the curling irons is adjustable.",
+        "note": "Monikon genetiivi: kihartimien / kiharrinten · -in → -imien / -inten"
+      },
+      {
+        "fi": "avain",
+        "en": "key",
+        "type": "monikon genetiivi",
+        "example_fi": "Avaimien kadottaminen on harmillista.",
+        "example_en": "Losing keys is annoying.",
+        "note": "Monikon genetiivi: avaimien / avainten · -in → -imien / -inten"
+      },
+      {
+        "fi": "olut",
+        "en": "beer",
+        "type": "monikon genetiivi",
+        "example_fi": "Oluiden maku vaihtelee.",
+        "example_en": "The taste of beers varies.",
+        "note": "Monikon genetiivi: oluiden / oluitten · -Ut/-yt → -iden / -itten"
+      },
+      {
+        "fi": "kevyt",
+        "en": "light",
+        "type": "monikon genetiivi",
+        "example_fi": "Kevyiden materiaalien käyttö on yleistä.",
+        "example_en": "The use of light materials is common.",
+        "note": "Monikon genetiivi: kevyiden / kevyitten · -Ut/-yt → -iden / -itten"
+      },
+      {
+        "fi": "lyhyt",
+        "en": "short",
+        "type": "monikon genetiivi",
+        "example_fi": "Lyhyiden lauseiden lukeminen on helppoa.",
+        "example_en": "Reading short sentences is easy.",
+        "note": "Monikon genetiivi: lyhyiden / lyhyitten · -Ut/-yt → -iden / -itten"
+      },
+      {
+        "fi": "väsynyt",
+        "en": "tired",
+        "type": "monikon genetiivi",
+        "example_fi": "Väsyneiden työntekijöiden virhemäärä kasvaa.",
+        "example_en": "The number of mistakes by tired workers grows.",
+        "note": "Monikon genetiivi: väsyneiden / väsyneitten · -nUt-partisiippi → -iden / -itten"
+      },
+      {
+        "fi": "tottunut",
+        "en": "accustomed",
+        "type": "monikon genetiivi",
+        "example_fi": "Tottuneiden kävijöiden joukko oli suuri.",
+        "example_en": "The group of regular visitors was large.",
+        "note": "Monikon genetiivi: tottuneiden / tottuneitten · -nUt-partisiippi → -iden / -itten"
+      },
+      {
+        "fi": "kuollut",
+        "en": "dead",
+        "type": "monikon genetiivi",
+        "example_fi": "Kuolleiden muistoa kunnioitettiin.",
+        "example_en": "The memory of the dead was honoured.",
+        "note": "Monikon genetiivi: kuolleiden / kuolleitten · -nUt-partisiippi → -iden / -itten"
+      },
+      {
+        "fi": "opiskelija",
+        "en": "student",
+        "type": "monikon genetiivi",
+        "example_fi": "Opiskelijain mielipiteet otettiin huomioon.",
+        "example_en": "The students' opinions were taken into account.",
+        "note": "Monikon genetiivi: opiskelijain / opiskelijoiden · vanha lyh. genetiivi -in / tavall. -oiden"
+      },
+      {
+        "fi": "köyhä",
+        "en": "poor",
+        "type": "monikon genetiivi",
+        "example_fi": "Köyhäin auttaminen oli kirkon tehtävä.",
+        "example_en": "Helping the poor was the church's task.",
+        "note": "Monikon genetiivi: köyhäin / köyhien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "pyhä",
+        "en": "holy / saint",
+        "type": "monikon genetiivi",
+        "example_fi": "Pyhäin päivä on marraskuussa.",
+        "example_en": "All Saints' Day is in November.",
+        "note": "Monikon genetiivi: pyhäin / pyhien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "pappi",
+        "en": "priest",
+        "type": "monikon genetiivi",
+        "example_fi": "Pappein kokous pidettiin kirkossa.",
+        "example_en": "The priests' meeting was held in the church.",
+        "note": "Monikon genetiivi: pappein / pappien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "vanhempi",
+        "en": "parent",
+        "type": "monikon genetiivi",
+        "example_fi": "Vanhempain ilta järjestetään koulussa.",
+        "example_en": "The parents' evening is held at school.",
+        "note": "Monikon genetiivi: vanhempain / vanhempien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "vanki",
+        "en": "prisoner",
+        "type": "monikon genetiivi",
+        "example_fi": "Vankein vapauttaminen herätti keskustelua.",
+        "example_en": "The release of the prisoners sparked debate.",
+        "note": "Monikon genetiivi: vankein / vankien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "kaikki",
+        "en": "all",
+        "type": "monikon genetiivi",
+        "example_fi": "Kaikkein paras vaihtoehto valittiin.",
+        "example_en": "The very best option was chosen.",
+        "note": "Monikon genetiivi: kaikkein / kaikkien · vanha lyh. genetiivi -in / tavall. -ien"
+      },
+      {
+        "fi": "vanha",
+        "en": "old",
+        "type": "monikon genetiivi",
+        "example_fi": "Vanhain koti sijaitsi kylän laidalla.",
+        "example_en": "The old people's home was on the edge of the village.",
+        "note": "Monikon genetiivi: vanhain / vanhojen · vanha lyh. genetiivi -in / tavall. -ojen"
+      }
+    ]
+  }
+]
