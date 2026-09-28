@@ -9,10 +9,15 @@ const path = require("path");
 const SRC = process.argv[2] || path.join(__dirname, "..", "cards-src");
 const OUT = process.argv[3] || path.join(__dirname, "..", "data", "cards.js");
 
-const REQUIRED = ["fi", "en", "type", "example_fi", "example_en", "note"];
+// Fields every card must carry a non-empty value for. Examples and notes are
+// encouraged but optional (e.g. short reaction phrases need no example).
+const REQUIRED = ["fi", "en", "type"];
+const OPTIONAL = ["example_fi", "example_en", "note"];
 const TYPES = new Set([
   "substantiivi", "verbi", "adjektiivi", "adverbi",
-  "pronomini", "numeraali", "partikkeli", "fraasi"
+  "pronomini", "numeraali", "partikkeli", "fraasi",
+  // grammar-drill "types" used as the answer badge
+  "monikon partitiivi", "monikon genetiivi"
 ]);
 
 // Preferred category order (Suomen Mestari themed progression).
@@ -25,7 +30,14 @@ const ORDER = [
   "Työ ja ammatit", "Koulu ja opiskelu", "Harrastukset ja vapaa-aika",
   "Matkustaminen", "Yhteiskunta ja asuminen", "Yleiset verbit",
   "Adjektiivit", "Adverbit ja paikat", "Kysymyssanat ja pronominit",
-  "Yleiset partikkelit ja sidesanat"
+  "Yleiset partikkelit ja sidesanat",
+  // YKI (B1) sets from user materials
+  "YKI – Fraasit ja sanonnat", "YKI – Mallilauseet", "YKI – Kysymykset (B1)",
+  "YKI – Reaktiot", "YKI – Adverbit ja sidesanat", "YKI – Luonteenpiirteet",
+  "YKI – Substantiivit (sijamuodot)", "YKI – Adjektiivit (sijamuodot)",
+  "YKI – Verbit (minä-muoto)",
+  // Grammar drills
+  "Harjoitus – Monikon partitiivi", "Harjoitus – Monikon genetiivi"
 ];
 
 function fail(msg) { console.error("BUILD ERROR: " + msg); process.exit(1); }

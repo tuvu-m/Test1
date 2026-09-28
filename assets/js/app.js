@@ -21,7 +21,13 @@
     "Harrastukset ja vapaa-aika": "⚽", "Matkustaminen": "✈️",
     "Yhteiskunta ja asuminen": "🏙️", "Yleiset verbit": "🏃",
     "Adjektiivit": "🔠", "Adverbit ja paikat": "📍",
-    "Kysymyssanat ja pronominit": "❓", "Yleiset partikkelit ja sidesanat": "🔗"
+    "Kysymyssanat ja pronominit": "❓", "Yleiset partikkelit ja sidesanat": "🔗",
+    "YKI – Fraasit ja sanonnat": "📝", "YKI – Mallilauseet": "🧩",
+    "YKI – Kysymykset (B1)": "🗣️", "YKI – Reaktiot": "💬",
+    "YKI – Adverbit ja sidesanat": "🧭", "YKI – Luonteenpiirteet": "🙂",
+    "YKI – Substantiivit (sijamuodot)": "📦", "YKI – Adjektiivit (sijamuodot)": "🔤",
+    "YKI – Verbit (minä-muoto)": "🏃‍♂️",
+    "Harjoitus – Monikon partitiivi": "🧮", "Harjoitus – Monikon genetiivi": "🧮"
   };
   var FALLBACK_EMOJI = ["📗", "📘", "📙", "📕", "🗂️", "🧩", "💬", "⭐"];
 

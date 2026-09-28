@@ -1,0 +1,736 @@
+[
+ {
+  "category": "YKI – Reaktiot",
+  "category_en": "Reactions & responses",
+  "cards": [
+   {
+    "fi": "Todella hienoa!",
+    "en": "Really great!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Positive Reactions"
+   },
+   {
+    "fi": "Mahtavaa!",
+    "en": "Awesome!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Positive Reactions"
+   },
+   {
+    "fi": "Loistavaa!",
+    "en": "Excellent!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Positive Reactions"
+   },
+   {
+    "fi": "Hyvin tehty!",
+    "en": "Well done!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Positive Reactions"
+   },
+   {
+    "fi": "Onnittelut!",
+    "en": "Congratulations!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Positive Reactions"
+   },
+   {
+    "fi": "Juuri niin!",
+    "en": "Exactly!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement"
+   },
+   {
+    "fi": "Olen samaa mieltä.",
+    "en": "I agree.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement"
+   },
+   {
+    "fi": "Täysin oikein.",
+    "en": "Absolutely right.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement"
+   },
+   {
+    "fi": "Totta kai.",
+    "en": "Of course.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement"
+   },
+   {
+    "fi": "Ehdottomasti.",
+    "en": "Definitely.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement"
+   },
+   {
+    "fi": "Todella?",
+    "en": "Really?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Showing Interest"
+   },
+   {
+    "fi": "Vau!",
+    "en": "Wow!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Showing Interest"
+   },
+   {
+    "fi": "Kerro lisää.",
+    "en": "Tell me more.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Showing Interest"
+   },
+   {
+    "fi": "Kuulostaa mielenkiintoiselta.",
+    "en": "Sounds interesting.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Showing Interest"
+   },
+   {
+    "fi": "Ihanaa!",
+    "en": "Wonderful!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Showing Interest"
+   },
+   {
+    "fi": "Voi ei!",
+    "en": "Oh no!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Sympathy"
+   },
+   {
+    "fi": "Se kuulostaa vaikealta.",
+    "en": "That sounds difficult.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Sympathy"
+   },
+   {
+    "fi": "Pahoittelen.",
+    "en": "I'm sorry.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Sympathy"
+   },
+   {
+    "fi": "Voimia!",
+    "en": "Strength to you!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Sympathy"
+   },
+   {
+    "fi": "Osanottoni.",
+    "en": "My condolences.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Sympathy"
+   },
+   {
+    "fi": "Oikeasti?",
+    "en": "Really?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Surprise or Amazement"
+   },
+   {
+    "fi": "En olisi uskonut!",
+    "en": "I wouldn't have believed it!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Surprise or Amazement"
+   },
+   {
+    "fi": "Huikeaa!",
+    "en": "Incredible!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Surprise or Amazement"
+   },
+   {
+    "fi": "Enpä olisi osannut odottaa.",
+    "en": "I wouldn't have expected that.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Surprise or Amazement"
+   },
+   {
+    "fi": "Uskomatonta!",
+    "en": "Unbelievable!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Surprise or Amazement"
+   },
+   {
+    "fi": "Eihän se voi olla totta!",
+    "en": "It can't be true!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disbelief"
+   },
+   {
+    "fi": "Oletko varma?",
+    "en": "Are you sure?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disbelief"
+   },
+   {
+    "fi": "En voi uskoa korviani/silmiäni.",
+    "en": "I can't believe my ears/eyes.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disbelief"
+   },
+   {
+    "fi": "Hui hai!",
+    "en": "No way!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disbelief"
+   },
+   {
+    "fi": "Onpas erikoista.",
+    "en": "That's strange.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disbelief"
+   },
+   {
+    "fi": "Kiitos paljon!",
+    "en": "Thank you very much!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Appreciation"
+   },
+   {
+    "fi": "Arvostan todella.",
+    "en": "I really appreciate it.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Appreciation"
+   },
+   {
+    "fi": "Kiitos avusta!",
+    "en": "Thanks for the help!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Appreciation"
+   },
+   {
+    "fi": "Olet ihana!",
+    "en": "You're wonderful!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Appreciation"
+   },
+   {
+    "fi": "Kiitos kutsusta!",
+    "en": "Thanks for the invitation!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Appreciation"
+   },
+   {
+    "fi": "Jännittävää!",
+    "en": "Exciting!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Excitement"
+   },
+   {
+    "fi": "En malta odottaa!",
+    "en": "I can't wait!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Excitement"
+   },
+   {
+    "fi": "Tulee varmasti mahtavaa!",
+    "en": "It's going to be great!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Excitement"
+   },
+   {
+    "fi": "Olen niin innoissani!",
+    "en": "I'm so excited!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Excitement"
+   },
+   {
+    "fi": "Tämä kuulostaa mahtavalta!",
+    "en": "This sounds awesome!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Excitement"
+   },
+   {
+    "fi": "Ymmärrän.",
+    "en": "I understand.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Acknowledging Information"
+   },
+   {
+    "fi": "Selvä.",
+    "en": "Clear.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Acknowledging Information"
+   },
+   {
+    "fi": "Okei.",
+    "en": "Okay.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Acknowledging Information"
+   },
+   {
+    "fi": "Tiedän.",
+    "en": "I know.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Acknowledging Information"
+   },
+   {
+    "fi": "Mielenkiintoista!",
+    "en": "Interesting!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Curiosity"
+   },
+   {
+    "fi": "Tiedätkö lisää siitä?",
+    "en": "Do you know more about it?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Curiosity"
+   },
+   {
+    "fi": "Kertoisitko enemmän?",
+    "en": "Could you tell me more?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Curiosity"
+   },
+   {
+    "fi": "Olen utelias.",
+    "en": "I'm curious.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Curiosity"
+   },
+   {
+    "fi": "Miten se tapahtui?",
+    "en": "How did it happen?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Curiosity"
+   },
+   {
+    "fi": "Onneksi olkoon!",
+    "en": "Congratulations!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Relief"
+   },
+   {
+    "fi": "Helpottunut olo.",
+    "en": "I feel relieved.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Relief"
+   },
+   {
+    "fi": "Hyvä juttu!",
+    "en": "Good thing!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Relief"
+   },
+   {
+    "fi": "Ei paha!",
+    "en": "Not bad!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Relief"
+   },
+   {
+    "fi": "Huh, hyvä että selvittiin!",
+    "en": "Phew, glad we made it through!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Relief"
+   },
+   {
+    "fi": "Kiitos, otan sen kohteliaisuutena.",
+    "en": "Thank you, I take it as a compliment.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Reacting to Compliments"
+   },
+   {
+    "fi": "Kuulostaa liian mairittelevaiselta!",
+    "en": "Sounds too flattering!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Reacting to Compliments"
+   },
+   {
+    "fi": "Voi kiitos, sinäpä osaat kehua!",
+    "en": "Oh, thank you, you know how to give compliments!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Reacting to Compliments"
+   },
+   {
+    "fi": "Kiitos, mukava kuulla!",
+    "en": "Thank you, nice to hear!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Reacting to Compliments"
+   },
+   {
+    "fi": "Tosi kiva, kun huomaat.",
+    "en": "Really nice that you notice.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Reacting to Compliments"
+   },
+   {
+    "fi": "Jaa, aivan.",
+    "en": "Oh, right.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement Mildly"
+   },
+   {
+    "fi": "Kyllähän minä sen tiesin.",
+    "en": "Well, I knew that.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement Mildly"
+   },
+   {
+    "fi": "No niin, juuri niin.",
+    "en": "Well, exactly.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Agreement Mildly"
+   },
+   {
+    "fi": "Haha, se on hauskaa!",
+    "en": "Haha, that's funny!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing something is fun"
+   },
+   {
+    "fi": "Nauran vedet silmissä!",
+    "en": "I'm laughing so hard!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing something is fun"
+   },
+   {
+    "fi": "Loistavaa huumoria!",
+    "en": "Great sense of humor!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing something is fun"
+   },
+   {
+    "fi": "Huvittavaa!",
+    "en": "Amusing!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing something is fun"
+   },
+   {
+    "fi": "Naurattaa vieläkin.",
+    "en": "It still makes me laugh.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing something is fun"
+   },
+   {
+    "fi": "Toivotaan parasta!",
+    "en": "Let's hope for the best!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Hope"
+   },
+   {
+    "fi": "Toivottavasti kaikki menee hyvin.",
+    "en": "Hopefully everything goes well.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Hope"
+   },
+   {
+    "fi": "Toivon todella, että...",
+    "en": "I really hope that...",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Hope"
+   },
+   {
+    "fi": "Toivon, että unelmasi toteutuvat.",
+    "en": "I hope your dreams come true.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Hope"
+   },
+   {
+    "fi": "Toivottavasti voimme tehdä sen uudelleen.",
+    "en": "Hopefully we can do it again.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Hope"
+   },
+   {
+    "fi": "Se ei ole oikein!",
+    "en": "That's not right!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Indignation"
+   },
+   {
+    "fi": "En voi uskoa, että se tapahtui.",
+    "en": "I can't believe that happened.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Indignation"
+   },
+   {
+    "fi": "Se on täysin kohtuutonta.",
+    "en": "It's completely unfair.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Indignation"
+   },
+   {
+    "fi": "Miksi ihmeessä niin tapahtui?",
+    "en": "Why on earth did that happen?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Indignation"
+   },
+   {
+    "fi": "En ihan ymmärrä.",
+    "en": "I don't quite understand.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Confusion"
+   },
+   {
+    "fi": "Olen vähän hämilläni.",
+    "en": "I'm a bit confused.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Confusion"
+   },
+   {
+    "fi": "Voitko kertoa sen uudestaan?",
+    "en": "Can you repeat that?",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Confusion"
+   },
+   {
+    "fi": "En saa kiinni siitä, mitä tarkoitat.",
+    "en": "I can't grasp what you mean.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Confusion"
+   },
+   {
+    "fi": "Tämä menee yli ymmärrykseni.",
+    "en": "This is beyond my comprehension.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Confusion"
+   },
+   {
+    "fi": "Hm, en tiedä...",
+    "en": "Hmm, I don't know...",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disapproval"
+   },
+   {
+    "fi": "Se ei kuulosta kovin hyvältä.",
+    "en": "That doesn't sound very good.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disapproval"
+   },
+   {
+    "fi": "Ei ihan vakuuttanut.",
+    "en": "It didn't quite convince me.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disapproval"
+   },
+   {
+    "fi": "Hmm, voisi olla parempiakin vaihtoehtoja.",
+    "en": "Hmm, there could be better options.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disapproval"
+   },
+   {
+    "fi": "En ole varma, että tuo on paras ratkaisu.",
+    "en": "I'm not sure if that's the best solution.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Expressing Disapproval"
+   },
+   {
+    "fi": "Sinä pystyt siihen!",
+    "en": "You can do it!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Encouraging Someone"
+   },
+   {
+    "fi": "Älä luovuta!",
+    "en": "Don't give up!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Encouraging Someone"
+   },
+   {
+    "fi": "Uskon sinuun.",
+    "en": "I believe in you.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Encouraging Someone"
+   },
+   {
+    "fi": "Jatka samaan malliin!",
+    "en": "Keep it up!",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Encouraging Someone"
+   },
+   {
+    "fi": "Olet vahva.",
+    "en": "You're strong.",
+    "type": "fraasi",
+    "example_fi": "",
+    "example_en": "",
+    "note": "Reaktio / puhekieli — Encouraging Someone"
+   }
+  ]
+ }
+]

@@ -1,0 +1,792 @@
+[
+ {
+  "category": "YKI – Mallilauseet",
+  "category_en": "YKI sentence patterns",
+  "cards": [
+   {
+    "fi": "...rooli elämässä",
+    "en": "...role in life",
+    "type": "fraasi",
+    "example_fi": "Minulla on tärkeä rooli elämässäni.",
+    "example_en": "I have an important role in my life.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kun",
+    "en": "when",
+    "type": "fraasi",
+    "example_fi": "Soitan sinulle, kun olen kotona.",
+    "example_en": "I'll call you when I'm home.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jos",
+    "en": "if",
+    "type": "fraasi",
+    "example_fi": "Jos sataa, otan sateenvarjon mukaan.",
+    "example_en": "If it rains, I'll take an umbrella.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "sekä...että...",
+    "en": "both...and...",
+    "type": "fraasi",
+    "example_fi": "Pidän sekä kahvista että teestä.",
+    "example_en": "I like both coffee and tea.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "auttaa",
+    "en": "help",
+    "type": "fraasi",
+    "example_fi": "Hän auttaa minua läksyissä.",
+    "example_en": "He helps me with my homework.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "selvittää",
+    "en": "sort out",
+    "type": "fraasi",
+    "example_fi": "Yritän selvittää tämän ongelman.",
+    "example_en": "I'm trying to figure out this problem.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "koska",
+    "en": "because",
+    "type": "fraasi",
+    "example_fi": "En tullut, koska olin sairas.",
+    "example_en": "I didn't come because I was sick.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vaikka",
+    "en": "although",
+    "type": "fraasi",
+    "example_fi": "Vaikka oli kylmä, menimme uimaan.",
+    "example_en": "Even though it was cold, we went swimming.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tämä on tärkeää, koska...",
+    "en": "This is important because...",
+    "type": "fraasi",
+    "example_fi": "Tämä on tärkeää, koska kaikki hyötyvät siitä.",
+    "example_en": "This is important because everyone benefits from it.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "...täytyy...",
+    "en": "...must...",
+    "type": "fraasi",
+    "example_fi": "Sinun täytyy opiskella ahkerasti.",
+    "example_en": "You have to study hard.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "...jotta…",
+    "en": "...so…",
+    "type": "fraasi",
+    "example_fi": "Teen sen, jotta onnistun kokeessa.",
+    "example_en": "I'm doing it so I can pass the exam.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei vain... vaan myös...",
+    "en": "not only... but also...",
+    "type": "fraasi",
+    "example_fi": "Hän ei vain opi nopeasti vaan myös auttaa muita.",
+    "example_en": "He not only learns quickly but also helps others.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "...vaikka...",
+    "en": "...although...",
+    "type": "fraasi",
+    "example_fi": "Vaikka sataa, menemme ulos.",
+    "example_en": "Even if it rains, we'll go out.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ennen kuin...",
+    "en": "before...",
+    "type": "fraasi",
+    "example_fi": "Odota, ennen kuin aloitat.",
+    "example_en": "Wait before you start.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "sen takia että...",
+    "en": "because...",
+    "type": "fraasi",
+    "example_fi": "En tehnyt sitä, sen takia että olin kiireinen.",
+    "example_en": "I didn't do it because I was busy.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kuten",
+    "en": "as",
+    "type": "fraasi",
+    "example_fi": "Hän tekee työnsä hyvin, kuten aina.",
+    "example_en": "He does his job well, as always.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vaikka... niin...",
+    "en": "even though... so...",
+    "type": "fraasi",
+    "example_fi": "Vaikka olin väsynyt, niin jatkoin työskentelyä.",
+    "example_en": "Even though I was tired, I continued working.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jokainen...",
+    "en": "every...",
+    "type": "fraasi",
+    "example_fi": "Jokainen tarvitsee lepoa.",
+    "example_en": "Everyone needs rest.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "mikä tahansa",
+    "en": "any",
+    "type": "fraasi",
+    "example_fi": "Mikä tahansa ratkaisu käy minulle.",
+    "example_en": "Any solution works for me.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tällaista",
+    "en": "like this",
+    "type": "fraasi",
+    "example_fi": "En ole nähnyt tällaista ennen.",
+    "example_en": "I've never seen anything like this before.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "koska... niin...",
+    "en": "because... so...",
+    "type": "fraasi",
+    "example_fi": "Koska olin kiireinen, niin en ehtinyt tulla.",
+    "example_en": "Because I was busy, I didn't have time to come.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on tärkeää, että...",
+    "en": "it is important that...",
+    "type": "fraasi",
+    "example_fi": "On tärkeää, että ymmärrät tämän.",
+    "example_en": "It is important that you understand this.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ainoastaan... vaan myös...",
+    "en": "not only... but also...",
+    "type": "fraasi",
+    "example_fi": "Ei ainoastaan hän, vaan myös minä haluan lähteä.",
+    "example_en": "Not only him, but I also want to leave.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "...ei enää...",
+    "en": "...no longer...",
+    "type": "fraasi",
+    "example_fi": "En syö enää lihaa.",
+    "example_en": "I don't eat meat anymore.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "pitää + verb",
+    "en": "to keep + verb",
+    "type": "fraasi",
+    "example_fi": "Pitää opiskella joka päivä.",
+    "example_en": "You have to study every day.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tämä tarkoittaa, että...",
+    "en": "this means that...",
+    "type": "fraasi",
+    "example_fi": "Tämä tarkoittaa, että olemme valmiita.",
+    "example_en": "This means we are ready.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "miten... niin...",
+    "en": "how... so...",
+    "type": "fraasi",
+    "example_fi": "Miten harjoittelet, niin opit paremmin.",
+    "example_en": "The more you practice, the better you learn.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vieläkin",
+    "en": "even",
+    "type": "fraasi",
+    "example_fi": "Rakastan häntä vieläkin.",
+    "example_en": "I still love him.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kuten myös",
+    "en": "as well as",
+    "type": "fraasi",
+    "example_fi": "Pidän kahvista, kuten myös teestä.",
+    "example_en": "I like coffee, as well as tea.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tällä hetkellä",
+    "en": "currently",
+    "type": "fraasi",
+    "example_fi": "Tällä hetkellä opiskelen suomea.",
+    "example_en": "I am currently studying Finnish.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vielä ei...",
+    "en": "not yet...",
+    "type": "fraasi",
+    "example_fi": "Hän ei vielä tiedä vastausta.",
+    "example_en": "He doesn't know the answer yet.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "...ei niin paljon kuin...",
+    "en": "...not as much as...",
+    "type": "fraasi",
+    "example_fi": "Hän ei ole niin vahva kuin ennen.",
+    "example_en": "He's not as strong as he used to be.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en ole varma, mutta...",
+    "en": "I'm not sure, but...",
+    "type": "fraasi",
+    "example_fi": "En ole varma, mutta ehkä hän tulee.",
+    "example_en": "I'm not sure, but maybe he will come.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jotta",
+    "en": "so",
+    "type": "fraasi",
+    "example_fi": "Teen töitä, jotta saan rahaa.",
+    "example_en": "I work to make money.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tavallisesti",
+    "en": "usually",
+    "type": "fraasi",
+    "example_fi": "Tavallisesti herään kello seitsemän.",
+    "example_en": "I usually wake up at seven.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "se johtuu siitä, että...",
+    "en": "it's because...",
+    "type": "fraasi",
+    "example_fi": "Se johtuu siitä, että olin väsynyt.",
+    "example_en": "It's because I was tired.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on mahdollista, että...",
+    "en": "it is possible that...",
+    "type": "fraasi",
+    "example_fi": "On mahdollista, että hän on oikeassa.",
+    "example_en": "It's possible he's right.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "olen kiinnostunut...",
+    "en": "I am interested...",
+    "type": "fraasi",
+    "example_fi": "Olen kiinnostunut kielistä.",
+    "example_en": "I am interested in languages.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "aion...",
+    "en": "I am going to...",
+    "type": "fraasi",
+    "example_fi": "Aion matkustaa ensi kesänä.",
+    "example_en": "I plan to travel next summer.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "voi olla, että…",
+    "en": "it could be that…",
+    "type": "fraasi",
+    "example_fi": "Voi olla, että olemme myöhässä.",
+    "example_en": "We may be late.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kun taas…",
+    "en": "while…",
+    "type": "fraasi",
+    "example_fi": "Hän tykkää kissoista, kun taas minä pidän koirista.",
+    "example_en": "He likes cats, while I like dogs.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on tärkeää huomata, että…",
+    "en": "It is important to note that…",
+    "type": "fraasi",
+    "example_fi": "On tärkeää huomata, että kaikki eivät ajattele samoin.",
+    "example_en": "It is important to note that not everyone thinks the same way.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "sitä ei voi…",
+    "en": "it can't be...",
+    "type": "fraasi",
+    "example_fi": "Sitä ei voi estää.",
+    "example_en": "It can't be stopped.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "…täytyy tehdä ensin…",
+    "en": "…must be done first…",
+    "type": "fraasi",
+    "example_fi": "Se täytyy tehdä ensin.",
+    "example_en": "That has to be done first.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tämän vuoksi…",
+    "en": "because of this…",
+    "type": "fraasi",
+    "example_fi": "Tämän vuoksi muutin suunnitelmani.",
+    "example_en": "Because of this, I changed my plan.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "aikaisemmin…",
+    "en": "earlier…",
+    "type": "fraasi",
+    "example_fi": "Aikaisemmin en tiennyt siitä mitään.",
+    "example_en": "I didn't know anything about it before.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "…siitä huolimatta, että…",
+    "en": "…although…",
+    "type": "fraasi",
+    "example_fi": "Siitä huolimatta, että satoi, menimme ulos.",
+    "example_en": "Even though it was raining, we went outside.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tässä vaiheessa…",
+    "en": "at this point…",
+    "type": "fraasi",
+    "example_fi": "Tässä vaiheessa olemme valmiita.",
+    "example_en": "At this point we are ready.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ollut enää…",
+    "en": "was no longer...",
+    "type": "fraasi",
+    "example_fi": "Hän ei ollut enää kiinnostunut.",
+    "example_en": "He wasn't interested anymore.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "mikäli…",
+    "en": "provided…",
+    "type": "fraasi",
+    "example_fi": "Mikäli sataa, pysyn kotona.",
+    "example_en": "If it rains, I'll stay home.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "onko mahdollista, että…",
+    "en": "Is it possible that...",
+    "type": "fraasi",
+    "example_fi": "Onko mahdollista, että hän tulee huomenna?",
+    "example_en": "Is it possible that he will come tomorrow?",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "silloin kun…",
+    "en": "when…",
+    "type": "fraasi",
+    "example_fi": "Silloin kun sataa, en mene ulos.",
+    "example_en": "When it rains, I don't go out.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "toisin kuin…",
+    "en": "unlike…",
+    "type": "fraasi",
+    "example_fi": "Toisin kuin muut, hän on hiljainen.",
+    "example_en": "Unlike the others, he is quiet.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vaikka olisi…",
+    "en": "even if it were…",
+    "type": "fraasi",
+    "example_fi": "Vaikka olisi kiire, syön aamupalan.",
+    "example_en": "Even if I'm in a hurry, I eat breakfast.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jos vain…",
+    "en": "if only…",
+    "type": "fraasi",
+    "example_fi": "Jos vain voisin auttaa!",
+    "example_en": "If only I could help!",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "…sen jälkeen, kun…",
+    "en": "…after…",
+    "type": "fraasi",
+    "example_fi": "Sen jälkeen, kun hän lähti, tuli hiljaista.",
+    "example_en": "After he left, it became quiet.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "varmasti…",
+    "en": "certainly…",
+    "type": "fraasi",
+    "example_fi": "Varmasti tulen juhliin.",
+    "example_en": "I'll definitely come to the party.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "tässä yhteydessä…",
+    "en": "in this context…",
+    "type": "fraasi",
+    "example_fi": "Tässä yhteydessä se ei ole sopivaa.",
+    "example_en": "In this context, it is not appropriate.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "paitsi että…",
+    "en": "except that…",
+    "type": "fraasi",
+    "example_fi": "Kaikki meni hyvin, paitsi että satoi.",
+    "example_en": "Everything went well, except it rained.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en ole varma, mutta luulen että…",
+    "en": "I'm not sure, but I think...",
+    "type": "fraasi",
+    "example_fi": "En ole varma, mutta luulen että hän on oikeassa.",
+    "example_en": "I'm not sure, but I think he's right.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kumpi tahansa…",
+    "en": "either…",
+    "type": "fraasi",
+    "example_fi": "Kumpi tahansa käy minulle.",
+    "example_en": "Either one works for me.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jotenkin…",
+    "en": "somehow…",
+    "type": "fraasi",
+    "example_fi": "Jotenkin hän tiesi vastauksen.",
+    "example_en": "Somehow he knew the answer.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "siitä huolimatta, että…",
+    "en": "although…",
+    "type": "fraasi",
+    "example_fi": "Siitä huolimatta, että oli vaikeaa, hän ei luovuttanut.",
+    "example_en": "Even though it was difficult, he didn't give up.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kun otetaan huomioon, että…",
+    "en": "considering that…",
+    "type": "fraasi",
+    "example_fi": "Kun otetaan huomioon, että aika on rajallinen, meidän täytyy kiirehtiä.",
+    "example_en": "Given that time is limited, we must hurry.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "olen sitä mieltä, että…",
+    "en": "I feel that…",
+    "type": "fraasi",
+    "example_fi": "Olen sitä mieltä, että tämä on hyvä idea.",
+    "example_en": "I think this is a good idea.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "se johtuu siitä, että…",
+    "en": "it is because…",
+    "type": "fraasi",
+    "example_fi": "Se johtuu siitä, että hän myöhästyi.",
+    "example_en": "It's because he was late.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole mitään syytä…",
+    "en": "there is no reason...",
+    "type": "fraasi",
+    "example_fi": "Ei ole mitään syytä huoleen.",
+    "example_en": "There is no reason to worry.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on vaikea uskoa, että…",
+    "en": "It's hard to believe that...",
+    "type": "fraasi",
+    "example_fi": "On vaikea uskoa, että se tapahtui.",
+    "example_en": "It's hard to believe it happened.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "vaikka… niin silti…",
+    "en": "even though… still…",
+    "type": "fraasi",
+    "example_fi": "Vaikka olin surullinen, niin silti hymyilin.",
+    "example_en": "Even though I was sad, I still smiled.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "mikäli en ole väärässä, niin…",
+    "en": "If I'm not wrong, then...",
+    "type": "fraasi",
+    "example_fi": "Mikäli en ole väärässä, niin hän on uusi opettaja.",
+    "example_en": "If I'm not mistaken, he's the new teacher.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on tärkeää muistaa, että…",
+    "en": "It is important to remember that…",
+    "type": "fraasi",
+    "example_fi": "On tärkeää muistaa, että lepo on tarpeellista.",
+    "example_en": "It is important to remember that rest is necessary.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "joka tapauksessa",
+    "en": "in any case",
+    "type": "fraasi",
+    "example_fi": "Joka tapauksessa, meidän täytyy yrittää.",
+    "example_en": "Anyway, we have to try.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "se on kuitenkin…",
+    "en": "however, it is…",
+    "type": "fraasi",
+    "example_fi": "Se on kuitenkin totta.",
+    "example_en": "However, it is true.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole mitään vikaa",
+    "en": "there is nothing wrong",
+    "type": "fraasi",
+    "example_fi": "Ei ole mitään vikaa suunnitelmassa.",
+    "example_en": "There's nothing wrong with the plan.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "minun täytyy myöntää, että…",
+    "en": "I have to admit that…",
+    "type": "fraasi",
+    "example_fi": "Minun täytyy myöntää, että olin väärässä.",
+    "example_en": "I have to admit that I was wrong.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on olemassa…",
+    "en": "there are…",
+    "type": "fraasi",
+    "example_fi": "On olemassa monia tapoja oppia.",
+    "example_en": "There are many ways to learn.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "sitä ei voi kiistää, että…",
+    "en": "It cannot be denied that...",
+    "type": "fraasi",
+    "example_fi": "Sitä ei voi kiistää, että hän on lahjakas.",
+    "example_en": "There's no denying that he's talented.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole epäilystäkään siitä, että…",
+    "en": "there is no doubt that…",
+    "type": "fraasi",
+    "example_fi": "Ei ole epäilystäkään siitä, että hän teki parhaansa.",
+    "example_en": "There is no doubt that he did his best.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jotenkin tuntuu, että…",
+    "en": "somehow it feels like...",
+    "type": "fraasi",
+    "example_fi": "Jotenkin tuntuu, että kaikki muuttuu.",
+    "example_en": "Somehow it feels like everything is changing.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "onko sinulla mitään hajua…",
+    "en": "Do you have any idea...",
+    "type": "fraasi",
+    "example_fi": "Onko sinulla mitään hajua, missä avaimet ovat?",
+    "example_en": "Do you have any idea where the keys are?",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole väliä, että…",
+    "en": "it doesn't matter that...",
+    "type": "fraasi",
+    "example_fi": "Ei ole väliä, että hän ei tullut.",
+    "example_en": "It doesn't matter that he didn't come.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en ole varma, mutta…",
+    "en": "I'm not sure, but...",
+    "type": "fraasi",
+    "example_fi": "En ole varma, mutta ehkä se auttaa.",
+    "example_en": "I'm not sure, but maybe it will help.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "etsin…",
+    "en": "I am looking for…",
+    "type": "fraasi",
+    "example_fi": "Etsin uutta työpaikkaa.",
+    "example_en": "I am looking for a new job.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "on ihan luonnollista, että…",
+    "en": "It is only natural that...",
+    "type": "fraasi",
+    "example_fi": "On ihan luonnollista, että pelottaa vähän.",
+    "example_en": "It's natural to be a little scared.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole enää mitään…",
+    "en": "there is nothing left...",
+    "type": "fraasi",
+    "example_fi": "Ei ole enää mitään tekemistä.",
+    "example_en": "There's nothing left to do.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en voi auttaa, mutta…",
+    "en": "I can't help it, but...",
+    "type": "fraasi",
+    "example_fi": "En voi auttaa, mutta ajattelen häntä.",
+    "example_en": "I can't help but think about him.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "…että…",
+    "en": "…that…",
+    "type": "fraasi",
+    "example_fi": "Uskon, että se on totta.",
+    "example_en": "I believe that's true.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "ei ole kyse siitä, että…",
+    "en": "It's not about...",
+    "type": "fraasi",
+    "example_fi": "Ei ole kyse siitä, että en haluaisi.",
+    "example_en": "It's not that I don't want to.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "olisi ollut parempi, jos…",
+    "en": "It would have been better if...",
+    "type": "fraasi",
+    "example_fi": "Olisi ollut parempi, jos olisin kuunnellut.",
+    "example_en": "It would have been better if I had listened.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "aina kun…",
+    "en": "whenever…",
+    "type": "fraasi",
+    "example_fi": "Aina kun sataa, juon teetä.",
+    "example_en": "Whenever it rains, I drink tea.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en osaa sanoa, miksi…",
+    "en": "I can't say why...",
+    "type": "fraasi",
+    "example_fi": "En osaa sanoa, miksi hän ei tullut.",
+    "example_en": "I can't say why he didn't come.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "onko sinulla koskaan ollut…",
+    "en": "Have you ever had…",
+    "type": "fraasi",
+    "example_fi": "Onko sinulla koskaan ollut tällainen tunne?",
+    "example_en": "Have you ever had this feeling?",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "kuten olen jo maininnut, että…",
+    "en": "as I have already mentioned that...",
+    "type": "fraasi",
+    "example_fi": "Kuten olen jo maininnut, että tämä on tärkeää.",
+    "example_en": "As I have already mentioned, this is important.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "jos sinä olisit minä, niin…",
+    "en": "If you were me, then...",
+    "type": "fraasi",
+    "example_fi": "Jos sinä olisit minä, niin ymmärtäisit.",
+    "example_en": "If you were me, you would understand.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "se voi olla, että…",
+    "en": "it could be that…",
+    "type": "fraasi",
+    "example_fi": "Se voi olla, että hän on oikeassa.",
+    "example_en": "It could be that he is right.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "en ole vielä varma, mutta…",
+    "en": "I'm not sure yet, but...",
+    "type": "fraasi",
+    "example_fi": "En ole vielä varma, mutta tutkitaan asiaa.",
+    "example_en": "I'm not sure yet, but we'll look into it.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "onko mitään mahdollisuutta, että…",
+    "en": "is there any chance that...",
+    "type": "fraasi",
+    "example_fi": "Onko mitään mahdollisuutta, että se onnistuu?",
+    "example_en": "Is there any chance it will work?",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   },
+   {
+    "fi": "toisin kuin useimmat, minä…",
+    "en": "Unlike most, I...",
+    "type": "fraasi",
+    "example_fi": "Toisin kuin useimmat, minä pidän hiljaisuudesta.",
+    "example_en": "Unlike most, I like silence.",
+    "note": "Mallilause / sentence pattern (YKI B1)."
+   }
+  ]
+ }
+]
