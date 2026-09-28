@@ -1,0 +1,792 @@
+[
+ {
+  "category": "YKI – Adjektiivit (sijamuodot)",
+  "category_en": "Adjectives: case forms (100)",
+  "cards": [
+   {
+    "fi": "iloinen",
+    "en": "cheerful",
+    "type": "adjektiivi",
+    "example_fi": "Lapsi on iloinen.",
+    "example_en": "The child is cheerful.",
+    "note": "Genetiivi: iloisen · Partitiivi: iloista · Mon. partitiivi: iloisia · Mon. genetiivi: iloisten"
+   },
+   {
+    "fi": "surullinen",
+    "en": "sad",
+    "type": "adjektiivi",
+    "example_fi": "Elokuva oli surullinen.",
+    "example_en": "The movie was sad.",
+    "note": "Genetiivi: surullisen · Partitiivi: surullista · Mon. partitiivi: surullisia · Mon. genetiivi: surullisten"
+   },
+   {
+    "fi": "vihainen",
+    "en": "mad",
+    "type": "adjektiivi",
+    "example_fi": "Opettaja oli vihainen.",
+    "example_en": "The teacher was mad.",
+    "note": "Genetiivi: vihaisen · Partitiivi: vihaista · Mon. partitiivi: vihaisia · Mon. genetiivi: vihaisten"
+   },
+   {
+    "fi": "väsynyt",
+    "en": "tired",
+    "type": "adjektiivi",
+    "example_fi": "Olen tänään väsynyt.",
+    "example_en": "I am tired today.",
+    "note": "Genetiivi: väsyneen · Partitiivi: väsynyttä · Mon. partitiivi: väsyneitä · Mon. genetiivi: väsyneiden"
+   },
+   {
+    "fi": "energinen",
+    "en": "energetic",
+    "type": "adjektiivi",
+    "example_fi": "Hän on hyvin energinen.",
+    "example_en": "He is very energetic.",
+    "note": "Genetiivi: energisen · Partitiivi: energistä · Mon. partitiivi: energisiä · Mon. genetiivi: energisten"
+   },
+   {
+    "fi": "ystävällinen",
+    "en": "friendly",
+    "type": "adjektiivi",
+    "example_fi": "Naapuri on ystävällinen.",
+    "example_en": "The neighbor is friendly.",
+    "note": "Genetiivi: ystävällisen · Partitiivi: ystävällistä · Mon. partitiivi: ystävällisiä · Mon. genetiivi: ystävällisten"
+   },
+   {
+    "fi": "ujo",
+    "en": "shy",
+    "type": "adjektiivi",
+    "example_fi": "Poika on ujo.",
+    "example_en": "The boy is shy.",
+    "note": "Genetiivi: ujon · Partitiivi: ujoa · Mon. partitiivi: ujoja · Mon. genetiivi: ujojen"
+   },
+   {
+    "fi": "ahkera",
+    "en": "diligent",
+    "type": "adjektiivi",
+    "example_fi": "Opiskelija on ahkera.",
+    "example_en": "The student is diligent.",
+    "note": "Genetiivi: ahkeran · Partitiivi: ahkeraa · Mon. partitiivi: ahkeria · Mon. genetiivi: ahkerien"
+   },
+   {
+    "fi": "laiska",
+    "en": "lazy",
+    "type": "adjektiivi",
+    "example_fi": "Kissa on laiska.",
+    "example_en": "The cat is lazy.",
+    "note": "Genetiivi: laiskan · Partitiivi: laiskaa · Mon. partitiivi: laiskoja · Mon. genetiivi: laiskojen"
+   },
+   {
+    "fi": "rauhallinen",
+    "en": "quiet",
+    "type": "adjektiivi",
+    "example_fi": "Ilta oli rauhallinen.",
+    "example_en": "The evening was quiet.",
+    "note": "Genetiivi: rauhallisen · Partitiivi: rauhallista · Mon. partitiivi: rauhallisia · Mon. genetiivi: rauhallisten"
+   },
+   {
+    "fi": "levoton",
+    "en": "restless",
+    "type": "adjektiivi",
+    "example_fi": "Lapsi on levoton.",
+    "example_en": "The child is restless.",
+    "note": "Genetiivi: levottoman · Partitiivi: levotonta · Mon. partitiivi: levottomia · Mon. genetiivi: levottomien"
+   },
+   {
+    "fi": "kohtelias",
+    "en": "polite",
+    "type": "adjektiivi",
+    "example_fi": "Tarjoilija oli kohtelias.",
+    "example_en": "The waiter was polite.",
+    "note": "Genetiivi: kohteliaan · Partitiivi: kohteliasta · Mon. partitiivi: kohteliaita · Mon. genetiivi: kohteliaiden"
+   },
+   {
+    "fi": "epäkohtelias",
+    "en": "impolite",
+    "type": "adjektiivi",
+    "example_fi": "Asiakas oli epäkohtelias.",
+    "example_en": "The customer was impolite.",
+    "note": "Genetiivi: epäkohteliaan · Partitiivi: epäkohteliasta · Mon. partitiivi: epäkohteliaita · Mon. genetiivi: epäkohteliaiden"
+   },
+   {
+    "fi": "rehellinen",
+    "en": "honest",
+    "type": "adjektiivi",
+    "example_fi": "Ystäväni on rehellinen.",
+    "example_en": "My friend is honest.",
+    "note": "Genetiivi: rehellisen · Partitiivi: rehellistä · Mon. partitiivi: rehellisiä · Mon. genetiivi: rehellisten"
+   },
+   {
+    "fi": "epärehellinen",
+    "en": "dishonest",
+    "type": "adjektiivi",
+    "example_fi": "Myyjä oli epärehellinen.",
+    "example_en": "The seller was dishonest.",
+    "note": "Genetiivi: epärehellisen · Partitiivi: epärehellistä · Mon. partitiivi: epärehellisiä · Mon. genetiivi: epärehellisten"
+   },
+   {
+    "fi": "kiltti",
+    "en": "kind",
+    "type": "adjektiivi",
+    "example_fi": "Isoäiti on kiltti.",
+    "example_en": "Grandmother is kind.",
+    "note": "Genetiivi: kiltin · Partitiivi: kilttiä · Mon. partitiivi: kilttejä · Mon. genetiivi: kilttien"
+   },
+   {
+    "fi": "ilkeä",
+    "en": "malicious",
+    "type": "adjektiivi",
+    "example_fi": "Naapurin koira on ilkeä.",
+    "example_en": "The neighbor's dog is malicious.",
+    "note": "Genetiivi: ilkeän · Partitiivi: ilkeää · Mon. partitiivi: ilkeitä · Mon. genetiivi: ilkeiden"
+   },
+   {
+    "fi": "rohkea",
+    "en": "brave",
+    "type": "adjektiivi",
+    "example_fi": "Palomies on rohkea.",
+    "example_en": "The firefighter is brave.",
+    "note": "Genetiivi: rohkean · Partitiivi: rohkeaa · Mon. partitiivi: rohkeita · Mon. genetiivi: rohkeiden"
+   },
+   {
+    "fi": "pelokas",
+    "en": "fearful",
+    "type": "adjektiivi",
+    "example_fi": "Koira on pelokas.",
+    "example_en": "The dog is fearful.",
+    "note": "Genetiivi: pelokkaan · Partitiivi: pelokasta · Mon. partitiivi: pelokkaita · Mon. genetiivi: pelokkaiden"
+   },
+   {
+    "fi": "hermostunut",
+    "en": "nervous",
+    "type": "adjektiivi",
+    "example_fi": "Hän oli kokeessa hermostunut.",
+    "example_en": "He was nervous in the exam.",
+    "note": "Genetiivi: hermostuneen · Partitiivi: hermostunutta · Mon. partitiivi: hermostuneita · Mon. genetiivi: hermostuneiden"
+   },
+   {
+    "fi": "kaunis",
+    "en": "beautiful",
+    "type": "adjektiivi",
+    "example_fi": "Maisema on kaunis.",
+    "example_en": "The landscape is beautiful.",
+    "note": "Genetiivi: kauniin · Partitiivi: kaunista · Mon. partitiivi: kauniita · Mon. genetiivi: kauniiden"
+   },
+   {
+    "fi": "komea",
+    "en": "handsome",
+    "type": "adjektiivi",
+    "example_fi": "Näyttelijä on komea.",
+    "example_en": "The actor is handsome.",
+    "note": "Genetiivi: komean · Partitiivi: komeaa · Mon. partitiivi: komeita · Mon. genetiivi: komeiden"
+   },
+   {
+    "fi": "ruma",
+    "en": "ugly",
+    "type": "adjektiivi",
+    "example_fi": "Rakennus on ruma.",
+    "example_en": "The building is ugly.",
+    "note": "Genetiivi: ruman · Partitiivi: rumaa · Mon. partitiivi: rumia · Mon. genetiivi: rumien"
+   },
+   {
+    "fi": "pitkä",
+    "en": "long",
+    "type": "adjektiivi",
+    "example_fi": "Matka oli pitkä.",
+    "example_en": "The trip was long.",
+    "note": "Genetiivi: pitkän · Partitiivi: pitkää · Mon. partitiivi: pitkiä · Mon. genetiivi: pitkien"
+   },
+   {
+    "fi": "lyhyt",
+    "en": "short",
+    "type": "adjektiivi",
+    "example_fi": "Loma oli lyhyt.",
+    "example_en": "The vacation was short.",
+    "note": "Genetiivi: lyhyen · Partitiivi: lyhyttä · Mon. partitiivi: lyhyitä · Mon. genetiivi: lyhyiden"
+   },
+   {
+    "fi": "laiha",
+    "en": "lean",
+    "type": "adjektiivi",
+    "example_fi": "Malli on laiha.",
+    "example_en": "The model is lean.",
+    "note": "Genetiivi: laihan · Partitiivi: laihaa · Mon. partitiivi: laihoja · Mon. genetiivi: laihojen"
+   },
+   {
+    "fi": "lihava",
+    "en": "fat",
+    "type": "adjektiivi",
+    "example_fi": "Sika on lihava.",
+    "example_en": "The pig is fat.",
+    "note": "Genetiivi: lihavan · Partitiivi: lihavaa · Mon. partitiivi: lihavia · Mon. genetiivi: lihavien"
+   },
+   {
+    "fi": "nuori",
+    "en": "young",
+    "type": "adjektiivi",
+    "example_fi": "Opettaja on nuori.",
+    "example_en": "The teacher is young.",
+    "note": "Genetiivi: nuoren · Partitiivi: nuorta · Mon. partitiivi: nuoria · Mon. genetiivi: nuorten"
+   },
+   {
+    "fi": "vanha",
+    "en": "old",
+    "type": "adjektiivi",
+    "example_fi": "Talo on vanha.",
+    "example_en": "The house is old.",
+    "note": "Genetiivi: vanhan · Partitiivi: vanhaa · Mon. partitiivi: vanhoja · Mon. genetiivi: vanhojen"
+   },
+   {
+    "fi": "vahva",
+    "en": "strong",
+    "type": "adjektiivi",
+    "example_fi": "Urheilija on vahva.",
+    "example_en": "The athlete is strong.",
+    "note": "Genetiivi: vahvan · Partitiivi: vahvaa · Mon. partitiivi: vahvoja · Mon. genetiivi: vahvojen"
+   },
+   {
+    "fi": "suuri",
+    "en": "large",
+    "type": "adjektiivi",
+    "example_fi": "Kaupunki on suuri.",
+    "example_en": "The city is large.",
+    "note": "Genetiivi: suuren · Partitiivi: suurta · Mon. partitiivi: suuria · Mon. genetiivi: suurten"
+   },
+   {
+    "fi": "pieni",
+    "en": "small",
+    "type": "adjektiivi",
+    "example_fi": "Huone on pieni.",
+    "example_en": "The room is small.",
+    "note": "Genetiivi: pienen · Partitiivi: pientä · Mon. partitiivi: pieniä · Mon. genetiivi: pienten"
+   },
+   {
+    "fi": "leveä",
+    "en": "wide",
+    "type": "adjektiivi",
+    "example_fi": "Joki on leveä.",
+    "example_en": "The river is wide.",
+    "note": "Genetiivi: leveän · Partitiivi: leveää · Mon. partitiivi: leveitä · Mon. genetiivi: leveiden"
+   },
+   {
+    "fi": "kapea",
+    "en": "narrow",
+    "type": "adjektiivi",
+    "example_fi": "Katu on kapea.",
+    "example_en": "The street is narrow.",
+    "note": "Genetiivi: kapean · Partitiivi: kapeaa · Mon. partitiivi: kapeita · Mon. genetiivi: kapeiden"
+   },
+   {
+    "fi": "korkea",
+    "en": "high",
+    "type": "adjektiivi",
+    "example_fi": "Vuori on korkea.",
+    "example_en": "The mountain is high.",
+    "note": "Genetiivi: korkean · Partitiivi: korkeaa · Mon. partitiivi: korkeita · Mon. genetiivi: korkeiden"
+   },
+   {
+    "fi": "matala",
+    "en": "low",
+    "type": "adjektiivi",
+    "example_fi": "Aita on matala.",
+    "example_en": "The fence is low.",
+    "note": "Genetiivi: matalan · Partitiivi: matalaa · Mon. partitiivi: matalia · Mon. genetiivi: matalien"
+   },
+   {
+    "fi": "syvä",
+    "en": "deep",
+    "type": "adjektiivi",
+    "example_fi": "Järvi on syvä.",
+    "example_en": "The lake is deep.",
+    "note": "Genetiivi: syvän · Partitiivi: syvää · Mon. partitiivi: syviä · Mon. genetiivi: syvien"
+   },
+   {
+    "fi": "pyöreä",
+    "en": "round",
+    "type": "adjektiivi",
+    "example_fi": "Pöytä on pyöreä.",
+    "example_en": "The table is round.",
+    "note": "Genetiivi: pyöreän · Partitiivi: pyöreää · Mon. partitiivi: pyöreitä · Mon. genetiivi: pyöreiden"
+   },
+   {
+    "fi": "suora",
+    "en": "direct",
+    "type": "adjektiivi",
+    "example_fi": "Tie on suora.",
+    "example_en": "The road is direct.",
+    "note": "Genetiivi: suoran · Partitiivi: suoraa · Mon. partitiivi: suoria · Mon. genetiivi: suorien"
+   },
+   {
+    "fi": "punainen",
+    "en": "red",
+    "type": "adjektiivi",
+    "example_fi": "Auto on punainen.",
+    "example_en": "The car is red.",
+    "note": "Genetiivi: punaisen · Partitiivi: punaista · Mon. partitiivi: punaisia · Mon. genetiivi: punaisten"
+   },
+   {
+    "fi": "sininen",
+    "en": "blue",
+    "type": "adjektiivi",
+    "example_fi": "Taivas on sininen.",
+    "example_en": "The sky is blue.",
+    "note": "Genetiivi: sinisen · Partitiivi: sinistä · Mon. partitiivi: sinisiä · Mon. genetiivi: sinisten"
+   },
+   {
+    "fi": "vihreä",
+    "en": "green",
+    "type": "adjektiivi",
+    "example_fi": "Ruoho on vihreä.",
+    "example_en": "The grass is green.",
+    "note": "Genetiivi: vihreän · Partitiivi: vihreää · Mon. partitiivi: vihreitä · Mon. genetiivi: vihreiden"
+   },
+   {
+    "fi": "keltainen",
+    "en": "yellow",
+    "type": "adjektiivi",
+    "example_fi": "Aurinko on keltainen.",
+    "example_en": "The sun is yellow.",
+    "note": "Genetiivi: keltaisen · Partitiivi: keltaista · Mon. partitiivi: keltaisia · Mon. genetiivi: keltaisten"
+   },
+   {
+    "fi": "musta",
+    "en": "black",
+    "type": "adjektiivi",
+    "example_fi": "Kissa on musta.",
+    "example_en": "The cat is black.",
+    "note": "Genetiivi: mustan · Partitiivi: mustaa · Mon. partitiivi: mustia · Mon. genetiivi: mustien"
+   },
+   {
+    "fi": "valkoinen",
+    "en": "white",
+    "type": "adjektiivi",
+    "example_fi": "Lumi on valkoinen.",
+    "example_en": "The snow is white.",
+    "note": "Genetiivi: valkoisen · Partitiivi: valkoista · Mon. partitiivi: valkoisia · Mon. genetiivi: valkoisten"
+   },
+   {
+    "fi": "ruskea",
+    "en": "brown",
+    "type": "adjektiivi",
+    "example_fi": "Karhu on ruskea.",
+    "example_en": "The bear is brown.",
+    "note": "Genetiivi: ruskean · Partitiivi: ruskeaa · Mon. partitiivi: ruskeita · Mon. genetiivi: ruskeiden"
+   },
+   {
+    "fi": "harmaa",
+    "en": "gray",
+    "type": "adjektiivi",
+    "example_fi": "Pilvi on harmaa.",
+    "example_en": "The cloud is gray.",
+    "note": "Genetiivi: harmaan · Partitiivi: harmaata · Mon. partitiivi: harmaita · Mon. genetiivi: harmaiden"
+   },
+   {
+    "fi": "oranssi",
+    "en": "orange",
+    "type": "adjektiivi",
+    "example_fi": "Appelsiini on oranssi.",
+    "example_en": "The orange is orange.",
+    "note": "Genetiivi: oranssin · Partitiivi: oranssia · Mon. partitiivi: oransseja · Mon. genetiivi: oranssien"
+   },
+   {
+    "fi": "vaaleanpunainen",
+    "en": "pink",
+    "type": "adjektiivi",
+    "example_fi": "Mekko on vaaleanpunainen.",
+    "example_en": "The dress is pink.",
+    "note": "Genetiivi: vaaleanpunaisen · Partitiivi: vaaleanpunaista · Mon. partitiivi: vaaleanpunaisia · Mon. genetiivi: vaaleanpunaisten"
+   },
+   {
+    "fi": "kuuma",
+    "en": "hot",
+    "type": "adjektiivi",
+    "example_fi": "Kahvi on kuuma.",
+    "example_en": "The coffee is hot.",
+    "note": "Genetiivi: kuuman · Partitiivi: kuumaa · Mon. partitiivi: kuumia · Mon. genetiivi: kuumien"
+   },
+   {
+    "fi": "kylmä",
+    "en": "cold",
+    "type": "adjektiivi",
+    "example_fi": "Vesi on kylmä.",
+    "example_en": "The water is cold.",
+    "note": "Genetiivi: kylmän · Partitiivi: kylmää · Mon. partitiivi: kylmiä · Mon. genetiivi: kylmien"
+   },
+   {
+    "fi": "märkä",
+    "en": "wet",
+    "type": "adjektiivi",
+    "example_fi": "Takki on märkä.",
+    "example_en": "The coat is wet.",
+    "note": "Genetiivi: märän · Partitiivi: märkää · Mon. partitiivi: märkiä · Mon. genetiivi: märkien"
+   },
+   {
+    "fi": "kuiva",
+    "en": "dry",
+    "type": "adjektiivi",
+    "example_fi": "Maa on kuiva.",
+    "example_en": "The ground is dry.",
+    "note": "Genetiivi: kuivan · Partitiivi: kuivaa · Mon. partitiivi: kuivia · Mon. genetiivi: kuivien"
+   },
+   {
+    "fi": "raskas",
+    "en": "heavy",
+    "type": "adjektiivi",
+    "example_fi": "Laukku on raskas.",
+    "example_en": "The bag is heavy.",
+    "note": "Genetiivi: raskaan · Partitiivi: raskasta · Mon. partitiivi: raskaita · Mon. genetiivi: raskaiden"
+   },
+   {
+    "fi": "kevyt",
+    "en": "light",
+    "type": "adjektiivi",
+    "example_fi": "Kassi on kevyt.",
+    "example_en": "The bag is light.",
+    "note": "Genetiivi: kevyen · Partitiivi: kevyttä · Mon. partitiivi: kevyitä · Mon. genetiivi: kevyiden"
+   },
+   {
+    "fi": "kova",
+    "en": "hard",
+    "type": "adjektiivi",
+    "example_fi": "Kivi on kova.",
+    "example_en": "The stone is hard.",
+    "note": "Genetiivi: kovan · Partitiivi: kovaa · Mon. partitiivi: kovia · Mon. genetiivi: kovien"
+   },
+   {
+    "fi": "pehmeä",
+    "en": "soft",
+    "type": "adjektiivi",
+    "example_fi": "Sohva on pehmeä.",
+    "example_en": "The sofa is soft.",
+    "note": "Genetiivi: pehmeän · Partitiivi: pehmeää · Mon. partitiivi: pehmeitä · Mon. genetiivi: pehmeiden"
+   },
+   {
+    "fi": "liukas",
+    "en": "slippery",
+    "type": "adjektiivi",
+    "example_fi": "Tie on liukas.",
+    "example_en": "The road is slippery.",
+    "note": "Genetiivi: liukkaan · Partitiivi: liukasta · Mon. partitiivi: liukkaita · Mon. genetiivi: liukkaiden"
+   },
+   {
+    "fi": "karkea",
+    "en": "coarse",
+    "type": "adjektiivi",
+    "example_fi": "Hiekka on karkea.",
+    "example_en": "The sand is coarse.",
+    "note": "Genetiivi: karkean · Partitiivi: karkeaa · Mon. partitiivi: karkeita · Mon. genetiivi: karkeiden"
+   },
+   {
+    "fi": "nopea",
+    "en": "fast",
+    "type": "adjektiivi",
+    "example_fi": "Juna on nopea.",
+    "example_en": "The train is fast.",
+    "note": "Genetiivi: nopean · Partitiivi: nopeaa · Mon. partitiivi: nopeita · Mon. genetiivi: nopeiden"
+   },
+   {
+    "fi": "hidas",
+    "en": "slow",
+    "type": "adjektiivi",
+    "example_fi": "Tietokone on hidas.",
+    "example_en": "The computer is slow.",
+    "note": "Genetiivi: hitaan · Partitiivi: hidasta · Mon. partitiivi: hitaita · Mon. genetiivi: hitaiden"
+   },
+   {
+    "fi": "uusi",
+    "en": "new",
+    "type": "adjektiivi",
+    "example_fi": "Puhelin on uusi.",
+    "example_en": "The phone is new.",
+    "note": "Genetiivi: uuden · Partitiivi: uutta · Mon. partitiivi: uusia · Mon. genetiivi: uusien"
+   },
+   {
+    "fi": "aikainen",
+    "en": "early",
+    "type": "adjektiivi",
+    "example_fi": "Aamu oli aikainen.",
+    "example_en": "The morning was early.",
+    "note": "Genetiivi: aikaisen · Partitiivi: aikaista · Mon. partitiivi: aikaisia · Mon. genetiivi: aikaisten"
+   },
+   {
+    "fi": "myöhäinen",
+    "en": "late",
+    "type": "adjektiivi",
+    "example_fi": "Ilta oli jo myöhäinen.",
+    "example_en": "The evening was already late.",
+    "note": "Genetiivi: myöhäisen · Partitiivi: myöhäistä · Mon. partitiivi: myöhäisiä · Mon. genetiivi: myöhäisten"
+   },
+   {
+    "fi": "jokapäiväinen",
+    "en": "mundane",
+    "type": "adjektiivi",
+    "example_fi": "Työ on jokapäiväinen.",
+    "example_en": "The work is mundane.",
+    "note": "Genetiivi: jokapäiväisen · Partitiivi: jokapäiväistä · Mon. partitiivi: jokapäiväisiä · Mon. genetiivi: jokapäiväisten"
+   },
+   {
+    "fi": "satunnainen",
+    "en": "random",
+    "type": "adjektiivi",
+    "example_fi": "Valinta oli satunnainen.",
+    "example_en": "The choice was random.",
+    "note": "Genetiivi: satunnaisen · Partitiivi: satunnaista · Mon. partitiivi: satunnaisia · Mon. genetiivi: satunnaisten"
+   },
+   {
+    "fi": "lyhytaikainen",
+    "en": "brief",
+    "type": "adjektiivi",
+    "example_fi": "Sopimus on lyhytaikainen.",
+    "example_en": "The contract is brief.",
+    "note": "Genetiivi: lyhytaikaisen · Partitiivi: lyhytaikaista · Mon. partitiivi: lyhytaikaisia · Mon. genetiivi: lyhytaikaisten"
+   },
+   {
+    "fi": "pitkäaikainen",
+    "en": "prolonged",
+    "type": "adjektiivi",
+    "example_fi": "Sairaus oli pitkäaikainen.",
+    "example_en": "The illness was prolonged.",
+    "note": "Genetiivi: pitkäaikaisen · Partitiivi: pitkäaikaista · Mon. partitiivi: pitkäaikaisia · Mon. genetiivi: pitkäaikaisten"
+   },
+   {
+    "fi": "viisas",
+    "en": "wise",
+    "type": "adjektiivi",
+    "example_fi": "Vanha mies on viisas.",
+    "example_en": "The old man is wise.",
+    "note": "Genetiivi: viisaan · Partitiivi: viisasta · Mon. partitiivi: viisaita · Mon. genetiivi: viisaiden"
+   },
+   {
+    "fi": "tyhmä",
+    "en": "stupid",
+    "type": "adjektiivi",
+    "example_fi": "Kysymys ei ole tyhmä.",
+    "example_en": "The question is not stupid.",
+    "note": "Genetiivi: tyhmän · Partitiivi: tyhmää · Mon. partitiivi: tyhmiä · Mon. genetiivi: tyhmien"
+   },
+   {
+    "fi": "mielenkiintoinen",
+    "en": "interesting",
+    "type": "adjektiivi",
+    "example_fi": "Kirja on mielenkiintoinen.",
+    "example_en": "The book is interesting.",
+    "note": "Genetiivi: mielenkiintoisen · Partitiivi: mielenkiintoista · Mon. partitiivi: mielenkiintoisia · Mon. genetiivi: mielenkiintoisten"
+   },
+   {
+    "fi": "tylsä",
+    "en": "boring",
+    "type": "adjektiivi",
+    "example_fi": "Luento oli tylsä.",
+    "example_en": "The lecture was boring.",
+    "note": "Genetiivi: tylsän · Partitiivi: tylsää · Mon. partitiivi: tylsiä · Mon. genetiivi: tylsien"
+   },
+   {
+    "fi": "helppo",
+    "en": "easy",
+    "type": "adjektiivi",
+    "example_fi": "Tehtävä on helppo.",
+    "example_en": "The task is easy.",
+    "note": "Genetiivi: helpon · Partitiivi: helppoa · Mon. partitiivi: helppoja · Mon. genetiivi: helppojen"
+   },
+   {
+    "fi": "vaikea",
+    "en": "difficult",
+    "type": "adjektiivi",
+    "example_fi": "Koe oli vaikea.",
+    "example_en": "The exam was difficult.",
+    "note": "Genetiivi: vaikean · Partitiivi: vaikeaa · Mon. partitiivi: vaikeita · Mon. genetiivi: vaikeiden"
+   },
+   {
+    "fi": "tärkeä",
+    "en": "important",
+    "type": "adjektiivi",
+    "example_fi": "Asia on tärkeä.",
+    "example_en": "The matter is important.",
+    "note": "Genetiivi: tärkeän · Partitiivi: tärkeää · Mon. partitiivi: tärkeitä · Mon. genetiivi: tärkeiden"
+   },
+   {
+    "fi": "tarpeeton",
+    "en": "unnecessary",
+    "type": "adjektiivi",
+    "example_fi": "Ostos oli tarpeeton.",
+    "example_en": "The purchase was unnecessary.",
+    "note": "Genetiivi: tarpeettoman · Partitiivi: tarpeetonta · Mon. partitiivi: tarpeettomia · Mon. genetiivi: tarpeettomien"
+   },
+   {
+    "fi": "tuttu",
+    "en": "known",
+    "type": "adjektiivi",
+    "example_fi": "Kasvot ovat tutut.",
+    "example_en": "The face is known.",
+    "note": "Genetiivi: tutun · Partitiivi: tuttua · Mon. partitiivi: tuttuja · Mon. genetiivi: tuttujen"
+   },
+   {
+    "fi": "outo",
+    "en": "strange",
+    "type": "adjektiivi",
+    "example_fi": "Ääni oli outo.",
+    "example_en": "The sound was strange.",
+    "note": "Genetiivi: oudon · Partitiivi: outoa · Mon. partitiivi: outoja · Mon. genetiivi: outojen"
+   },
+   {
+    "fi": "auki",
+    "en": "open",
+    "type": "adjektiivi",
+    "example_fi": "Kauppa on auki.",
+    "example_en": "The shop is open.",
+    "note": "Genetiivi: auki · Partitiivi: auki · Mon. partitiivi: auki · Mon. genetiivi: auki"
+   },
+   {
+    "fi": "kiinni",
+    "en": "closed",
+    "type": "adjektiivi",
+    "example_fi": "Ovi on kiinni.",
+    "example_en": "The door is closed.",
+    "note": "Genetiivi: kiinni · Partitiivi: kiinni · Mon. partitiivi: kiinni · Mon. genetiivi: kiinni"
+   },
+   {
+    "fi": "likainen",
+    "en": "dirty",
+    "type": "adjektiivi",
+    "example_fi": "Lattia on likainen.",
+    "example_en": "The floor is dirty.",
+    "note": "Genetiivi: likaisen · Partitiivi: likaista · Mon. partitiivi: likaisia · Mon. genetiivi: likaisten"
+   },
+   {
+    "fi": "puhdas",
+    "en": "clean",
+    "type": "adjektiivi",
+    "example_fi": "Pöytä on puhdas.",
+    "example_en": "The table is clean.",
+    "note": "Genetiivi: puhtaan · Partitiivi: puhdasta · Mon. partitiivi: puhtaita · Mon. genetiivi: puhtaiden"
+   },
+   {
+    "fi": "rikki",
+    "en": "broken",
+    "type": "adjektiivi",
+    "example_fi": "Puhelin on rikki.",
+    "example_en": "The phone is broken.",
+    "note": "Genetiivi: rikki · Partitiivi: rikki · Mon. partitiivi: rikki · Mon. genetiivi: rikki"
+   },
+   {
+    "fi": "ehjä",
+    "en": "unbroken",
+    "type": "adjektiivi",
+    "example_fi": "Lasi on ehjä.",
+    "example_en": "The glass is unbroken.",
+    "note": "Genetiivi: ehjän · Partitiivi: ehjää · Mon. partitiivi: ehjiä · Mon. genetiivi: ehjien"
+   },
+   {
+    "fi": "tyhjä",
+    "en": "empty",
+    "type": "adjektiivi",
+    "example_fi": "Pullo on tyhjä.",
+    "example_en": "The bottle is empty.",
+    "note": "Genetiivi: tyhjän · Partitiivi: tyhjää · Mon. partitiivi: tyhjiä · Mon. genetiivi: tyhjien"
+   },
+   {
+    "fi": "täynnä",
+    "en": "full",
+    "type": "adjektiivi",
+    "example_fi": "Sali on täynnä.",
+    "example_en": "The hall is full.",
+    "note": "Genetiivi: täynnä · Partitiivi: täynnä · Mon. partitiivi: täynnä · Mon. genetiivi: täynnä"
+   },
+   {
+    "fi": "elossa",
+    "en": "alive",
+    "type": "adjektiivi",
+    "example_fi": "Potilas on yhä elossa.",
+    "example_en": "The patient is still alive.",
+    "note": "Genetiivi: elossa · Partitiivi: elossa · Mon. partitiivi: elossa · Mon. genetiivi: elossa"
+   },
+   {
+    "fi": "kuollut",
+    "en": "dead",
+    "type": "adjektiivi",
+    "example_fi": "Puu on kuollut.",
+    "example_en": "The tree is dead.",
+    "note": "Genetiivi: kuolleen · Partitiivi: kuollutta · Mon. partitiivi: kuolleita · Mon. genetiivi: kuolleiden"
+   },
+   {
+    "fi": "oikeudenmukainen",
+    "en": "fair",
+    "type": "adjektiivi",
+    "example_fi": "Tuomio oli oikeudenmukainen.",
+    "example_en": "The verdict was fair.",
+    "note": "Genetiivi: oikeudenmukaisen · Partitiivi: oikeudenmukaista · Mon. partitiivi: oikeudenmukaisia · Mon. genetiivi: oikeudenmukaisten"
+   },
+   {
+    "fi": "epäreilu",
+    "en": "unfair",
+    "type": "adjektiivi",
+    "example_fi": "Peli oli epäreilu.",
+    "example_en": "The game was unfair.",
+    "note": "Genetiivi: epäreilun · Partitiivi: epäreilua · Mon. partitiivi: epäreiluja · Mon. genetiivi: epäreilujen"
+   },
+   {
+    "fi": "vapaa",
+    "en": "free",
+    "type": "adjektiivi",
+    "example_fi": "Paikka on vapaa.",
+    "example_en": "The seat is free.",
+    "note": "Genetiivi: vapaan · Partitiivi: vapaata · Mon. partitiivi: vapaita · Mon. genetiivi: vapaiden"
+   },
+   {
+    "fi": "kiireinen",
+    "en": "busy",
+    "type": "adjektiivi",
+    "example_fi": "Aamu oli kiireinen.",
+    "example_en": "The morning was busy.",
+    "note": "Genetiivi: kiireisen · Partitiivi: kiireistä · Mon. partitiivi: kiireisiä · Mon. genetiivi: kiireisten"
+   },
+   {
+    "fi": "kuuluisa",
+    "en": "renowned",
+    "type": "adjektiivi",
+    "example_fi": "Laulaja on kuuluisa.",
+    "example_en": "The singer is renowned.",
+    "note": "Genetiivi: kuuluisan · Partitiivi: kuuluisaa · Mon. partitiivi: kuuluisia · Mon. genetiivi: kuuluisien"
+   },
+   {
+    "fi": "tuntematon",
+    "en": "unknown",
+    "type": "adjektiivi",
+    "example_fi": "Soittaja oli tuntematon.",
+    "example_en": "The caller was unknown.",
+    "note": "Genetiivi: tuntemattoman · Partitiivi: tuntematonta · Mon. partitiivi: tuntemattomia · Mon. genetiivi: tuntemattomien"
+   },
+   {
+    "fi": "vaarallinen",
+    "en": "dangerous",
+    "type": "adjektiivi",
+    "example_fi": "Tie on vaarallinen.",
+    "example_en": "The road is dangerous.",
+    "note": "Genetiivi: vaarallisen · Partitiivi: vaarallista · Mon. partitiivi: vaarallisia · Mon. genetiivi: vaarallisten"
+   },
+   {
+    "fi": "turvallinen",
+    "en": "safe",
+    "type": "adjektiivi",
+    "example_fi": "Kaupunki on turvallinen.",
+    "example_en": "The city is safe.",
+    "note": "Genetiivi: turvallisen · Partitiivi: turvallista · Mon. partitiivi: turvallisia · Mon. genetiivi: turvallisten"
+   },
+   {
+    "fi": "sallittu",
+    "en": "allowable",
+    "type": "adjektiivi",
+    "example_fi": "Pysäköinti on sallittu.",
+    "example_en": "Parking is allowable.",
+    "note": "Genetiivi: sallitun · Partitiivi: sallittua · Mon. partitiivi: sallittuja · Mon. genetiivi: sallittujen"
+   },
+   {
+    "fi": "kielletty",
+    "en": "forbidden",
+    "type": "adjektiivi",
+    "example_fi": "Tupakointi on kielletty.",
+    "example_en": "Smoking is forbidden.",
+    "note": "Genetiivi: kielletyn · Partitiivi: kiellettyä · Mon. partitiivi: kiellettyjä · Mon. genetiivi: kiellettyjen"
+   }
+  ]
+ }
+]

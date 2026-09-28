@@ -1,0 +1,808 @@
+[
+ {
+  "category": "YKI – Substantiivit (sijamuodot)",
+  "category_en": "Nouns: case forms (100)",
+  "cards": [
+   {
+    "fi": "talo",
+    "en": "house",
+    "type": "substantiivi",
+    "example_fi": "Meidän talo on iso ja vanha.",
+    "example_en": "Our house is big and old.",
+    "note": "Genetiivi: talon · Partitiivi: taloa · Mon. partitiivi: taloja · Mon. genetiivi: talojen"
+   },
+   {
+    "fi": "koti",
+    "en": "home",
+    "type": "substantiivi",
+    "example_fi": "Menen nyt kotiin, koska kotona on rauhallista.",
+    "example_en": "I'm going home now, because it's peaceful at home.",
+    "note": "Genetiivi: kodin · Partitiivi: kotia · Mon. partitiivi: koteja · Mon. genetiivi: kotien"
+   },
+   {
+    "fi": "koulu",
+    "en": "school",
+    "type": "substantiivi",
+    "example_fi": "Lapset menevät kouluun aamulla.",
+    "example_en": "The children go to school in the morning.",
+    "note": "Genetiivi: koulun · Partitiivi: koulua · Mon. partitiivi: kouluja · Mon. genetiivi: koulujen"
+   },
+   {
+    "fi": "työ",
+    "en": "work",
+    "type": "substantiivi",
+    "example_fi": "Isä lähtee työhön kello kahdeksan.",
+    "example_en": "Dad leaves for work at eight o'clock.",
+    "note": "Genetiivi: työn · Partitiivi: työtä · Mon. partitiivi: töitä · Mon. genetiivi: töiden"
+   },
+   {
+    "fi": "kauppa",
+    "en": "shop, store",
+    "type": "substantiivi",
+    "example_fi": "Käyn kaupassa ostamassa maitoa.",
+    "example_en": "I go to the shop to buy milk.",
+    "note": "Genetiivi: kaupan · Partitiivi: kauppaa · Mon. partitiivi: kauppoja · Mon. genetiivi: kauppojen"
+   },
+   {
+    "fi": "kirja",
+    "en": "book",
+    "type": "substantiivi",
+    "example_fi": "Luen mielelläni hyvää kirjaa illalla.",
+    "example_en": "I like to read a good book in the evening.",
+    "note": "Genetiivi: kirjan · Partitiivi: kirjaa · Mon. partitiivi: kirjoja · Mon. genetiivi: kirjojen"
+   },
+   {
+    "fi": "auto",
+    "en": "car",
+    "type": "substantiivi",
+    "example_fi": "Uusi auto on punainen ja nopea.",
+    "example_en": "The new car is red and fast.",
+    "note": "Genetiivi: auton · Partitiivi: autoa · Mon. partitiivi: autoja · Mon. genetiivi: autojen"
+   },
+   {
+    "fi": "pyörä",
+    "en": "wheel, bike",
+    "type": "substantiivi",
+    "example_fi": "Ajan pyörällä töihin joka päivä.",
+    "example_en": "I ride a bike to work every day.",
+    "note": "Genetiivi: pyörän · Partitiivi: pyörää · Mon. partitiivi: pyöriä · Mon. genetiivi: pyörien"
+   },
+   {
+    "fi": "puu",
+    "en": "tree, wood",
+    "type": "substantiivi",
+    "example_fi": "Pihalla kasvaa iso puu.",
+    "example_en": "A big tree grows in the yard.",
+    "note": "Genetiivi: puun · Partitiivi: puuta · Mon. partitiivi: puita · Mon. genetiivi: puiden"
+   },
+   {
+    "fi": "kukka",
+    "en": "flower",
+    "type": "substantiivi",
+    "example_fi": "Sain kauniin kukan lahjaksi.",
+    "example_en": "I got a beautiful flower as a gift.",
+    "note": "Genetiivi: kukan · Partitiivi: kukkaa · Mon. partitiivi: kukkia · Mon. genetiivi: kukkien"
+   },
+   {
+    "fi": "ihminen",
+    "en": "human, person",
+    "type": "substantiivi",
+    "example_fi": "Jokainen ihminen on erilainen.",
+    "example_en": "Every person is different.",
+    "note": "Genetiivi: ihmisen · Partitiivi: ihmistä · Mon. partitiivi: ihmisiä · Mon. genetiivi: ihmisten"
+   },
+   {
+    "fi": "lapsi",
+    "en": "child",
+    "type": "substantiivi",
+    "example_fi": "Pieni lapsi nukkuu sängyssä.",
+    "example_en": "The small child sleeps in the bed.",
+    "note": "Genetiivi: lapsen · Partitiivi: lasta · Mon. partitiivi: lapsia · Mon. genetiivi: lasten"
+   },
+   {
+    "fi": "mies",
+    "en": "man",
+    "type": "substantiivi",
+    "example_fi": "Vanha mies kävelee puistossa.",
+    "example_en": "The old man walks in the park.",
+    "note": "Genetiivi: miehen · Partitiivi: miestä · Mon. partitiivi: miehiä · Mon. genetiivi: miesten"
+   },
+   {
+    "fi": "nainen",
+    "en": "woman",
+    "type": "substantiivi",
+    "example_fi": "Nainen lukee sanomalehteä kahvilassa.",
+    "example_en": "The woman reads a newspaper in the café.",
+    "note": "Genetiivi: naisen · Partitiivi: naista · Mon. partitiivi: naisia · Mon. genetiivi: naisten"
+   },
+   {
+    "fi": "ystävä",
+    "en": "friend",
+    "type": "substantiivi",
+    "example_fi": "Hyvä ystävä auttaa aina.",
+    "example_en": "A good friend always helps.",
+    "note": "Genetiivi: ystävän · Partitiivi: ystävää · Mon. partitiivi: ystäviä · Mon. genetiivi: ystävien"
+   },
+   {
+    "fi": "perhe",
+    "en": "family",
+    "type": "substantiivi",
+    "example_fi": "Koko perhe syö yhdessä illallista.",
+    "example_en": "The whole family eats dinner together.",
+    "note": "Genetiivi: perheen · Partitiivi: perhettä · Mon. partitiivi: perheitä · Mon. genetiivi: perheiden"
+   },
+   {
+    "fi": "opettaja",
+    "en": "teacher",
+    "type": "substantiivi",
+    "example_fi": "Opettaja selittää uuden asian selkeästi.",
+    "example_en": "The teacher explains the new thing clearly.",
+    "note": "Genetiivi: opettajan · Partitiivi: opettajaa · Mon. partitiivi: opettajia · Mon. genetiivi: opettajien"
+   },
+   {
+    "fi": "opiskelija",
+    "en": "student",
+    "type": "substantiivi",
+    "example_fi": "Opiskelija tekee kotitehtäviä kirjastossa.",
+    "example_en": "The student does homework in the library.",
+    "note": "Genetiivi: opiskelijan · Partitiivi: opiskelijaa · Mon. partitiivi: opiskelijoita · Mon. genetiivi: opiskelijoiden"
+   },
+   {
+    "fi": "äiti",
+    "en": "mother",
+    "type": "substantiivi",
+    "example_fi": "Äiti tekee ruokaa keittiössä.",
+    "example_en": "Mother cooks food in the kitchen.",
+    "note": "Genetiivi: äidin · Partitiivi: äitiä · Mon. partitiivi: äitejä · Mon. genetiivi: äitien"
+   },
+   {
+    "fi": "isä",
+    "en": "father",
+    "type": "substantiivi",
+    "example_fi": "Isä lukee lapselle satua.",
+    "example_en": "Father reads a story to the child.",
+    "note": "Genetiivi: isän · Partitiivi: isää · Mon. partitiivi: isiä · Mon. genetiivi: isien"
+   },
+   {
+    "fi": "sisko",
+    "en": "sister",
+    "type": "substantiivi",
+    "example_fi": "Minun sisko asuu Helsingissä.",
+    "example_en": "My sister lives in Helsinki.",
+    "note": "Genetiivi: siskon · Partitiivi: siskoa · Mon. partitiivi: siskoja · Mon. genetiivi: siskojen"
+   },
+   {
+    "fi": "veli",
+    "en": "brother",
+    "type": "substantiivi",
+    "example_fi": "Veli pelaa jalkapalloa pihalla.",
+    "example_en": "The brother plays football in the yard.",
+    "note": "Genetiivi: veljen · Partitiivi: veljeä · Mon. partitiivi: veljiä · Mon. genetiivi: veljien"
+   },
+   {
+    "fi": "koira",
+    "en": "dog",
+    "type": "substantiivi",
+    "example_fi": "Koira juoksee iloisena puistossa.",
+    "example_en": "The dog runs happily in the park.",
+    "note": "Genetiivi: koiran · Partitiivi: koiraa · Mon. partitiivi: koiria · Mon. genetiivi: koirien"
+   },
+   {
+    "fi": "kissa",
+    "en": "cat",
+    "type": "substantiivi",
+    "example_fi": "Kissa nukkuu sohvalla koko päivän.",
+    "example_en": "The cat sleeps on the sofa all day.",
+    "note": "Genetiivi: kissan · Partitiivi: kissaa · Mon. partitiivi: kissoja · Mon. genetiivi: kissojen"
+   },
+   {
+    "fi": "eläin",
+    "en": "animal",
+    "type": "substantiivi",
+    "example_fi": "Metsässä asuu monta villiä eläintä.",
+    "example_en": "Many wild animals live in the forest.",
+    "note": "Genetiivi: eläimen · Partitiivi: eläintä · Mon. partitiivi: eläimiä · Mon. genetiivi: eläinten"
+   },
+   {
+    "fi": "lintu",
+    "en": "bird",
+    "type": "substantiivi",
+    "example_fi": "Pieni lintu laulaa puussa.",
+    "example_en": "A small bird sings in the tree.",
+    "note": "Genetiivi: linnun · Partitiivi: lintua · Mon. partitiivi: lintuja · Mon. genetiivi: lintujen"
+   },
+   {
+    "fi": "vesi",
+    "en": "water",
+    "type": "substantiivi",
+    "example_fi": "Juon lasillisen kylmää vettä.",
+    "example_en": "I drink a glass of cold water.",
+    "note": "Genetiivi: veden · Partitiivi: vettä · Mon. partitiivi: vesiä · Mon. genetiivi: vesien"
+   },
+   {
+    "fi": "ruoka",
+    "en": "food",
+    "type": "substantiivi",
+    "example_fi": "Ravintolan ruoka on erittäin hyvää.",
+    "example_en": "The restaurant's food is very good.",
+    "note": "Genetiivi: ruoan · Partitiivi: ruokaa · Mon. partitiivi: ruokia · Mon. genetiivi: ruokien"
+   },
+   {
+    "fi": "leipä",
+    "en": "bread",
+    "type": "substantiivi",
+    "example_fi": "Ostin tuoretta leipää kaupasta.",
+    "example_en": "I bought fresh bread from the shop.",
+    "note": "Genetiivi: leivän · Partitiivi: leipää · Mon. partitiivi: leipiä · Mon. genetiivi: leipien"
+   },
+   {
+    "fi": "maito",
+    "en": "milk",
+    "type": "substantiivi",
+    "example_fi": "Lapsi juo maitoa aamiaisella.",
+    "example_en": "The child drinks milk at breakfast.",
+    "note": "Genetiivi: maidon · Partitiivi: maitoa · Mon. partitiivi: maitoja · Mon. genetiivi: maitojen"
+   },
+   {
+    "fi": "kahvi",
+    "en": "coffee",
+    "type": "substantiivi",
+    "example_fi": "Juon aamulla kupin kahvia.",
+    "example_en": "I drink a cup of coffee in the morning.",
+    "note": "Genetiivi: kahvin · Partitiivi: kahvia · Mon. partitiivi: kahveja · Mon. genetiivi: kahvien"
+   },
+   {
+    "fi": "tee",
+    "en": "tea",
+    "type": "substantiivi",
+    "example_fi": "Hän juo mieluummin teetä kuin kahvia.",
+    "example_en": "She prefers to drink tea rather than coffee.",
+    "note": "Genetiivi: teen · Partitiivi: teetä · Mon. partitiivi: teitä · Mon. genetiivi: teiden"
+   },
+   {
+    "fi": "omena",
+    "en": "apple",
+    "type": "substantiivi",
+    "example_fi": "Syön joka päivä yhden omenan.",
+    "example_en": "I eat one apple every day.",
+    "note": "Genetiivi: omenan · Partitiivi: omenaa · Mon. partitiivi: omenoita / omenia · Mon. genetiivi: omenoiden / omenien"
+   },
+   {
+    "fi": "banaani",
+    "en": "banana",
+    "type": "substantiivi",
+    "example_fi": "Banaani on keltainen ja makea.",
+    "example_en": "The banana is yellow and sweet.",
+    "note": "Genetiivi: banaanin · Partitiivi: banaania · Mon. partitiivi: banaaneja · Mon. genetiivi: banaanien"
+   },
+   {
+    "fi": "pöytä",
+    "en": "table",
+    "type": "substantiivi",
+    "example_fi": "Laitan lautaset pöydälle.",
+    "example_en": "I put the plates on the table.",
+    "note": "Genetiivi: pöydän · Partitiivi: pöytää · Mon. partitiivi: pöytiä · Mon. genetiivi: pöytien"
+   },
+   {
+    "fi": "tuoli",
+    "en": "chair",
+    "type": "substantiivi",
+    "example_fi": "Istun mukavalle tuolille.",
+    "example_en": "I sit down on a comfortable chair.",
+    "note": "Genetiivi: tuolin · Partitiivi: tuolia · Mon. partitiivi: tuoleja · Mon. genetiivi: tuolien"
+   },
+   {
+    "fi": "sänky",
+    "en": "bed",
+    "type": "substantiivi",
+    "example_fi": "Menen nukkumaan pehmeään sänkyyn.",
+    "example_en": "I go to sleep in the soft bed.",
+    "note": "Genetiivi: sängyn · Partitiivi: sänkyä · Mon. partitiivi: sänkyjä · Mon. genetiivi: sänkyjen"
+   },
+   {
+    "fi": "ikkuna",
+    "en": "window",
+    "type": "substantiivi",
+    "example_fi": "Avaan ikkunan, koska on kuuma.",
+    "example_en": "I open the window because it's hot.",
+    "note": "Genetiivi: ikkunan · Partitiivi: ikkunaa · Mon. partitiivi: ikkunoita · Mon. genetiivi: ikkunoiden"
+   },
+   {
+    "fi": "ovi",
+    "en": "door",
+    "type": "substantiivi",
+    "example_fi": "Sulje ovi, ole hyvä.",
+    "example_en": "Close the door, please.",
+    "note": "Genetiivi: oven · Partitiivi: ovea · Mon. partitiivi: ovia · Mon. genetiivi: ovien"
+   },
+   {
+    "fi": "seinä",
+    "en": "wall",
+    "type": "substantiivi",
+    "example_fi": "Ripustan taulun seinälle.",
+    "example_en": "I hang the picture on the wall.",
+    "note": "Genetiivi: seinän · Partitiivi: seinää · Mon. partitiivi: seiniä · Mon. genetiivi: seinien"
+   },
+   {
+    "fi": "lattia",
+    "en": "floor",
+    "type": "substantiivi",
+    "example_fi": "Lattia on kylmä aamulla.",
+    "example_en": "The floor is cold in the morning.",
+    "note": "Genetiivi: lattian · Partitiivi: lattiaa · Mon. partitiivi: lattioita · Mon. genetiivi: lattioiden"
+   },
+   {
+    "fi": "katto",
+    "en": "roof, ceiling",
+    "type": "substantiivi",
+    "example_fi": "Talon katto on punainen.",
+    "example_en": "The house's roof is red.",
+    "note": "Genetiivi: katon · Partitiivi: kattoa · Mon. partitiivi: kattoja · Mon. genetiivi: kattojen"
+   },
+   {
+    "fi": "aurinko",
+    "en": "sun",
+    "type": "substantiivi",
+    "example_fi": "Aurinko paistaa kirkkaasti tänään.",
+    "example_en": "The sun shines brightly today.",
+    "note": "Genetiivi: auringon · Partitiivi: aurinkoa · Mon. partitiivi: aurinkoja · Mon. genetiivi: aurinkojen"
+   },
+   {
+    "fi": "kuu",
+    "en": "moon",
+    "type": "substantiivi",
+    "example_fi": "Kuu näkyy taivaalla illalla.",
+    "example_en": "The moon is visible in the sky in the evening.",
+    "note": "Genetiivi: kuun · Partitiivi: kuuta · Mon. partitiivi: kuita · Mon. genetiivi: kuiden"
+   },
+   {
+    "fi": "tähti",
+    "en": "star",
+    "type": "substantiivi",
+    "example_fi": "Taivaalla loistaa kirkas tähti.",
+    "example_en": "A bright star shines in the sky.",
+    "note": "Genetiivi: tähden · Partitiivi: tähteä · Mon. partitiivi: tähtiä · Mon. genetiivi: tähtien"
+   },
+   {
+    "fi": "taivas",
+    "en": "sky",
+    "type": "substantiivi",
+    "example_fi": "Taivas on sininen ja pilvetön.",
+    "example_en": "The sky is blue and cloudless.",
+    "note": "Genetiivi: taivaan · Partitiivi: taivasta · Mon. partitiivi: taivaita · Mon. genetiivi: taivaiden"
+   },
+   {
+    "fi": "meri",
+    "en": "sea",
+    "type": "substantiivi",
+    "example_fi": "Kesällä uimme meressä.",
+    "example_en": "In summer we swim in the sea.",
+    "note": "Genetiivi: meren · Partitiivi: merta · Mon. partitiivi: meriä · Mon. genetiivi: merien / merten"
+   },
+   {
+    "fi": "järvi",
+    "en": "lake",
+    "type": "substantiivi",
+    "example_fi": "Kalastan usein tässä järvessä.",
+    "example_en": "I often fish in this lake.",
+    "note": "Genetiivi: järven · Partitiivi: järveä · Mon. partitiivi: järviä · Mon. genetiivi: järvien"
+   },
+   {
+    "fi": "joki",
+    "en": "river",
+    "type": "substantiivi",
+    "example_fi": "Joki virtaa kaupungin läpi.",
+    "example_en": "The river flows through the city.",
+    "note": "Genetiivi: joen · Partitiivi: jokea · Mon. partitiivi: jokia · Mon. genetiivi: jokien"
+   },
+   {
+    "fi": "metsä",
+    "en": "forest",
+    "type": "substantiivi",
+    "example_fi": "Kävelen koiran kanssa metsässä.",
+    "example_en": "I walk in the forest with the dog.",
+    "note": "Genetiivi: metsän · Partitiivi: metsää · Mon. partitiivi: metsiä · Mon. genetiivi: metsien"
+   },
+   {
+    "fi": "tie",
+    "en": "road",
+    "type": "substantiivi",
+    "example_fi": "Tie on pitkä ja kapea.",
+    "example_en": "The road is long and narrow.",
+    "note": "Genetiivi: tien · Partitiivi: tietä · Mon. partitiivi: teitä · Mon. genetiivi: teiden"
+   },
+   {
+    "fi": "silta",
+    "en": "bridge",
+    "type": "substantiivi",
+    "example_fi": "Kävelemme sillan yli joen.",
+    "example_en": "We walk over the bridge across the river.",
+    "note": "Genetiivi: sillan · Partitiivi: siltaa · Mon. partitiivi: siltoja · Mon. genetiivi: siltojen"
+   },
+   {
+    "fi": "asema",
+    "en": "station",
+    "type": "substantiivi",
+    "example_fi": "Juna saapuu asemalle ajoissa.",
+    "example_en": "The train arrives at the station on time.",
+    "note": "Genetiivi: aseman · Partitiivi: asemaa · Mon. partitiivi: asemia · Mon. genetiivi: asemien"
+   },
+   {
+    "fi": "pysäkki",
+    "en": "stop",
+    "type": "substantiivi",
+    "example_fi": "Odotan bussia pysäkillä.",
+    "example_en": "I wait for the bus at the stop.",
+    "note": "Genetiivi: pysäkin · Partitiivi: pysäkkiä · Mon. partitiivi: pysäkkejä · Mon. genetiivi: pysäkkien"
+   },
+   {
+    "fi": "juna",
+    "en": "train",
+    "type": "substantiivi",
+    "example_fi": "Matkustan junalla Tampereelle.",
+    "example_en": "I travel to Tampere by train.",
+    "note": "Genetiivi: junan · Partitiivi: junaa · Mon. partitiivi: junia · Mon. genetiivi: junien"
+   },
+   {
+    "fi": "bussi",
+    "en": "bus",
+    "type": "substantiivi",
+    "example_fi": "Bussi on täynnä ihmisiä.",
+    "example_en": "The bus is full of people.",
+    "note": "Genetiivi: bussin · Partitiivi: bussia · Mon. partitiivi: busseja · Mon. genetiivi: bussien"
+   },
+   {
+    "fi": "lippu",
+    "en": "ticket",
+    "type": "substantiivi",
+    "example_fi": "Ostan junalipun automaatista.",
+    "example_en": "I buy a train ticket from the machine.",
+    "note": "Genetiivi: lipun · Partitiivi: lippua · Mon. partitiivi: lippuja · Mon. genetiivi: lippujen"
+   },
+   {
+    "fi": "katu",
+    "en": "street",
+    "type": "substantiivi",
+    "example_fi": "Kadulla on paljon liikennettä.",
+    "example_en": "There is a lot of traffic on the street.",
+    "note": "Genetiivi: kadun · Partitiivi: katua · Mon. partitiivi: katuja · Mon. genetiivi: katujen"
+   },
+   {
+    "fi": "kaupunki",
+    "en": "city",
+    "type": "substantiivi",
+    "example_fi": "Helsinki on suuri kaupunki.",
+    "example_en": "Helsinki is a big city.",
+    "note": "Genetiivi: kaupungin · Partitiivi: kaupunkia · Mon. partitiivi: kaupunkeja · Mon. genetiivi: kaupunkien"
+   },
+   {
+    "fi": "kylä",
+    "en": "village",
+    "type": "substantiivi",
+    "example_fi": "Isovanhemmat asuvat pienessä kylässä.",
+    "example_en": "The grandparents live in a small village.",
+    "note": "Genetiivi: kylän · Partitiivi: kylää · Mon. partitiivi: kyliä · Mon. genetiivi: kylien"
+   },
+   {
+    "fi": "kauppakeskus",
+    "en": "shopping centre, mall",
+    "type": "substantiivi",
+    "example_fi": "Tapaamme ystäviä kauppakeskuksessa.",
+    "example_en": "We meet friends at the shopping centre.",
+    "note": "Genetiivi: kauppakeskuksen · Partitiivi: kauppakeskusta · Mon. partitiivi: kauppakeskuksia · Mon. genetiivi: kauppakeskusten"
+   },
+   {
+    "fi": "hotelli",
+    "en": "hotel",
+    "type": "substantiivi",
+    "example_fi": "Yövymme mukavassa hotellissa.",
+    "example_en": "We stay in a comfortable hotel.",
+    "note": "Genetiivi: hotellin · Partitiivi: hotellia · Mon. partitiivi: hotelleja · Mon. genetiivi: hotellien"
+   },
+   {
+    "fi": "ravintola",
+    "en": "restaurant",
+    "type": "substantiivi",
+    "example_fi": "Syömme illallista uudessa ravintolassa.",
+    "example_en": "We eat dinner at a new restaurant.",
+    "note": "Genetiivi: ravintolan · Partitiivi: ravintolaa · Mon. partitiivi: ravintoloita · Mon. genetiivi: ravintoloiden"
+   },
+   {
+    "fi": "kahvila",
+    "en": "café",
+    "type": "substantiivi",
+    "example_fi": "Istumme kahvilassa ja juttelemme.",
+    "example_en": "We sit in the café and chat.",
+    "note": "Genetiivi: kahvilan · Partitiivi: kahvilaa · Mon. partitiivi: kahviloita · Mon. genetiivi: kahviloiden"
+   },
+   {
+    "fi": "kirjasto",
+    "en": "library",
+    "type": "substantiivi",
+    "example_fi": "Lainaan kirjoja kirjastosta.",
+    "example_en": "I borrow books from the library.",
+    "note": "Genetiivi: kirjaston · Partitiivi: kirjastoa · Mon. partitiivi: kirjastoja · Mon. genetiivi: kirjastojen"
+   },
+   {
+    "fi": "posti",
+    "en": "post, mail",
+    "type": "substantiivi",
+    "example_fi": "Vien paketin postiin.",
+    "example_en": "I take the package to the post office.",
+    "note": "Genetiivi: postin · Partitiivi: postia · Mon. partitiivi: posteja · Mon. genetiivi: postien"
+   },
+   {
+    "fi": "pankki",
+    "en": "bank",
+    "type": "substantiivi",
+    "example_fi": "Käyn pankissa hoitamassa asioita.",
+    "example_en": "I go to the bank to handle some matters.",
+    "note": "Genetiivi: pankin · Partitiivi: pankkia · Mon. partitiivi: pankkeja · Mon. genetiivi: pankkien"
+   },
+   {
+    "fi": "sairaala",
+    "en": "hospital",
+    "type": "substantiivi",
+    "example_fi": "Hän on sairaalassa hoidettavana.",
+    "example_en": "He is being treated in the hospital.",
+    "note": "Genetiivi: sairaalan · Partitiivi: sairaalaa · Mon. partitiivi: sairaaloita · Mon. genetiivi: sairaaloiden"
+   },
+   {
+    "fi": "apteekki",
+    "en": "pharmacy",
+    "type": "substantiivi",
+    "example_fi": "Ostan lääkkeet apteekista.",
+    "example_en": "I buy the medicines from the pharmacy.",
+    "note": "Genetiivi: apteekin · Partitiivi: apteekkia · Mon. partitiivi: apteekkeja · Mon. genetiivi: apteekkien"
+   },
+   {
+    "fi": "puisto",
+    "en": "park",
+    "type": "substantiivi",
+    "example_fi": "Lapset leikkivät puistossa.",
+    "example_en": "The children play in the park.",
+    "note": "Genetiivi: puiston · Partitiivi: puistoa · Mon. partitiivi: puistoja · Mon. genetiivi: puistojen"
+   },
+   {
+    "fi": "kello",
+    "en": "clock, watch",
+    "type": "substantiivi",
+    "example_fi": "Seinällä on vanha kello.",
+    "example_en": "There is an old clock on the wall.",
+    "note": "Genetiivi: kellon · Partitiivi: kelloa · Mon. partitiivi: kelloja · Mon. genetiivi: kellojen"
+   },
+   {
+    "fi": "puhelin",
+    "en": "phone",
+    "type": "substantiivi",
+    "example_fi": "Puhelin soi kovaäänisesti.",
+    "example_en": "The phone rings loudly.",
+    "note": "Genetiivi: puhelimen · Partitiivi: puhelinta · Mon. partitiivi: puhelimia · Mon. genetiivi: puhelinten / puhelimien"
+   },
+   {
+    "fi": "tietokone",
+    "en": "computer",
+    "type": "substantiivi",
+    "example_fi": "Työskentelen tietokoneella koko päivän.",
+    "example_en": "I work on the computer all day.",
+    "note": "Genetiivi: tietokoneen · Partitiivi: tietokonetta · Mon. partitiivi: tietokoneita · Mon. genetiivi: tietokoneiden"
+   },
+   {
+    "fi": "televisio",
+    "en": "television",
+    "type": "substantiivi",
+    "example_fi": "Katson televisiota iltaisin.",
+    "example_en": "I watch television in the evenings.",
+    "note": "Genetiivi: television · Partitiivi: televisiota · Mon. partitiivi: televisioita · Mon. genetiivi: televisioiden"
+   },
+   {
+    "fi": "radio",
+    "en": "radio",
+    "type": "substantiivi",
+    "example_fi": "Kuuntelen radiota autossa.",
+    "example_en": "I listen to the radio in the car.",
+    "note": "Genetiivi: radion · Partitiivi: radiota · Mon. partitiivi: radioita · Mon. genetiivi: radioiden"
+   },
+   {
+    "fi": "sanomalehti",
+    "en": "newspaper",
+    "type": "substantiivi",
+    "example_fi": "Luen sanomalehteä aamiaisella.",
+    "example_en": "I read the newspaper at breakfast.",
+    "note": "Genetiivi: sanomalehden · Partitiivi: sanomalehteä · Mon. partitiivi: sanomalehtiä · Mon. genetiivi: sanomalehtien"
+   },
+   {
+    "fi": "sää",
+    "en": "weather",
+    "type": "substantiivi",
+    "example_fi": "Tänään on kaunis sää.",
+    "example_en": "Today the weather is beautiful.",
+    "note": "Genetiivi: sään · Partitiivi: säätä · Mon. partitiivi: säitä · Mon. genetiivi: säiden"
+   },
+   {
+    "fi": "takka",
+    "en": "fireplace",
+    "type": "substantiivi",
+    "example_fi": "Talvella lämmitämme takkaa.",
+    "example_en": "In winter we heat the fireplace.",
+    "note": "Genetiivi: takan · Partitiivi: takkaa · Mon. partitiivi: takkoja · Mon. genetiivi: takkojen"
+   },
+   {
+    "fi": "valo",
+    "en": "light",
+    "type": "substantiivi",
+    "example_fi": "Sytytän valon pimeässä huoneessa.",
+    "example_en": "I turn on the light in the dark room.",
+    "note": "Genetiivi: valon · Partitiivi: valoa · Mon. partitiivi: valoja · Mon. genetiivi: valojen"
+   },
+   {
+    "fi": "varjo",
+    "en": "shadow",
+    "type": "substantiivi",
+    "example_fi": "Puun varjo on viileä.",
+    "example_en": "The tree's shadow is cool.",
+    "note": "Genetiivi: varjon · Partitiivi: varjoa · Mon. partitiivi: varjoja · Mon. genetiivi: varjojen"
+   },
+   {
+    "fi": "väri",
+    "en": "color",
+    "type": "substantiivi",
+    "example_fi": "Sininen on lempivärini.",
+    "example_en": "Blue is my favorite color.",
+    "note": "Genetiivi: värin · Partitiivi: väriä · Mon. partitiivi: värejä · Mon. genetiivi: värien"
+   },
+   {
+    "fi": "kuva",
+    "en": "picture",
+    "type": "substantiivi",
+    "example_fi": "Otan kuvan kauniista maisemasta.",
+    "example_en": "I take a picture of the beautiful scenery.",
+    "note": "Genetiivi: kuvan · Partitiivi: kuvaa · Mon. partitiivi: kuvia · Mon. genetiivi: kuvien"
+   },
+   {
+    "fi": "ääni",
+    "en": "sound, voice",
+    "type": "substantiivi",
+    "example_fi": "Kuulen oudon äänen ulkoa.",
+    "example_en": "I hear a strange sound from outside.",
+    "note": "Genetiivi: äänen · Partitiivi: ääntä · Mon. partitiivi: ääniä · Mon. genetiivi: äänien / äänten"
+   },
+   {
+    "fi": "haju",
+    "en": "smell",
+    "type": "substantiivi",
+    "example_fi": "Keittiöstä tulee hyvä haju.",
+    "example_en": "A good smell comes from the kitchen.",
+    "note": "Genetiivi: hajun · Partitiivi: hajua · Mon. partitiivi: hajuja · Mon. genetiivi: hajujen"
+   },
+   {
+    "fi": "makuaisti",
+    "en": "sense of taste",
+    "type": "substantiivi",
+    "example_fi": "Flunssassa makuaisti heikkenee.",
+    "example_en": "During a cold the sense of taste weakens.",
+    "note": "Genetiivi: makuaistin · Partitiivi: makuaistia · Mon. partitiivi: makuaisteja · Mon. genetiivi: makuaistien"
+   },
+   {
+    "fi": "keho",
+    "en": "body",
+    "type": "substantiivi",
+    "example_fi": "Liikunta pitää kehon terveenä.",
+    "example_en": "Exercise keeps the body healthy.",
+    "note": "Genetiivi: kehon · Partitiivi: kehoa · Mon. partitiivi: kehoja · Mon. genetiivi: kehojen"
+   },
+   {
+    "fi": "pää",
+    "en": "head",
+    "type": "substantiivi",
+    "example_fi": "Minulla on kova päänsärky.",
+    "example_en": "I have a bad headache.",
+    "note": "Genetiivi: pään · Partitiivi: päätä · Mon. partitiivi: päitä · Mon. genetiivi: päiden"
+   },
+   {
+    "fi": "käsi",
+    "en": "hand",
+    "type": "substantiivi",
+    "example_fi": "Pese kädet ennen ruokailua.",
+    "example_en": "Wash your hands before eating.",
+    "note": "Genetiivi: käden · Partitiivi: kättä · Mon. partitiivi: käsiä · Mon. genetiivi: käsien"
+   },
+   {
+    "fi": "jalka",
+    "en": "leg, foot",
+    "type": "substantiivi",
+    "example_fi": "Minun jalka on kipeä.",
+    "example_en": "My leg is sore.",
+    "note": "Genetiivi: jalan · Partitiivi: jalkaa · Mon. partitiivi: jalkoja · Mon. genetiivi: jalkojen"
+   },
+   {
+    "fi": "sormi",
+    "en": "finger",
+    "type": "substantiivi",
+    "example_fi": "Satutin sormeni ovessa.",
+    "example_en": "I hurt my finger in the door.",
+    "note": "Genetiivi: sormen · Partitiivi: sormea · Mon. partitiivi: sormia · Mon. genetiivi: sormien"
+   },
+   {
+    "fi": "silmä",
+    "en": "eye",
+    "type": "substantiivi",
+    "example_fi": "Hänellä on siniset silmät.",
+    "example_en": "She has blue eyes.",
+    "note": "Genetiivi: silmän · Partitiivi: silmää · Mon. partitiivi: silmiä · Mon. genetiivi: silmien"
+   },
+   {
+    "fi": "korva",
+    "en": "ear",
+    "type": "substantiivi",
+    "example_fi": "Kylmällä ilmalla korvat palelevat.",
+    "example_en": "In cold weather the ears get cold.",
+    "note": "Genetiivi: korvan · Partitiivi: korvaa · Mon. partitiivi: korvia · Mon. genetiivi: korvien"
+   },
+   {
+    "fi": "nenä",
+    "en": "nose",
+    "type": "substantiivi",
+    "example_fi": "Nenä vuotaa, kun olen kipeä.",
+    "example_en": "My nose runs when I'm sick.",
+    "note": "Genetiivi: nenän · Partitiivi: nenää · Mon. partitiivi: neniä · Mon. genetiivi: nenien"
+   },
+   {
+    "fi": "suu",
+    "en": "mouth",
+    "type": "substantiivi",
+    "example_fi": "Avaa suu, sanoo hammaslääkäri.",
+    "example_en": "Open your mouth, says the dentist.",
+    "note": "Genetiivi: suun · Partitiivi: suuta · Mon. partitiivi: suita · Mon. genetiivi: suiden"
+   },
+   {
+    "fi": "hammas",
+    "en": "tooth",
+    "type": "substantiivi",
+    "example_fi": "Harjaan hampaat kahdesti päivässä.",
+    "example_en": "I brush my teeth twice a day.",
+    "note": "Genetiivi: hampaan · Partitiivi: hammasta · Mon. partitiivi: hampaita · Mon. genetiivi: hampaiden"
+   },
+   {
+    "fi": "sydän",
+    "en": "heart",
+    "type": "substantiivi",
+    "example_fi": "Sydän lyö nopeasti juoksun jälkeen.",
+    "example_en": "The heart beats fast after running.",
+    "note": "Genetiivi: sydämen · Partitiivi: sydäntä · Mon. partitiivi: sydämiä · Mon. genetiivi: sydänten / sydämien"
+   },
+   {
+    "fi": "pöly",
+    "en": "dust",
+    "type": "substantiivi",
+    "example_fi": "Hyllyllä on paljon pölyä.",
+    "example_en": "There is a lot of dust on the shelf.",
+    "note": "Genetiivi: pölyn · Partitiivi: pölyä · Mon. partitiivi: pölyjä · Mon. genetiivi: pölyjen"
+   },
+   {
+    "fi": "sade",
+    "en": "rain",
+    "type": "substantiivi",
+    "example_fi": "Sade kastelee kadut.",
+    "example_en": "The rain wets the streets.",
+    "note": "Genetiivi: sateen · Partitiivi: sadetta · Mon. partitiivi: sateita · Mon. genetiivi: sateiden"
+   },
+   {
+    "fi": "lumi",
+    "en": "snow",
+    "type": "substantiivi",
+    "example_fi": "Talvella maassa on paljon lunta.",
+    "example_en": "In winter there is a lot of snow on the ground.",
+    "note": "Genetiivi: lumen · Partitiivi: lunta · Mon. partitiivi: lumia · Mon. genetiivi: lumien"
+   },
+   {
+    "fi": "tuuli",
+    "en": "wind",
+    "type": "substantiivi",
+    "example_fi": "Kova tuuli kaataa puita.",
+    "example_en": "The strong wind knocks down trees.",
+    "note": "Genetiivi: tuulen · Partitiivi: tuulta · Mon. partitiivi: tuulia · Mon. genetiivi: tuulien"
+   }
+  ]
+ }
+]
